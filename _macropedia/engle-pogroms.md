@@ -19,7 +19,7 @@ categories: ["imperium edition", "chang singh authored"]
 
 
 ## Introduction
-One of the most infamous event in a period of upheaval after the failure of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty).  It saw leading Tawmerik-era bureaucrats intellectuals imprisoned, and in some notorious cases, murdered.
+One of the most infamous events in a period of upheaval after the failure of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty).  It saw leading Tawmerik-era bureaucrats intellectuals imprisoned, and in some notorious cases, murdered.
 
 ## Origins
 Under [Empress Qanna I](/macropedia/qanna-dabrian) and her son, Emperor Niomar (called the Foolish), the Imperium saw many changes.  While the Empress Qanna was a skilled politician and power broker, Niomar lacked all subtlety, and believed compromise to be a form of weakness.  Much of this can be traced back to his teacher and later chief advisor Walcott Engle, a man of base nature, dominated by his prejudices and passions, particularly against the Tawmeriks'^1^'
@@ -27,7 +27,7 @@ Under [Empress Qanna I](/macropedia/qanna-dabrian) and her son, Emperor Niomar (
 Niomar gave Engle the task of clearing out the Tawmerik-era bureaucrats, military officers, judges and intellectuals which still dominated many parts of government.  Engle took his job seriously, and moved quickly to round up individuals which, whether truthfully or not, he believed had sympathies for the Tawmeriks.
 
 ##The Engle Trials
-Engle was insatiable.  For every alleged Tawmerik sympathesizer he found, he believed there must be a dozen more.  He finally convinced Niomar, who had, by all accounts, become more interested in other, more dire events, to push through a law allowing him to put what he labelled "the traitors in our very midst" to trial.  The Emperor, to his eternal discredit, gave Engle, a man with no legal training, the powers of an Imperial justice.
+Engle was insatiable.  For every alleged Tawmerik sympathizer he found, he believed there must be a dozen more.  He finally convinced Niomar, who had, by all accounts, become more interested in other, more dire events, to push through a law allowing him to put what he labelled "the traitors in our very midst" to trial.  The Emperor, to his eternal discredit, gave Engle, a man with no legal training, the powers of an Imperial justice.
 
 Engle recruited like-minded prosecutors and judges, and thus began the so-called Engle Trials.  Before it was over, nearly two thousand individuals, some whose only link to the old Tawmerik order was a grant or an official letter of appreciation, were pushed through this court, which had no interest in formalities like standards of evidence, coercion and ultimately torture.  Of those two thousand souls, only six were acquitted.
 

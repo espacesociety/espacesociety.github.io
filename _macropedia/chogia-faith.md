@@ -32,19 +32,19 @@ The Chogia Faith is a polytheistic faith, with a host of gods, goddesses, demons
 ### Common Chogia Gods
 There are literally dozens of gods worshipped in the Chogia faith, and different groups may worship different ones.  There are, however, some common gods:
 
-* Yahveh - The tripartite creator/destroyer/preserver god, who is said to have created this Universe from the ashes of a previous one.  Yahveh is said to have done this many times before, and then, changing to its preserver form, protected each universe until the end of the creative cycle when it takes on its destroyer form and causes the great conflagaration that begins the next iteration.
+* Yahveh - The tripartite creator/destroyer/preserver god, who is said to have created this Universe from the ashes of a previous one.  Yahveh is said to have done this many times before, and then, changing to its preserver form, protected each universe until the end of the creative cycle when it takes on its destroyer form and causes the great conflagration that begins the next iteration.
 
 * K'mimba - Daughter of Yahveh and worshipped as the goddess of the dead, whose realm is Valam, where the spirits of the dead go to await their rebirth in their ancestors.  K'mimba is worshipped by many Imudring and is one of the chief deities of the pantheon.
 
 * J'mar - The son of K'mimba and the star demon Uzoy, who is considered the patron deity of hop space.  A shrine to J'mar can be found on all interstellar Imudring vessels near the drive area.
 
-* Idu - The sister of Yahveh and the chief fertility goddess of the Imudring.  Her rites are a secret that are forbidden to all none-Imudring, though some accounts claim that chief among the celebrations is the Idu-hajaid, where the members of two Imudring clans will, upon reaching a treaty or agreeing on an alliance, perform an orgy.
+* Idu - The sister of Yahveh and the chief fertility goddess of the Imudring.  Her rites are a secret that are forbidden to all non-Imudring, though some accounts claim that chief among the celebrations is the Idu-hajaid, where the members of two Imudring clans will, upon reaching a treaty or agreeing on an alliance, perform an orgy.
 
 * Oj - The Dark One, the Lord of the Singularity, the Negator.  Oj is said to be the father of Yahveh and Idu, but unlike them, does not represent birth or creation, but rather absolute death, or the absense of existence.  Oj is not worshipped, but rather is reviled as the enemy of Creation.  Still, some Oj cults can be found, though commonly anyone discovered worshipping the Lord of the Singularity is put to death.
 
 ### Spirits and Demons
 
-As has been mentioned, the Imudring also believe in a host of minor spirits, demons and demigods.  Many of these serve as the totemic protector spirits of Imudring clans.  There kinds are too numerous to be referenced here, but there are some major groups that are generally worshipped or reviled.
+As has been mentioned, the Imudring also believe in a host of minor spirits, demons and demigods.  Many of these serve as the totemic protector spirits of Imudring clans.  Their kinds are too numerous to be referenced here, but there are some major groups that are generally worshipped or reviled.
 
 * The Star Demons - It is said that at the heart of every star is a Star Demon, a creature born in the violence of stellar creation.  Star Demons are attributed with all manner of trouble, from minor unexplainable mechanical failures up to the loss of entire ships.  Before entering any star system, a ritual is performed by the High Priest to placate the Star Demons.
 
@@ -53,14 +53,14 @@ As has been mentioned, the Imudring also believe in a host of minor spirits, dem
 * The Esalu - These are the totemic spirits, the ancestors of the Imudring clans who are not reborn, but rather permitted to remain free of the realm of Valam.  They guide the leaders of their clans, and are worshipped with totemic forms humanoid, animal and even plant-like.
 
 ### Priesthood
-Each Imudring is given a basic education in the Chogia Faith, so that they may, if needed, perform the proper rites.  There is, however, a professional priesthood.  Each large ship has one High Priest as well as at least two Priests and assorted Acolytes.  There is no ultimate leader.  High Priests will have, at regular intervals, a Concave where they decide matters of theology.  High Priests and Priests are chosen by the leaders of the Imudring clan.
+Each Imudring is given a basic education in the Chogia Faith, so that they may, if needed, perform the proper rites.  There is, however, a professional priesthood.  Each large ship has one High Priest as well as at least two Priests and assorted Acolytes.  There is no ultimate leader.  High Priests will have, at regular intervals, a Conclave where they decide matters of theology.  High Priests and Priests are chosen by the leaders of the Imudring clan.
 
 ### Holy Books
 There are three holy books of the Chogia Faith.
 
 * Razal-Yahvenan - This is the so-called Book of the Creation and Gods, which gives the cosmological account (a rather mystical version of Big Bang cosmology), as well as the complete list of gods (some five hundred, with new ones added every once in a while).
 
-* Razan-Osai - The Book of the Demons, which is literally a long encyclopeida of demons, spirits and totemic symbols, which also functions as the guide to Imudring heraldry.
+* Razan-Osai - The Book of the Demons, which is literally a long encyclopedia of demons, spirits and totemic symbols, which also functions as the guide to Imudring heraldry.
 
 * Razal-Imudra - The Book of the Imudring.  No copy of this book has ever been seen by non-Imudring, and the Imudring claim that it does not exist.  It is said to contain such smaller books as the Books of the Heroes and the Books of the People, which together supposedly form a history of the Imudring from their earliest times.  If such a book exists and contains what some surmise it must, then it would be invaluable in filling in some very large holes in our knowledge of ancient Terra and of the events of the First Decline. 
 

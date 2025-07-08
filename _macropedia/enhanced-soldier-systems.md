@@ -25,7 +25,7 @@ Military designers worked on artificial methods of producing a super-soldier. In
 
 An ESS embeds electronic nodes within the neural pathways of the subject. This can be done with several purposes in mind. Pre-eminently, the reflexes and dexterity of the subject are superficially increased. Secondarily, ports can also be installed to link the subject with Powered Armor, or a jury-rigged [Raptor Combat Suit](/macropedia/raptor-combat-suit). Although "cybermadness" was a popular storyline in the period, it was not so much the problem as neurological degeneration.
 
-An ESS also requires relatively frequent maintenance surgeries to maintain its healthy operation. Since many veterans began to resent them, the ESS gained a poor political reputation. They have maintained a presence in the underworld and among various sundry groups, including a few "Pure Terran" Mercenery groups.
+An ESS also requires relatively frequent maintenance surgeries to maintain its healthy operation. Since many veterans began to resent them, the ESS gained a poor political reputation. They have maintained a presence in the underworld and among various sundry groups, including a few "Pure Terran" Mercenary groups.
 
 ESS's enjoyed a brief return to the limelight for the [Zenbrudi War](/macropedia/zenbrudi-war), but have generally fallen out of use among reputable military and combat services.
 

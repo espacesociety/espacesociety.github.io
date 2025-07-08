@@ -18,7 +18,7 @@ categories: ["imperium equipment", "boris helfstein authored", "data and communi
 
 ## Overview
 
-An Ether is an electo-magnetic communications network. Generally connecting several computers, monitors, and a variety of other hardware.
+An Ether is an electromagnetic communications network. Generally connecting several computers, monitors, and a variety of other hardware.
 
 ## General Uses and Appearances
 
@@ -34,7 +34,7 @@ The presence of an ether is easily identified. If everything has a computer keyp
 
 First concern and ether provides in security. Those administrators I mentioned aren't always so careful to restrict access. Even if they are, there are ways of snooping on their signals and breaking into the network.
 
-The second cocern is from the other perspective. Ethers make it easy to communicate quickly, so military operations in urban or civilized areas must take them into account. Often this takes the form of disabling the Ether. Being electro-magnetic in nature, this is not particularly difficult.
+The second concern is from the other perspective. Ethers make it easy to communicate quickly, so military operations in urban or civilized areas must take them into account. Often this takes the form of disabling the Ether. Being electro-magnetic in nature, this is not particularly difficult.
 
 In some cases Ethers can be used to remotely control vehicles, facilities, or even weaponry. However, most heavily-populated areas have restrictions on this. This occurs more frequently in marginally populated areas.
 

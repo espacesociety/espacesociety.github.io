@@ -20,7 +20,7 @@ The major breakthrough in computer AI technology developed by Phurnando Letalles
 
 Dio En Mashino was capable of predicting graviton interactions down to femtometres (10'^-15^' metres), allowing its programming, inherited from the original [First Expanse](/chronology/first-expanse) computer on which it was modeled, to produce Branespace navigation computations of previously unheard of accuracy.  This finally permitted FTL travel to proceed safely again, and the dangers of [Hyperspace Vortices](/chronology/hyperspace-vortices) to be overcome.
 
-Over the years, Dio En Mashino was refined, and CARC engineers worked to produce ever more powerful computers.  But not only was Dio En Mashino revolutionary in astrogation, but it's huge array of core networks were a major breakthrough in AI development and memory storage.  Though it was largely dedicated to Branespace forecasting, some of its descendants were to go in other directions entirely.
+Over the years, Dio En Mashino was refined, and CARC engineers worked to produce ever more powerful computers.  But not only was Dio En Mashino revolutionary in astrogation, but its huge array of core networks were a major breakthrough in AI development and memory storage.  Though it was largely dedicated to Branespace forecasting, some of its descendants were to go in other directions entirely.
 
 Because of the watershed nature of Dio en Mashino, most systems readily accepted realigning their calendars to mark the year of its activation as 1 anno Dio en Mashino (ADEM). These systems still keep their own internal system of calendars and years (frequently based on the first year of the system's founding), but generally write the ADEM year.
 

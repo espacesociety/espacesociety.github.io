@@ -18,7 +18,7 @@ categories: ["imperium equipment", "boris helfstein authored", "medical equipmen
 
 ## Anotek Isotope Filtration
 
-One of the handiest things you can possibly ensure is in your gear. If your traveling, or expecting trouble, get yourself fitted with one of these babies right away.
+One of the handiest things you can possibly ensure is in your gear. If you're traveling, or expecting trouble, get yourself fitted with one of these babies right away.
 
 ## What it was supposed to do.
 
@@ -34,7 +34,7 @@ As an unintended but welcome side-effect, the Isotopic Filters will pretty much 
 
 ## Drawbacks
 
-As mentioned, they have a limited capacity. Some toxins or whatnot are just to heavy to move, so the filter eventually gets clogged with 'em. There's a lot of different types of filter and different ones respond better to different toxins this way.
+As mentioned, they have a limited capacity. Some toxins or whatnot are just too heavy to move, so the filter eventually gets clogged with 'em. There's a lot of different types of filter and different ones respond better to different toxins this way.
 
 *{+Price+}* Anotek has kept a tight lid on the secrets of making these filters. I wouldn't want to trust a cheap knockoff, either.
 

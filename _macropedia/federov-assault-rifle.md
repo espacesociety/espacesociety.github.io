@@ -26,7 +26,7 @@ The FWG also predates the Imperium, producing weapons in the Fasantauri system e
 
 ### Duschekovsky Series
 
-During the Republican Era, there was a bit of a struggle to determine the pre-eminent firearms manufacturers for the new enconomy. Luckily for Federov, they had the Duschekovsky brothers to help them out. 
+During the Republican Era, there was a bit of a struggle to determine the pre-eminent firearms manufacturers for the new economy. Luckily for Federov, they had the Duschekovsky brothers to help them out. 
 
 The early "D-100" series rose to dominance for the ease with which parts could be replaced. With combat happening in increasingly unusual environments, this was a big plus. Swapping out a new barrel is so easy, that soldiers were often rumored to do it under fire, without even removing their ammunition.
 

@@ -20,7 +20,7 @@ Balanar Dabrian III was a poor emperor who did little to prevent the Imperium's 
 
 ## Thrust Into Power
 
-Balanar's mother, the Empress Serema chafed under the [Grand Reforms](/macropedia/grand-reforms), and sought a way to free the Imperium from what she saw as the choking restrictions the [Imperial Congress](/macropedia/imperial-congress) imposed on her family. Her first son, Ivan, would giver her an answer.
+Balanar's mother, the Empress Serema chafed under the [Grand Reforms](/macropedia/grand-reforms), and sought a way to free the Imperium from what she saw as the choking restrictions the [Imperial Congress](/macropedia/imperial-congress) imposed on her family. Her first son, Ivan, would give her an answer.
 
 Ivan was very handsome, and his political acumen reminds many historians of his namesake, the great [Ivan Dabrian](/macropedia/ivan-dabrian). He began at an early age to lobby for a return to the great Golden Age of that other Ivan. His mother made sure to have plenty of "spiritual" confirmation of this outcome through donations to many [Kuberian](/macropedia/kuberian-movement) organizations.
 
@@ -36,7 +36,7 @@ The [Imperial Congress](/macropedia/imperial-congress) did what it could to rein
 
 ## Into Shadow
 
-Realizing that his frivolous decisions were putting his own life at risk, Balanar made the rather curageous decision of appointing his own nephew his regent and retreating from public life. Balanar spent 12 years in this refuge before his regent could take the throne as [Jubal III](/macropedia/jubal-three).
+Realizing that his frivolous decisions were putting his own life at risk, Balanar made the rather courageous decision of appointing his own nephew his regent and retreating from public life. Balanar spent 12 years in this refuge before his regent could take the throne as [Jubal III](/macropedia/jubal-three).
 
 ## References
 * [Ivan Dabrian](/macropedia/ivan-dabrian)

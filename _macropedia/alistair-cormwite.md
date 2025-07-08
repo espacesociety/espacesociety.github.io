@@ -18,13 +18,13 @@ categories: ["imperium edition", "isaac taub authored"]
 
 Full name: Krezil-Bafiktuanoj Alistair Cormwite d'Regzit
 
-Alistair Cormwite was known as the godfather of the Imperium. He was born into obscurity and as a youth worked as a day laborer on a minor world within the sphere of the [Imperial Core Worlds](/macropedia/imperial-core-worlds). As an impovershed lad he taught himself to read and then learned mathematics and accounting. He began a brief criminal life as a loan shark.
+Alistair Cormwite was known as the godfather of the Imperium. He was born into obscurity and as a youth worked as a day laborer on a minor world within the sphere of the [Imperial Core Worlds](/macropedia/imperial-core-worlds). As an impoverished lad he taught himself to read and then learned mathematics and accounting. He began a brief criminal life as a loan shark.
 
 His criminal career was cut short when he was arrested and convicted for sharking and tax evasion. However, during his trial he caught the attention of [Morsh Furnoklin](/macropedia/morsh-furnoklin), who was an agent for the Tawmerik family. His sentence was commuted to indentured servitude to the Tawmerik family.
 
-Under their mentorship, he became a capable businessman and revealed shrewd and cuthroat competitive nature. His opinion of competition is best shown by his quote, "if I caught a competitor in space within a space suit, I'd cut his life support." His political savvy allowed the Tawmerik family to rise to dominance within their world. 
+Under their mentorship, he became a capable businessman and revealed shrewd and cutthroat competitive nature. His opinion of competition is best shown by his quote, "if I caught a competitor in space within a space suit, I'd cut his life support." His political savvy allowed the Tawmerik family to rise to dominance within their world. 
 
-When public demand for a reunifying republic raised to a crescendo, he helped maneouver Reth Tawmerik, head of the Tawmerik family into position as the first Prime Minister of the [Terran Republic](/macropedia/terran-republic). Conspiracy theorists belief he was also instrumental in the fracturing of the short-lived republic, which paved the way for Reth and the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) to rise to supreme power as the Emperor.
+When public demand for a reunifying republic raised to a crescendo, he helped maneuver Reth Tawmerik, head of the Tawmerik family into position as the first Prime Minister of the [Terran Republic](/macropedia/terran-republic). Conspiracy theorists believe he was also instrumental in the fracturing of the short-lived republic, which paved the way for Reth and the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) to rise to supreme power as the Emperor.
 
 Not much else is known of Alistair after the coronation. Evidence suggests that after Reth I became Emperor, Alistair was the man behind the curtain, helping to secure a long reign for the Tawmeriks. There is also speculation that one of Reth's children may have been Alistairs, but there is no DNA evidence to support this.
 

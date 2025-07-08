@@ -22,7 +22,7 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 
 The Anthoroph Free State is an unusual entity formed by refugees of the [Hundred Bloody Days](/macropedia/hundred-bloody-days). Although its exact nature and condition is difficult to imagine. [Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara), a geneticist of [genetically enhanced descent](/macropedia/genetically-enhanced-peoples) began preparing for a quick exodus several years ago as racism gripped the Imperium during the [Interregnum](/macropedia/imperial-interregnum). At the time, he took much criticism as a reactionary and extremist. His preparations have been estimated to have saved up to half a million people from the worst of the [Bloody Pretender's](/macropedia/femaron-felard) depradations.
 
-The refugees were turned away from the nascent [Sabanian Empire](/macropedia/sabanian-empire), an have apparently set up new colonies on several extremely marginal worlds and a few outside the old Imperium.
+The refugees were turned away from the nascent [Sabanian Empire](/macropedia/sabanian-empire), and have apparently set up new colonies on several extremely marginal worlds and a few outside the old Imperium.
 
 ## Rumors and Facts
 
@@ -35,7 +35,7 @@ This appears to be true. The citizens are drastically altering their children, c
 These are merely rumors, as all such claims ever turn out to be. One of my contacts said that he believed the AFS spread the rumors intentionally as a sort of shield to keep others away. Whether this strategy is effective or not is anyone's guess.
 
 ### Destruction of Uninvited Ships
-The AFS jealousy guards its system spaces. This was adequately demonstrated by my personal reception. However, my ship was certainly not destroyed, nor even fired upon. We did, however, leave when asked. No contact said they had witnessed such an event, but several had noted suspicious vapor and odd navigation regulation changes.
+The AFS jealously guards its system spaces. This was adequately demonstrated by my personal reception. However, my ship was certainly not destroyed, nor even fired upon. We did, however, leave when asked. No contact said they had witnessed such an event, but several had noted suspicious vapor and odd navigation regulation changes.
 
 ### Planning to Overthrow the Human Race
 This rumor appears to grow less popular and certainly less believed as one approaches the AFS. All my contacts and traders indicated that the AFS' primary concern was its own privacy, and that even its trading needs were dropping off. (With the exception of unusual biotech material.)

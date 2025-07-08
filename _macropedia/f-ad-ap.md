@@ -26,7 +26,7 @@ categories: ["imperium equipment", "kvecton sharp authored", "data and communica
 
 ## General Features of [F Ad Aps](/macropedia/f-ad-aps)
 
-[F Ad Aps](/macropedia/f-ad-aps) are actually marvels of programming.  The best of them can transverse numerous types of networks, adapt themselves to various operating systems and architectures by ingenious means of self-adaption.  While early [F Ad Aps](/macropedia/f-ad-aps) were usually strictly limited, abuse was natural, and on many occasions high-security and private networks were penetrated.
+[F Ad Aps](/macropedia/f-ad-aps) are actually marvels of programming.  The best of them can traverse numerous types of networks, adapt themselves to various operating systems and architectures by ingenious means of self-adaptation.  While early [F Ad Aps](/macropedia/f-ad-aps) were usually strictly limited, abuse was natural, and on many occasions high-security and private networks were penetrated.
 
 [F Ad Aps](/macropedia/f-ad-aps) don't necessarily have to be the most intelligent [A Is](/macropedia/a-is).  In fact, a key trait of any successful "species" of [F Ad Aps](/macropedia/f-ad-aps) is a relatively small footprint, thus allowing for faster access to networks.
 
@@ -34,7 +34,7 @@ Some individual [F Ad Aps](/macropedia/f-ad-aps) are centuries old.  One FADAP, 
 
 ## Security Concerns
 
-During the reign of [Quanna Dabrian II](/macropedia/qanna-dabrian-two), a particularly self-adaptive species of [F Ad Aps](/macropedia/f-ad-aps) was developed by at [Klister University](/macropedia/klister-university).  This species soon began evolve at a rapid rate, able to pierce everything from portable wrist-worn [[Migar Comm](/macropedia/migar-comm)](/macropedia/migar-comm) computers to interstellar vessels.  It was never truly brought under control, and has propogated itself on the [Ether](/macropedia/ether) ever since.
+During the reign of [Quanna Dabrian II](/macropedia/qanna-dabrian-two), a particularly self-adaptive species of [F Ad Aps](/macropedia/f-ad-aps) was developed by at [Klister University](/macropedia/klister-university).  This species soon began evolve at a rapid rate, able to pierce everything from portable wrist-worn [[Migar Comm](/macropedia/migar-comm)](/macropedia/migar-comm) computers to interstellar vessels.  It was never truly brought under control, and has propagated itself on the [Ether](/macropedia/ether) ever since.
 
 Finally, the [Imperial Congress](/macropedia/imperial-congress) passed a series of laws banning highly-adaptive [F Ad Aps](/macropedia/f-ad-aps), forcing programmers to put programmed signatures on all [F Ad Aps](/macropedia/f-ad-aps) and instituting an entire department to monitoring [F Ad Aps](/macropedia/f-ad-aps).  Naturally, this has not prevented abuse.  Security companies, and even government-based agencies, regularly flaunt the rules.
 

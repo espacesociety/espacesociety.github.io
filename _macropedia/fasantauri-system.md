@@ -37,7 +37,7 @@ The [Decline](/chronology/first-decline) hit the Fasantauri hard, but certainly 
 
 The heavily industrialized provinces with their Oligarchic overlords, evolved into technology-rich kingdoms, frequently at war, always maneuvering for supremacy in an ever-shifting array of alliances.  
 
-By the second half of the Decline, only a half-dozen kingdoms remained, with Glacia almost solely the territory of the [Perez Family](/macropedia/perez-family) and Goetel's World in the hands of the [Tawmeriks](/macropedia/tawmerik-dynasty)[-'^1^'-].  Terra Nouveau, with its larger populations and greater resource base, remained divided into four kingdoms, though pre-eminent among them was Krezil.  The Oligarchs initially resisted such younger clans as the Tawmeriks and Perezs, but ultimately accomodated them, though never entirely accepting their inevitable political status as equals.
+By the second half of the Decline, only a half-dozen kingdoms remained, with Glacia almost solely the territory of the [Perez Family](/macropedia/perez-family) and Goetel's World in the hands of the [Tawmeriks](/macropedia/tawmerik-dynasty)[-'^1^'-].  Terra Nouveau, with its larger populations and greater resource base, remained divided into four kingdoms, though pre-eminent among them was Krezil.  The Oligarchs initially resisted such younger clans as the Tawmeriks and Perezs, but ultimately accommodated them, though never entirely accepting their inevitable political status as equals.
 
 In the final century of the Decline, the last great war of the Fasantauri System was fought, the so-called Fifth Patrician's War.  Though, like the others, it was fought largely to a stalemate, for Krezil it proved an economic disaster, leading to the infamous [Krezil Stock Market Crash](/macropedia/krezil-stock-market-crash).  The Tawmeriks, Perezs and the other Oligarchs (particularly the Bafiktuys), seized much of this wealthy state's assets, enriching themselves and paving the way for political unification.
 
@@ -68,7 +68,7 @@ Old rivalries, nearly forgotten but still simmering, bubbled over.  The unity of
 
 From his home province on Glacia, Quain declared the age of the Oligarchs at an end, and raised an army of nearly ten million.  The Oligarchs, already weakened by their own war, were no match for a populist like Quain, whose greatest skill was in picking talented generals.  Glacia soon fell to him, and a popular uprising on Goetel's World lead to a government that swore fealty to him.  
 
-At this moment, the ailing [Imperial Congress](/macropedia/imperial-congress), still realing from its own disasters, sent Quain aid in the form of three heavy cruisers.  I cannot say for certain what the justification for it is, though clearly Quain has proven himself an astute military and political leader, and perhaps they are hoping that he is the man to bring order to chaos.
+At this moment, the ailing [Imperial Congress](/macropedia/imperial-congress), still reeling from its own disasters, sent Quain aid in the form of three heavy cruisers.  I cannot say for certain what the justification for it is, though clearly Quain has proven himself an astute military and political leader, and perhaps they are hoping that he is the man to bring order to chaos.
 
 ### Fasantauri Today
 The Civil War still rages on Terre Nouveau, where the Oligarchs hang on.  Quain's new regime is in its infancy, and despite having a small navy in its hands, seems unwilling to do anything that could threaten the most populated and valuable planet in the Fasantauri System.  

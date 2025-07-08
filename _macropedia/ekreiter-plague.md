@@ -20,7 +20,7 @@ The **Ekreiter Plague** destroyed political support for microscopic biological r
 
 The Plague was created for the purpose of reducing the various venereal diseases that began their spread when the various star systems began to reunite. The Plague was designed to target those diseases and destroy them.
 
-Initially, the Plague met with success. Millions of cases of dwulkier were cured in a matter of months. However, itself being a microbe, ekreiter began to mutate, and shared genes with dwulkier. This resulted in a super strain that was itself sexually transmitted, but resulted in sterility of its host. By the time this became know, millions more were infected the the Plague. Those so infected had to be segregated from society lest they result in sterility of the entire human race.
+Initially, the Plague met with success. Millions of cases of dwulkier were cured in a matter of months. However, itself being a microbe, ekreiter began to mutate, and shared genes with dwulkier. This resulted in a super strain that was itself sexually transmitted, but resulted in sterility of its host. By the time this became know, millions more were infected with the Plague. Those so infected had to be segregated from society lest they result in sterility of the entire human race.
 
 ## Related Articles
 

@@ -16,11 +16,11 @@ categories: ["imperium edition", "isaac taub"]
 </div>
 
 
-Scholar herald **Arturo San Degas** as the greatest [King Traih League](/macropedia/king-traih-league) monarch for he mastered the art of Imperium diplomacy and left behind a legacy that allowed subsequent monarchs to follow in his example. He also established an effective Constitutional monarchy with the League Accordant near the end of his reign. Posthumusly he was re-titled King Traih I.
+Scholars herald **Arturo San Degas** as the greatest [King Traih League](/macropedia/king-traih-league) monarch for he mastered the art of Imperium diplomacy and left behind a legacy that allowed subsequent monarchs to follow in his example. He also established an effective Constitutional monarchy with the League Accordant near the end of his reign. Posthumusly he was re-titled King Traih I.
 
-Being an effective monarch, Arturo realized that his was a rare government. Previous monarchs had varying levels of efficiency and corruption. He was the son of King San Degas IV of Arturon. As the youngest of seven sons, Arturo's father never expected him to be king, so he allowed his son educational opportunities not afforded his elder brothers. Thus, his son received dual `PhDs in Political Science and Law. Seen as the blueprint for his reigh, his dissertations detailed the effect of inter-sovereign law in the League and the importance of a stable government that functions outside an autocrat.
+Being an effective monarch, Arturo realized that his was a rare government. Previous monarchs had varying levels of efficiency and corruption. He was the son of King San Degas IV of Arturon. As the youngest of seven sons, Arturo's father never expected him to be king, so he allowed his son educational opportunities not afforded his elder brothers. Thus, his son received dual PhDs in Political Science and Law. Seen as the blueprint for his reigh, his dissertations detailed the effect of inter-sovereign law in the League and the importance of a stable government that functions outside an autocrat.
 
-He was fifteen years younger than the oldest four brothers. Only the oldest two reigned, each passing shortly into their reign.  When the second was assassinated by pro-People factions, the other brothers refused to take up the thrown. Thus, Arturos became King Traih. He established himself an intolerant ruler toward internal violence and those would-be assassin groups were destroyed.
+He was fifteen years younger than the oldest four brothers. Only the oldest two reigned, each passing shortly into their reign.  When the second was assassinated by pro-People factions, the other brothers refused to take up the throne. Thus, Arturos became King Traih. He established himself an intolerant ruler toward internal violence and those would-be assassin groups were destroyed.
 
 ## League Accordant
 
@@ -30,7 +30,7 @@ The Accordant was then written by King Traih himself. He spent the better part o
 
 Unlike other constitutions, the Accordant lacks the requisite compromise language. He was able to clearly delineate the duties of citizen, magistrate, and parlimentarian in an interlocking web that has since proven to prevent the government from being overwhelmingly powerful but also preventing the kingdom from devolving into an anarchy.
 
-Magistratory governments were established in each system and comprised delegates from each significantly inhabited world. Those delegates ran local affairs at the pleasure of the Monarch, and also appointed ministers who served in the lower house of parliment. As this house was given the power to remove the Monarch (under certain limitations), the Monarch's pleasure was beholding to Magistratory interests.
+Magistratory governments were established in each system and comprised delegates from each significantly inhabited world. Those delegates ran local affairs at the pleasure of the Monarch, and also appointed ministers who served in the lower house of parliment. As this house was given the the power to remove the Monarch (under certain limitations), the Monarch's pleasure was beholding to Magistratory interests.
 
 The citizens then selected the upper house of Parliment. They were given the power to remove magistrates, which gave citizens the power to remove ineffective magistrates.
 
@@ -42,11 +42,11 @@ The interlocking of duties and privileges led to a selfish enforcement of the sl
 
 ## Diplomacy
 
-Traih established high standards in Diplomacy as well. In spite of obvious interest in the League's territory, the Imperium found themselves incapable of creating a situation where they could justify war. When Traih allowed his daughter to marry into the Imperial Family, pease was established for several generations.
+Traih established high standards in Diplomacy as well. In spite of obvious interest in the League's territory, the Imperium found itself incapable of creating a situation where they could justify war. When Traih allowed his daughter to marry into the Imperial Family, peace was established for several generations.
 
-The [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) sought to infiltrate the government early, but Traih's earlier purging of anti-Monarch forces left behind a counter-espionage organization that exposed its efforts. Thus, embarassed by the BID's failure, the Imperium was forced to withdraw. Simultaneously the League was able to both infiltrate the BID and Imperial government, and through effective manipulation of popular culture were able to establish sufficient popular support in the Imperium to dissuade further attempts at undermining the government.
+The [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) sought to infiltrate the government early, but Traih's earlier purging of anti-Monarch forces left behind a counter-espionage organization that exposed its efforts. Thus, embarrassed by the BID's failure, the Imperium was forced to withdraw. Simultaneously the League was able to both infiltrate the BID and Imperial government, and through effective manipulation of popular culture were able to establish sufficient popular support in the Imperium to dissuade further attempts at undermining the government.
 
-These measures were enchanced after the Accordant was enacted. Apart from these defensive measures, the League government was prohibited from intrusion into Imperial society and were forbidden from engaging in aggressive wars.
+These measures were enhanced after the Accordant was enacted. Apart from these defensive measures, the League government was prohibited from intrusion into Imperial society and were forbidden from engaging in aggressive wars.
 
 ## Loss to the Imperium
 

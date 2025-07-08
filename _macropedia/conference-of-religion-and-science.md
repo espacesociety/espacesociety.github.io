@@ -16,7 +16,7 @@ categories: ["imperium edition", "isaac taub authored", "social sciences"]
 </div>
 
 
-The **Conference of Religion and Science** was a decennial meeting of the various tolerant religions within the Empire. Various faiths and factions had differing motives behind the Conference. There were those who sought to use the Conference to convert others to their faith by subtling changing their faith to reflect changes in social attitudes. Other faiths sought for a Unifying Concept that would allow various religions to merge without conversion. However, the central purpose was always to find a way to reconcile the faiths to changes in society and emerging science.
+The **Conference of Religion and Science** was a decennial meeting of the various tolerant religions within the Empire. Various faiths and factions had differing motives behind the Conference. There were those who sought to use the Conference to convert others to their faith by subtly changing their faith to reflect changes in social attitudes. Other faiths sought for a Unifying Concept that would allow various religions to merge without conversion. However, the central purpose was always to find a way to reconcile the faiths to changes in society and emerging science.
 
 Naturally, there are many faiths discussed elsewhere that would naturally be opposed to these attempts. Those faiths tended to be sectarian in nature, although a few (such as the [Tao Sunni](/macropedia/tao-sunni)) did enjoy more widespread support at different periods of their history.
 

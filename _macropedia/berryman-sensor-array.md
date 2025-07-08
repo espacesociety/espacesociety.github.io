@@ -18,7 +18,7 @@ categories: ["imperium equipment", "isaac taub authored"]
 
 ## Overview
 
-The **Berryman Sensor Array** was a development late in the Imperium that showed promise of true early-warning space scanning. Prior to the development of this sensor suite, it was considered scientifically impossible to detect inbound space craft at superluminal speeds.
+The **Berryman Sensor Array** was a development late in the Imperium that showed promise of true early-warning space scanning. Prior to the development of this sensor suite, it was considered scientifically impossible to detect inbound spacecraft at superluminal speeds.
 
 ## Development
 
@@ -30,7 +30,7 @@ Essentially, when a vessel enters the Soup, it displaces the Brane (gravametric 
 
 The duration of the ripple gives some indication of how fast the vessel is approaching. Although there are exceptions, the general opinion is the shorter a ripple, the faster the ship approaches. Ripple durations are typically measured in nanoseconds. Ships that are on the verge of ghosting may have ripples that take days to pass; which also tends to prevent the Array from detecting other ripples.
 
-The Berryman Array requires several sensors placed at extreme distances&ndash;measured in AU&ndash;in a cube. The sensors immediately report ripples to a central node, which attempts to process the input. This typically requires an AI computer as not only the infintesimal duration of the ripple must be calculated, but also the reverberation through the cube. This also requires the AI to calculate the likely preturbations of light across the gravity well (as light is the speed of the realspace communication). When a nanosecond is the difference of a ripple between two nodes seperated by several AU, it can be difficult.
+The Berryman Array requires several sensors placed at extreme distances&ndash;measured in AU&ndash;in a cube. The sensors immediately report ripples to a central node, which attempts to process the input. This typically requires an AI computer as not only the infinitesimal duration of the ripple must be calculated, but also the reverberation through the cube. This also requires the AI to calculate the likely perturbations of light across the gravity well (as light is the speed of the realspace communication). When a nanosecond is the difference of a ripple between two nodes separated by several AU, it can be difficult.
 
 ## Effects of the Array
 
@@ -42,7 +42,7 @@ The Array led to the development of the [Xenophobe Picket](/macropedia/xenophobe
 
 Critics of the Array point out that the technology itself was widely inaccurate and led to more false positives than were warranted. Proponents state that knowing something may be en route is preferable to operating blind.
 
-Perhaps the most important co-development was the [Krugal Intrasystem Array](/macropedia/krugal-intrasystem-array), which used the same cube arrangement to help map artificial satelites (and vessels) travelling in a system.
+Perhaps the most important co-development was the [Krugal Intrasystem Array](/macropedia/krugal-intrasystem-array), which used the same cube arrangement to help map artificial satellites (and vessels) travelling in a system.
 
 ## References
 1. [Krugal Intrasystem Array](/macropedia/krugal-intrasystem-array)

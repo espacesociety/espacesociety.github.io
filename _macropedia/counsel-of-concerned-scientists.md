@@ -16,11 +16,11 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 
 
-A key group of scientists, gathered together by the great [Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor), with the express purposes of attempting to find a solution to hop pollution, which he had previously demonstrated to have been the cause the [Decline](/chronology/first-decline).
+A key group of scientists, gathered together by the great [Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor), with the express purpose of attempting to find a solution to hop pollution, which he had previously demonstrated to have been the cause the [Decline](/chronology/first-decline).
 
 Though the various histories suggest that there had been numerous similar groups started with that same purpose, the Counsel of Concerned Scientists was unique in that not only did it have Dr. Suwor, but also such luminal physicists as Alsa Began (renowned for her own work on hop pollution) and Isard Qalane, a brilliant cosmologist who did much to recover and expand upon branespace theory.
 
-In the end the Counsel disbanded, and did not itself find the solution to hop pollution, but it laid the theoretical framework that Suwor and others ultimately used to produce the first reliable FTL capable vessels in a millenium, thus ushering in the Imperium Era.
+In the end the Counsel disbanded, and did not itself find the solution to hop pollution, but it laid the theoretical framework that Suwor and others ultimately used to produce the first reliable FTL capable vessels in a millennium, thus ushering in the Imperium Era.
 
 ## References
 1. [First Decline](/chronology/first-decline)
