@@ -2,6 +2,7 @@
 layout: page
 title: "Bafiktuy Intelligence Directive"
 date: 2005-10-18T20:22:43+00:00
+edited_at: 2025-01-08T10:14:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -29,17 +30,17 @@ They helped serve the Imperium early on in helping to drive a hermit insane and 
 
 ## Organization
 
-The BID's structure is true of many covert organizations. Their exact structure is unknown and hotly debated, as are their numbers. 
+The BID's structure is typical of many covert organizations. Their exact structure is unknown and hotly debated, as are their numbers. 
 
 ### Management
 
 The "Board" was a small group of leaders who guided the organization's overall operations. The exact number of "Board Members" was never accurately documented, but the Library of Karnomin<a name='note1'>&dagger;</a> had files that suggested the number was between seven and thirty. Speculation suggests that the number may have been based on the number of worlds within the Imperium&ndash;one Board Member per system (planet or colony station). The assumption here is that a "godfather" controlled a planet or station and ran his organization similar to the legendary Mafia of ancient Earth.
 
-From there, there was a second echelon of cadre (called "Executives") who helped keep the various sub-organizations organized, under control, and working. Some of these cadre had direct communication with their Board Member, while others may have run other Executives. There were some Executives who had never met another Executive or a Board Member, but had communicated only via dead drops, etc. Those "Dead Executives" were recruited into the organization and managed to be promoted ahead of their recruiter; sometimes at the untimely demise of the recruiter. There are even rumored Executives who operated totally autonomously of the BID for many years before they were "returned to the fold."
+From there, there was a second echelon of cadre (called "Executives") who helped keep the various sub-organizations organized, under control, and working. Some of these cadre had direct communication with their Board Member, while others may have run other Executives. There were some Executives who had never met another Executive or a Board Member, but had communicated only via dead drops, etc. Those "Dead Executives" were recruited into the organization and managed to be promoted ahead of their recruiter; sometimes at the untimely demise of the recruiter. There are even rumored Executives who operated totally autonomously from the BID for many years before they were "returned to the fold."
 
 ### Cells
 
-The basic sub-element of the BID was the cell. A cell comprised between four and six operatives of varying skills. Typically, only one or two members of a cell knew of any other BID operative or executive. The cells tended to be organized by specialty. Some were designed to function as couriers, others as financiers, weapons and logistics, espionage, sabotage, smuggling/piracy, combat and enforcement. The cells themselves tended to operate fairly autonomously, but with rather clear marching orders from above.
+The basic sub-element of the BID was the cell. A cell comprised between four and six operatives of varying skills. Typically, only one or two members of a cell knew of any other BID operative or executive. The cells tended to be organized by specialty. Some were designed to function as couriers, others as financiers, weapons and logistics specialists, espionage operatives, saboteurs, smugglers/pirates, or combat and enforcement units. The cells themselves tended to operate fairly autonomously, but with rather clear marching orders from above.
 
 **Couriers, Smugglers, etc.**
 These cells tended to smooth the flow of commerce in one way or another&ndash;legal or not. At one time they had enough combat space vessels to rival proper governmental navies, but were obviously never organized well enough to work collaboratively, except for the [Witi Emplaser Incident](/macropedia/witi-emplaser-incident) when the BID sought to subdue a government during the [First Decline](/chronology/first-decline).

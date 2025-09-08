@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2025-01-08T11:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,7 +19,7 @@ categories: ["imperium edition", "chang singh authored"]
 
 Also known as the Bloody Pretender.
 
-Femaron Felard was born to a family of [[Normalized Anthorph](/macropedia/normalized-anthorph)](/macropedia/normalized-anthorph)s, and from early childhood was raised with a deep hatred of [Anthorph](/macropedia/anthorph)s.  In the years after the death of [Emperor Jubal IV](/macropedia/jubal-four) and the ascension of [Durin Bonish](/macropedia/durin-bonish) as the first Premiere during the [Imperial Interregnum](/macropedia/imperial-interregnum), Femarons family had attempted a number of unsuccessful uprisings against the Imperium, and were finally forced to flee beyond the Imperium.
+Femaron Felard was born to a family of [Normalized Anthorph](/macropedia/normalized-anthorph)s, and from early childhood was raised with a deep hatred of [Anthorph](/macropedia/anthorph)s.  In the years after the death of [Emperor Jubal IV](/macropedia/jubal-four) and the ascension of [Durin Bonish](/macropedia/durin-bonish) as the first Premiere during the [Imperial Interregnum](/macropedia/imperial-interregnum), Femarons family had attempted a number of unsuccessful uprisings against the Imperium, and were finally forced to flee beyond the Imperium.
 
 Femaron returned to the Imperium under the guise of a wealthy merchant and ingratiated himself with the last, weaker Premiers that succeeded [Durin Bonish](/macropedia/durin-bonish).  He also took under his wing the remnants of the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive), and brilliantly played all sides against each other, until he finally felt the time right and seized power.  He briefly reigned as a Premiere, mouthing the vows to leave the throne to the Imperial House, all the while preparing for his ultimate goal.
 

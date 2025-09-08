@@ -2,6 +2,7 @@
 layout: page
 title: "Confederation Party"
 date: 2005-07-31T22:09:08+00:00
+edited_at: 2025-01-08T10:30:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -22,7 +23,7 @@ The Confederation Party was originally formed by unity-minded individuals such a
 
 Their rivals included the Republican Party, which was run by the Oligarchs who sought to consolidate power among themselves. The Republican Party espoused various progressive interests such as reform in various industries, and the construction of larger ships that would hopefully reduce Hop Pollution. The Republicans also espoused egalitarian ideals while conversely playing upon those ideals to keep the Oligarchs in power. This was a classic divide-and-conquer tactic as it made the average Terran despise individual system freedom and favor a strong central government. This eventually allowed most to accept the Imperial government when it first came to power.
 
-With so much interest working against it, the Confederation Pary never enjoyed much success. Their last great stab at changing the Republic came during the ministry of [Veltrane Fres Volon](/macropedia/veltrane-fres-volon). Things rapidly deteriorated when Volon attempted to abolish Republican laws involving mandatory vacations, which naturally favored systems with shorter years and days.
+With so much interest working against it, the Confederation Party never enjoyed much success. Their last great stab at changing the Republic came during the ministry of [Veltrane Fres Volon](/macropedia/veltrane-fres-volon). Things rapidly deteriorated when Volon attempted to abolish Republican laws involving mandatory vacations, which naturally favored systems with shorter years and days.
 
 ## References
 1. [Terran Republic](/macropedia/terran-republic)

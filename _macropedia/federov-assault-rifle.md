@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "boris helfstein authored", "combat equipment"]
+edited_at: 2025-01-08T10:59:00+00:00
 ---
 
 <div class='row'>
@@ -30,7 +31,7 @@ During the Republican Era, there was a bit of a struggle to determine the pre-em
 
 The early "D-100" series rose to dominance for the ease with which parts could be replaced. With combat happening in increasingly unusual environments, this was a big plus. Swapping out a new barrel is so easy, that soldiers were often rumored to do it under fire, without even removing their ammunition.
 
-Later, as adaptability became recognized as a necessary feature of any weapon system, the "D+50" model came to dominate the infantryman's world. Not only did the D+50 maintain almost the same ease of use, it was provided with a wide assortment of parts for use under differing conditions. While effective for the time, these pieces were somewhat crude and certainly not elegant in any aesthetic sense 
+Later, as adaptability became recognized as a necessary feature of any weapon system, the "D+50" model came to dominate the infantryman's world. Not only did the D+50 maintain almost the same ease of use, it was provided with a wide assortment of parts for use under differing conditions. While effective for the time, these pieces were somewhat crude and certainly not elegant in any aesthetic sense. 
 
 ### FTEIGAR hits the scene
 
@@ -50,7 +51,7 @@ The Laws of Physics are pretty tough to break. Microgravity combat involving fir
 
 The FS "Federov Specialist" series was designed with the "hunter" in mind. In truth, they were at least as respected among assassins and killers as among sportsmen. Each series was specially-designed for different world's gravity and climate, with Fteigar responses changing muzzle speed and aim to great effect.
 
-By the time of the [Grand Reforms](/macropedia/grand-reforms), they were so popular with assassins that [Klister University](/macropedia/klister-university) developed the miniaturized [Ballistic Trace Network](/macropedia/ballistic-trace-network). Which just about ended rifles as a tool for assassination. 
+By the time of the [Grand Reforms](/macropedia/grand-reforms), they were so popular with assassins that [Klister University](/macropedia/klister-university) developed the miniaturized [Ballistic Trace Network](/macropedia/ballistic-trace-network), which just about ended rifles as a tool for assassination. 
 
 ### A Gentleman's Weapon or Crude Frontier Tool?
 

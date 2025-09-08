@@ -2,6 +2,7 @@
 layout: page
 title: "Conference Of Religion And Science"
 date: 2005-07-31T22:24:47+00:00
+edited_at: 2025-01-08T10:31:00+00:00
 comments: true
 sharing: true
 footer: true

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored", "miscellaneous equipment"]
+edited_at: 2025-01-08T10:55:00+00:00
 ---
 
 <div class='row'>
@@ -20,7 +21,7 @@ Esperopteris Koinsii is an engineered organism, derived from a plantlike organis
 
 Soon after the colonization effort began, the colonists discovered the so-called "entertainment" value of these plants, and began to cultivate them. Under Imperial law, such plants could not be exported, but neither could they be exterminated. Instead, they were permitted to serve as a local feature for tourism. Unfortunately, either through quasi-legal exportation of engineered organisms, or illegal exportation of the hallucinogenic organisms, some modified Esperopteris plants appeared outside the Purivi system. These plants had much higher levels of the relevant compounds than naturally occurred. They are severely addictive, and illegal to traffic, transport, or consume within the empire.
 
-It should be noted that the intense hallucinogenic episodes associate with use of the plant have never been confirmed to actually conform to any rational, scientific, repeatable standard that could be considered a valid "psychic" ability. In spite of numerous negative tests and experiments, and the fact that testimony from Esperopteran Episodes are not admissible in court, rumors persist that the organisms grant "second sight" or telepathy or "enhance your natural psychic potential." And although its tragic role in the problems of the [Dabrian Dynasty](/macropedia/dabrian-dynasty) are well-noted, no solid evidence has ever confirmed rumors that either the Imperium or the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) developed "reliable" strains or methods to train proficient psychics with the organism.
+It should be noted that the intense hallucinogenic episodes associated with use of the plant have never been confirmed to actually conform to any rational, scientific, repeatable standard that could be considered a valid "psychic" ability. In spite of numerous negative tests and experiments, and the fact that testimony from Esperopteran Episodes are not admissible in court, rumors persist that the organisms grant "second sight" or telepathy or "enhance your natural psychic potential." And although its tragic role in the problems of the [Dabrian Dynasty](/macropedia/dabrian-dynasty) are well-noted, no solid evidence has ever confirmed rumors that either the Imperium or the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) developed "reliable" strains or methods to train proficient psychics with the organism.
 
 ## References
 1. [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)

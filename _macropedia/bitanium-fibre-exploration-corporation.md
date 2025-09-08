@@ -2,6 +2,7 @@
 layout: page
 title: "Bitanium Fibre Exploration Corporation"
 date: 2005-07-29T23:40:19+00:00
+edited_at: 2025-01-08T10:19:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -22,7 +23,7 @@ With the return to FTL travel, BFEC became one of the first companies in human s
 
 As Soup travel grew, BFEC became very large and wealthy, but also came under a good deal of scrutiny.  Rumors of forced enslavement of populations on worlds that had become primitive during the Decline circulated.  BFEC denied this, but finally sufficient evidence was gathered and the corporation was forced to admit to the practice, and a number of systems fined it vast sums, so great that the company was finally forced to declare bankruptcy.
 
-It had an afterlife of sorts, its assets being bought out by the [Tawmerik Family](/macropedia/tawmerik-dynasty) of the [[Star Systems](/macropedia/star-systems)/Vadia](/star-systems/vadia) system.  The name was abandoned, but the fleet and hopspace routes served to make the Tawmeriks one of the wealthiest families in human space, and served ultimately in their ability to undermine the [Terran Republic](/macropedia/terran-republic) and transform it into the Imperium.
+It had an afterlife of sorts, its assets being bought out by the [Tawmerik Family](/macropedia/tawmerik-dynasty) of the [Vadia](/star-systems/vadia) system.  The name was abandoned, but the fleet and hopspace routes served to make the Tawmeriks one of the wealthiest families in human space, and served ultimately in their ability to undermine the [Terran Republic](/macropedia/terran-republic) and transform it into the Imperium.
 
 ## References
 1. [First Decline](/chronology/first-decline)

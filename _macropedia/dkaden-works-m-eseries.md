@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "kvecton sharp authored", "transportation equipment"]
+edited_at: 2025-01-08T10:43:00+00:00
 ---
 
 <div class='row'>
@@ -36,7 +37,7 @@ The A models all have six tires, all capable of functioning independently.  The 
 
 The ME-Ns were designed explicitly for amphibious military operations.  Larger than the ME-As, all N models have self-contained nuclear generators with a lifespan of about ten years.  Designed to be modular, several ME-Ns can link up to form larger vehicles via the use of [Poly-Control Slave System](/macropedia/poly-control-slave-system)s.
 
-The ME-Ns are amphibious, capable of long sea voyages, and designed to stay afloat even in hurricane force winds.  Like the ME-As, they have a fully airtight cabin.  ME-Ns are frequently fitted with [Anotek Isotope Filtration](/macropedia/anotek-isotope-filtration) systems.  Despite severe laws against it, [SMEE](/macropedia/s-me-e) enhancers are not uncommon (though officially unsupported by D'kaden Works.
+The ME-Ns are amphibious, capable of long sea voyages, and designed to stay afloat even in hurricane force winds.  Like the ME-As, they have a fully airtight cabin.  ME-Ns are frequently fitted with [Anotek Isotope Filtration](/macropedia/anotek-isotope-filtration) systems.  Despite severe laws against it, [SMEE](/macropedia/s-me-e) enhancers are not uncommon (though officially unsupported by D'kaden Works).
 
 ME-Ns available for the consumer market do not generally come with weapons, and certainly not with weaponry available for military applications.  Military craft generally have missile mounts, various types of energy cannons, as well scanner gear like [Akrath Multi-sensor Array](/macropedia/akrath-multi-sensor-array).
 

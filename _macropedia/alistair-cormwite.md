@@ -2,6 +2,7 @@
 layout: page
 title: "Alistair Cormwite"
 date: 2005-08-07T05:26:11+00:00
+edited_at: 2025-01-08T10:03:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -26,7 +27,7 @@ Under their mentorship, he became a capable businessman and revealed shrewd and 
 
 When public demand for a reunifying republic raised to a crescendo, he helped maneuver Reth Tawmerik, head of the Tawmerik family into position as the first Prime Minister of the [Terran Republic](/macropedia/terran-republic). Conspiracy theorists believe he was also instrumental in the fracturing of the short-lived republic, which paved the way for Reth and the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) to rise to supreme power as the Emperor.
 
-Not much else is known of Alistair after the coronation. Evidence suggests that after Reth I became Emperor, Alistair was the man behind the curtain, helping to secure a long reign for the Tawmeriks. There is also speculation that one of Reth's children may have been Alistairs, but there is no DNA evidence to support this.
+Not much else is known of Alistair after the coronation. Evidence suggests that after Reth I became Emperor, Alistair was the man behind the curtain, helping to secure a long reign for the Tawmeriks. There is also speculation that one of Reth's children may have been Alistair's, but there is no DNA evidence to support this.
 
 ## References
 1. [Imperial Core Worlds](/macropedia/imperial-core-worlds)

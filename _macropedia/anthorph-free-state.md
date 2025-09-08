@@ -2,6 +2,7 @@
 layout: page
 title: "Anthorph Free State"
 date: 2005-09-09T22:07:57+00:00
+edited_at: 2025-01-08T10:01:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -20,15 +21,15 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 
 ## Origins
 
-The Anthoroph Free State is an unusual entity formed by refugees of the [Hundred Bloody Days](/macropedia/hundred-bloody-days). Although its exact nature and condition is difficult to imagine. [Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara), a geneticist of [genetically enhanced descent](/macropedia/genetically-enhanced-peoples) began preparing for a quick exodus several years ago as racism gripped the Imperium during the [Interregnum](/macropedia/imperial-interregnum). At the time, he took much criticism as a reactionary and extremist. His preparations have been estimated to have saved up to half a million people from the worst of the [Bloody Pretender's](/macropedia/femaron-felard) depradations.
+The Anthoroph Free State is an unusual entity formed by refugees of the [Hundred Bloody Days](/macropedia/hundred-bloody-days). Although its exact nature and condition is difficult to imagine, [Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara), a geneticist of [genetically enhanced descent](/macropedia/genetically-enhanced-peoples) began preparing for a quick exodus several years ago as racism gripped the Imperium during the [Interregnum](/macropedia/imperial-interregnum). At the time, he took much criticism as a reactionary and extremist. His preparations have been estimated to have saved up to half a million people from the worst of the [Bloody Pretender's](/macropedia/femaron-felard) depredations.
 
 The refugees were turned away from the nascent [Sabanian Empire](/macropedia/sabanian-empire), and have apparently set up new colonies on several extremely marginal worlds and a few outside the old Imperium.
 
 ## Rumors and Facts
 
-I have, myself, attempted to find the AFS and confirm the stories that are being told. However, my ship was refused landing on the installations I located. What I have learned from those few traders that treat with the AFS is somewhat illuminating Among the prominent rumors:
+I have, myself, attempted to find the AFS and confirm the stories that are being told. However, my ship was refused landing on the installations I located. What I have learned from those few traders that treat with the AFS is somewhat illuminating. Among the prominent rumors:
 
-### Rampant, Profound genetic modifications
+### Rampant, profound genetic modifications
 This appears to be true. The citizens are drastically altering their children, crops, and other creatures for their benefit. These modifications are of such a profound nature, that even my Nguyonhi star-folk contact seemed disturbed by them.
 
 ### Psychic Powers
@@ -55,7 +56,7 @@ This rumor appears to grow less popular and certainly less believed as one appro
 6. [Genetically Enhanced Peoples](/macropedia/genetically-enhanced-peoples)
 7. [Genetically Enhanced Descent](/macropedia/genetically-enhanced-peoples)
 8. [Interregnum](/macropedia/imperial-interregnum)
-9. [Bloody Pretender'S](/macropedia/femaron-felard)
+9. [Bloody Pretender's](/macropedia/femaron-felard)
 
 
  

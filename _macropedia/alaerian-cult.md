@@ -2,6 +2,7 @@
 layout: page
 title: "Alaerian Cult"
 date: 2005-10-18T20:19:58+00:00
+edited_at: 2025-01-08T10:02:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -16,7 +17,7 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 The infamous Alaerian Cult, which was to have such an influence on the early years of the Imperium, began inauspiciously as a local religious cult on a minor frontier world. It was named after its founder, a mysterious man named Alaer, whose origins were completely unknown, though later scholars have gathered some circumstantial evidence that he was quite likely from Earth.
 
-The cult's basic doctrine was apocalyptic. Alaer taught that the Great Satan would come embodied as a ruler from a powerful family, who would unite humanity, and then use the masses to attack the faithful. Alaer claimed to be the Twentieth Incarnation of Yahveh, and thus the sworn enemy of the Great Satan. Alaer's cult might have amounted to nothing at all, save that a local magistrate who is said to have had a daughter fall in with Alaer's people, made capturing the self-proclaimed holy man his personal crusade. Alaer was finally captured, but as he was being interrogated, he managed to ingest poison. His last words were "Ten million suns will be turned to ashes by my might."
+The cult's basic doctrine was apocalyptic. Alaer taught that the Great Satan would come embodied as a ruler from a powerful family, who would unite humanity, and then use the masses to attack the faithful. Alaer claimed to be the Twentieth Incarnation of Yahweh, and thus the sworn enemy of the Great Satan. Alaer's cult might have amounted to nothing at all, save that a local magistrate who is said to have had a daughter fall in with Alaer's people, made capturing the self-proclaimed holy man his personal crusade. Alaer was finally captured, but as he was being interrogated, he managed to ingest poison. His last words were "Ten million suns will be turned to ashes by my might."
 
 Alaer's death in custody gave his followers a martyr, and also allowed his higher ranking associates, savvier and somewhat saner, to gain control. The cult began to swell in numbers, finally gaining enough members and momentum to spark the [Frontier Rebellion](/macropedia/frontier-rebellion). This attracted commercial and military interests, fearful that a major interruption of commerce just as humanity was crawling out of a period of isolation and stagnation, attempted to intervene.
 

@@ -2,6 +2,7 @@
 layout: page
 title: "Canticle Of Hope"
 date: 2005-10-18T20:23:56+00:00
+edited_at: 2025-01-08T10:22:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -25,7 +26,7 @@ There are those, however, who strive to gather what has not been lost, and perha
 Thus we, the scholars, historians and scientists, have endeavored, at times with no small cost and risk, to produce the Canticle of Hope, a hidden archive where the sum of human knowledge may be stored against the worst, and in the hope of better times.  Though I have worked on this project, I do not know the location, nor can I say with any certainty the form in which the archives take.  Though part of me despises the idea of hiding knowledge, even as I speak, the ruler of the [Sabanian Empire](/macropedia/sabanian-empire) demands that these archives be released into his "protection".  Some of my colleagues have already been taken prisoner, and I fear that the worst will soon happen as the Sabanians discover that our resolve is proof against even the execution of brethren.
 
 ## References
-1. [Anthorph](/macropedia/anthorph)s
+1. [Anthorphs](/macropedia/anthorph)
 1. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
 1. [Imperial Congress](/macropedia/imperial-congress)
 1. [Sabanian Empire](/macropedia/sabanian-empire)

@@ -2,6 +2,7 @@
 layout: page
 title: "Dabrian Dynasty"
 date: 2005-09-11T01:08:30+00:00
+edited_at: 2025-01-08T10:35:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -18,7 +19,7 @@ categories: ["imperium edition", "chang singh authored"]
 
 The Dabrians were a relatively young noble family that had made its fortune during the early Imperium period as a major backer of the [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu).  Under a series of clever patriarchs and matriarchs, the Dabrians slowly grew political power to match their financial strength.  They gained both renown and notoriety for using marriage as a means to gain control of a number of lower, second-tier aristocratic families, as well as key marriages to members of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty).
 
-By the time the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) finally failed due to a series of weak rulers, the Dabrians had maneuvered themselves into position, and the young but brilliant [Qanna Dabrian](/macropedia/qanna-dabrian), who was married to a nephew of the last Tawmerik ruler, was declared Empress.  Unfortunately for the Dabrians, later emperors did not prove as good at managing family and Imperial affairs, and it was largely the mismanagement of the Imperial coffers that lead to the [Grand Reforms](/macropedia/grand-reforms) which saw a wane in the political power of the emperors for some generations to come.
+By the time the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) finally failed due to a series of weak rulers, the Dabrians had maneuvered themselves into position, and the young but brilliant [Qanna Dabrian](/macropedia/qanna-dabrian), who was married to a nephew of the last Tawmerik ruler, was declared Empress.  Unfortunately for the Dabrians, later emperors did not prove as good at managing family and Imperial affairs, and it was largely the mismanagement of the Imperial coffers that led to the [Grand Reforms](/macropedia/grand-reforms) which saw a wane in the political power of the emperors for some generations to come.
 
 ## Emperors
 * [Qanna Dabrian I](/macropedia/qanna-dabrian)

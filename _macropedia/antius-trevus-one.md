@@ -2,6 +2,7 @@
 layout: page
 title: "Antius Trevus One"
 date: 2005-09-11T18:23:48+00:00
+edited_at: 2025-01-08T10:03:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -36,15 +37,15 @@ During his reign many sought to join the [King Traih League](/macropedia/king-tr
 
 ## Internal Affairs
 
-The [Lemardians](/macropedia/lemardians) lost favor with Antius. This was due in large part to their siding with his brother. Attempts they made were not unseen by the Emperor, and he reminded those involved that it was unwise to cross a man so willing to sacrifice his own family. However, they were not destroyed for their role in Imperial politics made it easier for the Emperor to soften his image. Some are still convinced that the Lemardians were involved in the death of his brother&ndash;rather than the frustrated rescuers. 
+The [Lemardians](/macropedia/lemardians) lost favor with Antius. This was due in large part to their siding with his brother. Attempts they made were not unseen by the Emperor, and he reminded those involved that it was unwise to cross a man so willing to sacrifice his own family. However, they were not destroyed for their role in Imperial politics made it easier for the Emperor to soften his image. Some are still convinced that the Lemardians were involved in the death of his brother—rather than the frustrated rescuers. 
 
 Antius installed his own "rationalists" within the Lemardian leadership. These rationalists helped to destroy critical records and learning held by the Lemardian libraries. Their more popular tactic, however, was to revise copies of key documents and ensure the new revisions replaced the originals. What was more sinister was that the revisions typically had older documentation dates than the originals, leading some to believe the revisions were the "true" copies adulterated by "impressionist" Lemardians. This led to the two factions within the order, and a constant power struggle that lasted until the Lemardians lost all favor in the Imperium. It was his dulling of the knowledge of the Lemardian that he earned the moniker "Half-Wit."
 
-Many admit that when an Emperor makes an offer, it can be hard to refuse. With Antius, it was incredibly risky to refuse, as the Lemardian Order learned. The [Gahanian Seers](/macropedia/gahanian-seers) managed to refuse him with relatively ill effects. Speculation that his wife helped dull his temper are unfounded, but it makes for interesting vidramas (visual dramas). In the end, they extracted from Antius the only tax exemption his reign bestowed. Strong evidence suggests that the Seers helped undermine the Lemaridan Order as some former Seers have been discovered in key positions within the Order.
+Many admit that when an Emperor makes an offer, it can be hard to refuse. With Antius, it was incredibly risky to refuse, as the Lemardian Order learned. The [Gahanian Seers](/macropedia/gahanian-seers) managed to refuse him with relatively few ill effects. Speculation that his wife helped dull his temper are unfounded, but it makes for interesting vidramas (visual dramas). In the end, they extracted from Antius the only tax exemption his reign bestowed. Strong evidence suggests that the Seers helped undermine the Lemaridan Order as some former Seers have been discovered in key positions within the Order.
 
 The [Zophian Sisterhood](/macropedia/zophian-sisterhood) also felt Antius' sting. [Kuberian](/macropedia/kuberian-movement) sect of the Gahanians successfully lobbied Antius to weaken the Sisterhood. In classic Antius cruelty, those the Kubarians implicated from the Sisterhood were forced to service the Imperial Navy's recreation stations. Antius also ensured laws permanently hamstrung the Sisterhood. Entire convents were disbanded and indentured as a result.
 
-Behind much of the intrigue was [Xervius Lundrel](/macropedia/xervius-lundrel), who was deeply religious and quite cruel. Although, it is more accurate that his liasons with the Empress led to Xervius becoming such a powerful figure within the Imperial Court.
+Behind much of the intrigue was [Xervius Lundrel](/macropedia/xervius-lundrel), who was deeply religious and quite cruel. Although, it is more accurate that his liaisons with the Empress led to Xervius becoming such a powerful figure within the Imperial Court.
 
 ## Succession
 
@@ -74,7 +75,7 @@ Antius' death was sudden and likely the result of an assassination. His oldest s
 7. [King Traih League](/macropedia/king-traih-league)
 8. [Xervius Lundrel](/macropedia/xervius-lundrel)
 9. [Grand Reforms](/macropedia/grand-reforms)
-10. [Jubal Ii](/macropedia/jubal-two)
+10. [Jubal II](/macropedia/jubal-two)
 11. [Lemardians](/macropedia/lemardians)
 12. [Kuberian Movement](/macropedia/kuberian-movement)
 13. [Nomon Pirates](/macropedia/nomon-pirates)

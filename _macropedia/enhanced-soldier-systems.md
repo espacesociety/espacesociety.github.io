@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "boris helfstein authored", "medical equipment"]
+edited_at: 2025-01-08T10:53:00+00:00
 ---
 
 <div class='row'>
@@ -27,7 +28,7 @@ An ESS embeds electronic nodes within the neural pathways of the subject. This c
 
 An ESS also requires relatively frequent maintenance surgeries to maintain its healthy operation. Since many veterans began to resent them, the ESS gained a poor political reputation. They have maintained a presence in the underworld and among various sundry groups, including a few "Pure Terran" Mercenary groups.
 
-ESS's enjoyed a brief return to the limelight for the [Zenbrudi War](/macropedia/zenbrudi-war), but have generally fallen out of use among reputable military and combat services.
+ESSs enjoyed a brief return to the limelight for the [Zenbrudi War](/macropedia/zenbrudi-war), but have generally fallen out of use among reputable military and combat services.
 
 ## References
 1. [Anthorph](/macropedia/anthorph)s

@@ -2,6 +2,7 @@
 layout: page
 title: "Baelian Fiasco"
 date: 2005-09-17T16:13:48+00:00
+edited_at: 2025-01-08T10:08:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -16,19 +17,19 @@ categories: ["imperium edition", "isaac taub authored"]
 </div>
 
 
-The **Baelian Fiasco** was the most overt action taken by the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) (BID). Historically, it was a major embarassment for the Imperium, which does not embarrass easily&ndash;as history has shown.
+The **Baelian Fiasco** was the most overt action taken by the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) (BID). Historically, it was a major embarrassment for the Imperium, which does not embarrass easily—as history has shown.
 
-Ocheledge was a planet with a significant mining operation in the [[Star Systems](/macropedia/star-systems)/Bael System](/star-systems/bael-system). It was a quality source of many industrial metals as well as an odd abundance of precious metals. It was named for the Baelian family&ndash;one of the Oligarch families from the pre-Imperial era. The Baelian family still owned the mine, as they did the rest of the system, and this provided them with an unusual amount of wealth&ndash;even when the [Index Imperium](/macropedia/reformed-bank-of-the-empire) was the dominant way of determining wealth. Although, it is worth mentioning that the Baelian family technically owned all its system's citizens.
+Ocheledge was a planet with a significant mining operation in the [Bael System](/star-systems/bael-system). It was a quality source of many industrial metals as well as an odd abundance of precious metals. It was named for the Baelian family—one of the Oligarch families from the pre-Imperial era. The Baelian family still owned the mine, as they did the rest of the system, and this provided them with an unusual amount of wealth—even when the [Index Imperium](/macropedia/reformed-bank-of-the-empire) was the dominant way of determining wealth. Although, it is worth mentioning that the Baelian family technically owned all its system's citizens.
 
-The Fiasco occurred during the period known as "The Notorious BID" Their success and Imperial support led them to operate more openly..
+The Fiasco occurred during the period known as "The Notorious BID." Their success and Imperial support led them to operate more openly.
 
 Essentially, the BID decided that the Baelian family (the Family) had owned the system long enough. It redirected numerous resources in an effort to cause the Baelian line to fail, which would result in the entire system to escheat to the Emperor.
 
 The [Imperial Congress](/macropedia/imperial-congress) was apprised of this mission after the execution order had been sent. Immediately, anti-Imperialist congressmen dispatched agents to the System to try to help the Family fend off the attack. One congressman, Yicam Thurchier, was so passionate that he himself traveled to the system bent on stopping the BID himself.
 
-From this, the Fiasco began. Thurchier was manipulated by BID operatives to kill three of the minor heirs to the Baelian fortune. He was captured by the Family and summarily executed by airlock (as is known, the low pressure "freeze dries" the victim). BID agents then pursuaded the Baelian family that the BID was there to protect the family.
+From this, the Fiasco began. Thurchier was manipulated by BID operatives to kill three of the minor heirs to the Baelian fortune. He was captured by the Family and summarily executed by airlock (as is known, the low pressure "freeze dries" the victim). BID agents then persuaded the Baelian family that the BID was there to protect the family.
 
-The combined force of the Bael police state and the BID sneakiness helped ferret out most anti-Imperial forces. The BID remained in the shadows during this phase. The Congress was thoroughly embarassed and resolved to remain out of the conflict.
+The combined force of the Bael police state and the BID sneakiness helped ferret out most anti-Imperial forces. The BID remained in the shadows during this phase. The Congress was thoroughly embarrassed and resolved to remain out of the conflict.
 
 At the same time, BID agents were able to persuade key members of the Bael government that the Family was in fact purging members of its own government and that those anti-Imperial agents were trying to stop them. Thus, the government revolted against the Family and put them under house arrest. Unfortunately for the BID, the new government was determined to strip the Family of their property and give it to the people and run as a collectivist commune. Now, the BID had to save the Family from their collaborators.
 
@@ -39,7 +40,7 @@ The BID lost allies within the Oligarchs as they realized what the BID was capab
 ## References
 * [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)
 * [Imperial Congress](/macropedia/imperial-congress)
-* [[Reformed Bank Of The Empire](/macropedia/reformed-bank-of-the-empire)](/macropedia/reformed-bank-of-the-empire)
+* [Reformed Bank Of The Empire](/macropedia/reformed-bank-of-the-empire)
 
 ## Related Articles
 

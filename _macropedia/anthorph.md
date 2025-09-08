@@ -2,6 +2,7 @@
 layout: page
 title: "Anthorph"
 date: 2005-08-07T03:41:06+00:00
+edited_at: 2025-01-08T10:02:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -16,9 +17,9 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-A derogatory slang term common throughout the core worlds especially during earlier periods. It is sloppily used to refer to beings which are capable of intelligent speech, but not baseline human. Generally there are two categories of such being: Modified humans or creatures that are wholly or partially engineered animals. 
+A derogatory slang term common throughout the core worlds especially during earlier periods. It is sloppily used to refer to beings which are capable of intelligent speech, but not baseline human. Generally there are two categories of such beings: Modified humans or creatures that are wholly or partially engineered animals. 
 
-Before the coming of the Imperium restored order to the worlds of men, the people many worlds were greatly Tested by the Creator. Forced to adapt to their new worlds, they resorted to intense genetic monitoring and improvement of their descendants. On some worlds, it was also necessary to modify some of the fauna to make it more useful and helpful to the human inhabitants. Thus these early courageous colonists brought honor to their families by passing the Creator's Test.
+Before the coming of the Imperium restored order to the worlds of men, the people of many worlds were greatly tested by the Creator. Forced to adapt to their new worlds, they resorted to intense genetic monitoring and improvement of their descendants. On some worlds, it was also necessary to modify some of the fauna to make it more useful and helpful to the human inhabitants. Thus these early courageous colonists brought honor to their families by passing the Creator's Test.
 
 The primitive techniques used on many of these worlds, inherited from Earth's last days, led to what is now termed [Unlek Syndrome](/macropedia/unlek-syndrome). Problems related to the syndrome continued until the Tested at [Klister University](/macropedia/klister-university) honored the Creator and their families by solving this Test before them.
 

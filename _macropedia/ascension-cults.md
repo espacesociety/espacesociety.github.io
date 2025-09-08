@@ -2,6 +2,7 @@
 layout: page
 title: "Ascension Cults"
 date: 2005-08-07T05:37:02+00:00
+edited_at: 2025-01-08T10:06:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -20,7 +21,7 @@ The **Ascension Cults** are a series of religious fanatic groups obsessed with e
 
 Although this is indicative of most cults, what makes ascension cults stand out is the emphasis on escapism. Some would claim [Odni Planyeti](/macropedia/odni-planyeti) as a fallen Eden to be reclaimed by the faithful. Others would claim that the original inhabitants in Odni Planyeti had ascended, and that those in the cult should do likewise.
 
-Those most disturbing were the ascension cults that required the members engage in horrific acts, either of self-mutilation or of mass murder (either of the cult members or non-cult members).
+Those most disturbing were the ascension cults that required the members to engage in horrific acts, either of self-mutilation or of mass murder (either of the cult members or non-cult members).
 
 ## References
 1. [Retri Gahani](/macropedia/retri-gahani)

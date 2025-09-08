@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "kvecton sharp authored", "transportation equipment"]
+edited_at: 2025-01-08T11:01:00+00:00
 ---
 
 <div class='row'>
@@ -22,17 +23,17 @@ One of the earliest Soup-capable freighters built, first developed prior to the 
 
 ## Structure
 
-The Firebird Class vessels are all based upon the same basic plan; a twelve hundred foot long and three hundred foot diameter tube with two "wings" protruding some three hundred feet from the main body.  The bridge, crew quarters, engines  and main drives are all located in the aft of the vessel.
+The Firebird Class vessels are all based upon the same basic plan; a twelve hundred foot long and three hundred foot diameter tube with two "wings" protruding some three hundred feet from the main body.  The bridge, crew quarters, engines and main drives are all located in the aft of the vessel.
 
 ### Hold
 
-The main hold of the vessel is divided into a five sections, four which are 170 feet long by 200 feet in diameter and one   which is 360 feet long.  For shipping goods which do not require atmosphere, these holds can be used at maximum capacity.  Where atmosphere must be present, tanks have to be installed which can cut down storage space.
+The main hold of the vessel is divided into five sections, four which are 170 feet long by 200 feet in diameter and one which is 360 feet long.  For shipping goods which do not require atmosphere, these holds can be used at maximum capacity.  Where atmosphere must be present, tanks have to be installed which can cut down storage space.
 
 ### Crew Compartments and Bridge
 
-The Firebirds have a crew capacity of thirty to forty, all housed in the aft of the ship.  Early versions of the Firebirds were crowded, spartan affairs, but later versions could rob space from engineering due to smaller generators, engines and drives.
+The Firebirds have a crew capacity of thirty to forty, all housed in the aft of the ship.  Early versions of the Firebirds were crowded, Spartan affairs, but later versions could rob space from engineering due to smaller generators, engines and drives.
 
-The bridge is also located here.  Early Firebirds required at least seven people to operate the ship, but later versions, due to more powerful computers, could in fact be operated by one individual (and even that was generally more a requirement of various safety regulations, the [A Is](/macropedia/a-is) being perfectly capable of in-voyage operation).
+The bridge is also located here.  Early Firebirds required at least seven people to operate the ship, but later versions, due to more powerful computers, could in fact be operated by one individual (and even that was generally more a requirement of various safety regulations, the [AIs](/macropedia/a-is) being perfectly capable of in-voyage operation).
 
 ### Engineering
 

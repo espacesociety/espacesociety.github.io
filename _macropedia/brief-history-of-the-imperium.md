@@ -2,6 +2,7 @@
 layout: page
 title: "Brief History Of The Imperium"
 date: 2007-08-08T20:25:05+00:00
+edited_at: 2025-01-08T10:21:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -14,7 +15,7 @@ categories: []
 	<div class='col-md-4'><a href='/macropedia/canticle-of-hope'>Canticle Of Hope</a></div>
 </div>
 
-'+**A Brief History of the Imperium**+'
+**A Brief History of the Imperium**
 by Jathat Muzreb
 
 ## Introduction

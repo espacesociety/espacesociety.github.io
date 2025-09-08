@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "boris helfstein authored", "data and communications equipment"]
+edited_at: 2025-01-08T10:56:00+00:00
 ---
 
 <div class='row'>
@@ -26,13 +27,13 @@ In more civilized areas, Ethers can connect just about anything electronic in an
 
 Public ethers often exist in areas like libraries and universities, allowing any compatible devices to log into the network and access its resources. The resources that are accessible in this way can be strictly controlled by the administrators of the network.  
 
-Ethers predate the Imperium, and so have been around for quite some time. The technology was kept alive by the [[F Ics](/macropedia/f-ics)](/macropedia/fully-integrated-corporation) You can find all sorts of ancient equipment, and generally it hasn't changed all that much.
+Ethers predate the Imperium, and so have been around for quite some time. The technology was kept alive by the [Fully Integrated Corporation](/macropedia/fully-integrated-corporation). You can find all sorts of ancient equipment, and generally it hasn't changed all that much.
 
 The presence of an ether is easily identified. If everything has a computer keypad attached to it, or if a large portion of the people around are talking, watching, or listening to small devices, you can be sure that an ether is providing them data. 
 
 ## Concerns and Problems
 
-First concern and ether provides in security. Those administrators I mentioned aren't always so careful to restrict access. Even if they are, there are ways of snooping on their signals and breaking into the network.
+First concern an ether provides is in security. Those administrators I mentioned aren't always so careful to restrict access. Even if they are, there are ways of snooping on their signals and breaking into the network.
 
 The second concern is from the other perspective. Ethers make it easy to communicate quickly, so military operations in urban or civilized areas must take them into account. Often this takes the form of disabling the Ether. Being electro-magnetic in nature, this is not particularly difficult.
 

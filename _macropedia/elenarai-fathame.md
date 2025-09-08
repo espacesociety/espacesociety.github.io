@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
+edited_at: 2025-01-08T10:47:00+00:00
 ---
 
 <div class='row'>

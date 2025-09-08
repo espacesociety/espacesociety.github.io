@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2025-01-08T10:51:00+00:00
 ---
 
 <div class='row'>
@@ -26,7 +27,7 @@ Under [Empress Qanna I](/macropedia/qanna-dabrian) and her son, Emperor Niomar (
 
 Niomar gave Engle the task of clearing out the Tawmerik-era bureaucrats, military officers, judges and intellectuals which still dominated many parts of government.  Engle took his job seriously, and moved quickly to round up individuals which, whether truthfully or not, he believed had sympathies for the Tawmeriks.
 
-##The Engle Trials
+## The Engle Trials
 Engle was insatiable.  For every alleged Tawmerik sympathizer he found, he believed there must be a dozen more.  He finally convinced Niomar, who had, by all accounts, become more interested in other, more dire events, to push through a law allowing him to put what he labelled "the traitors in our very midst" to trial.  The Emperor, to his eternal discredit, gave Engle, a man with no legal training, the powers of an Imperial justice.
 
 Engle recruited like-minded prosecutors and judges, and thus began the so-called Engle Trials.  Before it was over, nearly two thousand individuals, some whose only link to the old Tawmerik order was a grant or an official letter of appreciation, were pushed through this court, which had no interest in formalities like standards of evidence, coercion and ultimately torture.  Of those two thousand souls, only six were acquitted.
@@ -37,7 +38,7 @@ The [Imperial Congress](/macropedia/imperial-congress), which itself had remaine
 
 For many it was too late.  The rigors of [Muriz-Kedda](/star-systems/muriz-kedda) proved too much, and Engle had made sure that his own men were put in charge of the prisoners he tried.  Many were murdered, including the famous historian R. B. Muzgersun, author of the seminal [Human History](/macropedia/muzgersuns-history).  Of the two thousand people sent there, some eight hundred died, half murdered and half dying of the severe privations of this terrible planet.
 
-##Engle on Trial and the Aftermath
+## Engle on Trial and the Aftermath
 Engle himself tried to escape, clearly aware that if he were put on trial, his fate would be as bad or worse than those that he had sentenced.  He was recaptured a few months later, and immediately transported to [Muriz-Kedda](/star-systems/muriz-kedda) where the [Imperial Congress](/macropedia/imperial-congress) sent three justices and a special prosecutor to try him and those who had served under him or otherwise aided him.
 
 Engle never saw trial.  One of those that he had sentenced, a civil servant named Asya Kum, horribly mutilated during torture sessions (which she claimed Engle had personally attended), bribed Engle's guards to let her in, and though they swore later that they had searched her, she managed to bring an explosive into Engle's cell and blow him and herself to pieces.

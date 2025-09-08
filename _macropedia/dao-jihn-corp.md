@@ -2,6 +2,7 @@
 layout: page
 title: "Dao Jihn Corp"
 date: 2005-09-02T17:54:47+00:00
+edited_at: 2025-01-08T10:37:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -23,7 +24,7 @@ A series of talented and forward-looking directors saw that the corporation, and
 The corporation became such a revenue generator that it could actually afford to buy a star system, [Raj Mulakane](/star-systems/raj-mulakane), which became the official headquarters for the corporation, and the unofficial headquarters of the [Dinzwar Gefera](/macropedia/dinzwar-gefera).  In this way, the [Dinzwar Gefera](/macropedia/dinzwar-gefera) was reportedly able to weather the disasters that marked the downfall of the Imperium.
 
 ## References
-1. [Anthorph](/macropedia/anthorph)s
+1. [Anthorphs](/macropedia/anthorph)
 1. [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)
 1. [Dinzwar Gefera](/macropedia/dinzwar-gefera)
 1. [Fteigar Alloys](/macropedia/fteigar-alloys)
@@ -36,7 +37,7 @@ The corporation became such a revenue generator that it could actually afford to
 3. [Fteigar Alloy](/macropedia/fteigar-alloy)
 4. [Star Systems](/macropedia/star-systems)
 5. [Raj Mulakane](/star-systems/raj-mulakane)
-6. [(Starsystems.)Raj Mulakane](/star-systemsraj-mulakane)
+6. [Raj Mulakane System](/star-systems/raj-mulakane)
 7. [Dinzwar Gefera](/macropedia/dinzwar-gefera)
 8. [Fteigar Alloys](/macropedia/fteigar-alloys)
 9. [Bid](/macropedia/bafiktuy-intelligence-directive)

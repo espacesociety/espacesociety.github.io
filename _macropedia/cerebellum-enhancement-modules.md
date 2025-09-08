@@ -2,6 +2,7 @@
 layout: page
 title: "Cerebellum Enhancement Modules"
 date: 2006-03-13T18:59:27+00:00
+edited_at: 2025-01-08T10:25:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -22,7 +23,7 @@ One of the most common illegal physiological enhancement systems, capable of hel
 
 ## Basic Function
 
-[C Ems](/macropedia/c-ems) (pronounced "sems") are inserted into the cerebellum through a minor surgery.  [C Ems](/macropedia/c-ems) act to amplify impulses from key sensory areas and aid the cerebellum in co-ordinating them.  This can greatly increase reflexes, and by using some limited AI technology, can actually multiprocess along with the cerebellum a large amount of sensory data, making the enhanced invididual far faster in his or her responses and muscle co-ordination.
+[C Ems](/macropedia/c-ems) (pronounced "sems") are inserted into the cerebellum through a minor surgery.  [C Ems](/macropedia/c-ems) act to amplify impulses from key sensory areas and aid the cerebellum in co-ordinating them.  This can greatly increase reflexes, and by using some limited AI technology, can actually multiprocess along with the cerebellum a large amount of sensory data, making the enhanced individual far faster in his or her responses and muscle co-ordination.
 
 ## Drawbacks
 

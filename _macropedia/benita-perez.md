@@ -2,6 +2,7 @@
 layout: page
 title: "Benita Perez"
 date: 2005-08-07T05:25:34+00:00
+edited_at: 2025-01-08T10:17:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -22,7 +23,7 @@ Last Prime Minister of the short-lived [Terran Republic](/macropedia/terran-repu
 
 During her very brief tenure, [Benita Perez](/macropedia/benita-perez) attempted to reorganize the [Terran Republic](/macropedia/terran-republic) to be more representative.  To reformers, her reorganization was too slow and didn't reach far enough, while to the more conservative elements, her actions were perceived as an attack on the traditional political system.
 
-Though lacking in skill, she did not lack in intelligence, and soon realized that there were forces working to destroy to the [Terran Republic](/macropedia/terran-republic).  Her confrontations with [Alistair Cormwite](/macropedia/alistair-cormwite) were little known outside the higher echelons, but it is clear that towards the end, she recognized him as the chief mover of events to tear down the Republic, though she never could discover who his benefactors were.  Cormwite, a far savvier operator than Perez, seems to have had the better of her in the end.
+Though lacking in skill, she did not lack in intelligence, and soon realized that there were forces working to destroy the [Terran Republic](/macropedia/terran-republic).  Her confrontations with [Alistair Cormwite](/macropedia/alistair-cormwite) were little known outside the higher echelons, but it is clear that towards the end, she recognized him as the chief mover of events to tear down the Republic, though she never could discover who his benefactors were.  Cormwite, a far savvier operator than Perez, seems to have had the better of her in the end.
 
 Upon the collapse of the [Terran Republic](/macropedia/terran-republic), [Benita Perez](/macropedia/benita-perez) was arrested and spent nearly thirty years in prison, charged with various trumped-up treasonous acts (but was never brought to trial).  She was eventually freed, and during a brief period of liberal politics in the Imperium, led the overly idealistic [Committee of Ten Thousand Flowers](/macropedia/committee-ten-thousand-flowers).  She was assassinated soon after, though it is unclear whether this was carried out by agents of the Imperium or some fellow member of the [Committee of Ten Thousand Flowers](/macropedia/committee-ten-thousand-flowers).
 
@@ -38,8 +39,4 @@ Upon the collapse of the [Terran Republic](/macropedia/terran-republic), [Benita
 3. [Terran Republic](/macropedia/terran-republic)
 4. [Benita Perez](/macropedia/benita-perez)
 5. [Alistair Cormwite](/macropedia/alistair-cormwite)
-6. [Committee Of Ten Thousand Flowers](/macropedia/committee-ten-thousand-flowers)
-
-
-
- 
+6. [Committee of Ten Thousand Flowers](/macropedia/committee-ten-thousand-flowers)

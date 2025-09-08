@@ -2,6 +2,7 @@
 layout: page
 title: "Arturo San Degas"
 date: 2005-09-13T14:00:22+00:00
+edited_at: 2025-01-08T10:05:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -16,11 +17,11 @@ categories: ["imperium edition", "isaac taub"]
 </div>
 
 
-Scholars herald **Arturo San Degas** as the greatest [King Traih League](/macropedia/king-traih-league) monarch for he mastered the art of Imperium diplomacy and left behind a legacy that allowed subsequent monarchs to follow in his example. He also established an effective Constitutional monarchy with the League Accordant near the end of his reign. Posthumusly he was re-titled King Traih I.
+Scholars herald **Arturo San Degas** as the greatest [King Traih League](/macropedia/king-traih-league) monarch for he mastered the art of Imperium diplomacy and left behind a legacy that allowed subsequent monarchs to follow in his example. He also established an effective Constitutional monarchy with the League Accordant near the end of his reign. Posthumously he was re-titled King Traih I.
 
-Being an effective monarch, Arturo realized that his was a rare government. Previous monarchs had varying levels of efficiency and corruption. He was the son of King San Degas IV of Arturon. As the youngest of seven sons, Arturo's father never expected him to be king, so he allowed his son educational opportunities not afforded his elder brothers. Thus, his son received dual PhDs in Political Science and Law. Seen as the blueprint for his reigh, his dissertations detailed the effect of inter-sovereign law in the League and the importance of a stable government that functions outside an autocrat.
+Being an effective monarch, Arturo realized that his was a rare government. Previous monarchs had varying levels of efficiency and corruption. He was the son of King San Degas IV of Arturon. As the youngest of seven sons, Arturo's father never expected him to be king, so he allowed his son educational opportunities not afforded his elder brothers. Thus, his son received dual PhDs in Political Science and Law. Seen as the blueprint for his reign, his dissertations detailed the effect of inter-sovereign law in the League and the importance of a stable government that functions outside an autocrat.
 
-He was fifteen years younger than the oldest four brothers. Only the oldest two reigned, each passing shortly into their reign.  When the second was assassinated by pro-People factions, the other brothers refused to take up the throne. Thus, Arturos became King Traih. He established himself an intolerant ruler toward internal violence and those would-be assassin groups were destroyed.
+He was fifteen years younger than the oldest four brothers. Only the oldest two reigned, each passing shortly into their reign.  When the second was assassinated by pro-People factions, the other brothers refused to take up the throne. Thus, Arturo became King Traih. He established himself an intolerant ruler toward internal violence and those would-be assassin groups were destroyed.
 
 ## League Accordant
 
@@ -28,13 +29,13 @@ This document was the key to King Traih's legacy. Rather than wait for problems 
 
 The Accordant was then written by King Traih himself. He spent the better part of five years debating and revising with the best scholars produced by his University. The final document was then given a shaking out by scholars and layman alike in a contest to find weaknesses in the document.
 
-Unlike other constitutions, the Accordant lacks the requisite compromise language. He was able to clearly delineate the duties of citizen, magistrate, and parlimentarian in an interlocking web that has since proven to prevent the government from being overwhelmingly powerful but also preventing the kingdom from devolving into an anarchy.
+Unlike other constitutions, the Accordant lacks the requisite compromise language. He was able to clearly delineate the duties of citizen, magistrate, and parliamentarian in an interlocking web that has since proven to prevent the government from being overwhelmingly powerful but also preventing the kingdom from devolving into an anarchy.
 
-Magistratory governments were established in each system and comprised delegates from each significantly inhabited world. Those delegates ran local affairs at the pleasure of the Monarch, and also appointed ministers who served in the lower house of parliment. As this house was given the the power to remove the Monarch (under certain limitations), the Monarch's pleasure was beholding to Magistratory interests.
+Magistratory governments were established in each system and comprised delegates from each significantly inhabited world. Those delegates ran local affairs at the pleasure of the Monarch, and also appointed ministers who served in the lower house of parliament. As this house was given the the power to remove the Monarch (under certain limitations), the Monarch's pleasure was beholding to Magistratory interests.
 
-The citizens then selected the upper house of Parliment. They were given the power to remove magistrates, which gave citizens the power to remove ineffective magistrates.
+The citizens then selected the upper house of Parliament. They were given the power to remove magistrates, which gave citizens the power to remove ineffective magistrates.
 
-The Monarch was a semi-hereditary position. Each monarch was forced to undergo the Tests of Fitness to prove he had the high standard of governmental training to be a monarch worthy of Traih's legacy. When none in a royal family were found to be Fit, the Parliment chose a Magistrate who would then face the Tests of Fitness. Only such a Magistrate could assume the throne, with all power and responsibilities.
+The Monarch was a semi-hereditary position. Each monarch was forced to undergo the Tests of Fitness to prove he had the high standard of governmental training to be a monarch worthy of Traih's legacy. When none in a royal family were found to be Fit, the Parliament chose a Magistrate who would then face the Tests of Fitness. Only such a Magistrate could assume the throne, with all power and responsibilities.
 
 The **Tests of Fitness** was determined by the University during Traih's reign, and had high standards in its formation and a high degree of secrecy. Discovery that a Monarch had access to the Tests always resulted in immediate abdication.
 

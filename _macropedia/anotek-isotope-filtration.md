@@ -2,6 +2,7 @@
 layout: page
 title: "Anotek Isotope Filtration"
 date: 2006-02-19T04:20:44+00:00
+edited_at: 2025-01-08T10:00:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -20,17 +21,17 @@ categories: ["imperium equipment", "boris helfstein authored", "medical equipmen
 
 One of the handiest things you can possibly ensure is in your gear. If you're traveling, or expecting trouble, get yourself fitted with one of these babies right away.
 
-## What it was supposed to do.
+## What it was supposed to do
 
 Basically, this gadget was invented to help engineers and rescuers survive exposure to intense radiation. Before implantation, they look like a little cylinder woven from wire. But that's [Fteigar](/macropedia/fteigar-alloys) wire, that's supposed to suck the toxins and radioactive contaminants out of your blood.
 
-Versions come in different sizes and capacities, and can be fitted with special nozzles and spigots to excrete the toxins out ports that the surgeon attaches. Most folks get them plumbed into their Urinary tract.
+Versions come in different sizes and capacities, and can be fitted with special nozzles and spigots to excrete the toxins out ports that the surgeon attaches. Most folks get them plumbed into their urinary tract.
 
 You do need to get these little things implanted by a qualified medical technician. They have to be "tuned" to your cellular structure/isotope profile. Getting one that's out of tune would be a short death sentence as it would shred your cells, I understand.
 
 ## The Amazing Side Effect
 
-As an unintended but welcome side-effect, the Isotopic Filters will pretty much protect you completely from exposure to a good deal of environmental toxins and hazards.  Granted, they have a limited capacity for absorption, but they can give you the few seconds you need to get the helmet on your [Kehn Munh Light Battle Suit](/macropedia/kehn-munh-light-battle-suit) or return fire on the guy waving his [+](/macropedia/rainbow-maker) at you.
+As an unintended but welcome side effect, the isotopic filters will pretty much protect you completely from exposure to a good deal of environmental toxins and hazards.  Granted, they have a limited capacity for absorption, but they can give you the few seconds you need to get the helmet on your [Kehn Munh Light Battle Suit](/macropedia/kehn-munh-light-battle-suit) or return fire on the guy waving his [+](/macropedia/rainbow-maker) at you.
 
 ## Drawbacks
 

@@ -2,6 +2,7 @@
 layout: page
 title: "Chovim Family"
 date: 2005-08-08T13:24:18+00:00
+edited_at: 2025-01-08T10:28:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -16,7 +17,7 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-The Chovim Family was a [Fully Integrated Corporation](/macropedia/fully-integrated-corporation) on [[Souldogle Prime](/macropedia/souldogle-prime)](/star-systems/procyon-system). They were, for a time, as politically powerful there as either the Perez or Tawmerik families. However, they combined with several other groups to form the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) and thereby eventually lost their identity as a separate entity.
+The Chovim Family was a [Fully Integrated Corporation](/macropedia/fully-integrated-corporation) on [Souldogle Prime](/star-systems/procyon-system). They were, for a time, as politically powerful there as either the Perez or Tawmerik families. However, they combined with several other groups to form the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) and thereby eventually lost their identity as a separate entity.
 
 About the time of the [Dio En Mashino](/macropedia/dio-en-mashino) discovery, the Chovim were involved in a subtle feud with the Perez family. The two families disagreed on several points about the proper relationship of a FIC with other citizens. This feud blossomed during the time of the [Terran Republic](/macropedia/terran-republic) as the Chovim sought further special corporate privileges over the common people. This strain was exacerbated by the burgeoning relationship between the [Perez Family](/macropedia/perez-family) and the [Imudring](/macropedia/imudring). The feud is sometimes cited as a contributing factor to the instability of the Republic.
 

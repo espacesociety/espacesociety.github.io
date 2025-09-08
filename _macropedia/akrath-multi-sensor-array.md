@@ -2,6 +2,7 @@
 layout: page
 title: "Akrath Multi-Sensor Array"
 date: 2006-03-04T20:05:43+00:00
+edited_at: 2025-01-08T10:01:00+00:00
 comments: true
 sharing: true
 footer: true

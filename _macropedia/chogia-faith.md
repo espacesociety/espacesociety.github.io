@@ -2,6 +2,7 @@
 layout: page
 title: "Chogia Faith"
 date: 2005-08-04T19:32:33+00:00
+edited_at: 2025-01-08T10:27:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -40,7 +41,7 @@ There are literally dozens of gods worshipped in the Chogia faith, and different
 
 * Idu - The sister of Yahveh and the chief fertility goddess of the Imudring.  Her rites are a secret that are forbidden to all non-Imudring, though some accounts claim that chief among the celebrations is the Idu-hajaid, where the members of two Imudring clans will, upon reaching a treaty or agreeing on an alliance, perform an orgy.
 
-* Oj - The Dark One, the Lord of the Singularity, the Negator.  Oj is said to be the father of Yahveh and Idu, but unlike them, does not represent birth or creation, but rather absolute death, or the absense of existence.  Oj is not worshipped, but rather is reviled as the enemy of Creation.  Still, some Oj cults can be found, though commonly anyone discovered worshipping the Lord of the Singularity is put to death.
+* Oj - The Dark One, the Lord of the Singularity, the Negator.  Oj is said to be the father of Yahveh and Idu, but unlike them, does not represent birth or creation, but rather absolute death, or the absence of existence.  Oj is not worshipped, but rather is reviled as the enemy of Creation.  Still, some Oj cults can be found, though commonly anyone discovered worshipping the Lord of the Singularity is put to death.
 
 ### Spirits and Demons
 
@@ -48,7 +49,7 @@ As has been mentioned, the Imudring also believe in a host of minor spirits, dem
 
 * The Star Demons - It is said that at the heart of every star is a Star Demon, a creature born in the violence of stellar creation.  Star Demons are attributed with all manner of trouble, from minor unexplainable mechanical failures up to the loss of entire ships.  Before entering any star system, a ritual is performed by the High Priest to placate the Star Demons.
 
-* The Ahsadhi - Said to have been human once, they hard carnal relations with demons, and became creatures of the Void'^1^'.  They still long for physical forms, and are said to possess individuals for short periods of time to enjoy physical pleasures such as eating, excretion and sexual congress.
+* The Ahsadhi - Said to have been human once, they had carnal relations with demons, and became creatures of the Void'^1^'.  They still long for physical forms, and are said to possess individuals for short periods of time to enjoy physical pleasures such as eating, excretion and sexual congress.
 
 * The Esalu - These are the totemic spirits, the ancestors of the Imudring clans who are not reborn, but rather permitted to remain free of the realm of Valam.  They guide the leaders of their clans, and are worshipped with totemic forms humanoid, animal and even plant-like.
 

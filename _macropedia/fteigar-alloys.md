@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2025-01-08T11:05:00+00:00
 ---
 
 <div class='row'>
@@ -16,7 +17,7 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-Although apocryphal stories within the field of material science attribute the 'Fteigar' title of these alloys to a mythical Dr. Fteiger, the name is actually a pronounciation of the acronym FTAGR. FTAGR stands for 'Fourier Tempered Annealing, Growth and Repositioning.' Although a detailed review of the procedure is beyond the scope of this article, a brief explanation is warranted.
+Although apocryphal stories within the field of material science attribute the 'Fteigar' title of these alloys to a mythical Dr. Fteiger, the name is actually a pronunciation of the acronym FTAGR. FTAGR stands for 'Fourier Tempered Annealing, Growth and Repositioning.' Although a detailed review of the procedure is beyond the scope of this article, a brief explanation is warranted.
 
 The Fteigar process is a process through which holographic interference patterns are used to manipulate laser light. That light is then used to manipulate the atoms of the materials being used to create the object. Since the holopatterns are artificially created, this can and often does give the designing engineer the ability to control the deposition and bonding of individual atoms and layers of atoms onto the surface of the target object. Initially used only to coat objects with alloys, the process was eventually improved to the point where it could create first micro-devices, then nano-devices, and finally large devices. 
 
@@ -28,7 +29,7 @@ Whatever their origins, technical advances made Fteigar items much more commonpl
 * superfriction surfaces (very important for tires and gears)
 * superconducting surfaces, and chips
 * "unbendable" objects, most especially impenetrable armor
-* "smart" or "perfect" camoflage
+* "smart" or "perfect" camouflage
 
 Of course, scientists and engineers will preface their remarks on these materials by saying "not really, see..." However, the near-perfection of these technologies lead to many bizarre events during this period as clever designers made use of a new technique to solve one or another of the Creator's tests.
 

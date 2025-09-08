@@ -2,6 +2,7 @@
 layout: page
 title: "Corrigan System"
 date: 2005-09-14T17:46:30+00:00
+edited_at: 2025-01-08T10:33:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -26,7 +27,7 @@ For a more detailed summary of the pre-Imperium history of the Corrigan system, 
 
 The world of Corrigan was, by the coming of the [Decline](/chronology/first-decline), one of the wealthiest and most populated worlds in human space.  It weathered the Decline largely intact, remaining largely politically unified.  Still maintaining some degree of interstellar travel and communication with nearby systems, it became the prominent member in a group of core worlds.
 
-When humanity again took to the stars, the substantial [magnetic monopole](/natural-sciences/magnetic-monopoles) reserves in the Corrigan System now thrust it to pre-eminence among worlds.  Its rulers, descendants of the old Oligarchs, saw their opportunity to rebuild their ancient empire, and thus began pushing for greater unity between worlds.  Corrigan's wealth allowed it build a navy, a merchant fleet and gain control of many emerging trade routes.  Secret deals with the [Macropedia/Imudring](/macropedia/imudring) gave it a first-buyer right, allowing indirect access to markets not immediately available to the core worlds.
+When humanity again took to the stars, the substantial [magnetic monopole](/natural-sciences/magnetic-monopoles) reserves in the Corrigan System now thrust it to pre-eminence among worlds.  Its rulers, descendants of the old Oligarchs, saw their opportunity to rebuild their ancient empire, and thus began pushing for greater unity between worlds.  Corrigan's wealth allowed it build a navy, a merchant fleet and gain control of many emerging trade routes.  Secret deals with the [Imudring](/macropedia/imudring) gave it a first-buyer right, allowing indirect access to markets not immediately available to the core worlds.
 
 When the unification movement finally did solidify, it was not in the model that the Corrigan Oligarchs wanted, but rather as a democratic confederation of worlds.  Despite its reservations, Corrigan was a signatory of the treaties that founded the [Terran Republic](/macropedia/terran-republic).  The Republic was heavily reliant upon Corrigan's navy and trade routes, and thus it did manage to assert its pre-eminence when the Republican Congress declared it the capital of the [Terran Republic](/macropedia/terran-republic).
 
@@ -50,7 +51,7 @@ The first ruling Premiere, [Durin Bonish](/macropedia/durin-bonish), reflected t
 
 ### The Collapse
 
-The reign of the Bloody Pretender and the ensuing [Hundred Bloody Days](/macropedia/hundred-bloody-days) were something of a false dawn for Corrigan.  Buildings and monuments were built in great numbers, but they were only cheap and crude imitations of those made during the true Age of the Emperors.  The people of Corrigan, largely Normals, were disquieted by the growing reports of the abuses of [Macropedia/Anthorph](/macropedia/anthorph)s, but pined so greatly for a return to the old days that they accepted even a madman, so long as he promised that an Emperor would once again sit on the throne.
+The reign of the Bloody Pretender and the ensuing [Hundred Bloody Days](/macropedia/hundred-bloody-days) were something of a false dawn for Corrigan.  Buildings and monuments were built in great numbers, but they were only cheap and crude imitations of those made during the true Age of the Emperors.  The people of Corrigan, largely Normals, were disquieted by the growing reports of the abuses of [Anthorphs](/macropedia/anthorph), but pined so greatly for a return to the old days that they accepted even a madman, so long as he promised that an Emperor would once again sit on the throne.
 
 When that all came crashing down, Corrigan was left defenseless.  The so-called Ten Rapes of Corrigan, where successive groups of invaders and warlords from other systems tried first to seize the system, and failing that, simply steal everything they could, left Corrigan a shell.  The [Imperial Congress](/macropedia/imperial-congress) held on, and while still asserting its theoretical power over the Imperium, held barely enough power to be called the government of the Corrigan System.   Only humiliating payments of tribute to neighboring warlords have allowed it to remain intact and at least govern in name a small rump of the old Imperium.  Where once its wealth and might allowed it to dictate its terms to other worlds, it now survives by doling out the remnants of the accumulated wealth of centuries.
 
@@ -83,7 +84,7 @@ Founded by [Temba II](/macropedia/temba-two), this grand building of ten thousan
 The day before I left Corrigan, my hosts invited me to a place both ancient and revered, though I doubt more than a handful of offworlders even know of it.  Corrigan's Walk lies several hundred miles away from the Imperial City in a shallow valley that are all that remain of an ancient impact crater.  Here a simple dome building, old but still intact, protects the remnants of Lander 3, the first shuttle, carrying Captain Niels Corrigan and the first of the original five thousand colonists that had left Old Terra in subluminal slowboat vessels.  The ship, a rather crude vessel by modern standards, has been preserved, and though no one is allowed inside, various holograms show its narrow passageways and tiny bridge.  As much as seeing the diminished grandeur of the Imperial City was breathtaking, for a historian, to see this most ancient piece of history is an experience I cannot even begin to describe, and I feel tears well in my eyes at the very thought of it.
 
 ## References
-1. [Macropedia/Anthorph](/macropedia/anthorph)s
+1. [Anthorphs](/macropedia/anthorph)
 1. [Corrigan System](/star-systems/epsilon-eridani)
 1. [Durin Bonish](/macropedia/durin-bonish)
 1. [Fasauntari System](/star-systems/alpha-centauri)
@@ -93,7 +94,7 @@ The day before I left Corrigan, my hosts invited me to a place both ancient and 
 1. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
 1. [Imperial Congress](/macropedia/imperial-congress)
 1. [Imperial Interregnum](/macropedia/imperial-interregnum)
-1. [Macropedia/Imudring](/macropedia/imudring)
+1. [Imudring](/macropedia/imudring)
 1. [Tawmerik Dynasty](/macropedia/tawmerik-dynasty)
 1. [Temba II](/macropedia/temba-two)
 1. [Terran Republic](/macropedia/terran-republic)
@@ -111,12 +112,12 @@ The day before I left Corrigan, my hosts invited me to a place both ancient and 
 9. [Terran Republic](/macropedia/terran-republic)
 10. [Imperium Edition Index](/macropedia/imperium-edition-index)
 11. [Corrigan System](/star-systems/epsilon-eridani)
-12. [Macropedia/Imudring](/macropedia/imudring)
+12. [Imudring](/macropedia/imudring)
 13. [Temba Ii](/macropedia/temba-two)
 14. [Magnetic Monopole](/natural-sciences/magnetic-monopoles)
 15. [Fasauntari System](/star-systems/alpha-centauri)
 16. [Decline](/chronology/first-decline)
-17. [Macropedia/Anthorph](/macropedia/anthorph)
+17. [Anthorph](/macropedia/anthorph)
 18. [Tawmeriks](/macropedia/tawmerik-dynasty)
 
 

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "boris helfstein authored", "combat equipment"]
+edited_at: 2025-01-08T10:42:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/dio-en-mashino'>Dio En Mashino</a></div>
@@ -23,7 +24,7 @@ categories: ["imperium equipment", "boris helfstein authored", "combat equipment
 
 Developed by the [Academy Of The Imperial Fleet](/macropedia/academy-of-the-imperial-fleet) after the Third [Quijrad-Lkrada War](/macropedia/quijrad-lkrada-wars), Disruptor Bombs have the unfortunate capacity to disrupt the molecular and atomic structure of atoms around them. Unfortunately, "around them" can refer to several miles of material. This sheds a tremendous amount of energy that can disrupt an entire planet's ecosystem. 
 
-They work on the same phased-magnetic polarity-shifting idea that is the basis for the Negadisruptor. The only difference is that some genius at the Academy had to figure out a [FTEIGAR](/macropedia/fteigar-alloys) method of imprinting the effect into the warhead of a nuclear weapon. As the nuke reaches critical mass, its EMP hits the FTEIGAR casing nanoseconds before it gets destroyed. "Luckily" thats enough time for the casing to produce a spherical charge-inversion wave.
+They work on the same phased-magnetic polarity-shifting idea that is the basis for the Negadisruptor. The only difference is that some genius at the Academy had to figure out a [FTEIGAR](/macropedia/fteigar-alloys) method of imprinting the effect into the warhead of a nuclear weapon. As the nuke reaches critical mass, its EMP hits the FTEIGAR casing nanoseconds before it gets destroyed. "Luckily" that's enough time for the casing to produce a spherical charge-inversion wave.
 
 ## What happens?
 

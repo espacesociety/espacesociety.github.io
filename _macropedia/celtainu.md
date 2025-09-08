@@ -2,6 +2,7 @@
 layout: page
 title: "Cel-Tainu Astrophysical Research Corporation"
 date: 2005-10-18T20:24:20+00:00
+edited_at: 2025-01-08T10:24:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -24,7 +25,7 @@ Stepivan earned his degree, while Phurnando had facilities built to restore the 
 
 Dr. Letalles spent the remainder of his career validating the route formulae while Stepivan built CARC's business out of restoring them. Their efforts helped enable the major colonies to re-establish trade and communication. 
 
-However, the [Helsmunt Institute](/macropedia/helsmunt-institute) sued to recover the original computer. The Institute settled out of court when they were offered a ten percent ownership of CARC, which made them a comfortable but silent partner. Eventually, the Imperium nationalized the CARC and turned it into the Ministry for Transportation. This gave the imperium a virtual monopoly over interstellar routes.
+However, the [Helsmunt Institute](/macropedia/helsmunt-institute) sued to recover the original computer. The Institute settled out of court when they were offered a ten percent ownership of CARC, which made them a comfortable but silent partner. Eventually, the Imperium nationalized the CARC and turned it into the Ministry for Transportation. This gave the Imperium a virtual monopoly over interstellar routes.
 
 The negotiator for the out-of-court settlement was none other than [Benita Perez](/macropedia/benita-perez), who earned ten percent of the Institutes winnings. With this windfall, she sought to retire peacefully. However, she served as a catalyst for the formation of the new republic. She eventually assumed she had a knack for politics and was astonished when she won her first seat and was soon after elected to prime minister.
 

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2025-01-08T10:58:00+00:00
 ---
 
 <div class='row'>
@@ -42,7 +43,7 @@ By the second half of the Decline, only a half-dozen kingdoms remained, with Gla
 In the final century of the Decline, the last great war of the Fasantauri System was fought, the so-called Fifth Patrician's War.  Though, like the others, it was fought largely to a stalemate, for Krezil it proved an economic disaster, leading to the infamous [Krezil Stock Market Crash](/macropedia/krezil-stock-market-crash).  The Tawmeriks, Perezs and the other Oligarchs (particularly the Bafiktuys), seized much of this wealthy state's assets, enriching themselves and paving the way for political unification.
 
 ### The Terran Republic and Early Imperium
-With the rediscovery of hopspace techology, the Fasantauri System was thrust to the forefront.  Its wealth and its formidable technology were so great that even internal divisions could not keep the Oligarchs and the lesser families and corporations from forming a hub of worlds, united in purpose if not always in actions.
+With the rediscovery of hopspace technology, the Fasantauri System was thrust to the forefront.  Its wealth and its formidable technology were so great that even internal divisions could not keep the Oligarchs and the lesser families and corporations from forming a hub of worlds, united in purpose if not always in actions.
 
 The formation of the [Terran Republic](/macropedia/terran-republic) was, in very large part, simply an extension of political, social and economic evolution of the Fasantauri System during the latter part of the Decline.  While other systems would be added, none could boast the wealth and power that the Oligarchic and younger clans of Fasantauri held.
 
@@ -59,7 +60,7 @@ By the later Imperium, Fasantauri was little more than an Oligarch-run technocra
 With the failure of the Emperors and the beginning of the [Imperial Interregnum](/macropedia/imperial-interregnum), the Oligarchs were keen supporters of the new political structure with [Durin Bonish](/macropedia/durin-bonish) at the helm.  Bonish was more keen to do business with the Oligarchs, receiving large loans and key [Congressional](/macropedia/imperial-congress) votes in return.  While Bonish and his successors were vocally great champions of honest government, they were, in fact, the greatest beneficiaries of corruption, much of it stemming from the Oligarchs of Fasantauri.
 
 ### The Hundred Bloody Days
-It is still too recent in time to determine the truth of Fasantauri's involvement in the [Hundred Bloody Days](/macropedia/hundred-bloody-days).  The were [Anthorph](/macropedia/anthorph)s in the system had always been a second-class populace, and bigoted attitudes never entirely faded away even during the more enlightened period of the High Imperium.  The Oligarchs, while clearly uncomfortable with the Bloody Pretender, were quite willing to profit from his brief, vicious reign, and in this more than any other act, condemned themselves as profiteers and amoral power seekers.
+It is still too recent in time to determine the truth of Fasantauri's involvement in the [Hundred Bloody Days](/macropedia/hundred-bloody-days).  The [Anthorph](/macropedia/anthorph)s in the system had always been a second-class populace, and bigoted attitudes never entirely faded away even during the more enlightened period of the High Imperium.  The Oligarchs, while clearly uncomfortable with the Bloody Pretender, were quite willing to profit from his brief, vicious reign, and in this more than any other act, condemned themselves as profiteers and amoral power seekers.
 
 ### The Civil War
 The fall of the Bloody Pretender had swift consequences for the Fasantauri system.  Its economy collapsed as the Oligarchs found themselves financially overextended from the vast loans they had given to the [Imperial Congress](/macropedia/imperial-congress) and the Bloody Pretender.  Unemployment suddenly skyrocketed to over twenty percent, the Imperium currency so devalued now that double digit inflation became the norm.  Revolution and civil war were inevitable.

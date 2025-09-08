@@ -2,6 +2,7 @@
 layout: page
 title: "Balanar Three"
 date: 2005-09-11T01:24:38+00:00
+edited_at: 2025-01-08T10:15:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -22,7 +23,7 @@ Balanar Dabrian III was a poor emperor who did little to prevent the Imperium's 
 
 Balanar's mother, the Empress Serema chafed under the [Grand Reforms](/macropedia/grand-reforms), and sought a way to free the Imperium from what she saw as the choking restrictions the [Imperial Congress](/macropedia/imperial-congress) imposed on her family. Her first son, Ivan, would give her an answer.
 
-Ivan was very handsome, and his political acumen reminds many historians of his namesake, the great [Ivan Dabrian](/macropedia/ivan-dabrian). He began at an early age to lobby for a return to the great Golden Age of that other Ivan. His mother made sure to have plenty of "spiritual" confirmation of this outcome through donations to many [Kuberian](/macropedia/kuberian-movement) organizations.
+Ivan was very handsome, and his political acumen reminded many historians of his namesake, the great [Ivan Dabrian](/macropedia/ivan-dabrian). He began at an early age to lobby for a return to the great Golden Age of that other Ivan. His mother made sure to have plenty of "spiritual" confirmation of this outcome through donations to many [Kuberian](/macropedia/kuberian-movement) organizations.
 
 However, the [Congress](/macropedia/imperial-congress) was not about to see this happen, regardless of how many of its daughters Ivan seduced (politically or otherwise). They increased pressure dramatically on Serema. Forcing her to name her second, and almost totally ignored, son as her heir.
 
@@ -52,8 +53,4 @@ Realizing that his frivolous decisions were putting his own life at risk, Balana
 5. [Imperial Interregnum](/macropedia/imperial-interregnum)
 6. [Kuberian](/macropedia/kuberian-movement)
 7. [Congress](/macropedia/imperial-congress)
-8. [Jubal Iii](/macropedia/jubal-three)
-
-
-
- 
+8. [Jubal III](/macropedia/jubal-three)

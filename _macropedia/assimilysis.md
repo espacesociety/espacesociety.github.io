@@ -2,6 +2,7 @@
 layout: page
 title: "Assimilysis"
 date: 2005-07-26T11:37:35+00:00
+edited_at: 2025-01-08T10:07:00+00:00
 comments: true
 sharing: true
 footer: true
@@ -18,11 +19,11 @@ categories: ["imperium edition", "chang singh authored"]
 
 A horrifying technique developed by the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) during the [Terran Republic](/macropedia/terran-republic) as a method of mind control.  For some time, its existence was unknown, or at least disbelieved.  [Charl Bovit](/macropedia/charl-bovit), that most insidious of BID directors, was, it was discovered long after, the person behind the development, and though many ill deeds can be linked to him, this one is surely the worst.
 
-The precise nature of the Assimilysis technique is unknown, all detailed documents forbidden to all save those who have a special Imperial dispensation.  Never the less, it is surmised that the technique involved some sort of tailored virus that could essentially rewrite genes in the brain dealing with ego and self-awareness.  By changing the genetic and neural structure of these areas of the brain, a person could conceivably become a mental slave, incapable of disobeying orders.
+The precise nature of the Assimilysis technique is unknown, all detailed documents forbidden to all save those who have a special Imperial dispensation.  Nevertheless, it is surmised that the technique involved some sort of tailored virus that could essentially rewrite genes in the brain dealing with ego and self-awareness.  By changing the genetic and neural structure of these areas of the brain, a person could conceivably become a mental slave, incapable of disobeying orders.
 
 The earliest reports that match what we know of the technique, dating back to the first years of the Republic, were of individuals who were described as being cold, emotionless and vague.  Frequently they would be quickly discovered because of their behavior, but the evidence even then pointed to some technique to gain control of them for the purposes of espionage.
 
-The technique was soon perfected to the point where obvious psychological effects were very limited.  Spouses and close friends might not even notice someone who had been be subverted by the technique.  BID gained many agents this way, and was able to gain information on all levels of Republican society.  By this point, there were hushed rumors that BID was using some terrible mind control technique.  This wild conspiratorial talk might have been ignored, save that BID seemed to have an uncanny ability to know the most private details of various individuals and organizations.
+The technique was soon perfected to the point where obvious psychological effects were very limited.  Spouses and close friends might not even notice someone who had been subverted by the technique.  BID gained many agents this way, and was able to gain information on all levels of Republican society.  By this point, there were hushed rumors that BID was using some terrible mind control technique.  This wild conspiratorial talk might have been ignored, save that BID seemed to have an uncanny ability to know the most private details of various individuals and organizations.
 
 With the collapse of the Republic, Bovit was handed a handful of medals, congratulated for his tireless work to keep violent and revolutionary elements at bay, and retired.  His successors feared the technique might be used against BID and buried it.
 
@@ -35,9 +36,11 @@ Despite the best efforts of the Imperium to keep the technique secret, some ex-B
 1. [Charl Bovit](/macropedia/charl-bovit)
 1. [Terran Republic](/macropedia/terran-republic)
 
-## References
+## Related Articles
 
-
-
+1. [Imperium Edition Index](/macropedia/imperium-edition-index)
+2. [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)
+3. [Charl Bovit](/macropedia/charl-bovit)
+4. [Terran Republic](/macropedia/terran-republic)
 
  
