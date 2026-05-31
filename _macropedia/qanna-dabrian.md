@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -32,7 +33,7 @@ When she ascended the throne, she achieved a great deal. Her maneuverings and sc
 
 She continued to rule and age, staying in good health. She did not, however, manage to get through to Niomar. She did manage to forge a good and healthy relationship with his son Qivar. It is widely presumed that she hoped to outlive Niomar to the point where Qivar could be named her successor. Fortune being what it is, when Qanna finally passed she had no time to name Qivar.
 
-Instead Niomar assumed the throne. Generally unprepared and unsuited for the throne, Niomar couldn't handle delicate situations well and was effectively set up for blundering into the [Merithian Revolution](/macropedia/merithian-revolution) 
+Instead Niomar assumed the throne. Generally unprepared and unsuited for the throne, Niomar couldn't handle delicate situations well and was effectively set up for blundering into the [Merithian Revolution](/macropedia/merithian-revolution). 
 
 
 ## References

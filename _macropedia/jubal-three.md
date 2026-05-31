@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,7 +23,7 @@ During his regency, Jubal spent a lot of time subtly downplaying the power of th
 
 Instead Jubal spent those years playing a wild game of social and political intrigue, building alliances and treasure for a bid to regain Imperial power. Jubal was not certain he could complete the plan in his lifetime and began schooling his son [Jubal IV](/macropedia/jubal-four) in what he saw as the vision of the future. The primary strategy this dealing appeared to follow was to appeal to as many powerful and wealthy, but disenfranchised, groups as possible. Dabrian resources were not spared in the dealing as the [Tithian Foundation](/macropedia/tithian-foundation) was sold off.
 
-Additionally, as the [Yousamin Faction](/macropedia/yousamin-faction) arose, he played to their austere tune, slimming and cutting the funds for his family over all objections (sometimes over their rapidly cooling corpses.) This lead to a bit of tension between Jubals III and IV, as it cut off the almost-traditional youthful excess of Dabrian heirs. Many speculate that this tension is what lead to [Jubal IV](/macropedia/jubal-four)'s horribly misguided rejection of his father's ways during his reign.
+Additionally, as the [Yousamin Faction](/macropedia/yousamin-faction) arose, he played to their austere tune, slimming and cutting the funds for his family over all objections (sometimes over their rapidly cooling corpses.) This led to a bit of tension between Jubals III and IV, as it cut off the almost-traditional youthful excess of Dabrian heirs. Many speculate that this tension is what led to [Jubal IV](/macropedia/jubal-four)'s horribly misguided rejection of his father's ways during his reign.
 
 Jubal III perished in an odd accident that also took the lives of some of his Sevyet friends. Suspicion became quickly divided between his enemies and the [X'kan Nimu Hal](/macropedia/xkan-nimu-hal).
 

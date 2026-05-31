@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,9 +17,9 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-The Duke Gawdain Tawmerik is famed for two things. Primary among them was the commision of the design for [Parthas Class Vessels](/macropedia/parthas-class-vessels). Secondarily, he is noted for his role in creating dissension among the the Tawmerik family. Some credit this dissension with sowing the seeds of the end of the dynasty, however that appears somewhat overstated.
+The Duke Gawdain Tawmerik is famed for two things. Primary among them was the commission of the design for [Parthas Class Vessels](/macropedia/parthas-class-vessels). Secondarily, he is noted for his role in creating dissension among the Tawmerik family. Some credit this dissension with sowing the seeds of the end of the dynasty, however that appears somewhat overstated.
 
-When the Imperium legislated control and profits of the Parthas shipyards away from Gawdain, he took it as personal insult. Working tirelessly, he developed a coalition of Tawmeriks who secretly opposed the Imperial system. They became tightly involved with the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive). So much so, that the Empress [Lenda Tawmerik](/macropedia/lenda-tawmerik) eventually created the [Umarian Guard](/macropedia/umarian-guard). 
+When the Imperium legislated control and profits of the Parthas shipyards away from Gawdain, he took it as a personal insult. Working tirelessly, he developed a coalition of Tawmeriks who secretly opposed the Imperial system. They became tightly involved with the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive). So much so, that the Empress [Lenda Tawmerik](/macropedia/lenda-tawmerik) eventually created the [Umarian Guard](/macropedia/umarian-guard). 
 
 The movement lost momentum after Gawdain's death. It never made any overt attempts to disrupt the Imperial System, however it did make things politically interesting for several decades.
 

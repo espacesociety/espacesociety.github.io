@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -24,13 +25,13 @@ It was, however, a difficult time for the Imudring.  Other merchants, many with 
 
 Doozium saw his opportunity, and put forward the proposal of a federation of the Imudring, which could battle the Imperium merchants and their political masters on even ground.  He spent vast amounts of money campaigning among even the most distant Imudring, promising that in unity the Imudring could heal the divisive religious wounds and push out many of their trade competitors.
 
-Many Imudring, while fiercely independent, saw Doozium's federation as their only hope, and at a historic meeting, some sixty percent agreed to create the federation.  It was not an overwhelming response, and many key Imudring groups refused to recognize the vote.  Never the less, Doozium was given the title First Representative, and with gracious speech, vowed to immediately set about an ambitious program.
+Many Imudring, while fiercely independent, saw Doozium's federation as their only hope, and at a historic meeting, some sixty percent agreed to create the federation.  It was not an overwhelming response, and many key Imudring groups refused to recognize the vote.  Nevertheless, Doozium was given the title First Representative, and with gracious speech, vowed to immediately set about an ambitious program.
 
-Doozium's opponents among the Imudring had not been idle, however.  They soon "discovered" evidence that Doozium was, in fact, a [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) agent, and with the publication of alleged communications between Doozium and his BID handlers, the federation collapsed.  Doozium tried to escape, but was captured and after a one day trial, sentenced to death for high treason.  To the very end he proclaimed his innocence, but the Imudring were in no mood for mercy, and was set adrift in deep space with one month's air and supplies.
+Doozium's opponents among the Imudring had not been idle, however.  They soon "discovered" evidence that Doozium was, in fact, a [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) agent, and with the publication of alleged communications between Doozium and his BID handlers, the federation collapsed.  Doozium tried to escape, but was captured and after a one day trial, sentenced to death for high treason.  To the very end he proclaimed his innocence, but the Imudring were in no mood for mercy, and he was set adrift in deep space with one month's air and supplies.
 
-Later analysis of the communications between Doozium and BID were later declared fraudulent, and it seems clear now that his enemies, possibly with the aid of people within the Imperium, had created a fiction with the express purpose of destroying Doozium's reputation and destroying his federation.
+Later analysis of the communications between Doozium and BID was later declared fraudulent, and it seems clear now that his enemies, possibly with the aid of people within the Imperium, had created a fiction with the express purpose of destroying Doozium's reputation and destroying his federation.
 
-As to Doozium himself, rumors that he was rescued began almost as soon as he had been tossed into space.  Some said he secretly made his way beyond Imperium space to distant Imudring outposts, while others insisted that, under an assumed identity, lived quite peacefully among his people.  There's little to support these stories, and it seems likely that Doozium died of asphyxiation after being given a month to reflect upon his ill-fated attempt to unite the Imudring.
+As to Doozium himself, rumors that he was rescued began almost as soon as he had been tossed into space.  Some said he secretly made his way beyond Imperium space to distant Imudring outposts, while others insisted that, under an assumed identity, he lived quite peacefully among his people.  There's little to support these stories, and it seems likely that Doozium died of asphyxiation after being given a month to reflect upon his ill-fated attempt to unite the Imudring.
 
 ## References
 1. [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)

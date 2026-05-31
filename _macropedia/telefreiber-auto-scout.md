@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "boris helfstein authored", "miscellaneous equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -24,7 +25,7 @@ The cannister releases up to 8, 4 cm robotic scouts. They will head out and usin
 
 Telefreiber leveraged their "swarm-bot" technology to this application after it garnered a bit of resentment from their [Observers](/macropedia/telefreiber-observers).
 
-Generally speaking, these kits are fairly decent survival gear. The little 'bots are quite vulnerable to any number of hostile means of destruction or interference, and you certainly don't want an enemy following one back you your hideout.
+Generally speaking, these kits are fairly decent survival gear. The little 'bots are quite vulnerable to any number of hostile means of destruction or interference, and you certainly don't want an enemy following one back to your hideout.
 
 There have been occasional reports of Telefreiber's Warrior Ants becoming disoriented by interaction with Auto Scouts. However, I don't think I'd bet my life on it.
 

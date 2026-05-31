@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored", "combat equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -27,8 +28,8 @@ The earliest examples of Oneric Devices were generally simple blades and
 maces.  Embedded in them was a generator capable of emitting waves that
 interrupted the brain patterns of a victim.  The results of these earliest
 devices was unpredictable, and sometimes were even known to produce a
-berzerker effect.  As well, these weapons could have a lash-back effect,
-effecting the wielder as well as the target.  The
+berserker effect.  As well, these weapons could have a lash-back effect,
+affecting the wielder as well as the target.  The
 [Liu-No-Ri](/macropedia/liu-no-ri-masters) overcame this with a number of meditation
 techniques.
 
@@ -36,12 +37,12 @@ Despite this, Oneric Devices gained a reputation as being the ultimate in
 melee combat weapons.  It wasn't very long before others had figured out
 what the [Liu-No-Ri Masters](/macropedia/liu-no-ri-masters) had done and began duplicating
 them.  Soon all the security firms had them, and despite the frequent
-protestations of the [Imperial Congress](/macropedia/imperial-congress), none cared to the devices up.  In
+protestations of the [Imperial Congress](/macropedia/imperial-congress), none cared to take the devices up.  In
 fact, the Oneric Devices were steadily improved, and new forms were made;
 like gloves that could cause severe damage to the brain if someone were
 simply tapped on the forehead, or suits that sufficiently scrambled brain patterns to cause confusion in an opponent.
 
-A final attempt was made to ban Oneric Devices during the Premiereship of [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol).  Legislation was passed making the possession of such devices illegal.  By this point, the Imperium's ability to actually enforce such a law was almost impossible, and security firms continue to use such weapons to this very day.
+A final attempt was made to ban Oneric Devices during the Premiership of [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol).  Legislation was passed making the possession of such devices illegal.  By this point, the Imperium's ability to actually enforce such a law was almost impossible, and security firms continue to use such weapons to this very day.
 
 ## References
 1. [Dinzwar Gefera](/macropedia/dinzwar-gefera)

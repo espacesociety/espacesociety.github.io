@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "isaac taub authored", "computer equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -17,9 +18,9 @@ categories: ["imperium equipment", "isaac taub authored", "computer equipment"]
 
 
 
-With the profligation of [FADAP](/macropedia/f-ad-ap)s, one of the greater concerns among security experts is the development of computer applications that are harder to detect. **Imprinted Personality** [A Is](/macropedia/a-is) (nicknamed "[I Mps](/macropedia/i-mps)") are bits of software that are virtually identical to human interaction. It has been said that some [I Mps](/macropedia/i-mps) will watch an individual's [Ether](/macropedia/ether) activity, then adapt to his pattern. 
+With the profligation of [FADAP](/macropedia/f-ad-ap)s, one of the greater concerns among security experts is the development of computer applications that are harder to detect. **Imprinted Personality** A Is (nicknamed "I Mps") are bits of software that are virtually identical to human interaction. It has been said that some I Mps will watch an individual's [Ether](/macropedia/ether) activity, then adapt to his pattern. 
 
-This unique IMP-ish behavior has caused deep concern for security specialists as it makes it harder for them to diagnose and target against FADAP activity. Many Terran Rights activists claim that many well-known programmers have been falsely imprisoned because an IMP copied their signature behaviors, then applied that behavior to attack key Imperial systems. Naturally, the Imperial government is statisfied that a cracker has been imprisoned.
+This unique IMP-ish behavior has caused deep concern for security specialists as it makes it harder for them to diagnose and target against FADAP activity. Many Terran Rights activists claim that many well-known programmers have been falsely imprisoned because an IMP copied their signature behaviors, then applied that behavior to attack key Imperial systems. Naturally, the Imperial government is satisfied that a cracker has been imprisoned.
 
 It is widely believed that the Feldar Incident was the result of an IMP hacking into a system Soup-AI Hopputer and misprogramming it.
 
@@ -30,8 +31,8 @@ It is widely believed that the Feldar Incident was the result of an IMP hacking 
 ## Related Articles
 
 1. [Imperium Equipment Index](/macropedia/imperium-equipment-index)
-2. [A Is](/macropedia/a-is)
-3. [I Mps](/macropedia/i-mps)
+2. A Is
+3. I Mps
 4. [Fadap](/macropedia/f-ad-ap)
 5. [Ether](/macropedia/ether)
 

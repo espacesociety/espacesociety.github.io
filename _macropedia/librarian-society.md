@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["chang singh authored", "imperium edition"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -32,13 +33,13 @@ Four committees run all the various aspects of the Society:
 The original committee created with the writing of the Charter.  It functions as the executive body; administrating finances, setting and altering rules and practices and selecting members of the other committees.  Its eleven members are elected by general vote of all members, and hold their positions for life.  One member of this committee is selected by secret ballot to be the President, who is responsible for the day-to-day administration of the Society and only votes when there is need of a tie-breaker.
 
 ### Peer Committee
-The Peer Committee is responsible for adminstrating the membership of the Society; selecting new members, maintaining membership lists, and on occasion, suspending or revoking a membership for various proscribed behaviors.  The Peer Committee is elected every seven standard years by all members from a list of candidates drawn up by the Librarian's Committee.
+The Peer Committee is responsible for administrating the membership of the Society; selecting new members, maintaining membership lists, and on occasion, suspending or revoking a membership for various proscribed behaviors.  The Peer Committee is elected every seven standard years by all members from a list of candidates drawn up by the Librarian's Committee.
 
 ### The Historical Review Committee
 The Historical Review Committee is responsible for determining the veracity of any newly discovered library or archive.  Though rarely convened nowadays, its work has been crucial in weeding out unreliable libraries of alleged antiquity or accuracy.  Its members are selected by the Librarian's Committee, and is also a life-time membership.
 
 ### Additions Review Committee
-Probably the single most important committee besides the Librarian's Committee, its task is to act as a registrar of new libraries, archives and private collections, and to determine the veracity of such libraries.  It has, in the past, worked in close assocation with the Historical Review Committee, but as that committee is rarely convened any more, the Additions Review Committee has taken over the role of maintaining the lists of recognized libraries.  Its members are, like the Peer Committee, selected in a general election every seven years from a list of candidates selected by the Librarian's Committee.
+Probably the single most important committee besides the Librarian's Committee, its task is to act as a registrar of new libraries, archives and private collections, and to determine the veracity of such libraries.  It has, in the past, worked in close association with the Historical Review Committee, but as that committee is rarely convened any more, the Additions Review Committee has taken over the role of maintaining the lists of recognized libraries.  Its members are, like the Peer Committee, selected in a general election every seven years from a list of candidates selected by the Librarian's Committee.
 
 ## History
 
@@ -51,12 +52,12 @@ Despite these difficulties, the Librarian Society did become an early champion o
 
 ### Muzgersun's Reforms
 It was under the leadership of the famous [R. B. Muzgersun](/macropedia/muzgersuns-history) that the Society was reformed, becoming both more democratic and more effective.  
-Muzgersun set up a number of committees; the Peer, Historical Review and Additiosn Review Committees.  From that time forward, the Society was finally able to fulfill its charter, though it must be noted that politics still plays a major role.
+Muzgersun set up a number of committees; the Peer, Historical Review and Additions Review Committees.  From that time forward, the Society was finally able to fulfill its charter, though it must be noted that politics still plays a major role.
 
 ### The Rise of the Kuberians
 The [Kuberian Movement](/macropedia/kuberian-movement)'s rise put the Librarian Society into a difficult position.  While the Society's main concern was the veracity of libraries, and not the legitimacy of any particular philosophical or religious movement, many Kuberian writings made historical claims, some justified by collections not certified by the Society as legitimate or trustworthy.
 
-Some Kuberians decried the Society as a den of pseudo-rationalists, and for a time it seemed that the Society might face new reforms or possibly even the removal of its charter.  Under [Antius Trevus I](/macropedia/antius-trevus-one), an oversite committee was installed to assure that the Society did not work against any of the philosophical and spiritualist groups that had grown out of the Kuberians, but the Society found its fears of severe interference were uncalled for.  The [Imperial Congress](/macropedia/imperial-congress) by now had substantial powers and renewed the Society's charter with specific protections against outside interference.
+Some Kuberians decried the Society as a den of pseudo-rationalists, and for a time it seemed that the Society might face new reforms or possibly even the removal of its charter.  Under [Antius Trevus I](/macropedia/antius-trevus-one), an oversight committee was installed to assure that the Society did not work against any of the philosophical and spiritualist groups that had grown out of the Kuberians, but the Society found its fears of severe interference were uncalled for.  The [Imperial Congress](/macropedia/imperial-congress) by now had substantial powers and renewed the Society's charter with specific protections against outside interference.
 
 ### The Failing Empire
 The [Imperial Interregnum](/macropedia/imperial-interregnum) produced new challenges for the Society.  The slow breakdown of communications meant many members were cut off for years.  The [Hundred Bloody Days](/macropedia/hundred-bloody-days) saw the Society almost gutted as [Anthorph](/macropedia/anthorph) members were either imprisoned, murdered or fled.  Some libraries were destroyed, causing irreparable harm to the work of some scholars.

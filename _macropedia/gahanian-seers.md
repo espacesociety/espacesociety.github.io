@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -24,7 +25,7 @@ Their predictions, whatever the source, seemed to impress a number of important 
 
 With the death of the last emperor, [Jubal IV](/macropedia/jubal-four), the Seers found themselves the object of much unwanted attention by the Premieres.  Dark rumors of human sacrifices and sexually deviant practices were promoted by the Premieres, who sought to get their hands on the wealth of the seers.
 
-Then, during the rule of the second Premiere, [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol), the Gahanian Seers simply disappeared.  Their monasteries were abandoned, with even books opened as if being read and half-eaten meals on the tables.  Armies of investigators poured over the monasteries, but could find no evidence of any foul play, but neither could they find evidence of wealth.  It was if the Seers had just simply ceased to exist.  The only hint of what might have happened was a single Seer, quite mad and unable to even remember his name, who simply said "They have transferred" before becoming completely incoherent and dying.
+Then, during the rule of the second Premiere, [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol), the Gahanian Seers simply disappeared.  Their monasteries were abandoned, with even books opened as if being read and half-eaten meals on the tables.  Armies of investigators pored over the monasteries, but could find no evidence of any foul play, and neither could they find evidence of wealth.  It was as if the Seers had simply ceased to exist.  The only hint of what might have happened was a single Seer, quite mad and unable to even remember his name, who simply said "They have transferred" before becoming completely incoherent and dying.
 
 ## References
 1. [Antius Trevus I](/macropedia/antius-trevus-one)

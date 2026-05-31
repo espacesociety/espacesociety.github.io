@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "kvecton sharp authored", "luxury equipment", "surveillance equipment", "transportation equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,7 +23,7 @@ Popular recreational craft, the Icarus Flyer is a body suit with micro-carbon fi
 
 ## Basic Design
 
-The Icarus Flyer looks a good deal like a bat, with the micro-carbon filaments used to make the skeleton on which a carbon-fiber fabric is hung.  The electric motor, powered by [Uraman Cells](/macropedia/uraman-cells) is located on the back of the suit.  The motor runs a small turbine capable of speeds of up to 250mph at 1g in Terran-normal atmospheric pressure.
+The Icarus Flyer looks a good deal like a bat, with the micro-carbon filaments used to make the skeleton on which a carbon-fiber fabric is hung.  The electric motor, powered by Uraman Cells is located on the back of the suit.  The motor runs a small turbine capable of speeds of up to 250mph at 1g in Terran-normal atmospheric pressure.
 
 The guidance system is located in the gloves, with pressure pads in the palms to control speed, direction and altitude.  Icarus Corp. brags that even a person of substandard intellect can learn to operate their Flyer in less than two hours.
 
@@ -34,21 +35,21 @@ The Icarus Flyer may be one of the most popular recreational vehicles ever inven
 
 The low-end models, which usually can't go above an altitude of 5,500 feet, are quite affordable.  Mid-range models can go up to 15,000 feet.  High-end models, often used for military and competition applications, are pressurized and can go up to 40,000 feet, with the current record being around 52,000 Imperium mean feet.
 
-While military uses are obvious, particularly for espionage and reconnaissance (rumor has it that Icarus has a top-secret model with [Zelrade Sensor Neutral Stealth](/macropedia/zelrade-sensor-neutral-stealth) technology), the best known use is competition sports.  Possibly one of the most popular sports in the Imperium, Icarus Flyer events feature pure speed competitions, altitude competitions and obstacle courses, and in the case of the famed Delta Savvius Competition held every four years, the dreaded Savvius Run which combines all elements.
+While military uses are obvious, particularly for espionage and reconnaissance (rumor has it that Icarus has a top-secret model with Zelrade Sensor Neutral Stealth technology), the best known use is competition sports.  Possibly one of the most popular sports in the Imperium, Icarus Flyer events feature pure speed competitions, altitude competitions and obstacle courses, and in the case of the famed Delta Savvius Competition held every four years, the dreaded Savvius Run which combines all elements.
 
 ## References
 1. [Ether](/macropedia/ether)
 1. [Migar Comm](/macropedia/migar-comm)
 1. [Terran Republic](/macropedia/terran-republic)
-1. [Uraman Cells](/macropedia/uraman-cells)
-1. [Zelrade Sensor Neutral Stealth](/macropedia/zelrade-sensor-neutral-stealth)
+1. Uraman Cells
+1. Zelrade Sensor Neutral Stealth
 
 ## Related Articles
 
 1. [Imperium Equipment Index](/macropedia/imperium-equipment-index)
 2. [Terran Republic](/macropedia/terran-republic)
-3. [Uraman Cells](/macropedia/uraman-cells)
-4. [Zelrade Sensor Neutral Stealth](/macropedia/zelrade-sensor-neutral-stealth)
+3. Uraman Cells
+4. Zelrade Sensor Neutral Stealth
 5. [Migar Comm](/macropedia/migar-comm)
 6. [Ether](/macropedia/ether)
 

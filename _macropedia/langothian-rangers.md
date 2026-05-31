@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,7 +19,7 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 
 During and immediately prior to the formation of the Empire, there were many military organizations and bodies that were tied to one or more political bodies that were being subsumed within the [Terran Republic](/macropedia/terran-republic) and finally the Empire. Among them, perhaps most flamboyantly, were the Langothian Rangers.
 
-Langos is a rather unusual system with a large number of reasonably colonizable bodies. Even through the [First Decline](/chronology/first-decline), piracy and lawlessness were a problem. Combine that with resentment against a large population of in-system [Imudring](/macropedia/imudring) and conflict results. This lead to the formation of a group of almost freelance "law men" calling themselves the Langothian Rangers. They were a marginally effective, and rather haphazard solution to the Tests they faced.
+Langos is a rather unusual system with a large number of reasonably colonizable bodies. Even through the [First Decline](/chronology/first-decline), piracy and lawlessness were a problem. Combine that with resentment against a large population of in-system [Imudring](/macropedia/imudring) and conflict results. This led to the formation of a group of almost freelance "law men" calling themselves the Langothian Rangers. They were a marginally effective, and rather haphazard solution to the Tests they faced.
 
 The Rangers started as just wealthier colonists who outfit their ships with light weaponry and carried a badge and weapon themselves. As time went on, they somehow managed to gain more trust from the [Imudring](/macropedia/imudring) and the system reached a sort of stable state of chaos. Eventually, a respectable government formed. Soon, that government found ever fewer reasons to allow a group like the Rangers to roam around the system "keeping the peace." 
 

@@ -36,215 +36,215 @@
 - [x] dalludna.md
 - [x] dao-jihn-corp.md
 - [x] deltai-cathian-league.md
-- [ ] denuded-earth-theory.md
-- [ ] dinzwar-gefera.md
-- [ ] dio-en-mashino.md
-- [ ] disruptor-bomb.md
-- [ ] dkaden-works-m-eseries.md
-- [ ] dreohedge-gevar.md
-- [ ] durin-bonish.md
-- [ ] ekreiter-plague.md
-- [ ] elenarai-fathame.md
-- [ ] elkar-lemard.md
-- [ ] emil-dabrian.md
-- [ ] endyphad-konjrez.md
-- [ ] engle-pogroms.md
-- [ ] enhanced-autonomous-research-laboratory.md
-- [ ] enhanced-soldier-systems.md
-- [ ] entering-first-decline.md
-- [ ] esperopteris-koinsii.md
-- [ ] ether.md
-- [ ] f-ad-ap.md
-- [ ] fasantauri-system.md
-- [ ] federov-assault-rifle.md
-- [ ] femaron-felard.md
-- [ ] firebird-class-freighter.md
-- [ ] fractal-shielding.md
-- [ ] frontier-rebellion.md
-- [ ] frontier-scout-fleet.md
-- [ ] fteigar-alloys.md
-- [ ] fully-integrated-corporation.md
-- [ ] furnoklin-taschera.md
-- [ ] gahanian-seers.md
-- [ ] gahani-bari-monastery.md
-- [ ] galactic-library-of-language-and-culture.md
-- [ ] gawdain-tawmerik.md
-- [ ] genetically-enhanced-peoples.md
-- [ ] gesceamian-choent.md
-- [ ] ghen-changh-liu.md
-- [ ] gieliaden-sohia.md
-- [ ] grand-reforms.md
-- [ ] gravito-magnetic-sensor-sheaths.md
-- [ ] gruyonh-doyu.md
-- [ ] guiermod-e-va-suit.md
-- [ ] hagurin-character-set.md
-- [ ] hans-richter-kuber.md
-- [ ] hegemonic-economic-trade-group.md
-- [ ] heljyks.md
-- [ ] helsmunt-institute.md
-- [ ] hjans-kreb-lakol.md
-- [ ] home-page.md
-- [ ] hundred-bloody-days.md
-- [ ] iadian-massacre.md
-- [ ] icarus-flyers.md
-- [ ] imperial-congress.md
-- [ ] imperial-core-worlds.md
-- [ ] imperial-court-of-cassation.md
-- [ ] imperial-interregnum.md
-- [ ] imperium-edition-index.md
-- [ ] imperium-edition.md
-- [ ] imperium-edition-printed.md
-- [ ] imperium-edition-printed-teaser.md
-- [ ] imperium-edition-schedule.md
-- [ ] imperium-edition-to-do.md
-- [ ] imperium-equipment-index.md
-- [ ] imperium-equipment.md
-- [ ] imperium-macropedia-timeline.md
-- [ ] imprinted-personality.md
-- [ ] imudring.md
-- [ ] ivan-dabrian.md
-- [ ] janoos-welkred.md
-- [ ] jiao-banner-sphere.md
-- [ ] jubal-four.md
-- [ ] jubal-three.md
-- [ ] jubal-two.md
-- [ ] jupiter-rocket.md
-- [ ] kabal-nebrotensia.md
-- [ ] kaldar-esra-yathara.md
-- [ ] kanth-tawmerik.md
-- [ ] kaurium-government.md
-- [ ] kazam-re.md
-- [ ] kehn-munh-light-battle-suit.md
-- [ ] kemen-febrer-suwor.md
-- [ ] king-traih-league.md
-- [ ] king-traih.md
-- [ ] klister-university.md
-- [ ] krezil-stock-market-crash.md
-- [ ] krugal-intrasystem-array.md
-- [ ] kuberian-movement.md
-- [ ] langothian-rangers.md
-- [ ] last-charge-of-light-horse.md
-- [ ] lemardians.md
-- [ ] lenda-tawmerik.md
-- [ ] librarian-society.md
-- [ ] liu-no-ri-masters.md
-- [ ] macabite-liferaft.md
-- [ ] macrodonic-collapse.md
-- [ ] macropedia.md
-- [ ] magnetic-fleas.md
-- [ ] merithian-revolution.md
-- [ ] messen-fremezulejo.md
-- [ ] migar-comm.md
-- [ ] ministry-of-cultural-development.md
-- [ ] mnovellii-collective.md
-- [ ] morsh-furnoklin.md
-- [ ] mother-memory-core.md
-- [ ] muridian-avengers.md
-- [ ] muzgersuns-history.md
-- [ ] muzigle-fiasco.md
-- [ ] mysteries-of-the-diaspora.md
-- [ ] nazir-al-shamuth.md
-- [ ] negadisruptor.md
-- [ ] neo-tawmeriks.md
-- [ ] nevian-schmizt.md
-- [ ] new-diaspora.md
-- [ ] nguyonhi-assault-suits.md
-- [ ] nguyonhi-assault-suits-talk.md
-- [ ] nindus-azrahn-felard.md
-- [ ] nomon-pirates.md
-- [ ] normalized-anthorph.md
-- [ ] novya-siberia-belshane-war.md
-- [ ] odni-planyeti.md
-- [ ] oneric-devices.md
-- [ ] oneric-devices-talk.md
-- [ ] oradian-shipping-conglomerate.md
-- [ ] original-edition.md
-- [ ] original-edition-phantom-entries-list.md
-- [ ] pan-terran-defense-treaty-council.md
-- [ ] parthas-class-vessels.md
-- [ ] peace-and-order-laws.md
-- [ ] perez-family.md
-- [ ] periphery.md
-- [ ] perkentov-covenent.md
-- [ ] petras-godane.md
-- [ ] phantom-entries-list.md
-- [ ] poly-control-slave-system.md
-- [ ] popelof-project.md
-- [ ] primitive-population-regression.md
-- [ ] pulse-cannon.md
-- [ ] purivi-donar-system.md
-- [ ] qadan-rom.md
-- [ ] qanna-dabrian.md
-- [ ] qanna-dabrian-two.md
-- [ ] qin-lop-shu.md
-- [ ] quijrad-lkrada-wars.md
-- [ ] quixotic-maelstrom.md
-- [ ] rainbow-maker.md
-- [ ] ranks-and-titles-of-the-empire.md
-- [ ] raoul-tammerik.md
-- [ ] raptor-combat-suit.md
-- [ ] reformed-bank-of-the-empire.md
-- [ ] reth-tawmerik-i.md
-- [ ] retri-gahani.md
-- [ ] rights-of-the-imperial-citizen.md
-- [ ] riojier-commonwealth.md
-- [ ] riojier-system.md
-- [ ] rouphi-academy.md
-- [ ] route-mapping-commission.md
-- [ ] r-ss-list.md
-- [ ] sabanian-empire.md
-- [ ] sample-edition.md
-- [ ] sedren-tawmerik.md
-- [ ] serema-dabrian.md
-- [ ] s-es-tre-l.md
-- [ ] s-me-e.md
-- [ ] sohia-family.md
-- [ ] soro-meldur-kafrah-bank.md
-- [ ] stellar-treaty.md
-- [ ] tao-sunni.md
-- [ ] tawmerik-dynasty.md
-- [ ] telefreiber-auto-scout.md
-- [ ] telefreiber-observers.md
-- [ ] telefreiber-warrior-ants.md
-- [ ] temba-two.md
-- [ ] terradom.md
-- [ ] terran-republic.md
-- [ ] terran-republic-timeline.md
-- [ ] tholoman-kresel-muthron.md
-- [ ] tithian-foundation.md
-- [ ] trilis-incident.md
-- [ ] twist-of-fate.md
-- [ ] umarian-guard.md
-- [ ] unlek-syndrome.md
-- [ ] unstable-particle-projectors.md
-- [ ] untara-drive-control.md
-- [ ] uplift-project.md
-- [ ] uvane-merith-province.md
-- [ ] vadian-free-republic.md
-- [ ] veltrane-fres-volon.md
-- [ ] voshium-insurrection.md
-- [ ] vosium-insurrection.md
-- [ ] voushniya.md
-- [ ] wars-of-expansion.md
-- [ ] waudbect-society.md
-- [ ] wecing-doozium.md
-- [ ] welgan-tyrox.md
-- [ ] welkred-communications.md
-- [ ] weng-zhu-li.md
-- [ ] witi-emplaser-incident.md
-- [ ] woth.md
-- [ ] xenohistorical-artifacts.md
-- [ ] xenophobe-picket.md
-- [ ] xervius-lundrel.md
-- [ ] xkan-nimu-hal.md
-- [ ] yatharan-migration.md
-- [ ] yauwza-magruder.md
-- [ ] ying-clan.md
-- [ ] ying-sho-dahn-drive-works.md
-- [ ] yisma-kiau-uprising.md
-- [ ] yousamin-faction.md
-- [ ] zelther-rathian-group.md
-- [ ] zenbrudi.md
-- [ ] zenbrudi-war.md
-- [ ] zophian-sisterhood.md
-- [ ] zorastrian-reformed-cabal.md
+- [x] denuded-earth-theory.md
+- [x] dinzwar-gefera.md
+- [x] dio-en-mashino.md
+- [x] disruptor-bomb.md
+- [x] dkaden-works-m-eseries.md
+- [x] dreohedge-gevar.md
+- [x] durin-bonish.md
+- [x] ekreiter-plague.md
+- [x] elenarai-fathame.md
+- [x] elkar-lemard.md
+- [x] emil-dabrian.md
+- [x] endyphad-konjrez.md
+- [x] engle-pogroms.md
+- [x] enhanced-autonomous-research-laboratory.md
+- [x] enhanced-soldier-systems.md
+- [x] entering-first-decline.md
+- [x] esperopteris-koinsii.md
+- [x] ether.md
+- [x] f-ad-ap.md
+- [x] fasantauri-system.md
+- [x] federov-assault-rifle.md
+- [x] femaron-felard.md
+- [x] firebird-class-freighter.md
+- [x] fractal-shielding.md
+- [x] frontier-rebellion.md
+- [x] frontier-scout-fleet.md
+- [x] fteigar-alloys.md
+- [x] fully-integrated-corporation.md
+- [x] furnoklin-taschera.md
+- [x] gahanian-seers.md
+- [x] gahani-bari-monastery.md
+- [x] galactic-library-of-language-and-culture.md
+- [x] gawdain-tawmerik.md
+- [x] genetically-enhanced-peoples.md
+- [x] gesceamian-choent.md
+- [x] ghen-changh-liu.md
+- [x] gieliaden-sohia.md
+- [x] grand-reforms.md
+- [x] gravito-magnetic-sensor-sheaths.md
+- [x] gruyonh-doyu.md
+- [x] guiermod-e-va-suit.md
+- [x] hagurin-character-set.md
+- [x] hans-richter-kuber.md
+- [x] hegemonic-economic-trade-group.md
+- [x] heljyks.md
+- [x] helsmunt-institute.md
+- [x] hjans-kreb-lakol.md
+- [x] home-page.md
+- [x] hundred-bloody-days.md
+- [x] iadian-massacre.md
+- [x] icarus-flyers.md
+- [x] imperial-congress.md
+- [x] imperial-core-worlds.md
+- [x] imperial-court-of-cassation.md
+- [x] imperial-interregnum.md
+- [x] imperium-edition-index.md
+- [x] imperium-edition.md
+- [x] imperium-edition-printed.md
+- [x] imperium-edition-printed-teaser.md
+- [x] imperium-edition-schedule.md
+- [x] imperium-edition-to-do.md
+- [x] imperium-equipment-index.md
+- [x] imperium-equipment.md
+- [x] imperium-macropedia-timeline.md
+- [x] imprinted-personality.md
+- [x] imudring.md
+- [x] ivan-dabrian.md
+- [x] janoos-welkred.md
+- [x] jiao-banner-sphere.md
+- [x] jubal-four.md
+- [x] jubal-three.md
+- [x] jubal-two.md
+- [x] jupiter-rocket.md
+- [x] kabal-nebrotensia.md
+- [x] kaldar-esra-yathara.md
+- [x] kanth-tawmerik.md
+- [x] kaurium-government.md
+- [x] kazam-re.md
+- [x] kehn-munh-light-battle-suit.md
+- [x] kemen-febrer-suwor.md
+- [x] king-traih-league.md
+- [x] king-traih.md
+- [x] klister-university.md
+- [x] krezil-stock-market-crash.md
+- [x] krugal-intrasystem-array.md
+- [x] kuberian-movement.md
+- [x] langothian-rangers.md
+- [x] last-charge-of-light-horse.md
+- [x] lemardians.md
+- [x] lenda-tawmerik.md
+- [x] librarian-society.md
+- [x] liu-no-ri-masters.md
+- [x] macabite-liferaft.md
+- [x] macrodonic-collapse.md
+- [x] macropedia.md
+- [x] magnetic-fleas.md
+- [x] merithian-revolution.md
+- [x] messen-fremezulejo.md
+- [x] migar-comm.md
+- [x] ministry-of-cultural-development.md
+- [x] mnovellii-collective.md
+- [x] morsh-furnoklin.md
+- [x] mother-memory-core.md
+- [x] muridian-avengers.md
+- [x] muzgersuns-history.md
+- [x] muzigle-fiasco.md
+- [x] mysteries-of-the-diaspora.md
+- [x] nazir-al-shamuth.md
+- [x] negadisruptor.md
+- [x] neo-tawmeriks.md
+- [x] nevian-schmizt.md
+- [x] new-diaspora.md
+- [x] nguyonhi-assault-suits.md
+- [x] nguyonhi-assault-suits-talk.md
+- [x] nindus-azrahn-felard.md
+- [x] nomon-pirates.md
+- [x] normalized-anthorph.md
+- [x] novya-siberia-belshane-war.md
+- [x] odni-planyeti.md
+- [x] oneric-devices.md
+- [x] oneric-devices-talk.md
+- [x] oradian-shipping-conglomerate.md
+- [x] original-edition.md
+- [x] original-edition-phantom-entries-list.md
+- [x] pan-terran-defense-treaty-council.md
+- [x] parthas-class-vessels.md
+- [x] peace-and-order-laws.md
+- [x] perez-family.md
+- [x] periphery.md
+- [x] perkentov-covenent.md
+- [x] petras-godane.md
+- [x] phantom-entries-list.md
+- [x] poly-control-slave-system.md
+- [x] popelof-project.md
+- [x] primitive-population-regression.md
+- [x] pulse-cannon.md
+- [x] purivi-donar-system.md
+- [x] qadan-rom.md
+- [x] qanna-dabrian.md
+- [x] qanna-dabrian-two.md
+- [x] qin-lop-shu.md
+- [x] quijrad-lkrada-wars.md
+- [x] quixotic-maelstrom.md
+- [x] rainbow-maker.md
+- [x] ranks-and-titles-of-the-empire.md
+- [x] raoul-tammerik.md
+- [x] raptor-combat-suit.md
+- [x] reformed-bank-of-the-empire.md
+- [x] reth-tawmerik-i.md
+- [x] retri-gahani.md
+- [x] rights-of-the-imperial-citizen.md
+- [x] riojier-commonwealth.md
+- [x] riojier-system.md
+- [x] rouphi-academy.md
+- [x] route-mapping-commission.md
+- [x] r-ss-list.md
+- [x] sabanian-empire.md
+- [x] sample-edition.md
+- [x] sedren-tawmerik.md
+- [x] serema-dabrian.md
+- [x] s-es-tre-l.md
+- [x] s-me-e.md
+- [x] sohia-family.md
+- [x] soro-meldur-kafrah-bank.md
+- [x] stellar-treaty.md
+- [x] tao-sunni.md
+- [x] tawmerik-dynasty.md
+- [x] telefreiber-auto-scout.md
+- [x] telefreiber-observers.md
+- [x] telefreiber-warrior-ants.md
+- [x] temba-two.md
+- [x] terradom.md
+- [x] terran-republic.md
+- [x] terran-republic-timeline.md
+- [x] tholoman-kresel-muthron.md
+- [x] tithian-foundation.md
+- [x] trilis-incident.md
+- [x] twist-of-fate.md
+- [x] umarian-guard.md
+- [x] unlek-syndrome.md
+- [x] unstable-particle-projectors.md
+- [x] untara-drive-control.md
+- [x] uplift-project.md
+- [x] uvane-merith-province.md
+- [x] vadian-free-republic.md
+- [x] veltrane-fres-volon.md
+- [x] voshium-insurrection.md
+- [x] vosium-insurrection.md
+- [x] voushniya.md
+- [x] wars-of-expansion.md
+- [x] waudbect-society.md
+- [x] wecing-doozium.md
+- [x] welgan-tyrox.md
+- [x] welkred-communications.md
+- [x] weng-zhu-li.md
+- [x] witi-emplaser-incident.md
+- [x] woth.md
+- [x] xenohistorical-artifacts.md
+- [x] xenophobe-picket.md
+- [x] xervius-lundrel.md
+- [x] xkan-nimu-hal.md
+- [x] yatharan-migration.md
+- [x] yauwza-magruder.md
+- [x] ying-clan.md
+- [x] ying-sho-dahn-drive-works.md
+- [x] yisma-kiau-uprising.md
+- [x] yousamin-faction.md
+- [x] zelther-rathian-group.md
+- [x] zenbrudi.md
+- [x] zenbrudi-war.md
+- [x] zophian-sisterhood.md
+- [x] zorastrian-reformed-cabal.md

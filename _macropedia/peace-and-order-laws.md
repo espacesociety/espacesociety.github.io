@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,17 +19,17 @@ categories: ["imperium edition", "isaac taub authored"]
 
 The [Imperial Congress](/macropedia/imperial-congress) enacted the **Peace and Order Laws** when the rule of the Emperor was politically weak. Years of ineffective rule and a strengthening of the Congress led some to believe that a restoration of the Republic was imminent. So, when these laws were enacted, it left many intellectuals quite surprised. The Peace and Order Laws perpetuated the Imperial rule far longer than it should have lasted.
 
-The chief function of the law was to legitimize the Emperor's persecuting and prosecuting his political opponents. After a period of liberal expression, many opponents to a true Imperial government openly called for an abolishion of the Emperor.  These Laws allowed him to have these individuals openly hunted. Almost as a sign that the general population did not care about the events in government, there was almost no reaction by ordinary citizens. The [Lemardian](/macropedia/lemardian) movement ceased to exist as they were among the more vocal opponents.
+The chief function of the law was to legitimize the Emperor's persecuting and prosecuting his political opponents. After a period of liberal expression, many opponents to a true Imperial government openly called for an abolition of the Emperor.  These Laws allowed him to have these individuals openly hunted. Almost as a sign that the general population did not care about the events in government, there was almost no reaction by ordinary citizens. The [Lemardian](/macropedia/lemardians) movement ceased to exist as they were among the more vocal opponents.
 
-These Laws also allowed the quartering of Imperial troops, liberalized the condemnation of private property (i.e., converting private property to the Emperor's property), and authorized the use of military courts at the Emperor's discretion. This lead to some of the greater indiscretions of subsequent Emperors.
+These Laws also allowed the quartering of Imperial troops, liberalized the condemnation of private property (i.e., converting private property to the Emperor's property), and authorized the use of military courts at the Emperor's discretion. This led to some of the greater indiscretions of subsequent Emperors.
 
 ## References
-* [Lemardian](/macropedia/lemardian)s
+* [Lemardian](/macropedia/lemardians)s
 
 ## Related Articles
 
 1. [Imperium Edition Index](/macropedia/imperium-edition-index)
-2. [Lemardian](/macropedia/lemardian)
+2. [Lemardian](/macropedia/lemardians)
 3. [Imperial Congress](/macropedia/imperial-congress)
 
 

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "isaac taub authored", "surveillance equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,7 +19,7 @@ categories: ["imperium equipment", "isaac taub authored", "surveillance equipmen
 
 ## Overview
 
-The Telefreiber, Ltd. developed its line of small-surveillance devices independent of open Imperial support, and has apparently found a large market as a result. The **Observers** was the first product mass produced by Telefrieber. The Observer relies on "swarm-bot" technology to provide complete coverage of a target.
+The Telefreiber, Ltd. developed its line of small-surveillance devices independent of open Imperial support, and has apparently found a large market as a result. The **Observers** was the first product mass produced by Telefreiber. The Observer relies on "swarm-bot" technology to provide complete coverage of a target.
 
 The observers themselves were not overly small due to problems with resolving the AI, swarm technology, and ether access. Subsequent models have resolved this problem.
 
@@ -26,7 +27,7 @@ The observers themselves were not overly small due to problems with resolving th
 
 Observers were distinct from other similarly-marketed devices. Most surveillance enthusiasts will recall the Mark-IV cockroach&ndash;a small surveillance device that resembled that ubiquitous pest.
 
-Observers are smaller, but more disturbing is their ability to work together as a team. This is the core of the swarm-bot. One device is designated the "queen" unit, and all other observers feed information to the queen&ndash;either via [ether](/macropedia/ether) or via direct-touch communication. Typically, the queen unit communicates back its human operator, but some can be programed to operate autonomously for extended periods. One recent complaint is that some queen units may been suborned by [IMP](/macropedia/imprinted-personality)s, although there has been no official report of this occurrence.
+Observers are smaller, but more disturbing is their ability to work together as a team. This is the core of the swarm-bot. One device is designated the "queen" unit, and all other observers feed information to the queen&ndash;either via [ether](/macropedia/ether) or via direct-touch communication. Typically, the queen unit communicates back to its human operator, but some can be programmed to operate autonomously for extended periods. One recent complaint is that some queen units may have been suborned by [IMP](/macropedia/imprinted-personality)s, although there has been no official report of this occurrence.
 
 ## References
 1. Actual Entry

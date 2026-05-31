@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,9 +17,9 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-Generally seen as an offshoot of the [Ascension Cults](/macropedia/ascension-cults), the Retri Gahani may have more import than the other religious movements of the Latter-Day Imeperium. They are certainly making a large dent in the populations of many worlds, and, if you believe their preachings, they are expanding humanity's reach in the starts. As such, they are bridging the political gap between the [Ascension Cults](/macropedia/ascension-cults) and the [New Diaspora](/macropedia/new-diaspora).
+Generally seen as an offshoot of the [Ascension Cults](/macropedia/ascension-cults), the Retri Gahani may have more import than the other religious movements of the Latter-Day Imperium. They are certainly making a large dent in the populations of many worlds, and, if you believe their preachings, they are expanding humanity's reach in the stars. As such, they are bridging the political gap between the [Ascension Cults](/macropedia/ascension-cults) and the [New Diaspora](/macropedia/new-diaspora).
 
-After the [Bloody Pretender's](/macropediafemaron-felard) demise, the Imperium found itself in something of a wreck. Fighting erupts regularly on many worlds, and relations between the genetically enhanced and normal humans are quite strained. Into this mess appeared the first Retri Gahani. The typical Retri Gahani is a pre-adolescent normal or close to it child. The child claims to be the reincarnated soul of the [Gahanian Seers](/macropedia/gahanian-seers), sent to lead a group of people to a new world and a new life. The also claims that a new Dark Age is upon us, and that the only salvation from the coming strife is to follow them to a new world.
+After the [Bloody Pretender's](/macropedia/femaron-felard) demise, the Imperium found itself in something of a wreck. Fighting erupts regularly on many worlds, and relations between the genetically enhanced and normal humans are quite strained. Into this mess appeared the first Retri Gahani. The typical Retri Gahani is a pre-adolescent normal or close to it child. The child claims to be the reincarnated soul of the [Gahanian Seers](/macropedia/gahanian-seers), sent to lead a group of people to a new world and a new life. It also claims that a new Dark Age is upon us, and that the only salvation from the coming strife is to follow them to a new world.
 
 Oddly enough, they seem to have no problem finding followers. While no one who pays attention to politics can deny that galactic civilization is in a slump, to simply run is not an adequate solution to this Test. Making the Retri Gahani's appeal even more astounding, they eschew the use of route computers. Instead, they rely on a jury-rigged [Untara drive control](/macropedia/untara-drive-control) system to directly control the jump. How anyone can subject themselves to this insanity is beyond my ability to comprehend. As an aside, it should be noted that making a Hop without computer assistance is illegal. However, the ships don't return so enforcement is difficult.
 
@@ -44,7 +45,7 @@ While we cannot be absolutely certain that the Retri Gahani cults perish in hop-
 3. [Ascension Cults](/macropedia/ascension-cults)
 4. [Imperium Edition Index](/macropedia/imperium-edition-index)
 5. [New Diaspora](/macropedia/new-diaspora)
-6. [Bloody Pretender'S](/macropediafemaron-felard)
+6. [Bloody Pretender's](/macropedia/femaron-felard)
 7. [Gahanian Seers](/macropedia/gahanian-seers)
 8. [Ascension Cults](/macropedia/ascension-cults)
 9. [Untara Drive Control](/macropedia/untara-drive-control)

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,7 +17,7 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 
 
-Import innovation in hyperspace travel, initially theorized by  the famed physicist [Weng Zhu Li](/macropedia/weng-zhu-li), and then later constructed by his team of engineers and researchers.
+Important innovation in hyperspace travel, initially theorized by  the famed physicist [Weng Zhu Li](/macropedia/weng-zhu-li), and then later constructed by his team of engineers and researchers.
 
 The sheaths permit the accurate statistical monitoring of magnetic monopoles and the influence of gravitational waves in the core of a hyperspace drive, thus allowing for more accurate and efficient use of reactor power.  This reduces the risks of such travel and also can increase the effective speed with which a vessel can traverse the Soup.  As well, such sensor sheaths greatly reduced hop space pollution by minimizing the effect of gravitational interference from vessels.
 

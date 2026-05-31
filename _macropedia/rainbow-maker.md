@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "isaac taub authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,7 +23,7 @@ categories: ["imperium equipment", "isaac taub authored"]
 
 ## Development
 
-The use of laser technology has been around for about as long as superluminal travel. However, the visible light nature of lasers make them easy to spot and easy to deflect. Even the most basic [Kehn Munh Light Battle Suit](/macropedia/kehn-munh-light-battle-suit) carrys some reflective ability, though the armor itself does not reflect nor is it intended to deflect laser-based weapons. X-ray lasers lack the disadvantage of visible light, but have a significantly shorter range in atmospheric combat. 
+The use of laser technology has been around for about as long as superluminal travel. However, the visible light nature of lasers makes them easy to spot and easy to deflect. Even the most basic [Kehn Munh Light Battle Suit](/macropedia/kehn-munh-light-battle-suit) carries some reflective ability, though the armor itself does not reflect nor is it intended to deflect laser-based weapons. X-ray lasers lack the disadvantage of visible light, but have a significantly shorter range in atmospheric combat. 
 
 ## Use
 

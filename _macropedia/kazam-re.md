@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -34,9 +35,9 @@ Numerous attempts to dislodge Kazam-re failed, in large part due to the fact tha
 
 If this had been the sum of the tale, only the remarkable Branehopping abilities of his ships would have him stand out from the dozens of other petty warlords carving out their own regimes.  Kazam-re was a deeply paranoid and disturbed man, and he began to turn on his own subjects, many of which had believed that he was the best defense against the chaos of the Decline.  The dozen or so systems he controlled found themselves under constantly changing governors as Kazam-re purged the ranks, convinced that they were plotting to unseat him.
 
-For perhaps a thirty years Kazam-re ruled with an ever heavier fist.  Purges, mass relocations, and then starvation and plagues as populations had vital foods and medicines withheld for crimes real and imagined.  Tales of entire cities of hundreds of thousands of people, bombarded by nuclear weapons from space, are too numerous and too similar in details to be simply tossed off as exaggeration.
+For perhaps thirty years Kazam-re ruled with an ever heavier fist.  Purges, mass relocations, and then starvation and plagues as populations had vital foods and medicines withheld for crimes real and imagined.  Tales of entire cities of hundreds of thousands of people, bombarded by nuclear weapons from space, are too numerous and too similar in details to be simply tossed off as exaggeration.
 
-Sadly, Kazam-re was not overthrown like other tyrants throughout history, but died a rather unremarkable death'^1^'; a heart attack after bedding several courtisans.  He had never sired any children of his own (or at least that's what some of the tales say), but rather had adopted dozens of heirs, all but one of which had suffered terrible fates as they were accused, tortured, convicted and executed as traitors.  The one adopted child that did survive was a young man named [Raoul Tammerik](/macropedia/raoul-tammerik), who ruled the [Vadian Free Republic](/macropedia/vadian-free-republic) after Kazam-re, and who all the tales and some tantalizing pre-Imperium geneaologies indicate was an ancestor of the Tawmerik family.
+Sadly, Kazam-re was not overthrown like other tyrants throughout history, but died a rather unremarkable death'^1^'; a heart attack after bedding several courtesans.  He had never sired any children of his own (or at least that's what some of the tales say), but rather had adopted dozens of heirs, all but one of which had suffered terrible fates as they were accused, tortured, convicted and executed as traitors.  The one adopted child that did survive was a young man named [Raoul Tammerik](/macropedia/raoul-tammerik), who ruled the [Vadian Free Republic](/macropedia/vadian-free-republic) after Kazam-re, and who all the tales and some tantalizing pre-Imperium genealogies indicate was an ancestor of the Tawmerik family.
 
 '^1^' '-A few tales claim that he escaped after surviving an assassination attempt, fleeing to some uninhabitable planet with a hold full of treasure.  I have heard of expeditions to this very day looking for the Lost Treasure of Kazam-re.-'
 

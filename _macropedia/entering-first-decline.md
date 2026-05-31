@@ -26,7 +26,7 @@ One such thread is that of a general technological decline. No longer is there t
 
 This was due in large part to the decentralized government that existed after the Great Expansion. Earth is said to have had a half-dozen nation-states, not one unified government most Imperial citizens would call their local planetary government. As humans spread out into the inhospitable cold of space, they carried with them their own nationalism. Some were religious fanatics. Some were criminals. This fracture of government, this lack of unity of purpose prevented society from rallying sufficiently to remedy the decline well underway. Many will scoff and say that most of the extremist humans left centuries before when slowboats were the only means of interstellar travel. However, the existence of slowboats is widely disputed in reputable circles. It is certain that all interstellar travel was superluminal.
 
-Many corporations plundered while society slept. Macrodyn Techtronics is one such corporation. It developed and maintained the AI computers responsible for managing the trade routes within the Soup. Yet, it held back scouting reports and disappeared behind a veil of obscurity. Macrodyn [AIs](/macropedia/a-is) were stripped of critical data that grossly undermined our ability to compensate in the Soup, just so they could form a separatist society. When those AI synchronized with others, the wipe perpetuated throughout all critical Soup systems. With the resultant confusion, several other corporations declared sovereignty and set up petty corporadoms. The [Macrodonic Collapse](/macropedia/macrodonic-collapse) culminated in the collapse.
+Many corporations plundered while society slept. Macrodyn Techtronics is one such corporation. It developed and maintained the AI computers responsible for managing the trade routes within the Soup. Yet, it held back scouting reports and disappeared behind a veil of obscurity. Macrodyn AIs were stripped of critical data that grossly undermined our ability to compensate in the Soup, just so they could form a separatist society. When those AI synchronized with others, the wipe perpetuated throughout all critical Soup systems. With the resultant confusion, several other corporations declared sovereignty and set up petty corporadoms. The [Macrodonic Collapse](/macropedia/macrodonic-collapse) culminated in the collapse.
 
 Only when one Macrodyn AI, [Dio En Mashino](/macropedia/dio-en-mashino), was this discovered where the effects were reversible. Again, scholars disagree on the existence of Macrodyn, since so much historical data is missing. However, it is clear to this Scholar that tampering with records occurred. While this was probably the greatest contribution to failure to compensate in Soup travel, scout ship crews also contributed to the problem by refusing to share results of their hops, and even of providing fraudulent reports. Throughout most of the Imperium, such cases of fraud were rare, until the [Imperial Interregnum](/macropedia/imperial-interregnum).
 
@@ -40,7 +40,7 @@ Only when one Macrodyn AI, [Dio En Mashino](/macropedia/dio-en-mashino), was thi
 
 1. [Imperium Edition Index](/macropedia/imperium-edition-index)
 2. [Rouphi Academy](/macropedia/rouphi-academy)
-3. [A Is](/macropedia/a-is)
+3. AIs
 4. [Dio En Mashino](/macropedia/dio-en-mashino)
 5. [Macrodonic Collapse](/macropedia/macrodonic-collapse)
 6. [Imperial Interregnum](/macropedia/imperial-interregnum)

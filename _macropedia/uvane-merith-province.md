@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,21 +19,21 @@ categories: ["imperium edition", "isaac taub"]
 
 The **Uvane Merith Province** traces its history back to the beginning of Soup travel. It was founded by the Uvane Merith Combine, a corporation that never fully integrated.
 
-The system itself became the bread basket of the imperium as it comprised two huge rock ball planets of low metal. These planets had huge tracts of fertile soil ripe for agriculture. On Uvane, the arable land on one continent was greater than the entire landmass of Mazadi, Fau-Kernan, [[Star Systems](/macropedia/star-systems)/Fau System](/star-systems/fau-system).
+The system itself became the bread basket of the imperium as it comprised two huge rock ball planets of low metal. These planets had huge tracts of fertile soil ripe for agriculture. On Uvane, the arable land on one continent was greater than the entire landmass of Mazadi, Fau-Kernan, Star Systems/Fau System.
 
 Although the land was very fertile, local custom and religion required the population remain small. Sociologists conclude this is due in part to a belief that Earth died through overpopulation.
 
-After the fall of the [Terran Republic](/macropedia/terran-republic), the Imperium stepped into the [[Star Systems](/macropedia/star-systems)/Merithian System](/star-systems/merithian-system) and imposed martial law. The primary rational given was to ensure stability in the [Imperial Core Worlds](/macropedia/imperial-core-worlds) that were becoming heavily dependent upon Merithian exports by this time. This lead to a series of conflicts known as the [Merithian Revolution](/macropedia/merithian-revolution).
+After the fall of the [Terran Republic](/macropedia/terran-republic), the Imperium stepped into the Star Systems/Merithian System and imposed martial law. The primary rationale given was to ensure stability in the [Imperial Core Worlds](/macropedia/imperial-core-worlds) that were becoming heavily dependent upon Merithian exports by this time. This led to a series of conflicts known as the [Merithian Revolution](/macropedia/merithian-revolution).
 
 ## References
-* [[Star Systems](/macropedia/star-systems)/Fau System](/star-systems/fau-system)
-* [[Merithian Revolution](/macropedia/merithian-revolution)](/macropedia/merithian-revolution)
+* [Star Systems/Fau System](/star-systems/fau-system)
+* [Merithian Revolution](/macropedia/merithian-revolution)
 * [Terran Republic](/macropedia/terran-republic)
 
 ## Related Articles
 
 1. [Merithian Revolution](/macropedia/merithian-revolution)
-2. [Star Systems](/macropedia/star-systems)
+2. Star Systems
 3. [Imperium Edition Index](/macropedia/imperium-edition-index)
 4. [Merithian Revolution](/macropedia/merithian-revolution)
 5. [Starsystems/Fau System](/star-systems/fau-system)

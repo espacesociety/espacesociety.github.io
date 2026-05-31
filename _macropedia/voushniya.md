@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,12 +21,12 @@ Voushniya joined the [King Traih League](/macropedia/king-traih-league) soon aft
 
 The Voushnik scientists also became masters of the genetic manipulation of living organisms. While this technology was popular and widespread in the Early Imperium (especially bioluminescent tattoos) The [Ekreiter Plague](/macropedia/ekreiter-plague) produced enough political backlash that it was outlawed in the Imperium. The King Traih League was not so restrictive, and the continued practice on Voushniya became a minor point of friction between the League and the Imperium.
 
-Unfortunately for the Voushnik, being a center for a generally illegal industry had is consequences. As more effectively random mutated and modified lifeforms were released into the environment, Voushniya's ecology collapsed. Becoming then dependent on the outside trade, Voushniya became an interstellar crime den. Many criminals would regularly visit to have their appearance and genetic profile altered. Voushniya became well known as the home of the [Nomon Pirates](/macropedia/nomon-pirates).
+Unfortunately for the Voushnik, being a center for a generally illegal industry had its consequences. As more effectively random mutated and modified lifeforms were released into the environment, Voushniya's ecology collapsed. Becoming then dependent on the outside trade, Voushniya became an interstellar crime den. Many criminals would regularly visit to have their appearance and genetic profile altered. Voushniya became well known as the home of the [Nomon Pirates](/macropedia/nomon-pirates).
 
-This became such a festering wound in the League economy that [Arturo San Degas](/macropedia/arturo-san-degas) eventually sent his navy to level the colony and declare a quarantine. The quarantine was finally lifted sometime during the reign of [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol). During the [Zenbrudi War](/macropedia/zenbrudi-war), Voushniya was hit by several [[Disruptor Bomb](/macropedia/disruptor-bomb)](/macropedia/disruptor-bomb)s. While only a few scientific expeditions have visited the world, they report a very odd ecology, with very odd creatures. Of the original population, no reports have come back, but several missions have gone missing.
+This became such a festering wound in the League economy that [Arturo San Degas](/macropedia/arturo-san-degas) eventually sent his navy to level the colony and declare a quarantine. The quarantine was finally lifted sometime during the reign of [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol). During the [Zenbrudi War](/macropedia/zenbrudi-war), Voushniya was hit by several [Disruptor Bomb](/macropedia/disruptor-bomb)s. While only a few scientific expeditions have visited the world, they report a very odd ecology, with very odd creatures. Of the original population, no reports have come back, but several missions have gone missing.
 
 ## See also
-* Our reader may be interested in reading further about [Woth](/macropedia/woth), her being possibly the most infamous of known geneticists, while her life tightly bound with Voushniya.
+* Our reader may be interested in reading further about [Woth](/macropedia/woth), her being possibly the most infamous of known geneticists, while her life was tightly bound with Voushniya.
 
 ## References
 1. [King Traih League](/macropedia/king-traih-league)

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored", "social sciences"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,7 +21,7 @@ Despite the relative peace and security of the High Imperium, it was not without
 
 Early contact between the Imperium and the Heljyks during the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) was not necessarily unfriendly, and briefly there was even a Heljyk ambassador in the Imperial Court.  Later, however, relations darkened.  The Imperium was now seeking to expand deep into the [Periphery](/macropedia/periphery).  The Heljyks, fearful that the Imperium might stumble upon their clan bases, attacked first, sparking a series of wars known as the [Wars of Expansion](/macropedia/wars-of-expansion), in which the Heljyk clans were decimated and the Imperium greatly enlarged at the expense of many smaller systems that had for centuries enjoyed anonymity.  The Imperium was initially fearful that the [Anthorph](/macropedia/anthorph)s might rise up, but they did not, despite any particular relationship to the Heljyks (and [Anthorph](/macropedia/anthorph)s would never speak of it), they fought on the side of the Imperium.
 
-The remnants of the Heljyks changed tactics.  It was impossible to defeat the vast resources of the Imperium, so they became pirates and geurilla warriors instead.  Their ships, much faster in normal space than Imperium ships due to the genetic modifications of the Heljyks to withstand fatal G-forces, could wipe out a planet's satellite network faster than defense forces could counterattack.  They plagued shipping lanes, took hostages particularly from the noble families, making fortunes off the ransoms.
+The remnants of the Heljyks changed tactics.  It was impossible to defeat the vast resources of the Imperium, so they became pirates and guerilla warriors instead.  Their ships, much faster in normal space than Imperium ships due to the genetic modifications of the Heljyks to withstand fatal G-forces, could wipe out a planet's satellite network faster than defense forces could counterattack.  They plagued shipping lanes, took hostages particularly from the noble families, making fortunes off the ransoms.
 
 Steadily their numbers dwindled, however, though the reasons are still uncertain.  The Heljyks disappeared entirely towards the end of the High Imperium, and many thought for good.  During the later years of the [Imperial Interregnum](/macropedia/imperial-interregnum), however, some rumor came to more civilized parts of Heljyk ships being seen in Imperium space.  It is said that certain Imperium families driven out during the early [Imperial Interregnum](/macropedia/imperial-interregnum) had taken refuge with the Heljyks, and it shouldn't seem surprising that these people would have aided anyone who despised the Imperium.  This particular scholar wonders as well if the Heljyks may have had some designs against the [Anthorph](/macropedia/anthorph)s as well.
 

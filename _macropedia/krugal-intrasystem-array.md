@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "kvecton sharp authored", "surveillance equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,7 +23,7 @@ One of the most common space-based sensory systems.  Initially a manpower-intens
 
 ## Theory
 
-As with the [Berryman Sensor Array](/macropedia/berryman-sensor-array), which also uses the gravitational ripple effect of superluminal vessels travelling through the Soup, the Krugal Intrasystem Array has a far wider band of gravitational "frequencies" it can detect, thus allowing it track gravity waves from subluminal objects like asteroids, normal space vessels, space junk and artifical satellites.
+As with the [Berryman Sensor Array](/macropedia/berryman-sensor-array), which also uses the gravitational ripple effect of superluminal vessels travelling through the Soup, the Krugal Intrasystem Array has a far wider band of gravitational "frequencies" it can detect, thus allowing it track gravity waves from subluminal objects like asteroids, normal space vessels, space junk and artificial satellites.
 
 The reason for the excessive manpower in the earliest installations was the necessity of weeding through false positives.  Early arrays were notorious for being set off by everything from cosmic rays to imperfections in the gravity wave detectors.
 
@@ -32,7 +33,7 @@ There are records of Krugal-like arrays being used in a few systems prior to the
 
 In the last few centuries of the First Decline, the technologically-advanced systems that would later make up the [Imperial Core Worlds](/macropedia/imperial-core-worlds) rediscovered the technology.  This was largely due to the work of Dr. Nilus Krugal, a [Fasantauri](/macropedia/fasantauri-system) physicist.  Krugal essentially stole Berryman's ideas and passed them off as his own, though the lucky plagiarizer wasn't caught until near a century after his death.  By that point, computational power had grown to the point where even the busiest systems were able to institute the arrays, albeit with hundreds of staff, some stationed fifty or sixty AU away from their homes.
 
-With the great leaps in computational power that lead to the return to Soup travel, more automated arrays were built.  Over the following few centuries, the older manned array stations were replaced by automated systems.  The last manned Krugal Intrasystem Array was retired with great pomp and ceremony by [Ivan Dabrian](/macropedia/ivan-dabrian).
+With the great leaps in computational power that led to the return to Soup travel, more automated arrays were built.  Over the following few centuries, the older manned array stations were replaced by automated systems.  The last manned Krugal Intrasystem Array was retired with great pomp and ceremony by [Ivan Dabrian](/macropedia/ivan-dabrian).
 
 ## References
 1. [Berryman Sensor Array](/macropedia/berryman-sensor-array)

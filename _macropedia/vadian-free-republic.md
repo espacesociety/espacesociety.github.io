@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,13 +17,13 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-The Vadian Free Republic has remained a vibrant force in the imagination and mythology of the Imperium, despite little hard evidence of its existance. Ostensibly founded somewhere in the [Periphery](/macropedia/periphery) by the legendary figure Kazam-Re, the Vadian Free Republic likely ceased to exist soon after its founding. Since it was founded around the time that hop pollution was beginning to force the [Chronology/First Decline](/chronology/first-decline). The Vadian Free Republic and the stories of its leaders were rich fodder for the [Mysteries of the Diaspora](/macropedia/mysteries-of-the-diaspora).
+The Vadian Free Republic has remained a vibrant force in the imagination and mythology of the Imperium, despite little hard evidence of its existence. Ostensibly founded somewhere in the [Periphery](/macropedia/periphery) by the legendary figure Kazam-Re, the Vadian Free Republic likely ceased to exist soon after its founding. Since it was founded around the time that hop pollution was beginning to force the [Chronology/First Decline](/chronology/first-decline). The Vadian Free Republic and the stories of its leaders were rich fodder for the [Mysteries of the Diaspora](/macropedia/mysteries-of-the-diaspora).
 
 Three popular theories seem to recur as to the whereabouts of the former Republic. The most popular is that the Vadian Free Republic was indeed the founding colony on [Odni Planyeti](/macropedia/odni-planyeti). This theory fails on several counts, and seems based solely on the linguistics of the Odnan colonists. No archaeological evidence has ever supported this theory. The second, less popular theory, is that the [Heljyks](/macropedia/heljyks) are the descendants of the Vadian colonists. Again, linguistics hint at a possible connection. However, even after the [Wars of Expansion](/macropedia/wars-of-expansion), archaeologists found little to confirm or deny the plausibility of this argument.<a name='footnote1'>'^1^'</a>
 
-The third theory is not so much a theory as a group of theories, all of which share one thing in common: the [Imudring](/macropedia/imudring). Either the Imudring *are* the Vadians, they are *hiding* the Vadians, they *destroyed* the Vadians, etc. All of these theories come in varying degrees of romanticism and imagination.<a name='footnote2'>'^2^'</a> None of it is supported by very much evidence one way or another. The oral histories of the [Imudring](/macropedia/imudring) that Imperial scholars have recovered make no particular mention of either Kazam-Re or the Vadian Free Republic. Their are few linguistic similarities to point to. The Vadians (presumably) founded their colony on a planet, while the [Imudring](/macropedia/imudring) claim to be planetless from their earliest moments.
+The third theory is not so much a theory as a group of theories, all of which share one thing in common: the [Imudring](/macropedia/imudring). Either the Imudring *are* the Vadians, they are *hiding* the Vadians, they *destroyed* the Vadians, etc. All of these theories come in varying degrees of romanticism and imagination.<a name='footnote2'>'^2^'</a> None of it is supported by very much evidence one way or another. The oral histories of the [Imudring](/macropedia/imudring) that Imperial scholars have recovered make no particular mention of either Kazam-Re or the Vadian Free Republic. There are few linguistic similarities to point to. The Vadians (presumably) founded their colony on a planet, while the [Imudring](/macropedia/imudring) claim to be planetless from their earliest moments.
 
-All things being equal, it seems unlikely that any of those theories is better then the other. Current archaeological thinking holds that if the Vadian Free Republic did exist, then it was more a political entity than a cultural one, and likely expired before that changed. Which dead colony(ies) might have been involved is anyone's guess at this point.
+All things being equal, it seems unlikely that any of those theories is better than the other. Current archaeological thinking holds that if the Vadian Free Republic did exist, then it was more a political entity than a cultural one, and likely expired before that changed. Which dead colony(ies) might have been involved is anyone's guess at this point.
 
 <a name='footnote1'></a> '^1^': This is made harder by the Heljyk tradition of ardent recycling and reuse. They just don't leave many artifacts. The few artifacts found in orbit provide little help.
 

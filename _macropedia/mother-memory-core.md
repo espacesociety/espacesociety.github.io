@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,7 +21,7 @@ One of the greatest achievements of any of the [Anthorph](/macropedia/anthorph) 
 
 Mother's Memory Core was part of a large orbital facility around the [Gruyonh Doyu](/macropedia/gruyonh-doyu)'s home world.  Though no records survive, it seems that the original station was built before the Decline, but the famously industrious [Gruyonh Doyu](/macropedia/gruyonh-doyu) built on to it, making it into one of the greatest genetics labs and data storage center ever built by humanity.
 
-Mother's Memory Core was the center of this vast complex, a storage and computation facility of exceedingly power.  From it, the [Gruyonh Doyu](/macropedia/gruyonh-doyu) could run multigeneration simulations of sufficient detail that it wasn't until the great AI revolutions that ushered in the Imperium that any computer network could have equaled, let alone surpassed it.  The [Gruyonh Doyu](/macropedia/gruyonh-doyu), with this powerful tool, were able to adapt themselves to their harsh world (one of the harshest ever colonized).
+Mother's Memory Core was the center of this vast complex, a storage and computation facility of exceeding power.  From it, the [Gruyonh Doyu](/macropedia/gruyonh-doyu) could run multigeneration simulations of sufficient detail that it wasn't until the great AI revolutions that ushered in the Imperium that any computer network could have equaled, let alone surpassed it.  The [Gruyonh Doyu](/macropedia/gruyonh-doyu), with this powerful tool, were able to adapt themselves to their harsh world (one of the harshest ever colonized).
 
 Sadly for the [Gruyonh Doyu](/macropedia/gruyonh-doyu), contact was eventually lost and Mother's Memory Core became little more than a legend among the planet-bound [Anthorph](/macropedia/anthorph)s.  But their ancestors built to last, and when the Imperium made contact with the [Gruyonh Doyu](/macropedia/gruyonh-doyu), Mother's Memory Core still orbited hundreds of miles above, its simple but effective nuclear thrusters still in working order and still keeping it from falling into the [Gruyonh Doyu](/macropedia/gruyonh-doyu) world's powerful gravity well.
 

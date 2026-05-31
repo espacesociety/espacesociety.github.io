@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/imperium-edition-printed-teaser'>Imperium Edition Printed-Teaser</a></div>
@@ -42,7 +43,7 @@ categories: ["imperium edition"]
 </tr>
 <tr>
   <td>D (4)</td>
-  <td>Januart 14, 2005</td>
+  <td>January 14, 2005</td>
   <td>January 18, 2005</td>
   <td>A(3) P(2) S(5) T(17)</td>
 </tr>
@@ -156,7 +157,7 @@ categories: ["imperium edition"]
 </tr>
 <tr>
   <td>W (23)</td>
-  <td>Nay 27, 2005</td>
+  <td>May 27, 2005</td>
   <td>June 3, 2005</td>
   <td>A(#) P(#) S(#) T(114)</td>
 </tr>

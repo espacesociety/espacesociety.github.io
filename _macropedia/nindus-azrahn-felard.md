@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,7 +17,7 @@ categories: ["imperium edition", "isaac taub"]
 </div>
 
 
-Clan Felard was a relatively obscure family from the [[Star Systems](/macropedia/star-systems)/Belshane](/star-systems/belshane) System. There is some debate over when the family established its presence there. Many rivals claim that Clan Felard derives its lineage from the days when Belshane was a penal mining system. The Clan itself bristles at those claims, instead stating that they were one one of the slowboats that arrived later. Genetic research indicateds that both stories are probably true. That is, while there is firm support for the matriarch of Clan Felard arrived via slowboat, there is also genetic records of a former convict that appears to have established a relationship. This naturally plays into the rival families who like to think of them as the Bastard Clan of Felard.
+Clan Felard was a relatively obscure family from the Belshane System. There is some debate over when the family established its presence there. Many rivals claim that Clan Felard derives its lineage from the days when Belshane was a penal mining system. The Clan itself bristles at those claims, instead stating that they were one of the slowboats that arrived later. Genetic research indicated that both stories are probably true. That is, while there is firm support for the matriarch of Clan Felard arrived via slowboat, there is also genetic records of a former convict that appears to have established a relationship. This naturally plays into the rival families who like to think of them as the Bastard Clan of Felard.
 
 Regardless of their dubious background, the Clan itself would have remained obscure were it not for Nindus Azrahn Felard. His branch of Clan Felard distinguished itself during the [Novya Siberia Belshane War](/macropedia/novya-siberia-belshane-war) by winning one of the few victories earned by the Belshan. Nindus himself arrived much later, when even that branch had seemed to have reached the end of its bearing fruit.
 
@@ -28,12 +29,12 @@ It was not long after that the Foundation began to exhibit serious fiscal weakne
 
 The new owners of the Foundation did not relieve Director General Felard. Instead, they gave him new authority to re-organize the Foundation into a more balanced organization. Where before he showed seemingly boundless administrative ineptitude, Felard surprised his critics by quickly changing the Foundation's direction. This led some to conclude that he worked in collusion with some of the Foundation's private backers to effect its sale by Jubal III.
 
-Until the restructuring, the Foundation was a fairly low-key organization. It would routinely make great strides in whatever research it engaged in. However, it managed not to attrack too much attention. Afterward, Felard established a public affairs department that would ensure that it obtained recognition for its efforts. This included a legal department that exposed how the Empire either abused Foundation research or refused to support "key" research. This propaganda echoed the message he was exposed to as a young medical student.
+Until the restructuring, the Foundation was a fairly low-key organization. It would routinely make great strides in whatever research it engaged in. However, it managed not to attract too much attention. Afterward, Felard established a public affairs department that would ensure that it obtained recognition for its efforts. This included a legal department that exposed how the Empire either abused Foundation research or refused to support "key" research. This propaganda echoed the message he was exposed to as a young medical student.
 
-In retrospect, his stewardship of the Foundation did much to undermine the credibility of the Empire. Some of the entanglements between the Foundation and the Empire are legend amongst we scholars. Director General Felard remained at the helm until his death at age 137. Researchers are still trying to fix the amoung of harm his Foundation caused. Since his death, the Foundation has shown increasing signs of destablization and will more than likely close its doors in the next few years.
+In retrospect, his stewardship of the Foundation did much to undermine the credibility of the Empire. Some of the entanglements between the Foundation and the Empire are legend amongst we scholars. Director General Felard remained at the helm until his death at age 137. Researchers are still trying to fix the amount of harm his Foundation caused. Since his death, the Foundation has shown increasing signs of destabilization and will more than likely close its doors in the next few years.
 
 ## References
-1. [[Star Systems](/macropedia/star-systems)/Belshane](/star-systems/belshane) System
+1. Belshane System
 1. [Jubal III](/macropedia/jubal-three)
 1. [Novya Siberia Belshane War](/macropedia/novya-siberia-belshane-war)
 1. [Tithian Foundation](/macropedia/tithian-foundation)
@@ -43,7 +44,7 @@ In retrospect, his stewardship of the Foundation did much to undermine the credi
 1. [Tithian Foundation](/macropedia/tithian-foundation)
 2. [Imperium Edition Index](/macropedia/imperium-edition-index)
 3. [Novya Siberia Belshane War](/macropedia/novya-siberia-belshane-war)
-4. [Star Systems](/macropedia/star-systems)
+4. Star Systems
 5. [Starsystems/Belshane](/star-systems/belshane)
 6. [Jubal Iii](/macropedia/jubal-three)
 

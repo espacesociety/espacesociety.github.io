@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,15 +17,15 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-A trend noted on many worlds by esteemed Antropologist-Archaeologist Cho Lang Rih Tel Ohn, Primitive Population Regression was a process that affected many worlds that were incapable or unwilling to perform genetic enhancement on themselves. While not directly a solution to one of the Creator's great Tests, this work provides important information that can lead to vital solutions to one of the fundamental Tests, the Test of Self-Governance.
+A trend noted on many worlds by esteemed Anthropologist-Archaeologist Cho Lang Rih Tel Ohn, Primitive Population Regression was a process that affected many worlds that were incapable or unwilling to perform genetic enhancement on themselves. While not directly a solution to one of the Creator's great Tests, this work provides important information that can lead to vital solutions to one of the fundamental Tests, the Test of Self-Governance.
 
 The fundamental premise of the theory is that *"Any isolated population of humans will tend to a level of sophistication and technology limited by their population size and density."* While not directly measurable, this was observed in many instances across the known worlds. Using data from the [Frontier Scout Fleet](/macropedia/frontier-scout-fleet) as well as that collected by himself and other anthropologists, Cho Lang was able to soundly demonstrate this premise. More to the point, using the archaeology, stories, and legends of exemplar worlds, he was able to demonstrate the mechanisms of the regression.
 
-Repeatedly, on harsh worlds, agricultural production was limited. This limited the maximum population density that socities there could achieve. This limited the amount of specialization of its citizens, and thus limited the number of scholars and specialists available. This limits the amount of information/technology they can produce. Eventually, societies succumb to "Transmission Loss" as specialists die before passing on critical information. Or "Information Corruption" as the inheritors of the information are not of high enough caliber to understand it all.
+Repeatedly, on harsh worlds, agricultural production was limited. This limited the maximum population density that societies there could achieve. This limited the amount of specialization of its citizens, and thus limited the number of scholars and specialists available. This limits the amount of information/technology they can produce. Eventually, societies succumb to "Transmission Loss" as specialists die before passing on critical information. Or "Information Corruption" as the inheritors of the information are not of high enough caliber to understand it all.
 
 The early colonists had anticipated this trend and (in many cases) sent along powerful and reliable library computers like [Mother's Memory Core](/macropedia/mother-memory-core). Ironically, the reliability of the technology appeared to be a contributing factor to the eventual regression. So much time would pass in between necessary repairs that new caretakers would be progressively less-experienced and ill-equipped to deal with problems. Eventually the technology would fail and then the other processes would take over.
 
-One social structure seemed to offer some immunity to the collapse. The [Fully Integrated Corporation](/macropedia/fully-integrated-corporation), sometimes Family Integrated Corporation, allowed a reasonably complex socieity to compete within itself quite effectively. By generating huge rewards for innovation and problem-solving, these socities managed to avoid many of the specific "incidents" that result from the pressures mentioned above.
+One social structure seemed to offer some immunity to the collapse. The [Fully Integrated Corporation](/macropedia/fully-integrated-corporation), sometimes Family Integrated Corporation, allowed a reasonably complex society to compete within itself quite effectively. By generating huge rewards for innovation and problem-solving, these societies managed to avoid many of the specific "incidents" that result from the pressures mentioned above.
 
 Cho Lang's theory replaced the previous [Denuded Earth Theory](/macropedia/denuded-earth-theory). [Denuded Earth Theory](/macropedia/denuded-earth-theory) fails to comprehensively explain the regression of societies on worlds that are not "denuded," and relies heavily on Earth as its prime example of how regression takes place. 
 

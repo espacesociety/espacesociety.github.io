@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,11 +17,11 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 
 
-Generally, the term "Genetically Enhanced Peoples" refers specifically to [Anthorph](/macropedia/anthorph)s and other closely related peoples in populated space.  The [Anthorph](/macropedia/anthorph)s are a genetically diverse people that are bound by some similiarities in culture, custom and faith.
+Generally, the term "Genetically Enhanced Peoples" refers specifically to [Anthorph](/macropedia/anthorph)s and other closely related peoples in populated space.  The [Anthorph](/macropedia/anthorph)s are a genetically diverse people bound by some similarities in culture, custom and faith.
 
 There have been other populations of genetically enhanced peoples that are generally not classified as being [Anthorph](/macropedia/anthorph)s.  Many of these are descendants of pre-Anthorph experiments, particularly during the [First Expanse](/chronology/first-expanse).  There are records of many such experiments from this earliest period of space travel.  So-called Belters that lived in the rocky asteroid belt of the Terran system were said to have had alterations done to make living for extended periods in zero-g environments easier.  The descendants of these Belters still live today, most not having stood on a planetary surface in millennia.
 
-There are rumors that the [Imudring](/macropedia/imudring) also experimented upon themselves.  The secretive Imudring will refuse to answer such questions, though it is at least a possible explanation as to why incidents of interbreeding between Imudring and other human types is almost unheard of.
+There are rumors that the [Imudring](/macropedia/imudring) also experimented upon themselves.  The secretive Imudring will refuse to answer such questions, though it is at least a possible explanation as to why incidents of interbreeding between Imudring and other human types are almost unheard of.
 
 ## References
 1. [Anthorph](/macropedia/anthorph)s
@@ -33,6 +34,3 @@ There are rumors that the [Imudring](/macropedia/imudring) also experimented upo
 2. [Imperium Edition Index](/macropedia/imperium-edition-index)
 3. [Anthorph](/macropedia/anthorph)
 4. [Imudring](/macropedia/imudring)
-
-
-%25category%25Categories:  | 

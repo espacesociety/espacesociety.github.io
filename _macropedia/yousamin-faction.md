@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["chang singh authored", "imperium edition"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -32,9 +33,9 @@ This was the high period of the Yousamin Faction.  They had achieved power, and 
 ## Loss of Power and Rebirth
 After the death of the second ruling Premiere, [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol), the Yousamin Faction rapidly lost power.  By the time of the Bloody Pretender's achieving power, most of them were thrown out of the [Imperial Congress](/macropedia/imperial-congress), replaced with people "more genetically and philosophically appropriate".  Many were rounded up and imprisoned, and the remaining learned quickly to keep their heads down.
 
-After the [Hundred Bloody Days](/macropedia/hundred-bloody-days), the Yousamin again attempted to gain control of the [Imperial Congress](/macropedia/imperial-congress), but the remnants of the Imperium now blamed them and their policies, particularly during [Durin Bonish](/macropedia/durin-bonish)'s term, for the disasters that followed.  The Yousamin attempted to set up their own Imperial Congress on [[Star Systems](/macropedia/star-systems)/Xelicar](/star-systems/xelicar), proclaiming their legislative the true government of the Imperium.
+After the [Hundred Bloody Days](/macropedia/hundred-bloody-days), the Yousamin again attempted to gain control of the [Imperial Congress](/macropedia/imperial-congress), but the remnants of the Imperium now blamed them and their policies, particularly during [Durin Bonish](/macropedia/durin-bonish)'s term, for the disasters that followed.  The Yousamin attempted to set up their own Imperial Congress on [Xelicar](/star-systems/xelicar), proclaiming their legislative the true government of the Imperium.
 
-Meeting with only marginal success, they also attempted to subvert the [Popelof Project](/macropedia/popelof-project), a noble project by my close friend, Dr. Yoseamin Popelof, to recover some of the knowledge lost during the madness of the [Hundred Bloody Days](/macropedia/hundred-bloody-days).  I cannot atest to their success or failure, though I have seen a few books, clearly forgeries, that claim that the Yousamin were not a product of the late Imperium, but rather some ancient political faction dating back to the dawn of the Imperium.
+Meeting with only marginal success, they also attempted to subvert the [Popelof Project](/macropedia/popelof-project), a noble project by my close friend, Dr. Yoseamin Popelof, to recover some of the knowledge lost during the madness of the [Hundred Bloody Days](/macropedia/hundred-bloody-days).  I cannot attest to their success or failure, though I have seen a few books, clearly forgeries, that claim that the Yousamin were not a product of the late Imperium, but rather some ancient political faction dating back to the dawn of the Imperium.
 
 It seems clear now that the Yousamin Faction will never form a new central government to the Imperium, but in that sad tradition that dates back to the Not-so-grand Reforms of the Premieres, is serving only to create divisions rather than bring unity.
 
@@ -50,7 +51,7 @@ It seems clear now that the Yousamin Faction will never form a new central gover
 1. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
 1. [Imperial Congress](/macropedia/imperial-congress)
 1. [Jubal III](/macropedia/jubal-three)
-1. [[Star Systems](/macropedia/star-systems)/Xelicar](/star-systems/xelicar)
+1. [Xelicar](/star-systems/xelicar)
 
 ## Related Articles
 
@@ -59,7 +60,7 @@ It seems clear now that the Yousamin Faction will never form a new central gover
 3. [Epsilon Indi](/star-systems/epsilon-indi)
 4. [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol)
 5. [Imperium Edition Index](/macropedia/imperium-edition-index)
-6. [Star Systems](/macropedia/star-systems)
+6. Star Systems
 7. [Imperial Congress](/macropedia/imperial-congress)
 8. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
 9. [Grand Reforms](/macropedia/grand-reforms)

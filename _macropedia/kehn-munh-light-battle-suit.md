@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "{$scholar name}authored", "boris helfstein phantomed", "combat equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,11 +23,11 @@ Suit designed by the Imperium Navy, initially for vacuum combat, but later adapt
 
 ## Basic Design
 
-The suit isn't exactly a wonder of engineering, and doesn't live up all that well to its name of being a light battle suit.  It was never designed to be terribly light or flexible, but rather to allow for space [E Vas](/macropedia/e-vas), including combat, in a variety of dangerous environments.
+The suit isn't exactly a wonder of engineering, and doesn't live up all that well to its name of being a light battle suit.  It was never designed to be terribly light or flexible, but rather to allow for space E Vas, including combat, in a variety of dangerous environments.
 
 Later modifications, the so called Mark 2s, gave the skin of the suit an anti-corrosive coating to allow for protection in corrosive atmospheres.  
 
-The suits generally have enough air to last six hours, though this can be extended with a bulky second tank, only really used for extended [E Vas](/macropedia/e-vas). 
+The suits generally have enough air to last six hours, though this can be extended with a bulky second tank, only really used for extended E Vas. 
 
 The suits also come equipped with mechanical strength enhancers; a series of hydraulic systems that can magnify the strength of the wearer.  Units are usually equipped with some mounted weapons, such as chest lasers, shoulder rocket launchers and the like.
 
@@ -38,7 +39,7 @@ Finally there is the computer systems, which allow for control of the hydraulic 
 ## Related Articles
 
 1. [Imperium Equipment Index](/macropedia/imperium-equipment-index)
-2. [E Vas](/macropedia/e-vas)
+2. E Vas
 3. [Smee](/macropedia/s-me-e)
 
 

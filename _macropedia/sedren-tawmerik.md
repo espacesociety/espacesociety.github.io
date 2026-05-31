@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,7 +23,7 @@ Sedren came to the throne at a sad and dangerous time.  His father Cezan had bee
 
 Despite the warnings of his councillors, Sedren struck back hard.  He used all the resources at his disposal; military, political and intelligence, to attack those who even had the appearance of challenging his authority.  When he discovered that some had escaped and were living up the [Imudring](/macropedia/imudring), he threatened to make an imperial decree banning their religion, and soon the alleged traitors were put in Imperial hands.  He was shameless in the use of informants, torture, various truth-telling techniques (some so horrible and unreliable that later Emperors actually banned the very mention of them).
 
-Sedren's gamble paid off.  He finally cemented the Imperial office as the central power, and showed to his enemies that an Emperor had vast resources to discover their activites and punish them.  During his reign, the practice of oaths of fealty by all public officials to the Emperor became mandatory.
+Sedren's gamble paid off.  He finally cemented the Imperial office as the central power, and showed to his enemies that an Emperor had vast resources to discover their activities and punish them.  During his reign, the practice of oaths of fealty by all public officials to the Emperor became mandatory.
 
 Later in his reign, Sedren seemed to repent some of his earlier actions.  He freed some political prisoners, permitted dissent (providing it wasn't overly organized or overly critical of the Emperor).  He finally declared the [Hagurin Character Set](/macropedia/hagurin-character-set) as the only one to be used on all official Imperial documents, thus assuring standardized communications.
 

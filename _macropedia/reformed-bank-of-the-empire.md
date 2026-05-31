@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -26,7 +27,7 @@ The strategy behind this Reformed Bank was to unify currency throughout the Empi
 
 Eventually, the Reformed Bank attempted to use a collection of key industrial materials as an index of the value of the "Imperial." However, this index never worked in practice. Regardless, over the Bank's second generation of operation, the Indexed Imperial was decreed as the primary unit of currency.
 
-After a generation, the Index of materials upon which the Indexed Imperial was based failed. Speculators discovered a flaw in the algorythm used to calculate the Index. They exploited this flaw to steal billions of Indexed Imperials worth of index materials from the Empire. The Emperor was reduced to near bankruptcy, and instigated the [Kabal Nebrotensia](/macropedia/kabal-nebrotensia) to generate funds to restore his wealth. During the brief time between the bankruptcy and [Kabal Nebrotensia](/macropedia/kabal-nebrotensia), the [Imperial Congress](/macropedia/imperial-congress) was nearly able to wrest control of the Empire from the Emperor. This, in turn, led to the [Endyphad Konjrez](/macropedia/endyphad-konjrez), where covert forces of the [Imperial Congress](/macropedia/imperial-congress) and the Emperor fought openly. The Congress hoped to defeat the Kabal and permanently hobble the Emperor. The result of this is well documented in [Endyphad Konjrez](/macropedia/endyphad-konjrez).
+After a generation, the Index of materials upon which the Indexed Imperial was based failed. Speculators discovered a flaw in the algorithm used to calculate the Index. They exploited this flaw to steal billions of Indexed Imperials worth of index materials from the Empire. The Emperor was reduced to near bankruptcy, and instigated the [Kabal Nebrotensia](/macropedia/kabal-nebrotensia) to generate funds to restore his wealth. During the brief time between the bankruptcy and [Kabal Nebrotensia](/macropedia/kabal-nebrotensia), the [Imperial Congress](/macropedia/imperial-congress) was nearly able to wrest control of the Empire from the Emperor. This, in turn, led to the [Endyphad Konjrez](/macropedia/endyphad-konjrez), where covert forces of the [Imperial Congress](/macropedia/imperial-congress) and the Emperor fought openly. The Congress hoped to defeat the Kabal and permanently hobble the Emperor. The result of this is well documented in [Endyphad Konjrez](/macropedia/endyphad-konjrez).
 
 ## Index Imperial
 
@@ -36,11 +37,11 @@ Index materials comprised key industrial materials held in surplus by major syst
 
 ## Reformed Imperial
 
-Briefly after the failure of the Index Imperial currency, an attempt was made to base a new Imperial on a non-volitale, non-exploitable basis: manpower. This *Reformed Imperial* based value on the monthly labor of the common laborer as averaged among the several [Imperial Core Worlds](/macropedia/imperial-core-worlds).
+Briefly after the failure of the Index Imperial currency, an attempt was made to base a new Imperial on a non-volatile, non-exploitable basis: manpower. This *Reformed Imperial* based value on the monthly labor of the common laborer as averaged among the several [Imperial Core Worlds](/macropedia/imperial-core-worlds).
 
 ## Retrospective
 
-Historical analysis of the Imperial and the Reformed Bank of the Empire reveal a key flaw in the approach and a simple solution. Had the Imperial been used solely as a unit of currency between system governments and the Empire as a unit of trade, then it might have survived speculators and stablized trade in the Empire&ndash;a systemic problem throughout its history. However, since the [Imperial Congress](/macropedia/imperial-congress) hoped to use the Bank to overthrow the Emperor, then its near success in the [Endyphad Konjrez](/macropedia/endyphad-konjrez) suggests the Bank was more successful than mainstream historians will suggest.
+Historical analysis of the Imperial and the Reformed Bank of the Empire reveal a key flaw in the approach and a simple solution. Had the Imperial been used solely as a unit of currency between system governments and the Empire as a unit of trade, then it might have survived speculators and stabilized trade in the Empire&ndash;a systemic problem throughout its history. However, since the [Imperial Congress](/macropedia/imperial-congress) hoped to use the Bank to overthrow the Emperor, then its near success in the [Endyphad Konjrez](/macropedia/endyphad-konjrez) suggests the Bank was more successful than mainstream historians will suggest.
 
 ## References
 1. [Endyphad Konjrez](/macropedia/endyphad-konjrez)

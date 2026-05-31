@@ -44,7 +44,7 @@ In some cases Ethers can be used to remotely control vehicles, facilities, or ev
 
 ## Related Articles
 
-1. [F Ics](/macropedia/f-ics)
+1. [FICs](/macropedia/fully-integrated-corporation)
 2. [Imperium Equipment Index](/macropedia/imperium-equipment-index)
 3. [Fully Integrated Corporation](/macropedia/fully-integrated-corporation)
 4. [Fics](/macropedia/fully-integrated-corporation)

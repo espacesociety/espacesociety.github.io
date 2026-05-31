@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,9 +17,9 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-The Ying Clan emerged from the Decline as the ruling class of a small agrarian world, [Providence](/star-systems/providence). Their clan history claimed that they were a religios sect persecuted heavily in their homeland, but supported by missionaries from another part of Terra. While it is not perfectly clear, and much detail has been lost, it appears that they originated somewhere on the Eastern part of the Terran Continent Asia. In any case, the original colonists came upon a paradisaical world and named in Providence, believing it to be a blessing from the Creator.
+The Ying Clan emerged from the Decline as the ruling class of a small agrarian world, [Providence](/star-systems/providence). Their clan history claimed that they were a religious sect persecuted heavily in their homeland, but supported by missionaries from another part of Terra. While it is not perfectly clear, and much detail has been lost, it appears that they originated somewhere on the Eastern part of the Terran Continent Asia. In any case, the original colonists came upon a paradisaical world and named it Providence, believing it to be a blessing from the Creator.
 
-Archaeological study has revealed that their history is rife with twists, turns, and outright reversals of their belief system. A study in 89 ADEM revealed at least 7 distinct belief systems practiced by the Ying as the "true" religion. Researchers were discouraged from looking further into their history as increasing evidence of bloody conflict began to surface. The prominent systems of that time took a very dispassionate view of things, and reacting violently to another's faith would be frowned upon. (Reacting violently to those who ignore your teachings or commit sins seemed _de rigeur_, though.)
+Archaeological study has revealed that their history is rife with twists, turns, and outright reversals of their belief system. A study in 89 ADEM revealed at least 7 distinct belief systems practiced by the Ying as the "true" religion. Researchers were discouraged from looking further into their history as increasing evidence of bloody conflict began to surface. The prominent systems of that time took a very dispassionate view of things, and reacting violently to another's faith would be frowned upon. (Reacting violently to those who ignore your teachings or commit sins seemed _de rigueur_, though.)
 
 Whatever their previous history, their world was home to a startling variety of delectable plant life. The Ying opened their world to strictly controlled immigration and soon cultivated a great deal of it. Among those immigrants were some missionaries from the [Alaerian Cult](/macropedia/alaerian-cult). While the Ying did not immediately embrace the full teachings of the missionaries, it did provide the impetus for another round of religious bloodshed. When the smoke cleared, the remaining Ying espoused a unique variation of the Alaerian ideal. These survivors quickly joined the Imperium during the [Frontier Rebellion](/macropedia/frontier-rebellion) to avoid any repercussions.
 

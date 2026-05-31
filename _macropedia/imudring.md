@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -19,13 +20,13 @@ categories: ["imperium edition", "isaac taub authored"]
 The **Imudring** represents one of the more curious cultures in the
 Imperium. To accept their version of history, those belonging to this
 group originally belonged to one of the sleeper ships allegedly launched
-from [Sol System](/star-systems/sol-system) during the [Chronology/Emergence](/chronology/emergence). Starship
+from [Sol System](/star-systems/sol-system) during the [Emergence](/chronology/emergence-era). Starship
 engineers seem to support the notion as the ships the Imudring inhabit
 are engineered in a very odd way and have a significantly different line
 of design than most trans-system ships, with notable exception of FTL
-drives. During the [[Terran Decline](/macropedia/terran-decline)](/chronology/first-decline), the
+drives. During the Terran Decline, the
 Imudring were separated, and most were forced to scratch a meager
-existance in space.
+existence in space.
 
 Regardless of their source, the Imudring were the only group of people
 who have refused to touch planetary soil in recorded history. They were
@@ -49,7 +50,7 @@ are different factions of Imudring, many of whom are in open-hostility
 with one another. (Which, also, makes them interesting considering their
 supposed business practices.)
 
-The Imudring are also fairly strict adherants to the [Chogia Faith](/macropedia/chogia-faith), which
+The Imudring are also fairly strict adherents to the [Chogia Faith](/macropedia/chogia-faith), which
 is a meditative discipline involving the manual writing of the
 [Hagurin Character Set](/macropedia/hagurin-character-set).
 
@@ -63,13 +64,13 @@ attempted a brief federation but ill-fated under [Wecing Doozium](/macropedia/we
 
 ## Related Articles
 
-1. [Terran Decline](/macropedia/terran-decline)
+1. Terran Decline
 2. [Chogia Faith](/macropedia/chogia-faith)
 3. [Imperium Edition Index](/macropedia/imperium-edition-index)
 4. [Sol System](/star-systems/sol-system)
 5. [Hagurin Character Set](/macropedia/hagurin-character-set)
 6. [Wecing Doozium](/macropedia/wecing-doozium)
-7. [Chronology/Emergence](/chronology/emergence)
+7. [Emergence](/chronology/emergence-era)
 8. [Terrandecline](/chronology/first-decline)
 
 

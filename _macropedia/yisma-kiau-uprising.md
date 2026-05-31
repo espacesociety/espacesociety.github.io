@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,7 +23,7 @@ However, not all humans are normal. The HETG group responsible for exploiting th
 
 When the Kuberians began to regularly extend their interactions to include violence against the Yisma Kiau, the Yisma Kiau responded. Regardless of the Tithian propaganda, the Yisma Kiau, actually had much in the way of Imperial currency with which to purchase aid. They contacted a number of security firms, including the [Dinzwar Gefera](/macropedia/dinzwar-gefera), for help. Similarly, as would-be murderers and thieves were turned away from their prey, they began to ask for help, and the [Tithian Foundation](/macropedia/tithian-foundation) was all too happy to provide it from "racially pure" organizations.
 
-Things came to a head when the Yisma Kiau declared a boycott on the colonial ports to avoid paying a ridiculous "guest worker surcharge" increase that would have bankrupted them all. At that point, the government declared that the agriculturalists and sylviculturalists did not have the right to strike and that their produce was indeed the propery of the goverment's anyway. What began as a protest against an unfair tax, turned into a full-scale planetary revolt in a matter of hours. The mercenary groups poured a lot of resources into the conflict and the eventually Yisma Kiau victory was the deathknell for many of them. 
+Things came to a head when the Yisma Kiau declared a boycott on the colonial ports to avoid paying a ridiculous "guest worker surcharge" increase that would have bankrupted them all. At that point, the government declared that the agriculturalists and sylviculturalists did not have the right to strike and that their produce was indeed the property of the government's anyway. What began as a protest against an unfair tax, turned into a full-scale planetary revolt in a matter of hours. The mercenary groups poured a lot of resources into the conflict and the eventual Yisma Kiau victory was the deathknell for many of them. 
 
 The immediate result was not only a successful revolt against the unenhanced for a genetically enhanced people, but the destruction or business equivalent that many of the security firms experienced. It left a great void in the aristocratic house structure around the Imperium. That void could  and would later be filled by Femaron Felard.
 

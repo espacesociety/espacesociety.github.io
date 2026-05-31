@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: []
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/nguyonhi-assault-suits'>Nguyonhi Assault Suits</a></div>
@@ -15,7 +16,7 @@ categories: []
 </div>
 
 
-# *A talk about [[Nguyonhi Assault Suits](/macropedia/nguyonhi-assault-suits)](/macropedia/nguyonhi-assault-suits):*
+# *A talk about [Nguyonhi Assault Suits](/macropedia/nguyonhi-assault-suits):*
 
 Are the suits actually more like worms, or more like humans? Or somehow other way? Do you rather wear them, or get/sit in them?
 

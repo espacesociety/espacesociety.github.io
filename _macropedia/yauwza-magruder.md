@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,7 +21,7 @@ categories: ["imperium edition", "isaac taub authored"]
 ## The Birth
 As a scholar gifted in the exploration of history, I find it difficult to speak of a luminary in our day. However, the great "bothan" proverb says: "Great generals must keep a journal of their exploits for when they have gone one before us it will be the only thing to defend themselves from the backbiting of historians." (I have always thought it odd how a proverb could be so specific.)
 
-Yauwza Magruder was perhaps the only "ethical" creation of [Woth](/macropedia/woth) of Voushniya. Even as her mind concoted more bizarre and cruel beings, Yauwza was created. I could say born, although Yauwza never experienced normal birth. How can one, when there is no father?
+Yauwza Magruder was perhaps the only "ethical" creation of [Woth](/macropedia/woth) of Voushniya. Even as her mind concocted more bizarre and cruel beings, Yauwza was created. I could say born, although Yauwza never experienced normal birth. How can one, when there is no father?
 
 Magruder survived the sterilization of [Voushniya](/macropedia/voushniya) because he was ferried off the world as soon after his creation as he could travel. For years those who escorted him protected him from the death squads bent on terminating all of [Woth](/macropedia/woth)'s experiments that "got away." During those years he grew powerful in mind, tall in stature, though always somewhat like his mother. Eventually he was hidden among [Kuberists](/macropedia/kuberian-movement) who taught him the darker path of their faith. The Muridians, while still peaceful, taught that peace was only waiting for the time to purify.
 
@@ -36,7 +37,7 @@ However, the Empire was not totally unaware of these developments. The system wa
 
 Only during the [Hundred Bloody Days](/macropedia/hundred-bloody-days) did it appear that the Empire cared about the Reborn. The Empire launched a massive reprisal against the Reborn and it was during this time that the true nature of their cryptic Elder was known. Although he did not wield direct power, Magruder was the supreme religious figure to the Reborn. In response to the genocidal attack by the Empire, the Reborn fled throughout the Empire and became the [Muridian Avengers](/macropedia/muridian-avengers).
 
-It is well-known that Magruder lives, though he should have died long before. There are those who believe that Woth created a perfect man&ndash;one who would be untouched by disease. What she unleashed was a cunning, dangerous man who has contributed to the disassociation of several systems already. We are fading again into the darkness of space. Fortunately, many of my peers strive to finish this Macropedia and establish a hidden library, the [Canticle Of Hope](/macropedia/canticle-of-hope). When the purges die down and he hop pollution fades, perhaps our posterity will find it and be wiser than we have been.
+It is well-known that Magruder lives, though he should have died long before. There are those who believe that Woth created a perfect man&ndash;one who would be untouched by disease. What she unleashed was a cunning, dangerous man who has contributed to the disassociation of several systems already. We are fading again into the darkness of space. Fortunately, many of my peers strive to finish this Macropedia and establish a hidden library, the [Canticle Of Hope](/macropedia/canticle-of-hope). When the purges die down and the hop pollution fades, perhaps our posterity will find it and be wiser than we have been.
 
 The Empire is dying, long live the Empire.
 

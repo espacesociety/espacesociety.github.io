@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "kvecton sharp authored", "survival equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -24,7 +25,7 @@ Popular combat EVA suit, employed by security firms, mercenaries and even by mer
 
 The Raptor Combat Suit is a lightweight, highly maneuverable (for combat EVA equipment) suit.  A stock suit comes with an eight hour oxygen supply, though some have been adapted to use the [Guiermod E Va Suit](/macropedia/guiermod-e-va-suit) oxygen production and reclamation system.
 
-Most importantly in a combat suit, however, is it outer skin, which can change color to reflect various kinds of laser weapons.  The tough skin also has automatic puncture fixing technology to stop lethal loss of pressure.
+Most importantly in a combat suit, however, is its outer skin, which can change color to reflect various kinds of laser weapons.  The tough skin also has automatic puncture fixing technology to stop lethal loss of pressure.
 
 The Raptor combat suit has a sophisticated communications system with full encryption for secured communications, as well as some pretty sophisticated sensory equipment.
 

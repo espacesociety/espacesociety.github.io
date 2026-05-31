@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,7 +21,7 @@ Semi-legendary society that included some of the most important families of the 
 
 It is said that the Society acted as a sort of secret governing body, assuring that the Imperium functioned in a fashion that would serve the powerful clique the best.  While the [Tawmerik](/macropedia/tawmerik-dynasty)s may have been the highest ranking clan in the Imperium, in the Waudbect Society, they were said to have been equals with the four or five other families.
 
-So far as it goes, this part of the legend isn't necessarily unbelievable.  While the record indicates that these powerful families were as often as not in competition, and alliances tended to be strategic and shortlived, it would explain the ease with which the Tawmeriks were so successful for so long at holding on to power.  Certainly there are some records that do hint to at least a half a dozen meetings including the highest-ranking members of these families and their functionaries, and two remarkable references to an unknown body named the General Orders Committee which again was made up of members of these families, hints that the Society or something very like it must have existed for much of the Tawmerik period.
+So far as it goes, this part of the legend isn't necessarily unbelievable.  While the record indicates that these powerful families were as often as not in competition, and alliances tended to be strategic and short-lived, it would explain the ease with which the Tawmeriks were so successful for so long at holding on to power.  Certainly there are some records that do hint at least a half a dozen meetings including the highest-ranking members of these families and their functionaries, and two remarkable references to an unknown body named the General Orders Committee which again was made up of members of these families, hints that the Society or something very like it must have existed for much of the Tawmerik period.
 
 Other parts of the legend, however, strain credibility to the breaking point.  Versions of the legend about the Society allege that it had in its employ the brightest [Anthorph](/macropedia/anthorph) geneticists to be found, who developed a treatment that allowed the transferal of the mind to another body, thus allowing the Society, and ultimately the Imperium, to be ruled by the same individuals in new bodies for centuries.  The legend also states that the Society was in fact headed by one of the pre-[Decline](/chronology/first-decline) oligarchs, who was kept in some sort of bubble dimension where minutes for him or her might be decades.  Whatever the case, the Waudbect Society supposedly disappeared (or went completely underground) after the Tawmerik Dynasty failed.
 

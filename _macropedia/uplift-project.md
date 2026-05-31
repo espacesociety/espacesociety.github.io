@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored", "imperium equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -21,7 +22,7 @@ The Uplift Project was the first major infrastructure of the Imperium.  Initiate
 
 In the end, however, the Uplift Project became one of the jewels in the Imperial Crown.  Many worlds saw their economies improve dramatically as they gained easier access to interstellar markets.  The Emperors gained a good deal of loyalty and goodwill out of the project, and even the most vocal critics were forced to admit that it had done much good for the unity of the Imperium.
 
-It was only after [Temba II](/macropedia/temba-two)'s death that allegations of corruption began to come forward.  The [Tawmerik's](/macropedia/tawmerik-dynasty) and the closely aligned families and corporations had done exceedingly well through lucrative contracts.  Allegations of kickbacks, influence peddling, misappropriation and out-and-out theft of Imperium funds were made.  The [Imperial Congress](/macropedia/imperial-congress) did make an effort at an official inquiry, the first one to ever force immediate family and close advisors to an Emperor to testify.  Concerns that much of the good that had been down through the Uplift Project being undone eventually lead to the inquiry being shut down.  A few scapegoats were found and imprisoned or exiled, and the matter was buried.
+It was only after [Temba II](/macropedia/temba-two)'s death that allegations of corruption began to come forward.  The [Tawmerik's](/macropedia/tawmerik-dynasty) and the closely aligned families and corporations had done exceedingly well through lucrative contracts.  Allegations of kickbacks, influence peddling, misappropriation and out-and-out theft of Imperium funds were made.  The [Imperial Congress](/macropedia/imperial-congress) did make an effort at an official inquiry, the first one to ever force immediate family and close advisors to an Emperor to testify.  Concerns that much of the good that had been done through the Uplift Project being undone eventually led to the inquiry being shut down.  A few scapegoats were found and imprisoned or exiled, and the matter was buried.
 
 In historical context, whatever the misdeeds of the Tawmeriks during the Uplift Project, the good that was done for many worlds cannot be denied.  Though one can never excuse immoral and unethical conduct, it seems impossible that a project of such vast size could ever be accomplished without some degree of corruption.
 

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -26,11 +27,9 @@ The Library is divided into three sections:
 
 * The Alluvian - This is the archival section, where ancient documents, both written and electronic, are maintained.  It is the job of the curators of the Alluvian to assure that works of this nature (often found in archaeological digs or when private collections are donated) are transcribed into the main memory systems for the Arinacon and Nostocon.
 
-The Library was nearly destroyed during the chaos after the [Hundred Bloody Days](/macropedia/hundred-bloody-days), and only the swift and surprisingly robust defense by the librarians and curators saved the library from destruction.  Such a loss would have been incalcuable in knowledge and culture.
+The Library was nearly destroyed during the chaos after the [Hundred Bloody Days](/macropedia/hundred-bloody-days), and only the swift and surprisingly robust defense by the librarians and curators saved the library from destruction.  Such a loss would have been incalculable in knowledge and culture.
 
 ## References
 1. [First Expanse](/chronology/first-expanse)
 1. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
 1. [Temba II](/macropedia/temba-two)
-
-%25category%25Categories:  | 

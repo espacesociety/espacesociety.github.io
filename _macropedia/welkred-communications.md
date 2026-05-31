@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,9 +17,9 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-Founded by [Janoos Welkred](/macropedia/janoos-welkred) during the [Terran Republic](/macropedia/terran-republic), Welkred Communications was the first interstellar media firm. Funded by Welkred and other Republic patriots as an effort to counter the intense propaganda and disinformation campaigns of [Veltrane Fres Volon](/macropedia/veltrane-fres-volon) and his [Confederation Party](/macropedia/confederation-party), the Corp quickly evolved into a trusted and popular source of news among the burgeoning [Imperial Home Worlds](/macropedia/imperial-home-worlds).
+Founded by [Janoos Welkred](/macropedia/janoos-welkred) during the [Terran Republic](/macropedia/terran-republic), Welkred Communications was the first interstellar media firm. Funded by Welkred and other Republic patriots as an effort to counter the intense propaganda and disinformation campaigns of [Veltrane Fres Volon](/macropedia/veltrane-fres-volon) and his [Confederation Party](/macropedia/confederation-party), the Corp quickly evolved into a trusted and popular source of news among the burgeoning Imperial Home Worlds.
 
-The firm was an early adopter of the [Hagurin Character Set](/macropedia/hagurin-character-set) and many cite its usage as a key factor in [[Sedren Tawmerik](/macropedia/sedren-tawmerik)](/macropedia/sedren-tawmerik)'s decision to make it the official written language of the Imperium. Welkred Communications was the primary media outlet for the majority of Imperium citizens until well into the [Dabrian Dynasty](/macropedia/dabrian-dynasty).
+The firm was an early adopter of the [Hagurin Character Set](/macropedia/hagurin-character-set) and many cite its usage as a key factor in [Sedren Tawmerik](/macropedia/sedren-tawmerik)'s decision to make it the official written language of the Imperium. Welkred Communications was the primary media outlet for the majority of Imperium citizens until well into the [Dabrian Dynasty](/macropedia/dabrian-dynasty).
 
 ## References
 
@@ -31,7 +32,7 @@ The firm was an early adopter of the [Hagurin Character Set](/macropedia/hagurin
 1. [Confederation Party](/macropedia/confederation-party)
 2. [Imperium Edition Index](/macropedia/imperium-edition-index)
 3. [Janoos Welkred](/macropedia/janoos-welkred)
-4. [Imperial Home Worlds](/macropedia/imperial-home-worlds)
+4. Imperial Home Worlds
 5. [Terran Republic](/macropedia/terran-republic)
 6. [Sedren Tawmerik](/macropedia/sedren-tawmerik)
 7. [Veltrane Fres Volon](/macropedia/veltrane-fres-volon)

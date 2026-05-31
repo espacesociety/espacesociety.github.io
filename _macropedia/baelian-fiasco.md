@@ -33,7 +33,7 @@ The combined force of the Bael police state and the BID sneakiness helped ferret
 
 At the same time, BID agents were able to persuade key members of the Bael government that the Family was in fact purging members of its own government and that those anti-Imperial agents were trying to stop them. Thus, the government revolted against the Family and put them under house arrest. Unfortunately for the BID, the new government was determined to strip the Family of their property and give it to the people and run as a collectivist commune. Now, the BID had to save the Family from their collaborators.
 
-In order to save the Family, the main part of the BID outed their "rogue" faction that had instigated this plan. An open conflict erupted between the Main BID, the new government, and the BID agents on the ground. This disrupted trade for a few years until the [Imperial Navy](/macropedia/imperial-navy) stepped in to quell the fighting.
+In order to save the Family, the main part of the BID outed their "rogue" faction that had instigated this plan. An open conflict erupted between the Main BID, the new government, and the BID agents on the ground. This disrupted trade for a few years until the Imperial Navy stepped in to quell the fighting.
 
 The BID lost allies within the Oligarchs as they realized what the BID was capable of. The BID lost credibility with the Emperor and the Congress. More importantly, the BID failed to eradicate the Baelian Family and bolstered the Family's admiration amongst its people.
 
@@ -45,9 +45,9 @@ The BID lost allies within the Oligarchs as they realized what the BID was capab
 ## Related Articles
 
 1. [Reformed Bank Of The Empire](/macropedia/reformed-bank-of-the-empire)
-2. [Star Systems](/macropedia/star-systems)
+2. Star Systems
 3. [Imperium Edition Index](/macropedia/imperium-edition-index)
-4. [Imperial Navy](/macropedia/imperial-navy)
+4. Imperial Navy
 5. [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)
 6. [Index Imperium](/macropedia/reformed-bank-of-the-empire)
 7. [Imperial Congress](/macropedia/imperial-congress)

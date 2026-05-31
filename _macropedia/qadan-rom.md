@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,7 +19,7 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 
 Qadan Rom was the third and effectively final ruling premiere of the [Imperial Interregnum](/macropedia/imperial-interregnum). Unfortunately, he was appointed more for the perceived benefits to his supporters than any skill he might have had.
 
-Early in the Interregnum, [Durin Bonish](/macropedia/durin-bonish) had significantly decentralized the government. [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol)'s rule was warped by the eruption of the fanatic splinter cults. The vanishing of the [Gahanian Seers](/macropedia/gahanian-seers) sparked such groups to a fever pitch. Through all of this the insterstellar economy fumbled. Note that the local planetary economies generally remained healthy. However, interstellar trade was becoming less profitable or necessary. 
+Early in the Interregnum, [Durin Bonish](/macropedia/durin-bonish) had significantly decentralized the government. [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol)'s rule was warped by the eruption of the fanatic splinter cults. The vanishing of the [Gahanian Seers](/macropedia/gahanian-seers) sparked such groups to a fever pitch. Through all of this the interstellar economy fumbled. Note that the local planetary economies generally remained healthy. However, interstellar trade was becoming less profitable or necessary. 
 
 Cult leaders on many worlds had seized upon this trend to demand or incite independence and rebellion. Additionally, racist sentiments against those with a genetically enhanced heritage were on the rise in many places. It did not help that situation for much interstellar traffic being controlled by such people. So while the pieces that made up the Imperium were individually healthy, the glue holding the Imperium together was dissolving.
 

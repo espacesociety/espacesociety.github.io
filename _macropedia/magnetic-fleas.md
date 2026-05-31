@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "kvecton sharp authored", "combat equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -28,13 +29,13 @@ As with other forms of ammunition, fleas come in different varieties, from high-
 
 ## Use
 
-Magnetic fleas are essentially a hand-thrown weapon, albeit one that, within a fraction of a second of leaving the hand, can move at frightening speeds.  The user simply throws the flee in the direction of the target, and providing his or her aim is reasonably good, the flea will do the rest.
+Magnetic fleas are essentially a hand-thrown weapon, albeit one that, within a fraction of a second of leaving the hand, can move at frightening speeds.  The user simply throws the flea in the direction of the target, and providing his or her aim is reasonably good, the flea will do the rest.
 
-The trick, of course, is the aim.  It takes a good deal of practice to get good enough to be let out of the targeting room.  A number of tragic incidents have occured when someone untrained has got a hold of magnetic flees.
+The trick, of course, is the aim.  It takes a good deal of practice to get good enough to be let out of the targeting room.  A number of tragic incidents have occurred when someone untrained has got a hold of magnetic fleas.
 
 ## Disadvantages
 
-Though magnetic flees have come to be an integral part of an infantry soldier's personal armory, they aren't perfect. They cannot approach the velocities of high-end ballistic weapons, and only so much explosive can be packaged into each one.  Sub-standard manufacture can cause all sorts of terrible problems, including the loss of limbs when the flees explode prematurely.
+Though magnetic fleas have come to be an integral part of an infantry soldier's personal armory, they aren't perfect. They cannot approach the velocities of high-end ballistic weapons, and only so much explosive can be packaged into each one.  Sub-standard manufacture can cause all sorts of terrible problems, including the loss of limbs when the fleas explode prematurely.
 
 ## Related Articles
 

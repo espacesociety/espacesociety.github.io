@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["cho minh tel ran authored", "imperium edition"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,9 +17,9 @@ categories: ["cho minh tel ran authored", "imperium edition"]
 </div>
 
 
-As the Imperium came into conflict with the [Heljyks](/macropedia/heljyks), most long rang tactics were becoming ineffective. The rebirth of melee combat mixed with the rise of spirituality to produce the Liu-No-Ri Masters. A small group of veterans in the [Dinzwar Gefera](/macropedia/dinzwar-gefera) gave up their use of mind-altering substances to pursue a "purity of body, soul, and action." They developed a very effective combat style using the weapons of the time. They gained a great reputation, and remained within the [Dinzwar Gefera](/macropedia/dinzwar-gefera).
+As the Imperium came into conflict with the [Heljyks](/macropedia/heljyks), most long range tactics were becoming ineffective. The rebirth of melee combat mixed with the rise of spirituality to produce the Liu-No-Ri Masters. A small group of veterans in the [Dinzwar Gefera](/macropedia/dinzwar-gefera) gave up their use of mind-altering substances to pursue a "purity of body, soul, and action." They developed a very effective combat style using the weapons of the time. They gained a great reputation, and remained within the [Dinzwar Gefera](/macropedia/dinzwar-gefera).
 
-Sometime late in the reign of [Qanna Dabrian II](/macropedia/qanna-dabrian-two), the Masters obtained independence from, or were made independent of, the [Dinzwar Gefera](/macropedia/dinzwar-gefera). The details of that change are somewhat muddled, apparently due to lapse record-keeping among the mercenaries. This is especially the case since many of the masters still operated with the mercenaries on occasion. With that independence, the masters set up monasteries on several worlds. Interestingsly enough, they chose worlds that were "out of the way" or remote from the bustle of the Imperium Core. 
+Sometime late in the reign of [Qanna Dabrian II](/macropedia/qanna-dabrian-two), the Masters obtained independence from, or were made independent of, the [Dinzwar Gefera](/macropedia/dinzwar-gefera). The details of that change are somewhat muddled, apparently due to lapse record-keeping among the mercenaries. This is especially the case since many of the masters still operated with the mercenaries on occasion. With that independence, the masters set up monasteries on several worlds. Interestingly enough, they chose worlds that were "out of the way" or remote from the bustle of the Imperium Core. 
 
 In spite of this, their fame grew, and so did their reputation. In particular, their reputation appears to have grown without regard to historical evidence of their potency or effectiveness in combat. Nonetheless, when they introduced combat with their [Oneric Devices](/macropedia/oneric-devices), they brought a new level of fear and apprehension to the field. While the devices were only briefly secret, they are forever associated with these monks.  
 

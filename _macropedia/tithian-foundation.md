@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -26,13 +27,13 @@ The Foundation would co-fund an exploratory mission with a government and in ret
 
 ## The High Imperium Tithian Foundation
 
-The Tithian Foundation, through careful fiscal management of the nest-egg initially given it by Ewol Tith, became very wealthy, and began to branch into other areas.  It funded archaeological expeditions, scientific research, archives and, after gaining permission from the [Imperial Congress](/macropedia/imperial-congress), direct business ventures, most famously the manufacture of [[Fteigar Alloy](/macropedia/fteigar-alloy)](/macropedia/fteigar-alloys)-based products.
+The Tithian Foundation, through careful fiscal management of the nest-egg initially given it by Ewol Tith, became very wealthy, and began to branch into other areas.  It funded archaeological expeditions, scientific research, archives and, after gaining permission from the [Imperial Congress](/macropedia/imperial-congress), direct business ventures, most famously the manufacture of [Fteigar Alloy](/macropedia/fteigar-alloys)-based products.
 
-Slowly but surely it wandered away from its original purpose as a funder of colonial missions, and became more of corporate conglomerate.  Allegations of fraud and vote-buying of members of the Senot and the Sevyet in the [Imperial Congress](/macropedia/imperial-congress) lead to a quick and somewhat surprising buy-up of most of the Foundation's shares by the [Soro Meldur Kafrah Bank](/macropedia/soro-meldur-kafrah-bank).  The remaining pieces of the old Foundation remained solely to administer a number of relatively small trusts and colonial collectives that were all that was left of old Ewol Tith's grand dream.
+Slowly but surely it wandered away from its original purpose as a funder of colonial missions, and became more of a corporate conglomerate.  Allegations of fraud and vote-buying of members of the Senot and the Sevyet in the [Imperial Congress](/macropedia/imperial-congress) led to a quick and somewhat surprising buy-up of most of the Foundation's shares by the [Soro Meldur Kafrah Bank](/macropedia/soro-meldur-kafrah-bank).  The remaining pieces of the old Foundation remained solely to administer a number of relatively small trusts and colonial collectives that were all that was left of old Ewol Tith's grand dream.
 
 ## The Interregnum Tithian Foundation
 
-After the [Grand Reforms](/macropedia/grand-reforms) and the erosion of Imperium power began to increase in pace, some rather unsavory characters, lead by one [Nindus Azrahn Felard](/macropedia/nindus-azrahn-felard) bought the charter for the old Foundation from the greedy (and nearly broke) [Jubal III](/macropedia/jubal-three).  No one at the time knew what Felard, head of a minor aristocratic family of ill-repute, was up to, but quickly he began to use the Foundation to spread propaganda against the Emperors, who were labelled in the Foundation's new literature as "inbred fools dominated by genetically-altered bankers of inhuman breeding" and described Anthorphs as "aliens that lust after our women and seek to enslave our pure-blooded men".
+After the [Grand Reforms](/macropedia/grand-reforms) and the erosion of Imperium power began to increase in pace, some rather unsavory characters, led by one [Nindus Azrahn Felard](/macropedia/nindus-azrahn-felard) bought the charter for the old Foundation from the greedy (and nearly broke) [Jubal III](/macropedia/jubal-three).  No one at the time knew what Felard, head of a minor aristocratic family of ill-repute, was up to, but quickly he began to use the Foundation to spread propaganda against the Emperors, who were labelled in the Foundation's new literature as "inbred fools dominated by genetically-altered bankers of inhuman breeding" and described Anthorphs as "aliens that lust after our women and seek to enslave our pure-blooded men".
 
 The Foundation began funding, on the sly, a number of previously minor anti-Anthorph groups.  It can be seen now that the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) can be largely blamed for this new and racist Foundation's activities.  BID was receiving numerous reports from agents who had penetrated the Foundation, linking it to attacks upon Anthorphs and various [Kuberian Movement](/macropedia/kuberian-movement) groups, but did nothing.  It was only when Felard and other "executives" of the Foundation had been found to be stockpiling weapons and bribing Imperium officials to murder the Emperor and seize power was action taken.  The Felard family defended itself for some time, but when [Durin Bonish](/macropedia/durin-bonish) came to power, he pursued them mercilessly and forced them to flee.  Others were not so lucky, and were tried for treason, found guilty and executed.
 
@@ -57,7 +58,7 @@ Curiously (and sadly) enough, the Foundation was left intact and some individual
 2. [Dinzwar Gefera](/macropedia/dinzwar-gefera)
 3. [Grand Reforms](/macropedia/grand-reforms)
 4. [Durin Bonish](/macropedia/durin-bonish)
-5. [Fteigar Alloy](/macropedia/fteigar-alloy)
+5. [Fteigar Alloy](/macropedia/fteigar-alloys)
 6. [Kuberian Movement](/macropedia/kuberian-movement)
 7. [Imperial Congress](/macropedia/imperial-congress)
 8. [Imperium Edition Index](/macropedia/imperium-edition-index)

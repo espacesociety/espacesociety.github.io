@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium equipment", "isaac taub authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,7 +17,7 @@ categories: ["imperium equipment", "isaac taub authored"]
 </div>
 
 
-**Migar Comm** is the standard computer of the Imperium citizen, and are a healthy alternative to embedded computers. The migar comm is used primarily as a personal assistant, storing millions of pages of information, capable of accessing [ether](/macropedia/ether) libraries. They also allow citizens to contact one another via video [ether](/macropedia/ether) conference (the "Videcon").
+**Migar Comm** is the standard computer of the Imperium citizen, and is a healthy alternative to embedded computers. The migar comm is used primarily as a personal assistant, storing millions of pages of information, capable of accessing [ether](/macropedia/ether) libraries. They also allow citizens to contact one another via video [ether](/macropedia/ether) conference (the "Videcon").
 
 By the middle of the Imperium, [Fully Autonomous Data Acquisition Personalities](/macropedia/f-ad-ap) were possible, allowing a more enriched interaction with the computer.
 

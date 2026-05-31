@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,7 +17,7 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 
 
-**Klister University** was once one of the most renowned centers of learning in the Imperium, with some of the best genetics laboratories in human space.  Located on the [Anthorph](/macropedia/anthorph) world, [[Star Systems](/macropedia/star-systems)/Ju-majo](/star-systems/ju-majo), it was founded during the [Terran Republic](/macropedia/terran-republic).  With its specialization in various [Anthorph](/macropedia/anthorph) forms, it quickly became an important institution.
+**Klister University** was once one of the most renowned centers of learning in the Imperium, with some of the best genetics laboratories in human space.  Located on the [Anthorph](/macropedia/anthorph) world, [Ju-majo](/star-systems/ju-majo), it was founded during the [Terran Republic](/macropedia/terran-republic).  With its specialization in various [Anthorph](/macropedia/anthorph) forms, it quickly became an important institution.
 
 Its great library was legendary for the vast amount of data on various life forms, Terran-native and extra-Terran.  Doctors, biologists, pharmaceutical chemists and the like soon swelled the ranks.  A great library filled with generations of research was compiled, surely one of the greatest natural science collections in the history of humanity.
 
@@ -26,15 +27,15 @@ I have heard, though, that the survivors of the disaster, [Anthorph](/macropedia
 
 ## References
 1. [Anthorph](/macropedia/anthorph)s
-1. [[Hundred Bloody Days](/macropedia/hundred-bloody-days)](/macropedia/hundred-bloody-days)
-1. [[Star Systems](/macropedia/star-systems)/Ju-majo](/star-systems/ju-majo)
-1. [[Terran Republic](/macropedia/terran-republic)](/macropedia/terran-republic)
+1. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
+1. [Ju-majo](/star-systems/ju-majo)
+1. [Terran Republic](/macropedia/terran-republic)
 
 ## Related Articles
 
 1. [Imperium Edition Index](/macropedia/imperium-edition-index)
 2. [Terran Republic](/macropedia/terran-republic)
-3. [Star Systems](/macropedia/star-systems)
+3. Star Systems
 4. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
 5. [Anthorph](/macropedia/anthorph)
 6. [Starsystems/Ju-Majo](/star-systems/ju-majo)

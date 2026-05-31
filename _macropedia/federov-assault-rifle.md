@@ -39,7 +39,7 @@ For much of the [Early Imperium](/macropedia/imperium-macropedia-timeline) the D
 
 ### The FC series
 
-The FC-## for Federov-Civil, were designed primarily for use by Civil authorities to quiet "unrest." The [F Cs](/macropedia/f-cs) generally fired lower-powered ammunition and were reinforced to withstand use as a club. "Nonlethal" ammunition was also supported. FC series Fteigar showed more adaptation to ammunition than to environment, since the weapons weren't expected to "commute" outside whatever organization and location they were originally designed for. This made them less "durable" over the course of time and fewer can be found today than even most of the D series.
+The FC-## for Federov-Civil, were designed primarily for use by Civil authorities to quiet "unrest." The FCs generally fired lower-powered ammunition and were reinforced to withstand use as a club. "Nonlethal" ammunition was also supported. FC series Fteigar showed more adaptation to ammunition than to environment, since the weapons weren't expected to "commute" outside whatever organization and location they were originally designed for. This made them less "durable" over the course of time and fewer can be found today than even most of the D series.
 
 ### The FM series
 
@@ -51,34 +51,34 @@ The Laws of Physics are pretty tough to break. Microgravity combat involving fir
 
 The FS "Federov Specialist" series was designed with the "hunter" in mind. In truth, they were at least as respected among assassins and killers as among sportsmen. Each series was specially-designed for different world's gravity and climate, with Fteigar responses changing muzzle speed and aim to great effect.
 
-By the time of the [Grand Reforms](/macropedia/grand-reforms), they were so popular with assassins that [Klister University](/macropedia/klister-university) developed the miniaturized [Ballistic Trace Network](/macropedia/ballistic-trace-network), which just about ended rifles as a tool for assassination. 
+By the time of the [Grand Reforms](/macropedia/grand-reforms), they were so popular with assassins that [Klister University](/macropedia/klister-university) developed the miniaturized Ballistic Trace Network, which just about ended rifles as a tool for assassination. 
 
 ### A Gentleman's Weapon or Crude Frontier Tool?
 
-As time passed, Firearms fell from favor as the primary weapon of the infantryman. By the time of the [Grand Reforms](/macropedia/grand-reforms), this trend left Federov maintaining only the FS series. Firearms enjoyed a brief resurgence during the [Zenbrudi Wars](/macropedia/zenbrudi-wars) and for some time thereafter.
+As time passed, Firearms fell from favor as the primary weapon of the infantryman. By the time of the [Grand Reforms](/macropedia/grand-reforms), this trend left Federov maintaining only the FS series. Firearms enjoyed a brief resurgence during the [Zenbrudi Wars](/macropedia/zenbrudi-war) and for some time thereafter.
 
 Currently firearms enjoy an odd split personality. Finely-crafted and decorated for use, many weapons still adorn the studies and lodges of aristocrats. Sturdy and reliable, well-worn rifles also adorn the cabins of terra formers and frontiersmen for defense and sustenance. 
 
 ## References
 1. [Raptor Combat Suit](/macropedia/raptor-combat-suit)
 1. [Magnetic Fleas](/macropedia/magnetic-fleas)
-1. [Ballistic Trace Network](/macropedia/ballistic-trace-network)
+1. Ballistic Trace Network
 
 ## Related Articles
 
-1. [F Cs](/macropedia/f-cs)
+1. FCs
 2. [Magnetic Fleas](/macropedia/magnetic-fleas)
 3. [Terran Republic](/macropedia/terran-republic)
 4. [Raptor Combat Suit](/macropedia/raptor-combat-suit)
 5. [Klister University](/macropedia/klister-university)
-6. [Zenbrudi Wars](/macropedia/zenbrudi-wars)
+6. [Zenbrudi Wars](/macropedia/zenbrudi-war)
 7. [Fteigar Alloys](/macropedia/fteigar-alloys)
 8. [Imperium Equipment Index](/macropedia/imperium-equipment-index)
 9. [Grand Reforms](/macropedia/grand-reforms)
-10. [Ballistic Trace Network](/macropedia/ballistic-trace-network)
+10. Ballistic Trace Network
 11. [Early Imperium](/macropedia/imperium-macropedia-timeline)
 12. [Raptor Combat Suit](/macropedia/raptor-combat-suit)
-13. [Ballistic Trace Network](/macropedia/ballistic-trace-network)
+13. Ballistic Trace Network
 14. [Magnetic Fleas](/macropedia/magnetic-fleas)
 
 

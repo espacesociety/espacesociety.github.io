@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,7 +21,7 @@ Imperium government ministry, founded out of the merger of a number of departmen
 
 Within a few generations the Ministry had become a place for Emperors and politicians to stick patronage appointees.  Its large budget often ended up either being spent on ill-conceived projects or outright misappropriated by directors.
 
-Part of the [Grand Reforms](/macropedia/grand-reforms) was a major overhaul of the Ministry, which was delivered from the hands of patronage appointees.  Those reforms were relatively shortlived, and the Ministry was finally abolished by Premiere [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol), its budget redirected directly into the Premiere's office.
+Part of the [Grand Reforms](/macropedia/grand-reforms) was a major overhaul of the Ministry, which was delivered from the hands of patronage appointees.  Those reforms were relatively short-lived, and the Ministry was finally abolished by Premiere [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol), its budget redirected directly into the Premiere's office.
 
 ## References
 1. [Grand Reforms](/macropedia/grand-reforms)

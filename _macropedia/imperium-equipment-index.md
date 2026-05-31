@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: []
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div><a href='/macropedia/imperium-equipment'>Imperium Equipment</a></div>

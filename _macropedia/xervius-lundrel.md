@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,20 +17,20 @@ categories: ["imperium edition", "isaac taub authored"]
 </div>
 
 
-High Lord Captain **Xervius Lundrel**, who was the chief architect of many of [Antius Trevus I's](/macropedia/antius-trevus-one) policies and was considered by some to be the power behind the throne. He was a deeply religious man from the [[Star Systems](/macropedia/star-systems)/Merithian System](/star-systems/merithian-system) who was also known for his cruelty. He is said to have been a bit of a mystic and faith healer. The Empress became very infatuated with him and Antius saw in him a man after his own cruel heart.
+High Lord Captain **Xervius Lundrel**, who was the chief architect of many of [Antius Trevus I's](/macropedia/antius-trevus-one) policies and was considered by some to be the power behind the throne. He was a deeply religious man from the [Merithian System](/star-systems/merithian-system) who was also known for his cruelty. He is said to have been a bit of a mystic and faith healer. The Empress became very infatuated with him and Antius saw in him a man after his own cruel heart.
 
-Being from Merithian, he was raised in a small farming commune. He developed a reputation as an ill-behaved child. His life in Uvane was haunted by an event in his early childhood where he inadvertantly set ablaze 100,000 acres of wheat ready for harvest. As a punishment, he was sent to the Zulier Monestary where he discovered religion and became a mystic. Thereafter he became a pilgrim bent on finding the true source of their faith. Oddly, this lead him off-world where he is said to have fathered many illigitimate children.
+Being from Merithian, he was raised in a small farming commune. He developed a reputation as an ill-behaved child. His life in Uvane was haunted by an event in his early childhood where he inadvertently set ablaze 100,000 acres of wheat ready for harvest. As a punishment, he was sent to the Zulier Monastery where he discovered religion and became a mystic. Thereafter he became a pilgrim bent on finding the true source of their faith. Oddly, this led him off-world where he is said to have fathered many illegitimate children.
 
-He encountered the Empress during his travels and was said to cure her of a hereditary disease through meditation. There after he was known as a Friend of the Empire, and the Empress never allowed him to be more than a few hours travel.
+He encountered the Empress during his travels and was said to cure her of a hereditary disease through meditation. Thereafter he was known as a Friend of the Empire, and the Empress never allowed him to be more than a few hours travel.
 
-He was never far from the family, and Antius began to trust Xervius with matters of state. This was due to their having a like mind in dealing with treachery, real and imagined, and his ability to improve upon Antius' cruel solutions. Although, some Antius apologists claim that Antius was not as cruel as thought and that he was a puppet to Xervius becuase of his relationship with the Empress.
+He was never far from the family, and Antius began to trust Xervius with matters of state. This was due to their having a like mind in dealing with treachery, real and imagined, and his ability to improve upon Antius' cruel solutions. Although, some Antius apologists claim that Antius was not as cruel as thought and that he was a puppet to Xervius because of his relationship with the Empress.
 
 In order to dislodge his control over the Emperor and Empress, remaining influential Oligarchs orchestrated his assassination.
 
 ## Related Articles
 
 1. [Imperium Edition Index](/macropedia/imperium-edition-index)
-2. [Star Systems](/macropedia/star-systems)
+2. Star Systems
 3. [Antius Trevus I'S](/macropedia/antius-trevus-one)
 4. [Starsystems/Merithian System](/star-systems/merithian-system)
 

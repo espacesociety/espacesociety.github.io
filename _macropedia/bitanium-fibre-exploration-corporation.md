@@ -37,7 +37,7 @@ It had an afterlife of sorts, its assets being bought out by the [Tawmerik Famil
 
 1. [First Expanse](/chronology/first-expanse)
 2. [Terran Republic](/macropedia/terran-republic)
-3. [Star Systems](/macropedia/star-systems)
+3. Star Systems
 4. [Novya Siberia](/star-systems/novya-siberia)
 5. [Imperium Edition Index](/macropedia/imperium-edition-index)
 6. [First Decline](/chronology/first-decline)

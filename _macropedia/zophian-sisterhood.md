@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -37,20 +38,20 @@ The [Grand Reforms](/macropedia/grand-reforms) put an end to this, and the Siste
 
 ## The Martyrs
 
-The Sisterhood's long standing rule of political neutrality did not mean that it did not stand up against injustices.  With the collapse of the Imperium, the Sisterhood found its popularity again championing the downtrodden and oppressed, of which there were an ever-growing number.  Worst was the treatment of [Anthorph](/macropedia/anthorph)s, and the Sisterhood soon became a singular voice during the latter years of the [Imperial Interregnum](/macropedia/imperial-interregnum), when the ruling Premieres no longer had the will or power to defend the genetically altered from the madness of the [[Normalized Anthorph](/macropedia/normalized-anthorph)](/macropedia/normalized-anthorph)s and their death squads.
+The Sisterhood's long standing rule of political neutrality did not mean that it did not stand up against injustices.  With the collapse of the Imperium, the Sisterhood found its popularity again championing the downtrodden and oppressed, of which there were an ever-growing number.  Worst was the treatment of [Anthorph](/macropedia/anthorph)s, and the Sisterhood soon became a singular voice during the latter years of the [Imperial Interregnum](/macropedia/imperial-interregnum), when the ruling Premieres no longer had the will or power to defend the genetically altered from the madness of the [Normalized Anthorph](/macropedia/normalized-anthorph)s and their death squads.
 
 The death squads were merciless.  Sisters, even Normals, were horribly tortured and mutilated, before being burned alive.  Dozens of convents were destroyed, often with most of their residents locked inside.  Despite this, the Sisterhood would not bend, and under the stern and brave leadership of the Most Honored Sister [Elenarai Fathame](/macropedia/elenarai-fathame), they aided many Anthorphs in escaping the lunacy of the [Hundred Bloody Days](/macropedia/hundred-bloody-days).  Many owe their lives to the Zophian Sisterhood, who cared nothing for their own safety, and stood while so many cowered in the face of evil.
 
 ## Organization
 
-The Sisterhood is a highly hieararchical organization, headed by the Most Honored Sister.  There are half a dozen ranks beneath this, and promotion is based solely upon nobility.  Women who enter the Sisterhood give up all titles of nobility or social class and release all property to the Sisterhood.
+The Sisterhood is a highly hierarchical organization, headed by the Most Honored Sister.  There are half a dozen ranks beneath this, and promotion is based solely upon nobility.  Women who enter the Sisterhood give up all titles of nobility or social class and release all property to the Sisterhood.
 
 The chief ranks are as follows:
 
 * Most Honored Sister - This is the leader of the Sisterhood.  The first was the Empress Zophia, and upon her death, and ever since, a Conclave of the Esteemed is called to choose a new Most Honored Sister.
 * Sister Superiors - These are the governoresses of the various Convents.  Upon the death of a Most Honored Sister, the Sister Superiors or their representatives will join in a Conclave of the Esteemed to choose one from among their number to replace her.
 * Sister Missionaria - These are the travelling Sisters, whose purpose is to go abroad and aid the sick and downtrodden.  Often the Missionaria risk their very lives going into war zones and other places of extreme danger.
-* Noviciate - This is a women who enters one of the Convents as an initiate for a trial period.  She will become a Sister when and if she takes her vows.
+* Noviciate - This is a woman who enters one of the Convents as an initiate for a trial period.  She will become a Sister when and if she takes her vows.
 
 ## References
 1. [Anthorph](/macropedia/anthorph)s
@@ -62,7 +63,7 @@ The chief ranks are as follows:
 1. [Imperial Interregnum](/macropedia/imperial-interregnum)
 1. [Kanth Tawmerik](/macropedia/kanth-tawmerik)
 1. [Kuberian Movement](/macropedia/kuberian-movement)
-1. [[Normalized Anthorph](/macropedia/normalized-anthorph)](/macropedia/normalized-anthorph)s
+1. [Normalized Anthorph](/macropedia/normalized-anthorph)s
 1. [Tao Sunni](/macropedia/tao-sunni)
 
 ## Related Articles
@@ -79,7 +80,7 @@ The chief ranks are as follows:
 10. [Hundred Bloody Days](/macropedia/hundred-bloody-days)
 11. [Antius Trevus I](/macropedia/antius-trevus-one)
 12. [Anthorph](/macropedia/anthorph)
-13. [Normalizedanthorph](/macropedia/normalized-anthorph)
+13. [Normalized Anthorph](/macropedia/normalized-anthorph)
 
 
 

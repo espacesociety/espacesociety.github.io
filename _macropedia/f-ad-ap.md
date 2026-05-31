@@ -16,30 +16,28 @@ edited_at: 2025-01-08T10:57:00+00:00
 </div>
 
 
-<div class=''>
-</div>|[Imperium Equipment Index](/macropedia/imperium-equipment-index)|>>
->>%3c%3c
+[Imperium Equipment Index](/macropedia/imperium-equipment-index)
 
 
 ## Overview
 
-[Ether](/macropedia/ether)-based [AIs](/macropedia/a-is) developed to search, collect and collate information from various public networks. Due to security concerns and general fears about [AIs](/macropedia/a-is) in general, strict laws on the capacity of [F Ad Aps](/macropedia/f-ad-aps) were passed.
+[Ether](/macropedia/ether)-based AIs developed to search, collect and collate information from various public networks. Due to security concerns and general fears about AIs in general, strict laws on the capacity of FADAPs were passed.
 
-## General Features of [F Ad Aps](/macropedia/f-ad-aps)
+## General Features of FADAPs
 
-[F Ad Aps](/macropedia/f-ad-aps) are actually marvels of programming.  The best of them can traverse numerous types of networks, adapt themselves to various operating systems and architectures by ingenious means of self-adaptation.  While early [F Ad Aps](/macropedia/f-ad-aps) were usually strictly limited, abuse was natural, and on many occasions high-security and private networks were penetrated.
+FADAPs are actually marvels of programming.  The best of them can traverse numerous types of networks, adapt themselves to various operating systems and architectures by ingenious means of self-adaptation.  While early FADAPs were usually strictly limited, abuse was natural, and on many occasions high-security and private networks were penetrated.
 
-[F Ad Aps](/macropedia/f-ad-aps) don't necessarily have to be the most intelligent [AIs](/macropedia/a-is).  In fact, a key trait of any successful "species" of [F Ad Aps](/macropedia/f-ad-aps) is a relatively small footprint, thus allowing for faster access to networks.
+FADAPs don't necessarily have to be the most intelligent AIs.  In fact, a key trait of any successful "species" of FADAPs is a relatively small footprint, thus allowing for faster access to networks.
 
-Some individual [F Ad Aps](/macropedia/f-ad-aps) are centuries old.  One FADAP, sadly destroyed during the [Hundred Bloody Days](/macropedia/hundred-bloody-days), was called Ernie Eleven, and claimed to have dated back to the [First Expanse](/chronology/first-expanse).
+Some individual FADAPs are centuries old.  One FADAP, sadly destroyed during the [Hundred Bloody Days](/macropedia/hundred-bloody-days), was called Ernie Eleven, and claimed to have dated back to the [First Expanse](/chronology/first-expanse).
 
 ## Security Concerns
 
-During the reign of [Quanna Dabrian II](/macropedia/qanna-dabrian-two), a particularly self-adaptive species of [F Ad Aps](/macropedia/f-ad-aps) was developed by at [Klister University](/macropedia/klister-university).  This species soon began to evolve at a rapid rate, able to pierce everything from portable wrist-worn [Migar Comm](/macropedia/migar-comm) computers to interstellar vessels.  It was never truly brought under control, and has propagated itself on the [Ether](/macropedia/ether) ever since.
+During the reign of [Quanna Dabrian II](/macropedia/qanna-dabrian-two), a particularly self-adaptive species of FADAPs was developed by at [Klister University](/macropedia/klister-university).  This species soon began to evolve at a rapid rate, able to pierce everything from portable wrist-worn [Migar Comm](/macropedia/migar-comm) computers to interstellar vessels.  It was never truly brought under control, and has propagated itself on the [Ether](/macropedia/ether) ever since.
 
-Finally, the [Imperial Congress](/macropedia/imperial-congress) passed a series of laws banning highly-adaptive [F Ad Aps](/macropedia/f-ad-aps), forcing programmers to put programmed signatures on all [F Ad Aps](/macropedia/f-ad-aps) and instituting an entire department to monitoring [F Ad Aps](/macropedia/f-ad-aps).  Naturally, this has not prevented abuse.  Security companies, and even government-based agencies, regularly flaunt the rules.
+Finally, the [Imperial Congress](/macropedia/imperial-congress) passed a series of laws banning highly-adaptive FADAPs, forcing programmers to put programmed signatures on all FADAPs and instituting an entire department to monitoring FADAPs.  Naturally, this has not prevented abuse.  Security companies, and even government-based agencies, regularly flaunt the rules.
 
-Of greatest concern for security experts and ethicists are the very new technologies allowing for a whole new class of [F Ad Aps](/macropedia/f-ad-aps), the [Imprinted Personality](/macropedia/imprinted-personality).
+Of greatest concern for security experts and ethicists are the very new technologies allowing for a whole new class of FADAPs, the [Imprinted Personality](/macropedia/imprinted-personality).
 
 ## References
 1. [Ether](/macropedia/ether)
@@ -54,8 +52,8 @@ Of greatest concern for security experts and ethicists are the very new technolo
 ## Related Articles
 
 1. [Migar Comm](/macropedia/migar-comm)
-2. [F Ad Aps](/macropedia/f-ad-aps)
-3. [A Is](/macropedia/a-is)
+2. FADAPs
+3. AIs
 4. [Imperium Equipment Index](/macropedia/imperium-equipment-index)
 5. [Imperial Congress](/macropedia/imperial-congress)
 6. [Ether](/macropedia/ether)

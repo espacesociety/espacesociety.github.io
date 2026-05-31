@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: []
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/oneric-devices'>Oneric Devices</a></div>
@@ -15,7 +16,7 @@ categories: []
 </div>
 
 
-*This is an [[Oneric Devices](/macropedia/oneric-devices)](/macropedia/oneric-devices) talk.*
+*This is an [Oneric Devices](/macropedia/oneric-devices) talk.*
 
 Cute :)
 

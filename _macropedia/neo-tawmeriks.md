@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,7 +17,7 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-When the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) finally failed and [Qanna Dabrian](/macropedia/qanna-dabrian) ruled the Imperium, many Tawmeriks and close Tawmerik allies were shocked. Unwilling to see or accept the changing political landscape, they became increasingly ostracized until they existed almost entirely outside the normal political life of the Imperium. Seperated into scattered "loyalist" enclaves they secretly kept track of who they believed to be the "true emperor" for generations.
+When the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) finally failed and [Qanna Dabrian](/macropedia/qanna-dabrian) ruled the Imperium, many Tawmeriks and close Tawmerik allies were shocked. Unwilling to see or accept the changing political landscape, they became increasingly ostracized until they existed almost entirely outside the normal political life of the Imperium. Separated into scattered "loyalist" enclaves they secretly kept track of who they believed to be the "true emperor" for generations.
 
 Not entirely careful to hide their beliefs, they suffered an occasional tragedy at the hands of Imperial agents. Secretly, as the [Dabrian Dynasty](/macropedia/dabrian-dynasty) began to wane, they began to rebuild their strength. They took the [Grand Reforms](/macropedia/grand-reforms) to be an omen of their coming return to power. The Neo Tawmeriks even began to build a fleet. They also started to politically push for a return to the "good old days" of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty). This met with a minor degree of success, but did earn them distinction as one of the few groups to successfully curry favor with both [Kuberian](/macropedia/kuberian-movement) and [Lemardian](/macropedia/lemardians) groups. They made their most cogent political bid for power opposing [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol) during the [Imperial Interregnum](/macropedia/imperial-interregnum). 
 

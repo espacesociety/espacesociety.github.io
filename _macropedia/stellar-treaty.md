@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,7 +19,7 @@ categories: ["imperium edition", "chang singh authored"]
 
 The Stellar Treaty comes up a number of times in ancient documents, and is sufficiently widespread that most scholars can be reasonably certain that it is not manufactured after the fact, as has been levelled against [R. B. Muzgersun's Human Histories](/macropedia/muzgersuns-history).  We have, in fact, three documents claiming to be the full treaty, and though there are differences, these are largely of a minor nature.
 
-The Stellar Treaty was the last major diplomatic achievement of the Oligarchs before the [Decline](/chronology/first-decline).  It apparently had become necessary as conflicting interests between the Oligarch's and the various governments that they owned threatened interstellar travel.
+The Stellar Treaty was the last major diplomatic achievement of the Oligarchs before the [Decline](/chronology/first-decline).  It apparently had become necessary as conflicting interests between the Oligarchs and the various governments that they owned threatened interstellar travel.
 
 The Stellar Treaty set out obligations by the signatories to find a solution to hop pollution, which was now becoming more than a minor nuisance to interstellar traffic.  It also more clearly defined how far-reaching claims to star systems could be, as well as defining what constituted in-system territory (that part of space within the confines of a stellar system) and interstellar territory (beyond stellar systems).
 

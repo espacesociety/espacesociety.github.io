@@ -17,7 +17,7 @@ edited_at: 2025-01-08T10:44:00+00:00
 </div>
 
 
-The *Dreohedge Gevar* was a special research vessel used by [Klister University](/macropedia/klister-university) to solve many of the Creator's tests regarding [jump drives](/natural-sciences/brane-hopping) and other technology. Originally commissioned during the reign of [Lendth Tawmerik](/macropedia/lendth-tawmerik), the *Dreohedge Gevar* quickly evolved a profusion of both [brane-hopping](/natural-sciences/brane-hopping) and slower-than-light modifications. It is the only vessel ever to have clearly recorded a recovery from a hop error. 
+The *Dreohedge Gevar* was a special research vessel used by [Klister University](/macropedia/klister-university) to solve many of the Creator's tests regarding [jump drives](/natural-sciences/brane-hopping) and other technology. Originally commissioned during the reign of Lendth Tawmerik, the *Dreohedge Gevar* quickly evolved a profusion of both [brane-hopping](/natural-sciences/brane-hopping) and slower-than-light modifications. It is the only vessel ever to have clearly recorded a recovery from a hop error. 
 
 As incidents and experiments began to collect in the history of the vessel, it developed quite a reputation as a sturdy and "lucky" ship. A heavily modified [Parthas Class Vessel](/macropedia/parthas-class-vessels), it had several redundant command, computation, and control centers to handle the extra drives and modifications sensibly. When the ship actually managed to recover from a bad hop, its reputation took on legendary proportions.
 
@@ -32,14 +32,14 @@ After participation in the [Popelof Project](/macropedia/popelof-project), the *
 
 ## Related Articles
 
-1. [Lendth Tawmerik](/macropedia/lendth-tawmerik)
+1. Lendth Tawmerik
 2. [Popelof Project](/macropedia/popelof-project)
 3. [Cathian Navy](/macropedia/cathian-navy)
 4. [Fasantauri System](/macropedia/fasantauri-system)
 5. [Brane Hopping](/natural-sciences/brane-hopping)
 6. [Klister University](/macropedia/klister-university)
 7. [Imperium Edition Index](/macropedia/imperium-edition-index)
-8. [Parthas Class Vessel](/macropedia/parthas-class-vessel)
+8. [Parthas Class Vessel](/macropedia/parthas-class-vessels)
 9. [Parthas Class Vessels](/macropedia/parthas-class-vessels)
 10. [Jump Drives](/natural-sciences/brane-hopping)
 11. [Brane-Hopping](/natural-sciences/brane-hopping)

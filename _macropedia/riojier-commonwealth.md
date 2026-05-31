@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["chang singh authored", "imperium edition"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -24,17 +25,17 @@ The Riojier Commonwealth is one of the few states that has managed to remain ind
 
 ## Government
 
-The systems of the Commonwealth are are largely self-governing, but with unified political and judicial systems.  The central government, the Council of the Commonwealth, is not a legislative body in the sense that the [Imperial Congress](/macropedia/imperial-congress) is, but is rather a council of state with members holding both executive and legislative powers.  The Speaker is the technical head of government, though it is not clear just how much power that entails as the means by which the Council of the Commonwealth passes legislation is not known.  Even succession is controlled by the Council, which retains the right to choose replacements from any member of the Citizen's class.
+The systems of the Commonwealth are largely self-governing, but with unified political and judicial systems.  The central government, the Council of the Commonwealth, is not a legislative body in the sense that the [Imperial Congress](/macropedia/imperial-congress) is, but is rather a council of state with members holding both executive and legislative powers.  The Speaker is the technical head of government, though it is not clear just how much power that entails as the means by which the Council of the Commonwealth passes legislation is not known.  Even succession is controlled by the Council, which retains the right to choose replacements from any member of the Citizen's class.
 
 ### Planetary Legislatures
 
-Each of the habitable planets has a planetary legislature, headed by a Prime Minister.  These legislatures are responsible for all internal affairs, though there is some legislation that ensures protection of the class system as well as delivery of half the taxes gathered being sent on to to the Commonwealth government.
+Each of the habitable planets has a planetary legislature, headed by a Prime Minister.  These legislatures are responsible for all internal affairs, though there is some legislation that ensures protection of the class system as well as delivery of half the taxes gathered being sent on to the Commonwealth government.
 
 ### Justice System
 
 The justice system is split between the three classes, with each class having its own civil, criminal and appellate courts.  These courts are administered by judges and lawyers drawn from the class, and for the Serfs, these individuals make up a professional subclass, with some privileges greater than that of the average Serf.  All sentences are passed down by judges, and there is no jury system in the Commonwealth.
 
-In the case of a crime committed by a member of one class agains another, the higher court always hears the case.  In civil actions, a member of a lower class must find a representative from the higher class willing to take on the case, for it is forbidden in the civil courts for a member of a lower class to appear in a higher court.
+In the case of a crime committed by a member of one class against another, the higher court always hears the case.  In civil actions, a member of a lower class must find a representative from the higher class willing to take on the case, for it is forbidden in the civil courts for a member of a lower class to appear in a higher court.
 
 One crime is an exception to the others, and that is High Treason.  When someone from any of the classes is charged with High Treason, the Council of the Commonwealth will convene a special tribunal to determine guilt or innocence.  There is no appeal, and if found guilty the person is immediately executed.
 
@@ -46,11 +47,11 @@ The population of the Commonwealth is divided by law into three classes; Citizen
 
 ### Citizens
 
-As stated about, only Citizens are eligible to be promoted to the Council of the Commonwealth.  Only Citizens can run for office in the planetary legislatures.  A Citizen must, upon reaching the age of majority, must spend a minimum of three standard years in one of the branches of the armed forces as an active member.  As well, Citizens must pay a quarter of their annual income in taxes.  Citizens can own and freely sell their property[-'^1^'-].
+As stated above, only Citizens are eligible to be promoted to the Council of the Commonwealth.  Only Citizens can run for office in the planetary legislatures.  A Citizen must, upon reaching the age of majority, spend a minimum of three standard years in one of the branches of the armed forces as an active member.  As well, Citizens must pay a quarter of their annual income in taxes.  Citizens can own and freely sell their property[-'^1^'-].
 
 ### Plebeians
 
-The Plebeians cannot run for seats in the planetary legislatures, but they can vote.  Plebeians must serve a minimum of five years in the military, though this can be as a member of reserve units.  Plebeians are permitted to own property, but selling it requires the permission of a court.  Plebeians must give one fifth of their annual income in taxes.  A Plebeian can, if he aquires sufficient wealth, buy his children into the Citizens Class, though he must remain a Plebeian.
+The Plebeians cannot run for seats in the planetary legislatures, but they can vote.  Plebeians must serve a minimum of five years in the military, though this can be as a member of reserve units.  Plebeians are permitted to own property, but selling it requires the permission of a court.  Plebeians must give one fifth of their annual income in taxes.  A Plebeian can, if he acquires sufficient wealth, buy his children into the Citizens Class, though he must remain a Plebeian.
 
 ### Serfs
 
@@ -62,7 +63,7 @@ The Commonwealth's early history is somewhat murky.  The origins of the class sy
 
 For the entirety of the Decline, the Commonwealth was limited to the Riojier System, and it wasn't until the infamous [Quixotic Maelstrom](/macropedia/quixotic-maelstrom) incident that the Commonwealth even became aware that interstellar travel was again possible.  Using the captured technology, the Commonwealth threw itself into becoming an interstellar power.  To build up the armed forces it opened up military service to the Plebeians, and even made allowances for a draft of the Serfs. A period of expansion ensued which saw the Commonwealth grow into an interstellar state.
 
-Even then, the Commonwealth might have been unknown to this day, if it had not been for the Anathazi-M'nru, which through a massive failure of its hop computer, jumped into Imperium space and was captured.  It was good fortune that this happened during the period of the later Tawmerik emperors, and the Imperium was more willing to accomodate a foreign power than during the next, more expansionist dynasty.  Never the less, the Commonwealth did not stand still and at great expense, only balanced by trade with the Imperium, it built a rather large interstellar navy.
+Even then, the Commonwealth might have been unknown to this day, if it had not been for the Anathazi-M'nru, which through a massive failure of its hop computer, jumped into Imperium space and was captured.  It was good fortune that this happened during the period of the later Tawmerik emperors, and the Imperium was more willing to accommodate a foreign power than during the next, more expansionist dynasty.  Nevertheless, the Commonwealth did not stand still and at great expense, only balanced by trade with the Imperium, it built a rather large interstellar navy.
 
 It was not until the reign of [Ivan Dabrian](/macropedia/ivan-dabrian), however, that the Commonwealth and the Imperium signed a treaty and formalized diplomatic relations.
 

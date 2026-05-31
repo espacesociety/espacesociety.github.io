@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,7 +17,7 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 
 
-Last of the so-called legitimate emperors, considered by partisans as the light that was extinguished too soon, and by his critics as a foolish, overbearing man unable to comprehend let alone harness the forces that were pulling the Imperium apart.  When he came to the thone, the [Grand Reforms](/macropedia/grand-reforms) were cracking at the seams, and what was required was strong leadership.  Instead, Jubal IV used the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) as a frightening weapon to spy on and destroy his opponents, critically damaging what little unity and faith there was in his Court.
+Last of the so-called legitimate emperors, considered by partisans as the light that was extinguished too soon, and by his critics as a foolish, overbearing man unable to comprehend let alone harness the forces that were pulling the Imperium apart.  When he came to the throne, the [Grand Reforms](/macropedia/grand-reforms) were cracking at the seams, and what was required was strong leadership.  Instead, Jubal IV used the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) as a frightening weapon to spy on and destroy his opponents, critically damaging what little unity and faith there was in his Court.
 
 He was also notoriously licentious, scandalizing a number of noble families with what can only be viewed as a campaign to bed every aristocrat's daughter that he could find.  The immoral behavior of his court, coupled with his vindictiveness against threats real and imagined brought the Imperial office into such disrepute that the houses of the [Imperial Congress](/macropedia/imperial-congress) even began to call for him to abdicate in favor of his infant son'^1^'.
 

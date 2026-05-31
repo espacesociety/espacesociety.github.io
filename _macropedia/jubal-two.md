@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -32,7 +33,7 @@ Upon succeeding the throne, Jubal found that the [Grand Reforms](/macropedia/gra
 Rumors that the [Imperial Congress](/macropedia/imperial-congress) was planning on naming the Empress Anrika's younger brother, Balanar Korra-Dabrian as the official heir, and bypassing young Prince Antius Trevus entirely began to circulate.  The legality of such a move would have, at the very best, been questionable, but finally even Jubal was forced to realize that the [Imperial Congress](/macropedia/imperial-congress) now held not only his purse strings, but much of the political clout.
 
 ## The Abdication
-For a few years, Jubal II lived in an uneasy peace with the [Imperial Congress](/macropedia/imperial-congress).  Though not a remarkable man, he was a man of principles, and in the end he found that he could no longer act as a sovereign while possessing now real power of his own.  When Prince Antius Trevus reached 21 standard years, the Emperor entered secret negotiations with the [Imperial Congress](/macropedia/imperial-congress), and after they guaranteed him a pension and an income for his illegitimate heirs (four children by [Nevian Schmizt](/macropedia/nevian-schmizt)'s granddaughter, Koisa), he abdicated the throne and gave up all claims to property and privilege, in effect becoming a private citizen, the only Emperor to ever do so.
+For a few years, Jubal II lived in an uneasy peace with the [Imperial Congress](/macropedia/imperial-congress).  Though not a remarkable man, he was a man of principles, and in the end he found that he could no longer act as a sovereign while possessing no real power of his own.  When Prince Antius Trevus reached 21 standard years, the Emperor entered secret negotiations with the [Imperial Congress](/macropedia/imperial-congress), and after they guaranteed him a pension and an income for his illegitimate heirs (four children by [Nevian Schmizt](/macropedia/nevian-schmizt)'s granddaughter, Koisa), he abdicated the throne and gave up all claims to property and privilege, in effect becoming a private citizen, the only Emperor to ever do so.
 
 ## The Private Citizen
 Jubal II's later years are poorly documented.  He divorced the Empress, married Koisa Schmizt and did his best to use his large pension to set up a business.  By all accounts, he was a dismal failure.  Upon the death of Koisa he turned over his properties to his and Koisa's children and simply disappeared.  

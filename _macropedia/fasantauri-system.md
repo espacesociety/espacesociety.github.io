@@ -17,7 +17,7 @@ edited_at: 2025-01-08T10:58:00+00:00
 </div>
 
 
-[Star Systems](/macropedia/star-systems) Link: [[Alpha Centauri](/star-systems/alpha-centauri)](/star-systems/alpha-centauri)
+See also: [Alpha Centauri](/star-systems/alpha-centauri)
 
 
 
@@ -142,7 +142,7 @@ Vast equatorial desert that domintes Goetel's World's largest continent.  A diff
 10. [Imperial Interregnum](/macropedia/imperial-interregnum)
 11. [Perez Family](/macropedia/perez-family)
 12. [Zenbrudi War](/macropedia/zenbrudi-war)
-13. [Star Systems](/macropedia/star-systems)
+13. Star Systems
 14. [Tawmerik Dynasty](/macropedia/tawmerik-dynasty)
 15. [Starsystems/Alphacentauri](/star-systems/alpha-centauri)
 16. [Anthorph](/macropedia/anthorph)

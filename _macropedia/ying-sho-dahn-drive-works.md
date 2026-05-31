@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,7 +23,7 @@ Zordon, while not an engineer or researcher himself, hired the very best, and wo
 
 After Zordon's death, the Ying Sho Dahn Drive Works managed to bribe important members of the Imperial Congress into letting them retain their special charter.  It was very typical of the way business was done in the faltering Imperium.  [Durin Bonish](/macropedia/durin-bonish), when he succeeded the failing Emperors, finally seized the Drive Works, repudiated the Imperial Charter and nationalized it (in reality giving it to a few close associates).
 
-During the [Hundred Bloody Days](/macropedia/hundred-bloody-days), the [Sabanian Empire](/macropedia/sabanian-empire) "inherited" the Drive Works when they secceeded from the dying Imperium.  Due to the failure of communications, it is not known what has become of the Ying Sho Dahn Drive Works, though the reported growing instability of this upstart Empire suggest that it is likely changed hands once again.
+During the [Hundred Bloody Days](/macropedia/hundred-bloody-days), the [Sabanian Empire](/macropedia/sabanian-empire) "inherited" the Drive Works when they seceded from the dying Imperium.  Due to the failure of communications, it is not known what has become of the Ying Sho Dahn Drive Works, though the reported growing instability of this upstart Empire suggests that it is likely changed hands once again.
 
 ## References
 1. [Durin Bonish](/macropedia/durin-bonish)

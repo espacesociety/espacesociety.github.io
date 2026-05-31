@@ -35,7 +35,7 @@ As the Chovim family became dominated by concern with the HETG, they began to lo
 3. [Dio En Mashino](/macropedia/dio-en-mashino)
 4. [Imperium Edition Index](/macropedia/imperium-edition-index)
 5. [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group)
-6. [Souldogle Prime](/macropedia/souldogle-prime)
+6. [Souldogle Prime](/star-systems/souldogle-prime)
 7. [Perez Family](/macropedia/perez-family)
 8. [Souldogleprime](/star-systems/procyon-system)
 9. [Imudring](/macropedia/imudring)

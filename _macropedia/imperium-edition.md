@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: []
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div><a href='/macropedia/imperial-interregnum'>Imperial Interregnum</a></div>
@@ -16,7 +17,7 @@ categories: []
 
 ***<a href='/macropedia/macropedia'>Macropedia/Macropedia</a> Terradoma, Imperium Edition*** began before the end of the Imperium. The Last Emperor hoped the scholars he chose would document the many successes of the Imperium and solidify both his and the dynasty's legacy. However, he passed heirless, and the "death spiral" to the <a href='/chronology/second-decline'>Second Decline</a> began. The scholars chose to write as Scholars and not necessarily as puppets of the last dynasty of the Imperium.
 
-<a href='/macropedia/recent-changes'>Recent Changes</a> (since flagging macropedia for edit/publication).
+Recent Changes (since flagging macropedia for edit/publication).
 
 Here is a <a href='/macropedia/imperium-macropedia-timeline'>sketchy timeline</a> of events within this Lexicon.
 
@@ -168,7 +169,7 @@ Here is a <a href='/macropedia/imperium-macropedia-timeline'>sketchy timeline</a
   <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td ><a href='/macropedia/committee-ten-thousand-flowers'>Committee of Ten Thousand Flowers</a></td>
+  <td ><a href='/macropedia/committee-of-ten-thousand-flowers'>Committee of Ten Thousand Flowers</a></td>
   <td ><a href='/scholar/chang-singh'>Chang Singh</a> (<a href='/macropedia/benita-perez'>Benita Perez</a>)</td>
   <td ><a href='/scholar/isaac-taub'>Isaac Taub</a></td>
 </tr>
@@ -1153,7 +1154,7 @@ Here is a <a href='/macropedia/imperium-macropedia-timeline'>sketchy timeline</a
   <td ><a href='/scholar/cho-minh-tel-ran'>Cho Minh Tel Ran</a></td>
 </tr>
 <tr>
-  <td ><a href='/macropedia/woth'>Woth of Voushniya</a></td>[-(or the Black Hand)-]
+  <td ><a href='/macropedia/woth'>Woth of Voushniya</a></td>
 
   <td ></td>
   <td ><a href='/scholar/chang-singh'>Chang Singh</a></td></tr></table>

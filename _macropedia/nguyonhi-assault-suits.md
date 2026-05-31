@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored", "combat equipment", "imperium equipment"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/new-diaspora'>New Diaspora</a></div>
@@ -20,7 +21,7 @@ categories: ["imperium edition", "chang singh authored", "combat equipment", "im
 
 Nothing has ever demonstrated the skills of the [Anthorph](/macropedia/anthorph) peoples in genetics and in technology more fully than the famous Nguyonhi Assault Suits.  These wonders of genetic and physical engineering are now the mainstay of armies and security forces throughout explored space, but were one of the single most revolutionary combat inventions since the invention of the spear.
 
-The suits are part mechanism, part miniturized AI bio-net and part living organism.  The Nguyonhi [Anthorph](/macropedia/anthorph)s had discovered a foot long worm, the Tren, that had the strongest muscle tissue ever observed in natural organisms and nerve cells that could transmit information at speeds far in excess of those of humans.  They modified the Tren with the same techniques that they had used on themselves, producing the first assault suits.  These early suits proved invaluable during the [Frontier Rebellion](/macropedia/frontier-rebellion), and in particular the [Bang Hai Nok Incident](/macropedia/bang-hai-nok-incident).
+The suits are part mechanism, part miniaturized AI bio-net and part living organism.  The Nguyonhi [Anthorph](/macropedia/anthorph)s had discovered a foot long worm, the Tren, that had the strongest muscle tissue ever observed in natural organisms and nerve cells that could transmit information at speeds far in excess of those of humans.  They modified the Tren with the same techniques that they had used on themselves, producing the first assault suits.  These early suits proved invaluable during the [Frontier Rebellion](/macropedia/frontier-rebellion), and in particular the [Bang Hai Nok Incident](/macropedia/bang-hai-nok-incident).
 
 With the formation of the Imperium, the Nguyonhi now had access to vast treasure troves of technology and data.  With these they created the later suits; hybrids of the alien Tren worm, human-derived ganglia and nano-motors to produce suits that could amplify the strength and reaction time of a wearer dozens of times, while adding less than twenty pounds of bulk.  The modern Nguyonhi Assault Suits can take an extraordinary amount of punishment, and have completely revolutionized infantry and special-ops combat.
 

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["sidebar"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/oradian-shipping-conglomerate'>Oradian Shipping Conglomerate</a></div>
@@ -15,9 +16,9 @@ categories: ["sidebar"]
 </div>
 
 
-***[(Macropedia.)Macropedia](/macropediamacropedia) Terradoma, Original Edition*** began . . . 
+***Macropedia Terradoma, Original Edition*** began . . . 
 
-Here is a [sketchy timeline](/macropedia/original-macropedia-timeline) of events within this Lexicon. The events of this edition occurred during the [(Chronology.)Emergence Era](/chronologyemergence-era).
+Here is a sketchy timeline of events within this Lexicon. The events of this edition occurred during the Emergence Era.
 
 [Original Edition Phantom Entries List](/macropedia/original-edition-phantom-entries-list)
 

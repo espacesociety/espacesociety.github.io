@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,9 +17,9 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 
 
-Most infamous of the criminal syndicates, born during the disasterous reign of [Balanar III](/macropedia/balanar-three), founded by elements of [Gruyonh Doyu](/macropedia/gruyonh-doyu) groups that had "gone sour", in the nonclemature of the security firms of the day.  The X'kan Nimu Hal specialized in smuggling and assassination, though they were not above lowlier crimes like kidnapping and blackmail.
+Most infamous of the criminal syndicates, born during the disastrous reign of [Balanar III](/macropedia/balanar-three), founded by elements of [Gruyonh Doyu](/macropedia/gruyonh-doyu) groups that had "gone sour", in the nomenclature of the security firms of the day.  The X'kan Nimu Hal specialized in smuggling and assassination, though they were not above lowlier crimes like kidnapping and blackmail.
 
-The precise organization of the X'kan Nimu Hal is still something of a mystery.  Neither the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) or the security firms seemed to have much luck penetrating it, but it was believed by some that a great family was, in fact, behind the organization.  This seems a rather typical sort of conspiracy theory that grew out of a period that was seeing the Imperium rapidly fail, and the recently discovered reports by a few agents that did manage to penetrate the X'kan Nimu Hal indicate that they were just very good at what they did, and quickly gained enough money to buy, threaten or kill the necessary officials.
+The precise organization of the X'kan Nimu Hal is still something of a mystery.  Neither the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) nor the security firms seemed to have much luck penetrating it, but it was believed by some that a great family was, in fact, behind the organization.  This seems a rather typical sort of conspiracy theory that grew out of a period that was seeing the Imperium rapidly fail, and the recently discovered reports by a few agents that did manage to penetrate the X'kan Nimu Hal indicate that they were just very good at what they did, and quickly gained enough money to buy, threaten or kill the necessary officials.
 
 The X'kan Nimu Hal's most profitable line of business was smuggling [Esperopteris Koinsii](/macropedia/esperopteris-koinsii), which had become increasingly rare due to genetically-engineered viruses that had wiped out crops.  [Esperopteris Koinsii](/macropedia/esperopteris-koinsii) was purified and modified by X'kan Nimu Hal scientists (usually "convinced" to do this kind of work through threats to their families) into a frightening new drug, [Dalludna](/macropedia/dalludna), which, within a few years of its introduction, threatened entire worlds with masses of brain damaged addicts.  The X'kan Nimu Hal didn't seem terribly bothered.  Quite the opposite, in fact, they began working on more powerful variants.
 

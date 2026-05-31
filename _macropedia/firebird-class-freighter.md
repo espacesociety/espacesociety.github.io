@@ -33,7 +33,7 @@ The main hold of the vessel is divided into five sections, four which are 170 fe
 
 The Firebirds have a crew capacity of thirty to forty, all housed in the aft of the ship.  Early versions of the Firebirds were crowded, Spartan affairs, but later versions could rob space from engineering due to smaller generators, engines and drives.
 
-The bridge is also located here.  Early Firebirds required at least seven people to operate the ship, but later versions, due to more powerful computers, could in fact be operated by one individual (and even that was generally more a requirement of various safety regulations, the [AIs](/macropedia/a-is) being perfectly capable of in-voyage operation).
+The bridge is also located here.  Early Firebirds required at least seven people to operate the ship, but later versions, due to more powerful computers, could in fact be operated by one individual (and even that was generally more a requirement of various safety regulations, the AIs being perfectly capable of in-voyage operation).
 
 ### Engineering
 
@@ -61,7 +61,7 @@ In the end, though, the vessels became more valuable as scrap, and with much bet
 
 ## Related Articles
 
-1. [A Is](/macropedia/a-is)
+1. AIs
 2. [Terran Republic](/macropedia/terran-republic)
 3. [Imperium Equipment Index](/macropedia/imperium-equipment-index)
 4. [Parthas Class Vessels](/macropedia/parthas-class-vessels)

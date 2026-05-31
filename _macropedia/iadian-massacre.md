@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -22,13 +23,13 @@ Iadia was a barely hospitable world in the [Dazamine](/star-systems/dazamine) sy
 
 The isolation of the [Tao Sunnis](/macropedia/tao-sunni) of Iadia was abruptly interrupted some two hundred and thirty years before the foundation of the [Terran Republic](/macropedia/terran-republic).  Not all the circumstances are known, but what can be gathered from the surviving [Tao Sunni](/macropedia/tao-sunni) records and from the archaeological evidence is that the planet was bombarded.  The records describe "great orbs of fire that when striking earth and rock, leaving vast holes the size of towns, and where they struck the sea caused it to rise in vast columns of steam."  Many millions were killed in these attacks, though the identity of the attackers was unknown.  Worse, much of the precious infrastructure, so carefully tended through the centuries, was gone.  Mass transport, the few orbital facilities and electricity were wiped out, plunging the survivors into a new dark age.  Of those that survived, starvation and disease wiped out millions more, leaving only a few isolated pockets of civilization, and in some cases, savagery.
 
-Perhaps eighty years later, a research vessel [the [Quixotic Maelstrom](/macropedia/quixotic-maelstrom)] accidentally stumbled upon the [Dazamine](/star-systems/dazamine) system quite by accident.  The on-ship database indicated that Iadia was a low-grade habitable world populated by a minor sect of a pre-Decline religion.  The planet before them, however, was rendered nearly uninhabible.  Craters, some dozens of miles across, littered the surface.  Though by this time the water vapor had fallen back to the surface, evidence of severe ecological damage due to vast amounts of it in the atmosphere was easily identifiable.
+Perhaps eighty years later, a research vessel [the [Quixotic Maelstrom](/macropedia/quixotic-maelstrom)] accidentally stumbled upon the [Dazamine](/star-systems/dazamine) system quite by accident.  The on-ship database indicated that Iadia was a low-grade habitable world populated by a minor sect of a pre-Decline religion.  The planet before them, however, was rendered nearly uninhabitable.  Craters, some dozens of miles across, littered the surface.  Though by this time the water vapor had fallen back to the surface, evidence of severe ecological damage due to vast amounts of it in the atmosphere was easily identifiable.
 
 The vessel took on a few people, but was not equipped for a rescue.  The hop route was sufficiently polluted that no immediate return could be made.  The only evidence left by the attackers was a single ruined satellite of unknown manufacturer, with evidence that it had been set to autodestruct, but that that function had failed.  Some of the alloys were unfamiliar to the researchers, and they took as many samples as they could.  Unfortunately it was in a decaying orbit, and burned up in the atmosphere some two decades later.
 
 When the vessel found its way back to the group of worlds later known as the [Imperial Core Worlds](/macropedia/imperial-core-worlds), the crew reported about the lost human colony wiped out by an unknown enemy, which caused an enormous panic.  The [Pan Terran Defense Treaty Council](/macropedia/pan-terran-defense-treaty-council) was formed with the stated goal of defending known Terran systems from further attacks.  It was the first major step on the road to a Terran government.
 
-No attack came, and the Iadian Massacre became a ghost story, though it was of keen interest to the [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu), which sent literally hundreds of expeditions to the the system.  Sadly, the final remnants of the [Tao Sunni](/macropedia/tao-sunni) colony died in the early years of the [Terran Republic](/macropedia/terran-republic), and only the descendants of those taken out by the original research vessel survived.  The mystery of the attackers has never been solved.
+No attack came, and the Iadian Massacre became a ghost story, though it was of keen interest to the [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu), which sent literally hundreds of expeditions to the system.  Sadly, the final remnants of the [Tao Sunni](/macropedia/tao-sunni) colony died in the early years of the [Terran Republic](/macropedia/terran-republic), and only the descendants of those taken out by the original research vessel survived.  The mystery of the attackers has never been solved.
 
 ## References
 1. [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu)

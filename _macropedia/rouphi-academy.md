@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,13 +17,13 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 </div>
 
 
-The Rouphi Academy was first sponsored by the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) on [Souldogle Prime](/star-systems/souldogle-prime) just prior to the discover of the [Dio En Mashino](/macropedia/dio-en-mashino). The Rouphi where a small splinter of the [Chovim Family](/macropedia/chovim-family). Its early history and focus appears devoted to the study of interstellar economics and the development of insterstellar trade law. The Academy was a strong supporter of both the [Terran Republic](/macropedia/terran-republic) and the Imperium. 
+The Rouphi Academy was first sponsored by the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) on [Souldogle Prime](/star-systems/souldogle-prime) just prior to the discovery of the [Dio En Mashino](/macropedia/dio-en-mashino). The Rouphi were a small splinter of the [Chovim Family](/macropedia/chovim-family). Its early history and focus appears devoted to the study of interstellar economics and the development of interstellar trade law. The Academy was a strong supporter of both the [Terran Republic](/macropedia/terran-republic) and the Imperium. 
 
 That focus continued, to one extent or another, and prevails today. The Academy quickly rose to prominence as the fashionable place for aristocratic and noble scions to learn the games of power. This was quite valuable for the [HETG](/macropedia/hegemonic-economic-trade-group) until outside investment made the academy a primarily independent body after the [Muzigle Fiasco](/macropedia/muzigle-fiasco). This also had the effect of essentially restricting the student body to "normal" humans.
 
 The Academy came to have a competitive relationship with [Klister University](/macropedia/klister-university). While Klister University was the Imperium's great center for scientific and engineering research, Rouphi Academy became the Imperium's great center for cultural, social, and policy advancement. While both institutions had colleges and programs in the other's expertises, neither ever managed to encroach on the other's reputation.
 
-The Academy's endeavours suffered mightily from the [Kuberian Movement](/macropedia/kuberian-movement), eliminating the sholarly value of many of its programs. The Academy still functions today, but its future is in doubt as the galactic culture changes.
+The Academy's endeavours suffered mightily from the [Kuberian Movement](/macropedia/kuberian-movement), eliminating the scholarly value of many of its programs. The Academy still functions today, but its future is in doubt as the galactic culture changes.
 
 ## References
 1. [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group)

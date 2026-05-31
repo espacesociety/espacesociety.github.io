@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,7 +21,7 @@ Ruins and artifacts allegedly made by non-human intelligent races.  These sorts 
 
 During the [Decline](/chronology/first-decline), much information on [First Expanse](/chronology/first-expanse) colonization efforts were lost.  The great scholar and historian Jiao Mu Ban (one of the formulators of the [Jiao Banner Sphere](/macropedia/jiao-banner-sphere)) estimated that the number of worlds visited during the Decline and the First Expanse may have been double that of the worlds found during the height of the Imperium's search for lost colonies.  It is evident from this that almost all the alleged Xenohistorical Artifacts are, in fact, simply the products of lost colonies.
 
-Probably no Xenohistorical sites are more famous than the ones in the [Gruyonh](/macropedia/gruyonh-doyu) system.  Historians and archaeologists have studied them for centuries, and indeed, they do seem to be an isolate.  They can be dated back at least 20,000 years, millennia before humans first left Terra.  Generations of researchers have puzzled over them, and have divided into two camps; those that believe these may very well be actual Xenohistorical ruins, and those that believe that the ruins were heavily contaminated, and are in fact much younger.  Despite all the effort put into researcher the Gruyonh sites, there has not been enough evidence gathered to confirm or falsify either point of view.
+Probably no Xenohistorical sites are more famous than the ones in the [Gruyonh](/macropedia/gruyonh-doyu) system.  Historians and archaeologists have studied them for centuries, and indeed, they do seem to be an isolate.  They can be dated back at least 20,000 years, millennia before humans first left Terra.  Generations of researchers have puzzled over them, and have divided into two camps; those that believe these may very well be actual Xenohistorical ruins, and those that believe that the ruins were heavily contaminated, and are in fact much younger.  Despite all the effort put into researching the Gruyonh sites, there has not been enough evidence gathered to confirm or falsify either point of view.
 
 Many entrepreneurs have made these ruins a large money-making enterprise.  Selling "genuine" Xenohistorical Artifacts is a large business, and even in these uncertain times, people will spend good money on such fraudulent trinkets.
 

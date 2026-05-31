@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/trilis-incident'>Trilis Incident</a></div>
@@ -15,11 +16,9 @@ categories: ["imperium edition", "chang singh authored"]
 </div>
 
 
-%3c%3c|[Imperium Edition Imperium Edition](/macropedia/imperium-edition-imperium-edition)|>>
-
 Popular history names the Twist of Fate the first vessel to return to Branespace travel after the long centuries of the [Decline](/chronology/first-decline).  Indeed the first flight of the Twist of Fate is a major watermark, the culmination of decades of work, and the first concrete step back into interstellar travel for the vast majority of humanity.
 
-But popular history doesn't always get things right.  The Twist of Fate's distinction isn't that it was the first since the Decline began to hop through Branespace, but rather it was the first to used the advanced computational and theoretical capabilities (particularly those of [Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor)) to navigate and avoid the severe hop pollution which had plagued the final days of the old Terran civilization.
+But popular history doesn't always get things right.  The Twist of Fate's distinction isn't that it was the first since the Decline began to hop through Branespace, but rather it was the first to use the advanced computational and theoretical capabilities (particularly those of [Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor)) to navigate and avoid the severe hop pollution which had plagued the final days of the old Terran civilization.
 
 In reality there had been during the entire [Decline](/chronology/first-decline) a number of hop-capable vessels.  It was very dangerous to make such trips, though some systems did maintain some degree of contact during the Decline.  These vessels, unlike the Twist of Fate, used old technology and the limited scientific knowledge of the [First Expanse](/chronology/first-expanse), which severely limited the systems they could visit and made those trips very hazardous.  They were sufficiently infrequent that most of the worlds that came into the Imperium did not know of them, or had written recorded trips as fanciful legends.
 
@@ -33,7 +32,7 @@ The Twist of Fate itself made only a few voyages.  It was an experimental protot
 
 ## Related Articles
 
-1. [Imperium Edition Imperium Edition](/macropedia/imperium-edition-imperium-edition)
+1. Imperium Edition Imperium Edition
 2. [First Expanse](/chronology/first-expanse)
 3. [First Decline](/chronology/first-decline)
 4. [Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor)

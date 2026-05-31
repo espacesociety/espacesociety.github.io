@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -30,14 +31,14 @@ The monarch of that time, [King Traih](/macropedia/king-traih), was a savvy old 
 
 Dozens of systems flocked to King Traih, and at first informally, and later as a formal union, the King Traih League was founded.  The Imperium, with too many other fires to put out, grudgingly accepted the independence of the League, and in return gained access to the precious monopole resources.
 
-During the bulk of the Imperium's history, the King Traih League remained neutral as to Imperium politics.  It's own monarchy proved to be far more successful, and the members of the League enjoyed much more internal autonomy than any system in the Imperium.  There was infrequent intermarriage between the royal families, which served to bind the two powers together.  The most famous of these was the marriage of [Ivan Dabrian](/macropedia/ivan-dabrian) to a royal princess, a union much lauded in both the King Traih League and the Imperium.
+During the bulk of the Imperium's history, the King Traih League remained neutral as to Imperium politics.  Its own monarchy proved to be far more successful, and the members of the League enjoyed much more internal autonomy than any system in the Imperium.  There was infrequent intermarriage between the royal families, which served to bind the two powers together.  The most famous of these was the marriage of [Ivan Dabrian](/macropedia/ivan-dabrian) to a royal princess, a union much lauded in both the King Traih League and the Imperium.
 
 As the Imperium entered its later phases, beginning with the [Grand Reforms](/macropedia/grand-reforms), relations became greatly strained.  The Imperium was steadily moving away from dynastic rule, and the rulers of the League feared not only that their own rule might be undermined by domestic anti-royalist movements, but that an Imperium bereft of a nobility with close ties to the League could spell economic disaster, and possibly even war.
 
 Fortunately for the King Traih League, the [Imperial Interregnum](/macropedia/imperial-interregnum) proved a relatively shortlived affair.  The Premieres, while having no love of the League, had neither the resources nor the desire to prod their own royalist factions to even think of an invasion.  During the [Hundred Bloody Days](/macropedia/hundred-bloody-days), some attacks were made on the League, but the heirs of King Traih proved as intelligent as he had, and did nothing overt to threaten the decaying regime, and thus managed to survive its death throes and survive as at least a pocket of civilization in the new Decline.
 
 ## See also
-* An article about [Arturo San Degas](/macropedia/arturo-san-degas), known better as *King Traih*, is worth a few minutes of the reader's time, as it's his  outstanding personality which allowed for League's creation. This man being the Legue's heart, he was as closely related to KTL as possible, thus no one can learn the truth about the organisation knowing nothing about it's creator.
+* An article about [Arturo San Degas](/macropedia/arturo-san-degas), known better as *King Traih*, is worth a few minutes of the reader's time, as it's his  outstanding personality which allowed for League's creation. This man being the League's heart, he was as closely related to KTL as possible, thus no one can learn the truth about the organisation knowing nothing about its creator.
 
 
 ## References

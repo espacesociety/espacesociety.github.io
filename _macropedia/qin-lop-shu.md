@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -26,11 +27,11 @@ While the subtleties of living with this philosophy are hard to express in such 
 * Enlightenment, if it can be achieved at all, comes from understanding the world.
 * Your existence within the universe constitutes a "Test" that you must pass in order to survive. This requires you to be wary of your own misconceptions. 
 
-Basically, the Creator (if he exists) presents the world to you as a Test. Followers often refer to themselves (and other rational sentients) as 'the Tested.' Within the grand Test of the universe there are smaller Tests to be completed or understood. Philoshopers and scholars have identified some of them and many are talked of with understood titles:
+Basically, the Creator (if he exists) presents the world to you as a Test. Followers often refer to themselves (and other rational sentients) as 'the Tested.' Within the grand Test of the universe there are smaller Tests to be completed or understood. Philosophers and scholars have identified some of them and many are talked of with understood titles:
 
 * The Test of (Primitive)Survival - All creatures must pass this or perish.
 * The Test of Rational Thinking - True understanding comes only from recognizing and advancing past your emotional or mystical thinking and desires. There are many component Tests within this Test.
-* The Test of Self Governance - All communtities of thinking beings must resolve this test to effectively advance.
+* The Test of Self Governance - All communities of thinking beings must resolve this test to effectively advance.
 * The Test of Dogmatism - Dogmatism is the refusal to accept new data. This is the enemy of understanding.
 
 Historically, Qin Lop Shu evolved as part of the [Lemardian Movement](/macropedia/lemardians) in response to growing threats and the instability of the irrational religious movements of the time. While some form of its basic tenets and premises had been bandied about for some time, the philosophy was truly crystallized during the [Conference Of Religion And Science](/macropedia/conference-of-religion-and-science).
@@ -48,5 +49,3 @@ Historically, Qin Lop Shu evolved as part of the [Lemardian Movement](/macropedi
 3. [Conference Of Religion And Science](/macropedia/conference-of-religion-and-science)
 4. [Lemardian Movement](/macropedia/lemardians)
 
-
-%25category%25 Categories:  |  

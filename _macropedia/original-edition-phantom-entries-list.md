@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["phantom original edition"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/original-edition'>Original Edition</a></div>

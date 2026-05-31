@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -28,7 +29,7 @@ Cormwite apparently had little patience, and betrayed Furnoklin, revealing to th
 
 Furnoklin was sentenced to ten standard years in prison and stripped of all his assets.  Other members of his family, in particular a distant cousin the judge [Furnoklin Taschera](/macropedia/furnoklin-taschera), found themselves transformed from allies of the Tawmeriks into their enemies.  Cormwite went out of his way to discredit any member of the family he could get his hands on.
 
-As for Furnoklin himself, by the time he was released from prison, the [Terran Republic](/macropedia/terran-republic) had been formed, and all his old contacts had either dried up or refused to deal with him.  He retired on a small pension gained from the sale of the few of the few assets left to him, and died an old, broken man, any recognition he might have deserved for building the Tawmeriks into an interstellar force withheld by them out of revenge for sins real or imagined.
+As for Furnoklin himself, by the time he was released from prison, the [Terran Republic](/macropedia/terran-republic) had been formed, and all his old contacts had either dried up or refused to deal with him.  He retired on a small pension gained from the sale of the few assets left to him, and died an old, broken man, any recognition he might have deserved for building the Tawmeriks into an interstellar force withheld by them out of revenge for sins real or imagined.
 
 ## References
 1. [Alistair Cormwite](/macropedia/alistair-cormwite)

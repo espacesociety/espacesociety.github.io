@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "isaac taub"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -20,11 +21,11 @@ Welgan Tyrox ranks among the top scientists ever produced by the Imperium. His c
 
 ## Tyro Levels and Shipborne AI
 
-Although the science of artificial intelligence dated back centuries before his arrival, Dr. Tyrox is given credit for defining AI psychological states&ndash;the Tyro Levels. Breifly restated, there are seven Tyro Levels that rate how well the AI Mind can cope with its environment. Only the top five levels are deemed suitable for Soup hopping due to the intensive effects travel has on any mind&ndash;let alone artificial. More importantly, Tyrox identified that critical threshold.
+Although the science of artificial intelligence dated back centuries before his arrival, Dr. Tyrox is given credit for defining AI psychological states&ndash;the Tyro Levels. Briefly restated, there are seven Tyro Levels that rate how well the AI Mind can cope with its environment. Only the top five levels are deemed suitable for Soup hopping due to the intensive effects travel has on any mind&ndash;let alone artificial. More importantly, Tyrox identified that critical threshold.
 
 Shipborne AI have to be significantly smaller than their planet-side cousins. A facet not yet realized by scientists today is how size affects the Tyrox Level of an AI. Regardless, Dr. Tyrox succeeded in creating AI that barely passed the threshold.
 
-Dr. Tyrox lobbied the scientific community for years to accept his levels, permenantly inscribing his name in AI science lore.
+Dr. Tyrox lobbied the scientific community for years to accept his levels, permanently inscribing his name in AI science lore.
 
 ## Business
 

@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["isaac taub authored", "imperium edition"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -16,11 +17,11 @@ categories: ["isaac taub authored", "imperium edition"]
 </div>
 
 
-The Popelof Project was an effort to preserve the [Klister University](/macropedia/klister-university) archives. As is well-documented, the University was destroyed during the [Hundred Bloody Days](/macropedia/hundred-bloody-days). Initial assessments of the damage told of total distruction of the University and the hundreds of years of knowledge it housed. However, Dr. Yoseamin Popelof, a librarian, refused to accept the loss. He gathered various specialists from various systems to help build a new data storage facility, and to recover what data was not totally lost from the original library. 
+The Popelof Project was an effort to preserve the [Klister University](/macropedia/klister-university) archives. As is well-documented, the University was destroyed during the [Hundred Bloody Days](/macropedia/hundred-bloody-days). Initial assessments of the damage told of total destruction of the University and the hundreds of years of knowledge it housed. However, Dr. Yoseamin Popelof, a librarian, refused to accept the loss. He gathered various specialists from various systems to help build a new data storage facility, and to recover what data was not totally lost from the original library. 
 
-Additionally, Dr. Popelof inspired thousands of academians, students, and lay citizenry to help contribute by fleshing out information lost. Others created new records and provided over a zettabyte of new information. As could be expected, errors were introduced. Many scholars joined the project to pass their name to posterity and failed to do the required research to ensure the accuracy of their contributions. What was worse, thousands of contributers included scores who invented information from their own imaginations. Conspiracists also claim that much of the information was intentionally falsefied by various subversive or clandestine groups&ndash;noteably the [Yousamin Faction](/macropedia/yousamin-faction).
+Additionally, Dr. Popelof inspired thousands of academians, students, and lay citizenry to help contribute by fleshing out information lost. Others created new records and provided over a zettabyte of new information. As could be expected, errors were introduced. Many scholars joined the project to pass their name to posterity and failed to do the required research to ensure the accuracy of their contributions. What was worse, thousands of contributors included scores who invented information from their own imaginations. Conspiracists also claim that much of the information was intentionally falsified by various subversive or clandestine groups&ndash;notably the [Yousamin Faction](/macropedia/yousamin-faction).
 
-Dr. Popelov claimed to have hundreds of editors to validate the entries, but subsequent research suggests that his claim was more to silence critics. Although we now know of these inaccuracies, the general populous accepts the information of the Popleof Project as authoritative. The Project was declared finished, and a copy shipped on the [Dreohedge Gevar](/macropedia/dreohedge-gevar) to another system for safekeeping. However, the [Dreohedge Gevar](/macropedia/dreohedge-gevar) is said to have ghosted upon departure.
+Dr. Popelof claimed to have hundreds of editors to validate the entries, but subsequent research suggests that his claim was more to silence critics. Although we now know of these inaccuracies, the general populace accepts the information of the Popelof Project as authoritative. The Project was declared finished, and a copy shipped on the [Dreohedge Gevar](/macropedia/dreohedge-gevar) to another system for safekeeping. However, the [Dreohedge Gevar](/macropedia/dreohedge-gevar) is said to have ghosted upon departure.
 
 ## References
 1. [Dreohedge Gevar](/macropedia/dreohedge-gevar)

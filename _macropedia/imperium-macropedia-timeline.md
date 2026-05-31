@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: []
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 <div class='row'>
 	<div class='col-md-4'><a href='/macropedia/imperium-equipment-index'>Imperium Equipment Index</a></div>
@@ -21,9 +22,9 @@ The exact dates of some events are unknown due to the multiple calendar systems 
 
 ## First Decline
 
-Before the first decline, the Souldogle Fic was formed. During the First Decline, that corporation's star systems remained in communication. This lead to the forming of the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group).
+Before the first decline, the Souldogle Fic was formed. During the First Decline, that corporation's star systems remained in communication. This led to the forming of the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group).
 
-The [Imudring](/macropedia/imudring) traders are trapped in various systems and are forced to scratch a bare existance. Many "tribes" disappear.
+The [Imudring](/macropedia/imudring) traders are trapped in various systems and are forced to scratch a bare existence. Many "tribes" disappear.
 
 * [Beginning of First Decline](/macropedia/entering-first-decline)
 * A rebel servant of the Oligarchs, [Kazam-Re](/macropedia/kazam-re), founds the [Vadian Free Republic](/macropedia/vadian-free-republic).
@@ -46,7 +47,7 @@ This is roughly the re-emergence of trade routes between various sectors, the en
 
 [Imudring](/macropedia/imudring) traders become a significant source of trans-system trading, and remain so throughout the remainder of the Imperium.
 
-* [Bitanium Fibre Exploration Corporation](/macropedia/bitanium-fibre-exploration-corporation) founded in the [[Star Systems](/macropedia/star-systems)/Novya Siberia](/star-systems/novya-siberia) system.
+* [Bitanium Fibre Exploration Corporation](/macropedia/bitanium-fibre-exploration-corporation) founded in the Novya Siberia system.
 
 * [Cosmology/Brane Hopping](/cosmology/brane-hopping) is possible again as [Hop Pollution](/cosmology/hyperspace-vortices) subsides.
 
@@ -73,7 +74,7 @@ This is roughly the re-emergence of trade routes between various sectors, the en
 * [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) gains a lot of power by information brokering. Under its director [Charl Bovit](/macropedia/charl-bovit), it becomes an instrument of terror. The [Assimilysis](/macropedia/assimilysis) technique is developed, but remains unknown throughout this period.
 * Attempted impeachment of Prime Minister [Veltrane Fres Volon](/macropedia/veltrane-fres-volon), but he eventually resigns.
 * [Voshium Insurrection](/macropedia/voshium-insurrection) begins.
-** The [Terran Republic](/macropedia/terran-republic) sends in troops, lead by [General Reth Tawmerik](/macropedia/reth-tawmerik-i), and the Insurrectionists are defeated and [Messen Fremezulejo](/macropedia/messen-fremezulejo) is captured.
+** The [Terran Republic](/macropedia/terran-republic) sends in troops, led by [General Reth Tawmerik](/macropedia/reth-tawmerik-i), and the Insurrectionists are defeated and [Messen Fremezulejo](/macropedia/messen-fremezulejo) is captured.
 * [Frontier Scout Fleet](/macropedia/frontier-scout-fleet) founded to explore human space, and in particular, those worlds initially colonized during the [First Expanse](/chronology/first-expanse).
 * Governance of the independent [Deltai-Cathian League](/macropedia/deltai-cathian-league) slowly devolves to the [Cathian Navy](/macropedia/cathian-navy).
 * [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) detains and tortures Alear, sometimes credited with putting him on the mystic path to martyrdom.
@@ -81,15 +82,15 @@ This is roughly the re-emergence of trade routes between various sectors, the en
 
 ## Early Imperium (ADEM ??? - ???)
 
-### Tawmerik Dyansty
+### Tawmerik Dynasty
 
 * [Terran Republic](/macropedia/terran-republic) collapses under [Benita Perez](/macropedia/benita-perez). Although often credited with orchestrating its fall, [Alistair Cormwite](/macropedia/alistair-cormwite) disappears from the public eye after the coronation of Reth Tawmerik I as the first Emperor of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty).
 ** [Corrigan](/macropedia/corrigan-system) is retained as the capital.
 * [Tao Sunni](/macropedia/tao-sunni) religion gains a fashionable popularity
 * Start of the [First Quijrad-Lkrada War](/macropedia/quijrad-lkrada-wars).
-* Perez spends 30y in prison, [Furnoklin Taschera](/macropedia/furnoklin-taschera) released her under a highly-controvertial recess decision.
-* [Committee Ten-Thousand Flowers](/macropedia/committee-ten-thousand-flowers) becomes Perez' work upon release, until her assassination (untimely demise).
-* [Committee Ten-Thousand Flowers](/macropedia/committee-ten-thousand-flowers) disbanded, absorbed into the Imperial Government
+* Perez spends 30y in prison, [Furnoklin Taschera](/macropedia/furnoklin-taschera) released her under a highly-controversial recess decision.
+* [Committee Ten-Thousand Flowers](/macropedia/committee-of-ten-thousand-flowers) becomes Perez' work upon release, until her assassination (untimely demise).
+* [Committee Ten-Thousand Flowers](/macropedia/committee-of-ten-thousand-flowers) disbanded, absorbed into the Imperial Government
 * End of the [First Quijrad-Lkrada War](/macropedia/quijrad-lkrada-wars).
 
 * Apocalyptic [Alaerian Cult](/macropedia/alaerian-cult) sparks [Frontier Rebellion](/macropedia/frontier-rebellion) which includes the...
@@ -113,7 +114,7 @@ This is roughly the re-emergence of trade routes between various sectors, the en
 
 * Lendth Tawmerik succeeds Kanth.
 ** [Wecing Doozium](/macropedia/wecing-doozium) attempts to forge an federation of the Imudring people.
-*** and is soon accused of being a [BID](/macropedia/bafiktuy-intelligence-directive) agent and sentences to death, and his federation dies with him.
+*** and is soon accused of being a [BID](/macropedia/bafiktuy-intelligence-directive) agent and sentenced to death, and his federation dies with him.
 ** Gawdain Tawmerik commissions the first [Parthas Class Vessels](/macropedia/parthas-class-vessels)
 *** The [Dreohedge Gevar](/macropedia/dreohedge-gevar) is commissioned for [Klister University](/macropedia/klister-university).
 
@@ -123,7 +124,7 @@ This is roughly the re-emergence of trade routes between various sectors, the en
 * The [Heljyks](/macropedia/heljyks) first appear out of the [Periphery](/macropedia/periphery).
 
 * [Second Quijrad-Lkrada War](/macropedia/quijrad-lkrada-wars).
-** last major [Tao Sunni](/macropedia/tao-sunni) colony destroyed on [[Al Aidra System](/star-systems/al-aidra-system)](/star-systems/al-aidra-system)
+** last major [Tao Sunni](/macropedia/tao-sunni) colony destroyed on [Al Aidra System](/star-systems/al-aidra-system)
 
 * Ewol Tith, a wealthy philanthropist, founds the [Tithian Foundation](/macropedia/tithian-foundation) to fund and support new colonial efforts.
 
@@ -133,9 +134,9 @@ This is roughly the re-emergence of trade routes between various sectors, the en
 
 ## High Imperium (ADEM ??? - ???)
 
-This period is also frequently referred to as the *Paco Imperia Tera,* or Terran Impirial Peace. This period, relative to the others, experienced a greater stability than the other Imperium periods. Not that this period lacked conflict, but that such conflicts were on a lower, easier-to-manage scale, as opposed to system-wide general war. During this period, the [anthorph](/macropedia/anthorph) security firms, such as the [Dinzwar Gefera](/macropedia/dinzwar-gefera), and non-anthroph firms like the [Gesceamian Choent](/macropedia/gesceamian-choent) were established and grew considerably. Also during this period, the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) collapsed and was replaced by the [Dabrian Dynasty](/macropedia/dabrian-dynasty). Also during this time, the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) caused the [Muzigle Fiasco](/macropedia/muzigle-fiasco).
+This period is also frequently referred to as the *Paco Imperia Tera,* or Terran Imperial Peace. This period, relative to the others, experienced a greater stability than the other Imperium periods. Not that this period lacked conflict, but that such conflicts were on a lower, easier-to-manage scale, as opposed to system-wide general war. During this period, the [anthorph](/macropedia/anthorph) security firms, such as the [Dinzwar Gefera](/macropedia/dinzwar-gefera), and non-anthroph firms like the [Gesceamian Choent](/macropedia/gesceamian-choent) were established and grew considerably. Also during this period, the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) collapsed and was replaced by the [Dabrian Dynasty](/macropedia/dabrian-dynasty). Also during this time, the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) caused the [Muzigle Fiasco](/macropedia/muzigle-fiasco).
 
-Technologically, [Fteigar Alloy](/macropedia/fteigar-alloys) altered the nature of conflict back to a more melee style as opposed to long-range missles. Additionally, [Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory) vessels were designed and constructed. They eventually were proven to be failures, helping to diminish the Imperium's financial status, prestige, and eventually, stability.
+Technologically, [Fteigar Alloy](/macropedia/fteigar-alloys) altered the nature of conflict back to a more melee style as opposed to long-range missiles. Additionally, [Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory) vessels were designed and constructed. They eventually were proven to be failures, helping to diminish the Imperium's financial status, prestige, and eventually, stability.
 
 * [Ying Clan](/macropedia/ying-clan) becomes the primary source of advanced arms in the Imperium.
 * Cho Lang Rih Tel Ohn presents his [Primitive Population Regression](/macropedia/primitive-population-regression) theory.
@@ -162,7 +163,7 @@ Falther Tawmerik takes throne
 * [Neo Tawmeriks](/macropedia/neo-tawmeriks) and [Perez Family](/macropedia/perez-family) evicted from [Fasantauri System](/macropedia/fasantauri-system) and Oligarchs re-exert direct control.
 * The [Lemardians](/macropedia/lemardians), founded by Elkar Lemard, arise in opposition to the growing mysticism of the Imperium.
 * The various offshoots of the [Kuberian Movement](/macropedia/kuberian-movement) begin to come into conflict with the [Zophian Sisterhood](/macropedia/zophian-sisterhood).
-* Increased availability and capability of [[Fteigar Alloy](/macropedia/fteigar-alloy)](/macropedia/fteigar-alloys) items changes combat away from detached missiles and in favor of melee.
+* Increased availability and capability of [Fteigar Alloy](/macropedia/fteigar-alloys) items changes combat away from detached missiles and in favor of melee.
 * Rise of [Anthorph](/macropedia/anthorph) security firms, notably [Dinzwar Gefera](/macropedia/dinzwar-gefera), and non-anthroph firms like the [Gesceamian Choent](/macropedia/gesceamian-choent).
 * The [Gahanian Seers](/macropedia/gahanian-seers) sect forms
 * The [Tithian Foundation](/macropedia/tithian-foundation) is largely sold off to the [Soro Meldur Kafrah Bank](/macropedia/soro-meldur-kafrah-bank) after allegations of fraud and corruption are made.
@@ -206,7 +207,7 @@ Troubled times come to the Empire, leading to [Grand Reforms](/macropedia/grand-
 ** [Woth](/macropedia/woth) starts the [Zenbrudi War](/macropedia/zenbrudi-war) with her humanoid creations, the [Zenbrudi](/macropedia/zenbrudi).
 ** [Woth](/macropedia/woth) is captured, sentenced to death but escapes before the sentence can be carried out, not to be seen again.
 * The criminal syndicate, [X'kan Nimu Hal](/macropedia/xkan-nimu-hal), first appears.
-* The remnants of the [Tithian Foundation](/macropedia/tithian-foundation) are bought up by a shadowy group lead by [Nindus Azrahn Felard](/macropedia/nindus-azrahn-felard).
+* The remnants of the [Tithian Foundation](/macropedia/tithian-foundation) are bought up by a shadowy group led by [Nindus Azrahn Felard](/macropedia/nindus-azrahn-felard).
 * Reign of [Jubal III](/macropedia/jubal-three)
 ** [Yousamin Faction](/macropedia/yousamin-faction) appears in the [Imperial Congress](/macropedia/imperial-congress).
 ** The [Tithian Foundation](/macropedia/tithian-foundation) begins backing various racist anti-[Anthorph](/macropedia/anthorph) groups, and printing anti-Imperial propaganda.
@@ -216,16 +217,16 @@ Troubled times come to the Empire, leading to [Grand Reforms](/macropedia/grand-
 ** reduces [Cathian Navy](/macropedia/cathian-navy) to police force
 ** seizes [Ying Sho Dahn Drive Works](/macropedia/ying-sho-dahn-drive-works) and nationalizes it
 ** ends Imperial use of [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)
-** reforms government structure, especially for system governements
+** reforms government structure, especially for system governments
 ** dissolves the [Frontier Scout Fleet](/macropedia/frontier-scout-fleet)
 ** pursues the rebel Felard family and forces them to flee.
-** sells [[Star Systems](/macropedia/star-systems)/Zebrathan Eight](/star-systems/zebrathan-eight) to the [Perkentov Covenent](/macropedia/perkentov-covenent)
+** sells Zebrathan Eight to the [Perkentov Covenent](/macropedia/perkentov-covenent)
 ** splits the corrupt Ministry of Transportation into the new government branch; the [Route Mapping Commission](/macropedia/route-mapping-commission) and the private corporation the [Oradian Shipping Conglomerate](/macropedia/oradian-shipping-conglomerate)
 ** sees the evolution of violent splinter groups from the [Kuberian Movement](/macropedia/kuberian-movement) like the [Muridian Avengers](/macropedia/muridian-avengers) form
 * A number operatives of the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) join the [Gesceamian Choent](/macropedia/gesceamian-choent).
 * [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol) becomes second Premiere.
 ** Attempts to complete [Durin Bonish](/macropedia/durin-bonish)'s reform package by instituting new titles of nobility to replace the provincial and system governors.
-*** [Kresel Muthron](/macropedia/tholomon-kresel-muthron) named Tholomon of the Sabanian Province.
+*** [Kresel Muthron](/macropedia/tholoman-kresel-muthron) named Tholomon of the Sabanian Province.
 ** [Ying Clan](/macropedia/ying-clan) contracts begin to dry up.
 ** The [Gahanian Seers](/macropedia/gahanian-seers) disappear without a trace, their ultimate fate a mystery.
 * There are reports of [Heljyk](/macropedia/heljyks) ships being spotted.
@@ -233,7 +234,7 @@ Troubled times come to the Empire, leading to [Grand Reforms](/macropedia/grand-
 ** [Yousamin Faction](/macropedia/yousamin-faction) falls out of favor
 ** and passes legislation making the [OAC](/macropedia/oradian-shipping-conglomerate) effectively an Imperium monopoly on interstellar trade and travel.
 ** [Femaron Felard](/macropedia/femaron-felard) returns to the Imperium and takes under his wing the greater part of the remnants of the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive).
-** Plans begin in secret for the [Yatharan Migration](/macropedia/yatharan-migration), lead by [Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara), to rescue as many [Anthorph](/macropedia/anthorph)s as possible from the growing (and potentially violent) racism against the genetically altered.
+** Plans begin in secret for the [Yatharan Migration](/macropedia/yatharan-migration), led by [Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara), to rescue as many [Anthorph](/macropedia/anthorph)s as possible from the growing (and potentially violent) racism against the genetically altered.
 * [Ascension Cults](/macropedia/ascension-cults) begin visiting [Odni Planyeti](/macropedia/odni-planyeti).
 * [Yisma Kiau Uprising](/macropedia/yisma-kiau-uprising)
 ** The [Gesceamian Choent](/macropedia/gesceamian-choent) is defeated and absorbed into the other [Anthorph](/macropedia/anthorph) and non-Anthorph security firms.
@@ -242,13 +243,13 @@ Troubled times come to the Empire, leading to [Grand Reforms](/macropedia/grand-
 *** The Oligarchs of the [Fasantauri System](/macropedia/fasantauri-system) give aid to [Femaron Felard](/macropedia/femaron-felard), particularly large loans.
 *** The [Zophian Sisterhood](/macropedia/zophian-sisterhood), under the leadership of [Most Honored Sister Elenarai Fathame](/macropedia/elenarai-fathame) openly defy the growing genocide of [Anthorph](/macropedia/anthorph)s.
 *** Destruction of [Klister University](/macropedia/klister-university).
-*** The Bloody Pretender orders the attack of [[Star Systems](/macropedia/star-systems)/Xelicar](/star-systems/xelicar) due to its continued construction of a navy. The ensuing Xelicar War sees the defeat of Imperium forces.
+*** The Bloody Pretender orders the attack of Xelicar due to its continued construction of a navy. The ensuing Xelicar War sees the defeat of Imperium forces.
 *** A few remaining members of the abolished [Umarian Guard](/macropedia/umarian-guard) again form a guard to the Bloody Pretender
 *** The [Yatharan Migration](/macropedia/yatharan-migration) begins, and tens of thousands of [Anthorph](/macropedia/anthorph)s flee the terrors of the [Hundred Bloody Days](/macropedia/hundred-bloody-days).
 *** [Sabanian Empire](/macropedia/sabanian-empire) forms, so to speak.
-**** [Tholomon Kresel Muthron](/macropedia/tholomon-kresel-muthron) declared Sovereign of the [Sabanian Empire](/macropedia/sabanian-empire).
+**** [Tholomon Kresel Muthron](/macropedia/tholoman-kresel-muthron) declared Sovereign of the [Sabanian Empire](/macropedia/sabanian-empire).
 **** Seizes [Ying Sho Dahn Drive Works](/macropedia/ying-sho-dahn-drive-works). [Ying Clan](/macropedia/ying-clan) annexed by Sabanians.
-**** Some vessels of the [Yatharan Migration](/macropedia/yatharan-migration) seek asylum, but the Sabanians are none to willing to offer aid.
+**** Some vessels of the [Yatharan Migration](/macropedia/yatharan-migration) seek asylum, but the Sabanians are none too willing to offer aid.
 *** [Femaron Felard](/macropedia/femaron-felard) is assassinated by his own guard.  According to [Scholar/Chang Singh](/scholar/chang-singh), this is the end of the Imperium.
 ** The remnant of the [Umarian Guard](/macropedia/umarian-guard) that served the Bloody Pretender are dealt with, finally ending the Guard once and for all.
 ** [Yousamin Faction](/macropedia/yousamin-faction) set up rival Congress and government to the [Imperial Congress](/macropedia/imperial-congress).

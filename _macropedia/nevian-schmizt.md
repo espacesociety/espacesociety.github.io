@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -24,13 +25,13 @@ Knowing their influence on then prince Antius, the fanatics needed to discredit 
 
 The Lemardians were cast out of power, and into prison. Schmizt, and many others, were only spared execution as a placative gesture to many of the worlds that revolted against the religious tyranny. Schmizt remained there for many years. When the [Grand Reforms](/macropedia/grand-reforms) swept the Imperium, Schmizt could not be found. His final fate remains, unknown.
 
-Officially. There is another story, although unsubstantiated. During some unrest at the capitol, two quards were on a low balcony overlooking a courtyard on the palace grounds. They say that they saw prince Jubal (soon to be [Jubal II](/macropedia/jubal-two)) escort two people to a strange black ship that descended into the courtyard. The first person was an old man, wearing long beard and hair, as well as an ill-fitting suit years out of fashion. The quards say they got a clear look at him as he boarded the ship, and they say they are sure that he was Nevian Schmizt. The other person was a young lady of light hair and athletic build. The guards did not recognize her, but say she carried a pistol with confidence and wore a backpack with ease. While there are too many missing persons from those chaotic times that match that description, two possibilities have persisted. Jubal had a cousin who vanished at that time, supposedly in some of the fighting. Also, Schmizt had a granddaughter who could also have fit the description. She later denied any involvement in the incident, however, her whereabouts at that time are unconfirmed, as she was fighting in a resistance on another world.
+Officially. There is another story, although unsubstantiated. During some unrest at the capital, two guards were on a low balcony overlooking a courtyard on the palace grounds. They say that they saw prince Jubal (soon to be [Jubal II](/macropedia/jubal-two)) escort two people to a strange black ship that descended into the courtyard. The first person was an old man, wearing long beard and hair, as well as an ill-fitting suit years out of fashion. The guards say they got a clear look at him as he boarded the ship, and they say they are sure that he was Nevian Schmizt. The other person was a young lady of light hair and athletic build. The guards did not recognize her, but say she carried a pistol with confidence and wore a backpack with ease. While there are too many missing persons from those chaotic times that match that description, two possibilities have persisted. Jubal had a cousin who vanished at that time, supposedly in some of the fighting. Also, Schmizt had a granddaughter who could also have fit the description. She later denied any involvement in the incident, however, her whereabouts at that time are unconfirmed, as she was fighting in a resistance on another world.
 
 While the conspiracy theories and alien theories that abound about this incident are numerous, they are better detailed in another volume. The incident itself has had such an influence on popular politics that it deserved some mention here.
 
 ## References
-1. [[Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory)](/macropedia/enhanced-autonomous-research-laboratory)
-1. [[Emil Dabrian](/macropedia/emil-dabrian)](/macropedia/emil-dabrian)
+1. [Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory)
+1. [Emil Dabrian](/macropedia/emil-dabrian)
 1. [Lemardians](/macropedia/lemardians)
 1. [Jubal II](/macropedia/jubal-two)
 

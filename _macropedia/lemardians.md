@@ -7,6 +7,7 @@ sharing: true
 footer: true
 group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
+edited_at: 2026-05-31T10:00:00+00:00
 ---
 
 <div class='row'>
@@ -18,22 +19,22 @@ categories: ["imperium edition", "chang singh authored"]
 
 Name applied to a group of philosophers, scientists and scholars who, during the High Imperium era, stood in opposition to the growing mysticism and metaphysical bent of the Imperium.
 
-The Lemardians were not, in the beginning, any sort of united group.  The first of them, Elkar Lemard, was an [anthorph](/macropedia/anthorph) member of the [Imperial Congress](/macropedia/imperial-congress) as well as a talented geneticist.  Though a deeply religious man, he was a strong advocate of solid science and research.  He wanted no followers, but never the less his speeches and writings gained a following among the increasingly marginalized rationalists that made up the heart of the Imperium's scholarly community, many of which reacted strongly to the [Kuberian Movement](/macropedia/kuberian-movement).
+The Lemardians were not, in the beginning, any sort of united group.  The first of them, Elkar Lemard, was an [anthorph](/macropedia/anthorph) member of the [Imperial Congress](/macropedia/imperial-congress) as well as a talented geneticist.  Though a deeply religious man, he was a strong advocate of solid science and research.  He wanted no followers, but never the less his speeches and writings gained a following among the increasingly marginalized rationalists that made up the heart of the Imperium's scholarly community, many of whom reacted strongly to the [Kuberian Movement](/macropedia/kuberian-movement).
 
 For a while, at least, the Lemardians were viewed with great suspicion.  They were seen by the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) as dangerous subversives, though, ironically, some [BID](/macropedia/bafiktuy-intelligence-directive) directors were, in fact, also opponents of some of the cults and mystery religions that were springing up in the Imperium.  In the end though, a better way to keep the Lemardians in check was found by the politicians.  Known Lemardians were openly embraced and given committees to run with the purpose of reforming education, research, Imperial policies on religions and so on.  Such recommendations were eagerly accepted by Imperial officials and then quietly filed away and forgotten.
 
-The Lemardians reached the zenith of their influence under my revered ancestor [Ghen Changh Liu](/macropedia/ghen-changh-liu).  I will leave it to other, more unbiased individuals to write his biography, but he is notable as being one of the last rationalists to have the ears of an Emperor.  Their influence wasn't as great as that might make it seem, bit it was a highwater mark that was over all too soon.  The Lemardians had made many enemies in their brief rise.
+The Lemardians reached the zenith of their influence under my revered ancestor [Ghen Changh Liu](/macropedia/ghen-changh-liu).  I will leave it to other, more unbiased individuals to write his biography, but he is notable as being one of the last rationalists to have the ears of an Emperor.  Their influence wasn't as great as that might make it seem, but it was a highwater mark that was over all too soon.  The Lemardians had made many enemies in their brief rise.
 
-The citizens of a failing empire could not tolerate the heavy burdens of the rationalist, and turned on the Lemardians with a swiftness which should have been a warning to others.  Lemardian scholars and scientists were mocked, and on some worlds even attacked, being blamed for weakening the resolve of commoners and officials alike to keep the Empire strong.  The last emperors, while not openly encouraging this, saw it as a great benefit for troubled peoples to blaim the messenger.  Known Lemardians in the [Imperial Congress](/macropedia/imperial-congress) and in other high positions were frequently placed under protection, which amounted to nothing more than house arrest.
+The citizens of a failing empire could not tolerate the heavy burdens of the rationalist, and turned on the Lemardians with a swiftness which should have been a warning to others.  Lemardian scholars and scientists were mocked, and on some worlds even attacked, being blamed for weakening the resolve of commoners and officials alike to keep the Empire strong.  The last emperors, while not openly encouraging this, saw it as a great benefit for troubled peoples to blame the messenger.  Known Lemardians in the [Imperial Congress](/macropedia/imperial-congress) and in other high positions were frequently placed under protection, which amounted to nothing more than house arrest.
 
 The final fall of the Lemardians came with the [Peace and Order Laws](/macropedia/peace-and-order-laws), which targeted them and other so-called "groups in opposition to His August and Merciful Majesty."  Most scientists, scholars and other like-minded people simply abandoned the Lemardian movement entire, and its leaders were imprisoned on suspicion of working to tear down the Imperium.
 
 ## References
 1. [Anthorph](/macropedia/anthorph)
-1. [[Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)](/macropedia/bafiktuy-intelligence-directive)
-1. [[Ghen Changh Liu](/macropedia/ghen-changh-liu)](/macropedia/ghen-changh-liu)
-1. [[Imperial Congress](/macropedia/imperial-congress)](/macropedia/imperial-congress)
-1. [[Kuberian Movement](/macropedia/kuberian-movement)](/macropedia/kuberian-movement)
+1. [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive)
+1. [Ghen Changh Liu](/macropedia/ghen-changh-liu)
+1. [Imperial Congress](/macropedia/imperial-congress)
+1. [Kuberian Movement](/macropedia/kuberian-movement)
 1. [Peace and Order Laws](/macropedia/peace-and-order-laws)
 
 ## Related Articles
