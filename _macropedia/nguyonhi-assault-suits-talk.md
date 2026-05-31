@@ -9,12 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/nguyonhi-assault-suits'>Nguyonhi Assault Suits</a></div>
-	<div class='col-md-4'><a href='/macropedia/nguyonhi-assault-suits-talk'>Nguyonhi Assault Suits Talk</a></div>
-	<div class='col-md-4'><a href='/macropedia/nindus-azrahn-felard'>Nindus Azrahn Felard</a></div>
-</div>
-
 
 # *A talk about [Nguyonhi Assault Suits](/macropedia/nguyonhi-assault-suits):*
 

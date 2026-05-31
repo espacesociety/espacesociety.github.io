@@ -10,13 +10,6 @@ categories: ["isaac taub authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/poly-control-slave-system'>Poly-Control Slave System</a></div>
-	<div class='col-md-4'><a href='/macropedia/popelof-project'>Popelof Project</a></div>
-	<div class='col-md-4'><a href='/macropedia/primitive-population-regression'>Primitive Population Regression</a></div>
-</div>
-
-
 The Popelof Project was an effort to preserve the [Klister University](/macropedia/klister-university) archives. As is well-documented, the University was destroyed during the [Hundred Bloody Days](/macropedia/hundred-bloody-days). Initial assessments of the damage told of total destruction of the University and the hundreds of years of knowledge it housed. However, Dr. Yoseamin Popelof, a librarian, refused to accept the loss. He gathered various specialists from various systems to help build a new data storage facility, and to recover what data was not totally lost from the original library. 
 
 Additionally, Dr. Popelof inspired thousands of academians, students, and lay citizenry to help contribute by fleshing out information lost. Others created new records and provided over a zettabyte of new information. As could be expected, errors were introduced. Many scholars joined the project to pass their name to posterity and failed to do the required research to ensure the accuracy of their contributions. What was worse, thousands of contributors included scores who invented information from their own imaginations. Conspiracists also claim that much of the information was intentionally falsified by various subversive or clandestine groups&ndash;notably the [Yousamin Faction](/macropedia/yousamin-faction).

@@ -10,15 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/jubal-three'>Jubal Three</a></div>
-	<div class='col-md-4'><a href='/macropedia/jubal-two'>Jubal I I </a></div>
-	<div class='col-md-4'><a href='/macropedia/jupiter-rocket'>Jupiter Rocket</a></div>
-</div>
-
-
-
-
 ## Overview
 Eldest child of [Antius Trevus I](/macropedia/antius-trevus-one), whose reign was typified by further erosion of the Imperial office.
 

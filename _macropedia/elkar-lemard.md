@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2025-01-08T10:48:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/elenarai-fathame'>Elenarai Fathame</a></div>
-	<div class='col-md-4'><a href='/macropedia/elkar-lemard'>Elkar Lemard</a></div>
-	<div class='col-md-4'><a href='/macropedia/emil-dabrian'>Emil Dabrian</a></div>
-</div>
-
-
 Elkar Lemard initiated the eponymous [Lemardian Movement](/macropedia/lemardians). As a prominent member of the [Sevyet](/macropedia/imperial-congress) and a well-known geneticist, Lemard maintained a fair amount of public attention.
 
 Lemard was of [Genetically Enhanced](/macropedia/genetically-enhanced-peoples) descent, from a desert world. His lean countenance provided him with an air of authority among unenhanced humans. His people enjoy an extended lifespan and traditionally kept a lifestyle of having two consecutive careers. In his first career, Lemard gained prestige by passing many of the creators tests, particular in the area of xeno-botanical hybridization.

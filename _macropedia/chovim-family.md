@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/chogia-faith'>Chogia Faith</a></div>
-	<div class='col-md-4'><a href='/macropedia/chovim-family'>Chovim Family</a></div>
-	<div class='col-md-4'><a href='/macropedia/committee-of-ten-thousand-flowers'>Committee Of Ten Thousand Flowers</a></div>
-</div>
-
-
 The Chovim Family was a [Fully Integrated Corporation](/macropedia/fully-integrated-corporation) on [Souldogle Prime](/star-systems/procyon-system). They were, for a time, as politically powerful there as either the Perez or Tawmerik families. However, they combined with several other groups to form the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) and thereby eventually lost their identity as a separate entity.
 
 About the time of the [Dio En Mashino](/macropedia/dio-en-mashino) discovery, the Chovim were involved in a subtle feud with the Perez family. The two families disagreed on several points about the proper relationship of a FIC with other citizens. This feud blossomed during the time of the [Terran Republic](/macropedia/terran-republic) as the Chovim sought further special corporate privileges over the common people. This strain was exacerbated by the burgeoning relationship between the [Perez Family](/macropedia/perez-family) and the [Imudring](/macropedia/imudring). The feud is sometimes cited as a contributing factor to the instability of the Republic.

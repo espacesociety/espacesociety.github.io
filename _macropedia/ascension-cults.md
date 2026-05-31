@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/arturo-san-degas'>Arturo San Degas</a></div>
-	<div class='col-md-4'><a href='/macropedia/ascension-cults'>Ascension Cults</a></div>
-	<div class='col-md-4'><a href='/macropedia/assimilysis'>Assimilysis</a></div>
-</div>
-
-
 The **Ascension Cults** are a series of religious fanatic groups obsessed with escaping our Imperium either physically or metaphysically. Among these are those [Retri Gahani](/macropedia/retri-gahani) who rose every so often. Typically, these cults were started by an individual with strong charisma who preyed on weak-minded citizens.
 
 Although this is indicative of most cults, what makes ascension cults stand out is the emphasis on escapism. Some would claim [Odni Planyeti](/macropedia/odni-planyeti) as a fallen Eden to be reclaimed by the faithful. Others would claim that the original inhabitants in Odni Planyeti had ascended, and that those in the cult should do likewise.

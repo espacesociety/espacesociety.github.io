@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/brief-history-of-the-imperium'>Brief History Of The Imperium</a></div>
-	<div class='col-md-4'><a href='/macropedia/canticle-of-hope'>Canticle Of Hope</a></div>
-	<div class='col-md-4'><a href='/macropedia/cathian-navy'>Cathian Navy</a></div>
-</div>
-
-
 It is a dangerous age.  Central authority has all but disappeared, warlords great and small vie for control of the fragments of the Imperium, while the impotent [Imperial Congress](/macropedia/imperial-congress) finds itself barely capable of governing a few neighboring systems.
 
 For scholars, the final days of the Imperium were a dark time.  Many of our [Anthorph](/macropedia/anthorph) brethren disappeared, likely murdered by the lunacy of the [Hundred Bloody Days](/macropedia/hundred-bloody-days).  So much knowledge disappeared, so much wisdom extinguished in a last gasp of madness, fear and venom.

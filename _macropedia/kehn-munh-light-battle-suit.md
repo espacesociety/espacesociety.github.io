@@ -10,13 +10,6 @@ categories: ["imperium equipment", "{$scholar name}authored", "boris helfstein p
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/kazam-re'>Kazam-Re</a></div>
-	<div class='col-md-4'><a href='/macropedia/kehn-munh-light-battle-suit'>Kehn Munh Light Battle Suit</a></div>
-	<div class='col-md-4'><a href='/macropedia/kemen-febrer-suwor'>Kemen Febrer Suwor</a></div>
-</div>
-
-
 ## Overview
 
 Suit designed by the Imperium Navy, initially for vacuum combat, but later adapted to a number of different environments. 

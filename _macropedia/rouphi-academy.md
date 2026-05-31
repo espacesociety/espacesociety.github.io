@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/riojier-system'>Riojier System</a></div>
-	<div class='col-md-4'><a href='/macropedia/rouphi-academy'>Rouphi Academy</a></div>
-	<div class='col-md-4'><a href='/macropedia/route-mapping-commission'>Route Mapping Commission</a></div>
-</div>
-
-
 The Rouphi Academy was first sponsored by the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) on [Souldogle Prime](/star-systems/souldogle-prime) just prior to the discovery of the [Dio En Mashino](/macropedia/dio-en-mashino). The Rouphi were a small splinter of the [Chovim Family](/macropedia/chovim-family). Its early history and focus appears devoted to the study of interstellar economics and the development of interstellar trade law. The Academy was a strong supporter of both the [Terran Republic](/macropedia/terran-republic) and the Imperium. 
 
 That focus continued, to one extent or another, and prevails today. The Academy quickly rose to prominence as the fashionable place for aristocratic and noble scions to learn the games of power. This was quite valuable for the [HETG](/macropedia/hegemonic-economic-trade-group) until outside investment made the academy a primarily independent body after the [Muzigle Fiasco](/macropedia/muzigle-fiasco). This also had the effect of essentially restricting the student body to "normal" humans.

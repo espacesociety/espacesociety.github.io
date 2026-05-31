@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperial-congress'>The Imperial Congress</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-core-worlds'>Imperial Core Worlds</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-court-of-cassation'>Imperial Court Of Cassation</a></div>
-</div>
-
-
 The name applied by later historians to those worlds that first began to recover from the [First Decline](/chronology/first-decline).  Initially interstellar travel was still limited to slowboat and dangerous Soup travel, which made for long travel times or unreliability of reaching destinations.  Despite the vast distances, these worlds managed through regular communications to retain sufficient similarities in custom and language to preserve some sense of unity.  The early councils that were formed by the Core Worlds were the direct ancestors of the governmental structures of the [Terran Republic](/macropedia/terran-republic) and the Imperium.
 
 When the [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu) finally overcame the difficulties that hop pollution had created for FTL travel, these worlds more easily integrated into a tighter confederation which evolved into the [Terran Republic](/macropedia/terran-republic) and finally the Imperium.  Though throughout the Republican and Imperium periods the Core Worlds became the minority, they retained their cultural and political importance.  No matter how badly or well the Imperium functioned, it was the Core Worlds that were the administrative and financial engines, and woe to any other world that dared to challenge that supremacy.

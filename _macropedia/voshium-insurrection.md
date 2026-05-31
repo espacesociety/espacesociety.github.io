@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/veltrane-fres-volon'>Veltrane Fres Volon</a></div>
-	<div class='col-md-4'><a href='/macropedia/voshium-insurrection'>Voshium Insurrection</a></div>
-	<div class='col-md-4'><a href='/macropedia/vosium-insurrection'>Vosium Insurrection</a></div>
-</div>
-
-
 The Voshium Insurrection was an armed attempt to shrug off the control of the [Terran Republic](/macropedia/terran-republic) by the people of the Voshium system.  Voshium was a relatively poor system, largely agricultural and dominated by a religious order that dated back to the [Expanse](/chronology/first-expanse).  Though a referendum on becoming a member of the Republic had been held a few years previously, there had been some compelling accusations that land owners sitting on petroleum-rich deposits had used intimidation and vote buying to gain entry into the Republic.
 
 The one thing the Republican party had promised was a space elevator to allow Voshium agriculture products cheaper access to interstellar markets.  However, it had not got beyond the planning stage, and many anti-Republicans came to believe that the promise had been faithless.  Peaceful protests soon gave way to violence, though at this point it was still restricted to the larger towns and cities.

@@ -9,12 +9,6 @@ group: Macropedia
 categories: ["imperium equipment", "{$scholar name}authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/liu-no-ri-masters'>Liu-No-Ri Masters</a></div>
-	<div class='col-md-4'><a href='/macropedia/macabite-liferaft'>Macabite Liferaft</a></div>
-	<div class='col-md-4'><a href='/macropedia/macrodonic-collapse'>Macrodonic Collapse</a></div>
-</div>
-
 
 %3c%3c|[Macropedia/Imperium Equipment Index](/macropedia/imperium-equipment-index)|>>
 

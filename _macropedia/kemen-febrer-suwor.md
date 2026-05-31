@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/kehn-munh-light-battle-suit'>Kehn Munh Light Battle Suit</a></div>
-	<div class='col-md-4'><a href='/macropedia/kemen-febrer-suwor'>Kemen Febrer Suwor</a></div>
-	<div class='col-md-4'><a href='/macropedia/king-traih'>King Traih</a></div>
-</div>
-
-
 **Kemen Febrer Suwor** was one of the more controversial scholars of his day. When trans-system travel ended, he was a junior member of the Hels Mont Society, a loose group of scientists who hoped to find the root cause of the increasing rash of trans-system failures. Dr. Suwor was one of the few who initially postulated the existence of hop pollution. In his later years, he was credited with the founding of the [Counsel of Concerned Scientists](/macropedia/counsel-of-concerned-scientists). The Counsel's core purpose was to prevent future hop pollution&ndash;even though it had not been scientifically proven.
 
 ## Root of the Problem

@@ -10,14 +10,6 @@ permalink: /macropedia/
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/macrodonic-collapse'>Macrodonic Collapse</a></div>
-	<div class='col-md-4'><a href='/macropedia/macropedia/'>Macropedia Terradoma</a></div>
-	<div class='col-md-4'><a href='/macropedia/magnetic-fleas'>Magnetic Fleas</a></div>
-</div>
-
-
-
 
 The ***Macropedia Terradoma*** series is the premier compendia of human knowledge. Throughout its centuries of history, *Macropedia Terradoma* was regarded as Terradoma's most trusted sources of scholarly information on virtually every topic imaginable. Its accuracy is so well-regarded that if other sources disagree with an article here, that source is largely discredited. The articles detailed here are a tiny sub-set of that gargantuan work, selected by some of the top scholars of the day. If you're a frequent visitor, you may just want to look at the Macropedia/recent changes.
 

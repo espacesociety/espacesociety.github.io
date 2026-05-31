@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/xenophobe-picket'>Xenophobe Picket</a></div>
-	<div class='col-md-4'><a href='/macropedia/xervius-lundrel'>Xervius Lundrel</a></div>
-	<div class='col-md-4'><a href='/macropedia/xkan-nimu-hal'>X'Kan Nimu Hal</a></div>
-</div>
-
-
 High Lord Captain **Xervius Lundrel**, who was the chief architect of many of [Antius Trevus I's](/macropedia/antius-trevus-one) policies and was considered by some to be the power behind the throne. He was a deeply religious man from the [Merithian System](/star-systems/merithian-system) who was also known for his cruelty. He is said to have been a bit of a mystic and faith healer. The Empress became very infatuated with him and Antius saw in him a man after his own cruel heart.
 
 Being from Merithian, he was raised in a small farming commune. He developed a reputation as an ill-behaved child. His life in Uvane was haunted by an event in his early childhood where he inadvertently set ablaze 100,000 acres of wheat ready for harvest. As a punishment, he was sent to the Zulier Monastery where he discovered religion and became a mystic. Thereafter he became a pilgrim bent on finding the true source of their faith. Oddly, this led him off-world where he is said to have fathered many illegitimate children.

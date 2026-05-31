@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2025-01-08T10:46:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/durin-bonish'>Durin Bonish</a></div>
-	<div class='col-md-4'><a href='/macropedia/ekreiter-plague'>Ekreiter Plague</a></div>
-	<div class='col-md-4'><a href='/macropedia/elenarai-fathame'>Elenarai Fathame</a></div>
-</div>
-
-
 The **Ekreiter Plague** destroyed political support for microscopic biological research for generations to come. Although such research continued, it was never again discussed in polite circles.
 
 The Plague was created for the purpose of reducing the various venereal diseases that began their spread when the various star systems began to reunite. The Plague was designed to target those diseases and destroy them.

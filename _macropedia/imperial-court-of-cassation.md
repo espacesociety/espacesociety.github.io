@@ -10,13 +10,6 @@ categories: ["imperium edition", "issac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperial-core-worlds'>Imperial Core Worlds</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-court-of-cassation'>Imperial Court Of Cassation</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-interregnum'>Imperial Interregnum</a></div>
-</div>
-
-
 The **Imperial Court of Cassation** is the court of last resort in the Imperium. It comprises over two-thousand judges and assistant judges. Although it claims independence from the Emperor, the Emperor is the sole source of appointments, which leads to a high degree of cronyism. The court also includes several thousand prosecutors.
 
 Justices appointed to this court serve a single 24 year term. Chief Justices serve at the pleasure of the Emperor, further weakening the independence of the Court. 

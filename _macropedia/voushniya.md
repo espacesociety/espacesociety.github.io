@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/vosium-insurrection'>Vosium Insurrection</a></div>
-	<div class='col-md-4'><a href='/macropedia/voushniya'>Voushniya</a></div>
-	<div class='col-md-4'><a href='/macropedia/wars-of-expansion'>Wars Of Expansion</a></div>
-</div>
-
-
 Voushniya joined the [King Traih League](/macropedia/king-traih-league) soon after the [Frontier Rebellion](/macropedia/frontier-rebellion). Although the population had not genetically adapted itself as a whole to their world, many of them had been genetically engineered, as were their creatures. On most such worlds, the original colonists had undertaken widescale genetic engineering as a societal project to ensure its survival. On Voushniya, they considered it an economic activity like any other.
 
 The Voushnik scientists also became masters of the genetic manipulation of living organisms. While this technology was popular and widespread in the Early Imperium (especially bioluminescent tattoos) The [Ekreiter Plague](/macropedia/ekreiter-plague) produced enough political backlash that it was outlawed in the Imperium. The King Traih League was not so restrictive, and the continued practice on Voushniya became a minor point of friction between the League and the Imperium.

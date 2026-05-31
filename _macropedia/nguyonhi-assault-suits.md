@@ -9,12 +9,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored", "combat equipment", "imperium equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/new-diaspora'>New Diaspora</a></div>
-	<div class='col-md-4'><a href='/macropedia/nguyonhi-assault-suits'>Nguyonhi Assault Suits</a></div>
-	<div class='col-md-4'><a href='/macropedia/nguyonhi-assault-suits-talk'>Nguyonhi Assault Suits Talk</a></div>
-</div>
-
 
 %3c%3c|[Macropedia/Imperium Edition Index](/macropedia/imperium-edition-index)|>>
 %3c%3c|[Macropedia/Imperium Equipment Index](/macropedia/imperium-equipment-index)|>>

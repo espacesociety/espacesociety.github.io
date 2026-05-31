@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored", "miscellaneous equ
 edited_at: 2025-01-08T10:55:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/entering-first-decline'>Entering The Terran Decline</a></div>
-	<div class='col-md-4'><a href='/macropedia/esperopteris-koinsii'>Esperopteris Koinsii</a></div>
-	<div class='col-md-4'><a href='/macropedia/ether'>Ether</a></div>
-</div>
-
-
 Esperopteris Koinsii is an engineered organism, derived from a plantlike organism believed native to the [Purivi Donar System](/macropedia/purivi-donar-system). When it was discovered by members of the [Frontier Scout Fleet](/macropedia/frontier-scout-fleet) early in the [Dabrian Dynasty](/macropedia/dabrian-dynasty), the natives of Purivi Donar had reverted to an almost savage state. Instead of embracing the Tests of the Creator, they had fallen back on the natural bounty of their world. They claimed to have achieved a "higher mental state" through the use of the mind-altering organisms of the genus Esperopteris. Whatever the reality of the situation, the esperopterian organisms didn't help the Purivians maintain their culture against a wave of Imperial immigration.
 
 Soon after the colonization effort began, the colonists discovered the so-called "entertainment" value of these plants, and began to cultivate them. Under Imperial law, such plants could not be exported, but neither could they be exterminated. Instead, they were permitted to serve as a local feature for tourism. Unfortunately, either through quasi-legal exportation of engineered organisms, or illegal exportation of the hallucinogenic organisms, some modified Esperopteris plants appeared outside the Purivi system. These plants had much higher levels of the relevant compounds than naturally occurred. They are severely addictive, and illegal to traffic, transport, or consume within the empire.

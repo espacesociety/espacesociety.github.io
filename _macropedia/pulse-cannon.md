@@ -10,13 +10,6 @@ categories: ["imperium equipment", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/primitive-population-regression'>Primitive Population Regression</a></div>
-	<div class='col-md-4'><a href='/macropedia/pulse-cannon'>Pulse Cannon</a></div>
-	<div class='col-md-4'><a href='/macropedia/purivi-donar-system'>Purivi Donar System</a></div>
-</div>
-
-
 ## Overview
 
 The **Pulse Cannon** is a vehicle-mounted atmospheric gauss weapon. The technology behind the pulse cannon is among the most primitive, but the modern implementation has allowed for greater power packed in a smaller size. Handheld versions are called needlers; a diminutive nomenclature for a weapon capable of knocking even the largest [anthorph](/macropedia/anthorph) flat on his back.

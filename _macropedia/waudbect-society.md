@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/wars-of-expansion'>Wars Of Expansion</a></div>
-	<div class='col-md-4'><a href='/macropedia/waudbect-society'>Waudbect Society</a></div>
-	<div class='col-md-4'><a href='/macropedia/wecing-doozium'>Wecing Doozium</a></div>
-</div>
-
-
 Semi-legendary society that included some of the most important families of the early Imperium.  Independent evidence for the Waudbect Society is sketchy, as the alleged members were very powerful, and certainly could have kept many aspects of the organization secret.
 
 It is said that the Society acted as a sort of secret governing body, assuring that the Imperium functioned in a fashion that would serve the powerful clique the best.  While the [Tawmerik](/macropedia/tawmerik-dynasty)s may have been the highest ranking clan in the Imperium, in the Waudbect Society, they were said to have been equals with the four or five other families.

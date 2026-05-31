@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/bang-hai-nok-incident'>Bang Hai Nok Incident</a></div>
-	<div class='col-md-4'><a href='/macropedia/benita-perez'>Benita Perez</a></div>
-	<div class='col-md-4'><a href='/macropedia/berryman-sensor-array'>Berryman Sensor Array</a></div>
-</div>
-
-
 Full Name: Benita Antonia Beatriz Perez
 
 Last Prime Minister of the short-lived [Terran Republic](/macropedia/terran-republic).  Known as a good-natured bureaucrat and minor scion of the [Perez Family](/macropedia/perez-family), chosen by various factions more because of her political inexperience than because of any particular administrative skills.

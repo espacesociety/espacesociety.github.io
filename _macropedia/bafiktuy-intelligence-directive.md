@@ -10,12 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/baelian-fiasco'>Baelian Fiasco</a></div>
-	<div class='col-md-4'><a href='/macropedia/bafiktuy-intelligence-directive'>Bafiktuy Intelligence Directive</a></div>
-	<div class='col-md-4'><a href='/macropedia/balanar-three'>Balanar Three</a></div>
-</div>
-
 ## Overview
 
 The **Bafiktuy Intelligence Directive** (BID) was the Imperium's covert espionage and "dirty tricks" organization. If the Emperor wanted it done and preferred nobody found out about it, the BID was involved. While being the "official" covert organization, it still involved itself in its historic profitable enterprises. This allowed it to function without needing to appear in any governmental budgets.

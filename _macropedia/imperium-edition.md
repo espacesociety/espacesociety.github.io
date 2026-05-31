@@ -9,11 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div><a href='/macropedia/imperial-interregnum'>Imperial Interregnum</a></div>
-	<div><a href='/macropedia/imperium-edition'>Macropedia Imperium</a></div>
-	<div><a href='/macropedia/imperium-edition-index'>Imperium Edition Index</a></div>
-</div>
 
 ***<a href='/macropedia/macropedia'>Macropedia/Macropedia</a> Terradoma, Imperium Edition*** began before the end of the Imperium. The Last Emperor hoped the scholars he chose would document the many successes of the Imperium and solidify both his and the dynasty's legacy. However, he passed heirless, and the "death spiral" to the <a href='/chronology/second-decline'>Second Decline</a> began. The scholars chose to write as Scholars and not necessarily as puppets of the last dynasty of the Imperium.
 

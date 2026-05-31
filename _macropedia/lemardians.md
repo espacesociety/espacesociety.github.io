@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/last-charge-of-light-horse'>Untitled</a></div>
-	<div class='col-md-4'><a href='/macropedia/lemardians'>Lemardians</a></div>
-	<div class='col-md-4'><a href='/macropedia/lenda-tawmerik'>Lenda Tawmerik</a></div>
-</div>
-
-
 Name applied to a group of philosophers, scientists and scholars who, during the High Imperium era, stood in opposition to the growing mysticism and metaphysical bent of the Imperium.
 
 The Lemardians were not, in the beginning, any sort of united group.  The first of them, Elkar Lemard, was an [anthorph](/macropedia/anthorph) member of the [Imperial Congress](/macropedia/imperial-congress) as well as a talented geneticist.  Though a deeply religious man, he was a strong advocate of solid science and research.  He wanted no followers, but never the less his speeches and writings gained a following among the increasingly marginalized rationalists that made up the heart of the Imperium's scholarly community, many of whom reacted strongly to the [Kuberian Movement](/macropedia/kuberian-movement).

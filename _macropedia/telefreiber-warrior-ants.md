@@ -10,13 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "combat equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-observers'>Telefreiber Observers</a></div>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-warrior-ants'>Telefreiber Warrior Ants</a></div>
-	<div class='col-md-4'><a href='/macropedia/temba-two'>Temba Two</a></div>
-</div>
-
-
 ## Overview
 
 One of the more useful (and frightening) effective tools of military and security groups.  Telefreiber Warrior Ants are automated combat units, capable through limited artificial intelligence of a wide degree of autonomous activity, as well as working within groups, including other [Ether](/macropedia/ether)-enabled devices like [Telefreiber Auto Scout](/macropedia/telefreiber-auto-scout)s.

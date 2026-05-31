@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/popelof-project'>Popelof Project</a></div>
-	<div class='col-md-4'><a href='/macropedia/primitive-population-regression'>Primitive Population Regression</a></div>
-	<div class='col-md-4'><a href='/macropedia/pulse-cannon'>Pulse Cannon</a></div>
-</div>
-
-
 A trend noted on many worlds by esteemed Anthropologist-Archaeologist Cho Lang Rih Tel Ohn, Primitive Population Regression was a process that affected many worlds that were incapable or unwilling to perform genetic enhancement on themselves. While not directly a solution to one of the Creator's great Tests, this work provides important information that can lead to vital solutions to one of the fundamental Tests, the Test of Self-Governance.
 
 The fundamental premise of the theory is that *"Any isolated population of humans will tend to a level of sophistication and technology limited by their population size and density."* While not directly measurable, this was observed in many instances across the known worlds. Using data from the [Frontier Scout Fleet](/macropedia/frontier-scout-fleet) as well as that collected by himself and other anthropologists, Cho Lang was able to soundly demonstrate this premise. More to the point, using the archaeology, stories, and legends of exemplar worlds, he was able to demonstrate the mechanisms of the regression.

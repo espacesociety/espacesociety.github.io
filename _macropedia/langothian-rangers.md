@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/kuberian-movement'>Kuberian Movement</a></div>
-	<div class='col-md-4'><a href='/macropedia/langothian-rangers'>The Langothian Rangers</a></div>
-	<div class='col-md-4'><a href='/macropedia/last-charge-of-light-horse'>Untitled</a></div>
-</div>
-
-
 During and immediately prior to the formation of the Empire, there were many military organizations and bodies that were tied to one or more political bodies that were being subsumed within the [Terran Republic](/macropedia/terran-republic) and finally the Empire. Among them, perhaps most flamboyantly, were the Langothian Rangers.
 
 Langos is a rather unusual system with a large number of reasonably colonizable bodies. Even through the [First Decline](/chronology/first-decline), piracy and lawlessness were a problem. Combine that with resentment against a large population of in-system [Imudring](/macropedia/imudring) and conflict results. This led to the formation of a group of almost freelance "law men" calling themselves the Langothian Rangers. They were a marginally effective, and rather haphazard solution to the Tests they faced.

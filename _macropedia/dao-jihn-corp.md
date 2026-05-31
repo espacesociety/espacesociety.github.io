@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/dalludna'>Dalludna</a></div>
-	<div class='col-md-4'><a href='/macropedia/dao-jihn-corp'>Dao Jihn Corp</a></div>
-	<div class='col-md-4'><a href='/macropedia/deltai-cathian-league'>Deltai-Cathian League</a></div>
-</div>
-
-
 Major armaments corporation founded during the High Imperium by the [Dinzwar Gefera](/macropedia/dinzwar-gefera) security firm.  The Dinzwar Gefera were apparently concerned about relying upon other armaments companies, many of which were heavily infiltrated by [BID](/macropedia/bafiktuy-intelligence-directive) agents.  Initially the company did little more than produce knockoffs of other designs, which got it into a good deal of trouble with Imperium patent officials.
 
 A series of talented and forward-looking directors saw that the corporation, and the [Dinzwar Gefera](/macropedia/dinzwar-gefera), would be much better served by increasing the research and development departments.  The purchase of a small [anthorph](/macropedia/anthorph) [Fteigar Alloy](/macropedia/fteigar-alloys) manufacturing company, Escadoma Corp, was a major part of a long-range plan to produce new classes of weapons.

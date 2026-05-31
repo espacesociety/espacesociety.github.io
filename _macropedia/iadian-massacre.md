@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/hundred-bloody-days'>The Hundred Bloody Days</a></div>
-	<div class='col-md-4'><a href='/macropedia/iadian-massacre'>Iadian Massacre</a></div>
-	<div class='col-md-4'><a href='/macropedia/icarus-flyers'>Icarus Flyers</a></div>
-</div>
-
-
 Out of the dark times of the [First Decline](/chronology/first-decline) come many stories of terror and tears.  Many are, of course, little better than legends, and even if holding elements of truth, the lack of records makes confirmation exceedingly difficult.  One story that did turn out to be true, and had a substantial effect on the people of those critical years as humanity again began taking tentative steps from its myriad homes to the stars again was the Iadian Massacre.
 
 Iadia was a barely hospitable world in the [Dazamine](/star-systems/dazamine) system.  It was first colonized during the middle years of the [First Expanse](/chronology/first-expanse), largely by members of the [Tao Sunni](/macropedia/tao-sunni) Neo-Islamic sect.  Despite the difficulties of their life on Iadia, the [Tao Sunni](/macropedia/tao-sunni) settlers, through hard work, became quite successful.  There were some rich mineral ores, as well as some very profitable diamond mines.  When travel through the Soup due to hop pollution made access to the [Dazamine](/star-systems/dazamine) all but impossible, the [Tao Sunnis](/macropedia/tao-sunni) accepted that Allah had chosen this path for them, and put up with the new difficulties.  In time, the fact that there were other people scattered among the stars became little more than fanciful legend, good for fireside story telling, but of no practical value.  Still, they were meticulous record keepers, and much is known of the centuries of isolation of this rich culture.

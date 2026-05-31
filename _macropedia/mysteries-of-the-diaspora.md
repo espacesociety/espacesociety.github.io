@@ -10,14 +10,6 @@ categories: ["isaac taub authored", "phantom imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/muzigle-fiasco'>The Muzigle Fiasco</a></div>
-	<div class='col-md-4'>Mysteries Of The Diaspora</div>
-	<div class='col-md-4'><a href='/macropedia/nazir-al-shamuth'>Nazir Al Shamuth</a></div>
-</div>
-
-
-
 ## References
 
 ## Related Articles

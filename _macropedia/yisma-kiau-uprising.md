@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/ying-sho-dahn-drive-works'>Ying Sho Dahn Drive Works</a></div>
-	<div class='col-md-4'><a href='/macropedia/yisma-kiau-uprising'>Yisma Kiau Uprising</a></div>
-	<div class='col-md-4'><a href='/macropedia/yousamin-faction'>Yousamin Faction</a></div>
-</div>
-
-
 The Yisma Kiau uprising served as a precursor to the reign of the [Bloody Pretender](/macropedia/femaron-felard), but one that was largely ignored in favor of its other consequences. After the financially disastrous purchase of the [Muzigle System](/macropedia/muzigle-fiasco) the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) desperately sought a way to exploit their new resource. While they initially approached this appropriately, as a Test of the Creator, they would later reap the sorrow caused by their lack of wisdom. By the time of the [Dabrian Dynasty](/macropedia/dabrian-dynasty), they thought they had found a way.  [ Muzigle's](/star-systems/luytens-star) great equatorial rainforest, could provide a wealth of new medicines, but the daytime temperatures, pressures, and humidity were all too much for natural humans. Wearing Environmental suits may be fine for several hours at a time, but certainly no one wishes to farm under those conditions.
 
 However, not all humans are normal. The HETG group responsible for exploiting the rainforest located two different genetically enhanced groups that had members willing to migrate and seek opportunity there. By the end of the [Imperial Interregnum](/macropedia/imperial-interregnum), their colonists outnumbered the unenhanced humans. In the meantime, HETG had all but abandoned the operation, leaving the colonists to happily fend for themselves. However, their status as guest workers (Yisma Kiau, in one local dialect) remained unchanged, and they had little control over the governance of their adopted planet. Racist Kuberian groups, funded largely by the [Tithian Foundation](/macropedia/tithian-foundation) began to make their political power felt, and began passing laws to increasingly restrict the commerce, wealth, political power, and society of the Yisma Kiau.

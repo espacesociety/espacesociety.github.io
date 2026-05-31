@@ -10,13 +10,6 @@ categories: ["cho minh tel ran authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/krugal-intrasystem-array'>Krugal Intrasystem Array</a></div>
-	<div class='col-md-4'><a href='/macropedia/kuberian-movement'>Kuberian Movement</a></div>
-	<div class='col-md-4'><a href='/macropedia/langothian-rangers'>The Langothian Rangers</a></div>
-</div>
-
-
 Following the destruction of the [Alaerian Cult](/macropedia/alaerian-cult), galactic culture entered a distinct anti-religious phase. While this period had some merits, including the dispersion and adoption of advanced technologies across most human worlds, and the exclusion of dogmatists from most public affairs, it also alienated much of the populace from the government.
 
 However, by the end of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty), things were ripe for change. [Hans Richter Kuber](/macropedia/hans-richter-kuber) was the philosopher-patrician who changed the tide. While he was not terribly politically active himself, his writings spawned other writers and spurred-on activists and religious leaders. The Kuberian movement was distinguished by an adherence and reverence to a vague concept of "spirituality". As the movement gained popularity and influence, this led to a general decline in technical advance as expenditures swung toward maintaining and growing the "spiritual health" of the populace. The [Gahanian Seers](/macropedia/gahanian-seers) rode this tide all the way into the Imperial throne room.

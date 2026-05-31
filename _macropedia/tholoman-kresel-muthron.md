@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/terran-republic-timeline'>Terran Republic Timeline</a></div>
-	<div class='col-md-4'><a href='/macropedia/tholoman-kresel-muthron'>Tholoman Kresel Muthron</a></div>
-	<div class='col-md-4'><a href='/macropedia/tithian-foundation'>Tithian Foundation</a></div>
-</div>
-
-
 Kresel Muthron was named Tholoman of the Sabanian Province shortly after the selection of [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol) as the Second Premier of the [Imperial Interregnum](/macropedia/imperial-interregnum). This recognition was in response to his innovative use of refurbished [Cathian Navy](/macropedia/cathian-navy) vessels to create an effective naval brigade that quelled the piracy and smuggling which had become so rampant in that province. As a secondary effect, they also quelled the near-regular violent outbursts of tension among systems in the province. In a strange way, he avoided the [Test of Self-Governance](/macropedia/qin-lop-shu) by enforcing a lack of it.
 
 Enforcing a peace over the province, he maintained its quiet surface while violence brewed just beneath the surface for many years. Only as the [Hundred Bloody Days](/macropedia/hundred-bloody-days) unleashed the violence did his grip on the balance of power slip. Muthron was furious with [Femaron Felard](/macropedia/femaron-felard) and the Imperium in general. As the situation deteriorated in the province, he gained more and more supporters. Radical leaders of all stripes began to lose credibility, and the Tholoman's neutral but universal tyranny became regarded as a necessary injustice.

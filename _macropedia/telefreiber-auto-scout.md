@@ -10,13 +10,6 @@ categories: ["imperium equipment", "boris helfstein authored", "miscellaneous eq
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/tawmerik-dynasty'>Tawmerik Dynasty</a></div>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-auto-scout'>Telefreiber Auto Scout</a></div>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-observers'>Telefreiber Observers</a></div>
-</div>
-
-
 ## Telefreiber Auto Scout
 
 The Telefreiber Auto Scout is a nifty little helpmate in unfamiliar territory. Fitting in a typical fieldpack handily, the Auto Scout can be used to find local resources such as water, shelter, and can even be set to seek help and habitation.

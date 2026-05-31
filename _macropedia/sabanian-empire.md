@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/s-me-e'>Sibrnetik Matrix Ether-Enabled</a></div>
-	<div class='col-md-4'><a href='/macropedia/sabanian-empire'>Sabanian Empire</a></div>
-	<div class='col-md-4'><a href='/macropedia/sample-edition'>Sample Edition</a></div>
-</div>
-
-
 The Sabanian Empire is a new fledgling splinter of the grand Imperium; its future and stability are somewhat uncertain at this point. The roots of the SE lie in the history of the [Imperial Interregnum](/macropedia/imperial-interregnum). When [Qadan Rom](/macropedia/qadan-rom) took the Oradian Shipping Conglomerate back under the Imperial seal, the systems that would later form the SE were greatly hurt for various reasons. At first, their protests were civil, but under the brutal enforcement of [Femaron Felard](/macropedia/femaron-felard), they turned to violence. 
 
 The SE is composed of 12 worlds of varied ethnicity and composition. _The Sabanian Revolution_, as it is called, saw cooperation of several normally opposed groups: soldiers from genetically enhanced races fought beside Kuberian cultists. They both fought beside corporate and aristocratic mercenaries.

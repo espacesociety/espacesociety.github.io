@@ -10,13 +10,6 @@ categories: ["cho minh tel ran authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/home-page'>Home Page</a></div>
-	<div class='col-md-4'><a href='/macropedia/hundred-bloody-days'>The Hundred Bloody Days</a></div>
-	<div class='col-md-4'><a href='/macropedia/iadian-massacre'>Iadian Massacre</a></div>
-</div>
-
-
 I feel that I must depart from the normal scholarly discourse for this article. I myself have lived through this episode, and I find it impossible to present something other than my own experience.
 
 I was born during the service of [Durin Bonish](/macropedia/durin-bonish). I grew up on my homeworld, and became a scholar there. When I was old enough, I sought to pursue my archaeological studies off-world. In those days, just before the [Gahanian Seers](/macropedia/gahanian-seers) vanished, it was relatively easy and often encouraged for young scholars such as myself to travel the Imperium. Luckily, due to my unique heritage, I received a grant to study some of the ruins on Terra...Old Earth!

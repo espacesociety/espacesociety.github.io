@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/oneric-devices-talk'>Oneric Devices Talk</a></div>
-	<div class='col-md-4'><a href='/macropedia/oradian-shipping-conglomerate'>Oradian Shipping Conglomerate</a></div>
-	<div class='col-md-4'><a href='/macropedia/original-edition'>Original Edition</a></div>
-</div>
-
-
 One of the Imperium's major sources of revenue was the monopoly on interstellar transport.  This monopoly was enforced via the Ministry of Transportation'^1^', and for much of the Imperium's history, it retained that tight hold on interstellar trade, granting monopolies on certain routes to the highest bidder.  Unfortunately as the High Imperium period began to wind down, this bidding system broke down and corruption set in.  Between Ministry of Transportation bureaucrats, members of the [Imperial Congress](/macropedia/imperial-congress) and the office of the Emperor itself taking bribes, this once profitable system was threatened with collapse.  The direct budget of the Ministry of Transportation was so affected that the updating of route maps, once the single most important task of this branch of government, was neglected.
 
 One of the key reforms of [Durin Bonish](/macropedia/durin-bonish) during the early [Imperial Interregnum](/macropedia/imperial-interregnum) in an attempt to stave off the potential collapse of several smaller routes was to split the Ministry of Transporation's tasks between a government body and a private corporation.  The government body became the [Route Mapping Commission](/macropedia/route-mapping-commission), which proved as ineffective at managing route maps as the old Ministry.  The transportation monopoly was sold wholesale to a number of corporations and aristocratic families for a substantial sum'^2^'.  The new transport company was called the Oradian Shipping Conglomerate (OAC).

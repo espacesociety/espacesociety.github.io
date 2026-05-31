@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/umarian-guard'>Umarian Guard</a></div>
-	<div class='col-md-4'><a href='/macropedia/unlek-syndrome'>Unlek Syndrome</a></div>
-	<div class='col-md-4'><a href='/macropedia/unstable-particle-projectors'>Unstable Particle Projectors</a></div>
-</div>
-
-
 A serious condition that was common among some [Anthorph](/macropedia/anthorph) populations, and though cured during the High Imperium, reappeared among the [Normalized Anthorphs](/macropedia/normalized-anthorph), who as a group generally refused all treatment.
 
 There are two forms of the affliction.  The first, and the most obviously horrible, occurs among [Anthorph](/macropedia/anthorph)s during puberty.  Lesions form on the skin and within internal organs, causing a terrible, painful death.  Those that survive it are often horribly maimed; limbs twisted, internal organs barely functional, and usually a great deal of reconstructive surgery and organ replacement is required.

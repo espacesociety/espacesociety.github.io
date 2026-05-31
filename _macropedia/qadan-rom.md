@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/purivi-donar-system'>Purivi Donar System</a></div>
-	<div class='col-md-4'><a href='/macropedia/qadan-rom'>Qadan Rom</a></div>
-	<div class='col-md-4'><a href='/macropedia/qanna-dabrian'>Qanna Dabrian</a></div>
-</div>
-
-
 Qadan Rom was the third and effectively final ruling premiere of the [Imperial Interregnum](/macropedia/imperial-interregnum). Unfortunately, he was appointed more for the perceived benefits to his supporters than any skill he might have had.
 
 Early in the Interregnum, [Durin Bonish](/macropedia/durin-bonish) had significantly decentralized the government. [Hjans Kreb Lakol](/macropedia/hjans-kreb-lakol)'s rule was warped by the eruption of the fanatic splinter cults. The vanishing of the [Gahanian Seers](/macropedia/gahanian-seers) sparked such groups to a fever pitch. Through all of this the interstellar economy fumbled. Note that the local planetary economies generally remained healthy. However, interstellar trade was becoming less profitable or necessary. 

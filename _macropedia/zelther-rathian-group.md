@@ -10,13 +10,6 @@ categories: ["imperium edition", "issac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/yousamin-faction'>Yousamin Faction</a></div>
-	<div class='col-md-4'><a href='/macropedia/zelther-rathian-group'>Zelther Rathian Group</a></div>
-	<div class='col-md-4'><a href='/macropedia/zenbrudi'>Zenbrudi</a></div>
-</div>
-
-
 The **Zelther Rathian Group** was a short-lived offshoot of the [Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory). It was founded by the genius [Welgan Tyrox](/macropedia/welgan-tyrox) in a bid for greater autonomy in his research into AI. 
 
 From its research labs, great strides in shipborne AI were made. Unfortunately, some human experiments were also conducted. This served only to diminish its respect in the community. Some journalists even speculated that Tyrox was trying to find a way to embed human brains into computer hardware.

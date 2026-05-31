@@ -9,12 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/oneric-devices'>Oneric Devices</a></div>
-	<div class='col-md-4'><a href='/macropedia/oneric-devices-talk'>Oneric Devices Talk</a></div>
-	<div class='col-md-4'><a href='/macropedia/oradian-shipping-conglomerate'>Oradian Shipping Conglomerate</a></div>
-</div>
-
 
 *This is an [Oneric Devices](/macropedia/oneric-devices) talk.*
 

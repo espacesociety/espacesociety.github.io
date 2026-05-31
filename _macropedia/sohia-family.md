@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/serema-dabrian'>Serema Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/sohia-family'>Sohia Family</a></div>
-	<div class='col-md-4'><a href='/macropedia/soro-meldur-kafrah-bank'>Soro Meldur Kafrah Bank</a></div>
-</div>
-
-
 The Sohia Family was one of the most important clans of the early Imperium, and at one time vied for power with the Tawmeriks.  The Sohia's claimed to have been descendants of pre-[Decline](/chronology/first-decline) oligarchic families.  Unlike many such claims which turn out to be of dubious nature, the legendary return of the pre-Decline vessel the [Gieliaden Sohia](/macropedia/gieliaden-sohia) all but confirmed that they were an ancient family.
 
 With the return of the nearly eight century overdue [Gieliaden Sohia](/macropedia/gieliaden-sohia), the Sohia Family was propelled to the forefront of the major powers in the early post-Decline era.  They seemed, for a brief time at least, to be on the cusp of forging their own interstellar state, but the rise of the Republican movement put an end to that.

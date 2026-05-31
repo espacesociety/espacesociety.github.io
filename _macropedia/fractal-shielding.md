@@ -9,12 +9,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub", "imperium equipment"]
 edited_at: 2025-01-08T11:02:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/firebird-class-freighter'>Firebird Class Freighter</a></div>
-	<div class='col-md-4'><a href='/macropedia/fractal-shielding'>Fractal Shielding</a></div>
-	<div class='col-md-4'><a href='/macropedia/frontier-rebellion'>Frontier Rebellion</a></div>
-</div>
-
 
 %3c%3c|[Macropedia/Imperium Edition Index](/macropedia/imperium-edition-index)|>>
 %3c%3c|[Macropedia/Imperium Equipment Index](/macropedia/imperium-equipment-index)|>>

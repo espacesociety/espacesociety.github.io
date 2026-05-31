@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/rainbow-maker'>Rainbow Maker</a></div>
-	<div class='col-md-4'><a href='/macropedia/ranks-and-titles-of-the-empire'>Ranks And Titles Of The Empire</a></div>
-	<div class='col-md-4'><a href='/macropedia/raoul-tammerik'>Raoul Tammerik</a></div>
-</div>
-
-
 The Imperium never had a regular system of ranks and titles, though there were a number of notable attempts.  In part this is due to the policy by the Tawmeriks to make the Imperium as unintrusive as possible in the internal affairs of worlds, even though a number of members of the Imperial family had titles of their own even before the Terran Republic had been formed.  As well, the Imperium retained many aspects of the Terran Republic, and the Emperors and the [Imperial Congress](/macropedia/imperial-congress) were traditionally unwilling to make a complete break from the old ideal, even if the notion of human-wide democracy was almost completely ceremonial within a few generations of the fall the Terran Republic.
 
 Never the less, there were some ranks and titles, even if there was no regular heraldic system.  Many of the systems that were incorporated into the Imperium were monarchial, or at least retained some form of nobility.  In such systems where there had been a monarch, the Imperium generally required that titles such as King, Emperor, Sultan or Czar be retired.  In their place, these rulers frequently took the title of Duke.  These titles were only honorific elsewhere in the Imperium, however.

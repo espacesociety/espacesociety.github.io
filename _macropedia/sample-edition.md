@@ -9,12 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/sabanian-empire'>Sabanian Empire</a></div>
-	<div class='col-md-4'><a href='/macropedia/sample-edition'>Sample Edition</a></div>
-	<div class='col-md-4'><a href='/macropedia/sedren-tawmerik'>Sedren Tawmerik</a></div>
-</div>
-
 
 # Macropedia, Sample Ed.
 

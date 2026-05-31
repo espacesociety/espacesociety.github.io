@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/ying-clan'>Ying Clan</a></div>
-	<div class='col-md-4'><a href='/macropedia/ying-sho-dahn-drive-works'>Ying Sho Dahn Drive Works</a></div>
-	<div class='col-md-4'><a href='/macropedia/yisma-kiau-uprising'>Yisma Kiau Uprising</a></div>
-</div>
-
-
 The most important independent manufacturer of interstellar craft during the Late Imperium period.  Founded by the industrialist, K. Z. Zordon, it was given a special charter by the [Imperial Congress](/macropedia/imperial-congress) to operate independently of the state monopoly, providing it sold 75%25 of its hop drives back to Imperium interests.
 
 Zordon, while not an engineer or researcher himself, hired the very best, and working with  variants of the [Fteigar Alloys](/macropedia/fteigar-alloys), they managed to make the last great innovations to hop drives during the Imperium Era.  What Zordon was a master of was cooking the books, and he greatly underreported the number of drives being made.  It's difficult to say how many were produced, but it seems likely that no more than 20%25 of the drives ended up being sold to the Imperium.

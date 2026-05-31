@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imprinted-personality'>Imprinted Personality</a></div>
-	<div class='col-md-4'><a href='/macropedia/imudring'>Imudring</a></div>
-	<div class='col-md-4'><a href='/macropedia/ivan-dabrian'>Ivan Dabrian</a></div>
-</div>
-
-
 The **Imudring** represents one of the more curious cultures in the
 Imperium. To accept their version of history, those belonging to this
 group originally belonged to one of the sleeper ships allegedly launched

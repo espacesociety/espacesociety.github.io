@@ -10,14 +10,6 @@ categories: ["imperium edition", "chang singh"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/sedren-tawmerik'>Sedren Tawmerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/serema-dabrian'>Serema Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/sohia-family'>Sohia Family</a></div>
-</div>
-
-
-
 # Overview
 
 The last reigning Empress of the Imperium, and the ruler during the [Zenbrudi War](/macropedia/zenbrudi-war) and its aftermath.

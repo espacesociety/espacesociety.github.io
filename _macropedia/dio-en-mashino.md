@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2025-01-08T10:41:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/dinzwar-gefera'>Dinzwar Gefera</a></div>
-	<div class='col-md-4'><a href='/macropedia/dio-en-mashino'>Dio En Mashino</a></div>
-	<div class='col-md-4'><a href='/macropedia/disruptor-bomb'>Disruptor Bomb</a></div>
-</div>
-
-
 The major breakthrough in computer AI technology developed by Phurnando Letalles and Hugau-bmilanoj Stepivan Shersite d'Mibashura of the [Helsmunt Institute](/macropedia/helsmunt-institute), who later went on to found [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu).  Dio En Mashino was based upon late [First Expanse](/chronology/first-expanse) multi-AI segments (essentially vast super-networks of AI cores), but with newer breakthroughs in quantum fabrication techniques, could do far more complex computations in far less time.
 
 Dio En Mashino was capable of predicting graviton interactions down to femtometres (10'^-15^' metres), allowing its programming, inherited from the original [First Expanse](/chronology/first-expanse) computer on which it was modeled, to produce Branespace navigation computations of previously unheard of accuracy.  This finally permitted FTL travel to proceed safely again, and the dangers of [Hyperspace Vortices](/chronology/hyperspace-vortices) to be overcome.

@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/uplift-project'>Uplift Project</a></div>
-	<div class='col-md-4'><a href='/macropedia/uvane-merith-province'>Uvane Merith Province</a></div>
-	<div class='col-md-4'><a href='/macropedia/vadian-free-republic'>Vadian Free Republic</a></div>
-</div>
-
-
 The **Uvane Merith Province** traces its history back to the beginning of Soup travel. It was founded by the Uvane Merith Combine, a corporation that never fully integrated.
 
 The system itself became the bread basket of the imperium as it comprised two huge rock ball planets of low metal. These planets had huge tracts of fertile soil ripe for agriculture. On Uvane, the arable land on one continent was greater than the entire landmass of Mazadi, Fau-Kernan, Star Systems/Fau System.

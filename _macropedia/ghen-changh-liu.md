@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/gesceamian-choent'>Gesceamian Choent</a></div>
-	<div class='col-md-4'><a href='/macropedia/ghen-changh-liu'>Ghen Changh Liu</a></div>
-	<div class='col-md-4'><a href='/macropedia/gieliaden-sohia'>Gieliaden Sohia</a></div>
-</div>
-
-
 **Ghen Changh Liu** was a traitor to the Imperium. He and his sect of "rational" [Lemardians](/macropedia/lemardians) served to undermine the sovereignty of the Imperium by assisting despotic rulers choke liberty from outlying systems.
 
 Ghen Changh Liu himself comes from a dubious past. It is said that his family were among those of the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) operatives who served the Imperium through misdirection. He attended the finest schools and became a well-known social figure. After establishing himself as a party-goer, he suddenly withdrew from high society and dedicated himself to understanding the whole of the Universe. After three years of reflection he concluded that the Lemardian movement truly understood it all.

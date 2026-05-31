@@ -10,15 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/cathian-navy'>Cathian Navy</a></div>
-	<div class='col-md-4'><a href='/macropedia/celtainu'>Cel-Tainu Astrophysical Research Corporation</a></div>
-	<div class='col-md-4'><a href='/macropedia/cerebellum-enhancement-modules'>Cerebellum Enhancement Modules</a></div>
-</div>
-
-
-
-
 The **Cel-Tainu Astrophysical Research Corporation** (CARC, or Celtainu) was formed by two [Helsmunt Institute](/macropedia/helsmunt-institute) graduates. Phurnando Letalles and Hugau-bmilanoj Stepivan Shersite d'Mibashura. Stepivan had worked on his post-doctorate in Branespace forecasting when he discovered an old, defunct, and non-operational astrogation computer and its storehouse. He recruited his wealthy roommate Phurnando to smuggle the computer out of the institute and to a remote part of the planet.
 
 Stepivan earned his degree, while Phurnando had facilities built to restore the computer. They reverse engineered the system, and built a replacement computer [Dio En Mashino](/macropedia/dio-en-mashino) using emerging technologies. When [Dio En Mashino](/macropedia/dio-en-mashino) was activated, they quickly realized the original computer was one of the major astrogation computers from prior to the [First Decline](/chronology/first-decline).

@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium equipment", "kvecton sharp authored", "medical equipment"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/celtainu'>Cel-Tainu Astrophysical Research Corporation</a></div>
-	<div class='col-md-4'><a href='/macropedia/cerebellum-enhancement-modules'>Cerebellum Enhancement Modules</a></div>
-	<div class='col-md-4'><a href='/macropedia/charl-bovit'>Charl Bovit</a></div>
-</div>
-
-
 ## Overview
 
 One of the most common illegal physiological enhancement systems, capable of helping even the clumsiest of people into an acrobat, and also causing severe neural damage in the long run.

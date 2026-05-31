@@ -10,15 +10,6 @@ categories: ["imperium equipment", "boris helfstein authored", "combat equipment
 edited_at: 2025-01-08T10:59:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/fasantauri-system'>Fasantauri System</a></div>
-	<div class='col-md-4'><a href='/macropedia/federov-assault-rifle'>Federov Assault Rifle</a></div>
-	<div class='col-md-4'><a href='/macropedia/femaron-felard'>Femaron Felard</a></div>
-</div>
-
-
-
-
 ## Federov Assault Rifle
 
 The Federov Weapons Group was one of the premier suppliers of firearms for the duration of the Imperium. While Firearm technology dates to before the expansion, it is generally very effective and new technologies helped to refine, rather than supplant, its use.

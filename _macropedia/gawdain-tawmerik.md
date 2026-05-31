@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/galactic-library-of-language-and-culture'>Galactic Library Of Language And Culture</a></div>
-	<div class='col-md-4'><a href='/macropedia/gawdain-tawmerik'>Gawdain Tawmerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/genetically-enhanced-peoples'>Genetically Enhanced Peoples</a></div>
-</div>
-
-
 The Duke Gawdain Tawmerik is famed for two things. Primary among them was the commission of the design for [Parthas Class Vessels](/macropedia/parthas-class-vessels). Secondarily, he is noted for his role in creating dissension among the Tawmerik family. Some credit this dissension with sowing the seeds of the end of the dynasty, however that appears somewhat overstated.
 
 When the Imperium legislated control and profits of the Parthas shipyards away from Gawdain, he took it as a personal insult. Working tirelessly, he developed a coalition of Tawmeriks who secretly opposed the Imperial system. They became tightly involved with the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive). So much so, that the Empress [Lenda Tawmerik](/macropedia/lenda-tawmerik) eventually created the [Umarian Guard](/macropedia/umarian-guard). 

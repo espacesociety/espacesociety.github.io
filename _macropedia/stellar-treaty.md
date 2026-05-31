@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/soro-meldur-kafrah-bank'>Soro Meldur Kafrah Bank</a></div>
-	<div class='col-md-4'><a href='/macropedia/stellar-treaty'>Stellar Treaty</a></div>
-	<div class='col-md-4'><a href='/macropedia/tao-sunni'>Tao Sunni</a></div>
-</div>
-
-
 The Stellar Treaty comes up a number of times in ancient documents, and is sufficiently widespread that most scholars can be reasonably certain that it is not manufactured after the fact, as has been levelled against [R. B. Muzgersun's Human Histories](/macropedia/muzgersuns-history).  We have, in fact, three documents claiming to be the full treaty, and though there are differences, these are largely of a minor nature.
 
 The Stellar Treaty was the last major diplomatic achievement of the Oligarchs before the [Decline](/chronology/first-decline).  It apparently had become necessary as conflicting interests between the Oligarchs and the various governments that they owned threatened interstellar travel.

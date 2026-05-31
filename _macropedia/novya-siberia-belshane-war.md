@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/normalized-anthorph'>Normalized Anthorph</a></div>
-	<div class='col-md-4'><a href='/macropedia/novya-siberia-belshane-war'>Novya Siberia Belshane War</a></div>
-	<div class='col-md-4'><a href='/macropedia/odni-planyeti'>Odni Planyeti</a></div>
-</div>
-
-
 The **Novya Siberian-Belshani War** was a rather minor war with significant results. Novya Siberia was a staunchly independent system that had not kept up with the same technological advances as some of the other systems. In a similar situation was the [Belshane](/star-systems/belshane). Both were technologically inferior to many of the other systems, but roughly equal in power.
 
 Quite clearly, the Belshane wanted to extend their power base. With the [Terran Republic](/macropedia/terran-republic) forming, the chance to do so was beginning to dwindle. They sent several warships to the [Novya Siberia](/star-systems/novya-siberia) System and demanded surrender. [Veltrane Fres Volon](/macropedia/veltrane-fres-volon) led the Novya-Siberians at the time, and has been called one of the most dynamic and hard-headed leaders in their history. Even without a significant battle fleet of his own, he responded to the threat with a surprise attack that met with outstanding results.

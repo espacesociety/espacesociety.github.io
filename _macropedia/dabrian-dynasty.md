@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/counsel-of-concerned-scientists'>Counsel Of Concerned Scientists</a></div>
-	<div class='col-md-4'><a href='/macropedia/dabrian-dynasty'>Dabrian Dynasty</a></div>
-	<div class='col-md-4'><a href='/macropedia/dalludna'>Dalludna</a></div>
-</div>
-
-
 The Dabrians were a relatively young noble family that had made its fortune during the early Imperium period as a major backer of the [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu).  Under a series of clever patriarchs and matriarchs, the Dabrians slowly grew political power to match their financial strength.  They gained both renown and notoriety for using marriage as a means to gain control of a number of lower, second-tier aristocratic families, as well as key marriages to members of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty).
 
 By the time the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) finally failed due to a series of weak rulers, the Dabrians had maneuvered themselves into position, and the young but brilliant [Qanna Dabrian](/macropedia/qanna-dabrian), who was married to a nephew of the last Tawmerik ruler, was declared Empress.  Unfortunately for the Dabrians, later emperors did not prove as good at managing family and Imperial affairs, and it was largely the mismanagement of the Imperial coffers that led to the [Grand Reforms](/macropedia/grand-reforms) which saw a wane in the political power of the emperors for some generations to come.

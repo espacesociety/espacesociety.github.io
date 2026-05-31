@@ -9,8 +9,3 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/mysteries-of-the-diaspora'>Mysteries Of The Diaspora</a></div>
-	<div class='col-md-4'>Nazir Al Shamuth</div>
-	<div class='col-md-4'><a href='/macropedia/negadisruptor'>Negadisruptor</a></div>
-</div>

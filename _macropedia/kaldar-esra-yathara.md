@@ -10,15 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/kabal-nebrotensia'>Kabal Nebrotensia</a></div>
-	<div class='col-md-4'><a href='/macropedia/kaldar-esra-yathara'>Kaldar Esra Yathara</a></div>
-	<div class='col-md-4'><a href='/macropedia/kanth-tawmerik'>Kanth Tawmerik</a></div>
-</div>
-
-
-
-
 ## The Beginning
 
 Early in the reign of Premiere [Qadan Rom](/macropedia/qadan-rom), the Purity Movement began within the Imperium. As the Imperium began to wane, the government needed a way to maintain power. Historically, the ideal way to do this is to put non-ruling factions into contention against one another. As long as they continue fighting, the ruling class remains above the fray.

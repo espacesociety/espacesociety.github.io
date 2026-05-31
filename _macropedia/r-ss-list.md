@@ -9,8 +9,3 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/quixotic-maelstrom'>Quixotic Maelstrom</a></div>
-	<div class='col-md-4'><a href='/macropedia/r-ss-list'>R Ss List</a></div>
-	<div class='col-md-4'><a href='/macropedia/rainbow-maker'>Rainbow Maker</a></div>
-</div>

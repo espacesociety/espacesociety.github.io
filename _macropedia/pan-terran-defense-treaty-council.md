@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/original-edition-phantom-entries-list'>Original Edition Phantom Entries List</a></div>
-	<div class='col-md-4'><a href='/macropedia/pan-terran-defense-treaty-council'>Pan Terran Defense Treaty Council</a></div>
-	<div class='col-md-4'><a href='/macropedia/parthas-class-vessels'>Parthas Class Vessels</a></div>
-</div>
-
-
 The **Pan-Terran Defense Treaty Council** was not entirely formed because of xenophobia. There had always been a strong interest among some to unify the worlds and provide a more stable economy. [Other scholars](/macropedia/iadian-massacre) have discussed the origins of the Council, so there is little need to delve into this further. 
 
 Corporations and families became powerful in the years following the re-instatement of effective hop transport. However, there was significant chaos that blunted the rapier of economic growth. When the Massacre was known, these various groups resorted to virtually any means necessary to provide a more stable government and additionally embed themselves within that government.

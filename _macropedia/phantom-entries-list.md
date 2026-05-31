@@ -9,12 +9,5 @@ group: Macropedia
 categories: ["phantom imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/petras-godane'>Petras Godane (Adm. I Sf)</a></div>
-	<div class='col-md-4'><a href='/macropedia/phantom-entries-list'>Phantom Entries List</a></div>
-	<div class='col-md-4'><a href='/macropedia/poly-control-slave-system'>Poly-Control Slave System</a></div>
-</div>
-
-
 
 These are all the entries that indicate that they are still categorized as phantoms.

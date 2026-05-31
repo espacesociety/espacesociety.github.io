@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/tithian-foundation'>Tithian Foundation</a></div>
-	<div class='col-md-4'><a href='/macropedia/trilis-incident'>Trilis Incident</a></div>
-	<div class='col-md-4'><a href='/macropedia/twist-of-fate'>Twist Of Fate</a></div>
-</div>
-
-
 The Trilis Incident is alternatively viewed as a queer accident, or the most open and clumsy attempt at assassination that has ever been attempted.
 
 The Trilis Incident started as a relatively harmless event. A spaceborne reenactment of a long past military campaign. However, at the time political tensions between the [Cathian Navy](/macropedia/cathian-navy) and Emperor Kanth Tawmerik were getting quite strained. Kanth wanted the navy to become part of his Imperial structure, many particularly older members of the [Cathian Navy](/macropedia/cathian-navy) greatly resisted.

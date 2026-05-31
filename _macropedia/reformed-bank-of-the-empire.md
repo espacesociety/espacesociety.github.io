@@ -10,15 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/raptor-combat-suit'>Raptor Combat Suit</a></div>
-	<div class='col-md-4'><a href='/macropedia/reformed-bank-of-the-empire'>Reformed Bank Of The Empire</a></div>
-	<div class='col-md-4'><a href='/macropedia/reth-tawmerik-i'>Reth Tawmerik I</a></div>
-</div>
-
-
-
-
 ## History
 
 The **Reformed Bank of the Empire** was established during the [Imperial Congress](/macropedia/imperial-congress). This Bank was initially created as an attempt to check Imperial power. Those who authored the bill hoped that the Bank would help *reform* government by passing more power to the Congress, and bring about some semblance of the old Republic.

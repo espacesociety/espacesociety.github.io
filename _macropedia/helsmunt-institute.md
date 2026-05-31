@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/heljyks'>Heljyks</a></div>
-	<div class='col-md-4'><a href='/macropedia/helsmunt-institute'>Helsmunt Institute</a></div>
-	<div class='col-md-4'><a href='/macropedia/hjans-kreb-lakol'>Hjans Kreb Lakol</a></div>
-</div>
-
-
 The Helsmunt Institute was'^1^' a research facility originally dedicated to advanced physics and computational research.  Founded in the early years of the [First Decline](/chronology/first-decline), it was hoped that it might find some way to overcome the limitations of travel through Branespace.  Though it found no solutions, and for centuries was little more than a repository of vast stores of old data files and [First Expanse](/chronology/first-expanse) equipment that was too good to throw away, but not good enough to keep.
 
 Probably its most famous members (though not necessarily best respected within the Institute) were Phurnando Letalles and Hugau-bmilanoj Stepivan Shersite d'Mibashura, who discovered the [Dio En Mashino](/macropedia/dio-en-mashino), thus triggering the return to Branespace, and ultimately the rise of the Imperium.  Though the Institute was greatly displeased to lose such a valuable piece of equipment'^2^', it did eventually gain a 10%25 stake in [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu).

@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2025-01-08T10:49:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/elkar-lemard'>Elkar Lemard</a></div>
-	<div class='col-md-4'><a href='/macropedia/emil-dabrian'>Emil Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/endyphad-konjrez'>Endyphad Konjrez</a></div>
-</div>
-
-
 Scholars list **Emil Dabrian** among the "Petty Dabrians," which singles out members of that Dynasty whose contributions to the Imperium were trivial or cruel. There is some debate whether Emil was the one for whom the list was created as he typified the cruel branch of this category.
 
 Among the "[Grand Reforms](/macropedia/grand-reforms)" is his imperial mandate of the [Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory). This is because scholars have proven historically unwilling to admit to some of the cruelty of this laboratory. The Laboratory's primary mission was to develop intelligent unmanned space exploration vessels. However, in an effort to surmount some inherent design flaws in "true" artificial intelligence, scientists transplanted human brains into machinery. Fortunately, this experiment met with abject failure and research was abandoned.

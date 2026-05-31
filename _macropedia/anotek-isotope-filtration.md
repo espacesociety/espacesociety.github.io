@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium equipment", "boris helfstein authored", "medical equipment"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/alistair-cormwite'>Alistair Cormwite</a></div>
-	<div class='col-md-4'><a href='/macropedia/anotek-isotope-filtration'>Anotek Isotope Filtration</a></div>
-	<div class='col-md-4'><a href='/macropedia/anthorph'>Anthorph</a></div>
-</div>
-
-
 ## Anotek Isotope Filtration
 
 One of the handiest things you can possibly ensure is in your gear. If you're traveling, or expecting trouble, get yourself fitted with one of these babies right away.

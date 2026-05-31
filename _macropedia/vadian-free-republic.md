@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/uvane-merith-province'>Uvane Merith Province</a></div>
-	<div class='col-md-4'><a href='/macropedia/vadian-free-republic'>Vadian Free Republic</a></div>
-	<div class='col-md-4'><a href='/macropedia/veltrane-fres-volon'>Veltrane Fres Volon</a></div>
-</div>
-
-
 The Vadian Free Republic has remained a vibrant force in the imagination and mythology of the Imperium, despite little hard evidence of its existence. Ostensibly founded somewhere in the [Periphery](/macropedia/periphery) by the legendary figure Kazam-Re, the Vadian Free Republic likely ceased to exist soon after its founding. Since it was founded around the time that hop pollution was beginning to force the [Chronology/First Decline](/chronology/first-decline). The Vadian Free Republic and the stories of its leaders were rich fodder for the [Mysteries of the Diaspora](/macropedia/mysteries-of-the-diaspora).
 
 Three popular theories seem to recur as to the whereabouts of the former Republic. The most popular is that the Vadian Free Republic was indeed the founding colony on [Odni Planyeti](/macropedia/odni-planyeti). This theory fails on several counts, and seems based solely on the linguistics of the Odnan colonists. No archaeological evidence has ever supported this theory. The second, less popular theory, is that the [Heljyks](/macropedia/heljyks) are the descendants of the Vadian colonists. Again, linguistics hint at a possible connection. However, even after the [Wars of Expansion](/macropedia/wars-of-expansion), archaeologists found little to confirm or deny the plausibility of this argument.<a name='footnote1'>'^1^'</a>

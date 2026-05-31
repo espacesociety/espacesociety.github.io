@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2025-01-08T10:39:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/deltai-cathian-league'>Deltai-Cathian League</a></div>
-	<div class='col-md-4'><a href='/macropedia/denuded-earth-theory'>Denuded Earth Theory</a></div>
-	<div class='col-md-4'><a href='/macropedia/dinzwar-gefera'>Dinzwar Gefera</a></div>
-</div>
-
-
 Theory formulated by Jiao Mu Ban, better known as one of the formulators of the [Jiao Banner Sphere](/macropedia/jiao-banner-sphere).  Despite serious flaws evident even to critics at the time, it was enormously influential until it was replaced by the much more comprehensive and rigorous [Primitive Population Regression](/macropedia/primitive-population-regression) formulated by Cho Lang Rih Tel Ohn during the High Imperium.
 
 Jiao hoped to explain why some worlds had fallen into barbarism during the [Decline](/chronology/first-decline).  His own studies, in many cases limited by the data available at the time, pointed towards populations overutilizing system and planetary resources, until the world was essentially incapable of supporting a technologically advanced society.  

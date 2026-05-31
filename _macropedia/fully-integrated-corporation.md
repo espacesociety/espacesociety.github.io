@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/fteigar-alloys'>Fteigar Alloys</a></div>
-	<div class='col-md-4'><a href='/macropedia/fully-integrated-corporation'>Fully Integrated Corporation</a></div>
-	<div class='col-md-4'><a href='/macropedia/furnoklin-taschera'>Furnoklin Taschera</a></div>
-</div>
-
-
 Of all things in the Imperium, the **Fully Integrated Corporation** remained the least changed. Historians claim the concept of a Corporation dates back to the pre-Space era of humanity, which would make it one of the oldest institutions.
 
 So much of these corporations is documented in economic treatises that this scholar finds it difficult to add. Traditionally, corporations are businesses where many citizens collectively own a business, and each citizen can own different portions of a given corporation.

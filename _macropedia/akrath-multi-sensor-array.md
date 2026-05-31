@@ -10,12 +10,6 @@ group: Macropedia
 categories: ["imperium equipment", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/academy-of-the-imperial-fleet'>Academy Of The Imperial Fleet</a></div>
-	<div class='col-md-4'><a href='/macropedia/akrath-multi-sensor-array'>Akrath Multi-Sensor Array</a></div>
-	<div class='col-md-4'><a href='/macropedia/alaerian-cult'>Alaerian Cult</a></div>
-</div>
-
 ## Overview
 
 The **Akrath Multi-Sensor Array** is a suite of vehicle-mounted sensors capable of scanning just about anything worth sensing. The array typically senses three different categories of materials: radiological, chemical, and biological. This is actually an all-in-one backpack-sized sensor comprised of components available just about anywhere. What makes this array so valuable is the combination of the three sensors and smart design that makes these three sensors small and light enough to be portable. The onboard VITX-Class Computer makes this sensor suite easy to use, and can be [Ether](/macropedia/ether)-enabled.

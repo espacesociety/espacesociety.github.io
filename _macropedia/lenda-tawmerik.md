@@ -10,13 +10,6 @@ categories: ["phantom imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/lemardians'>Lemardians</a></div>
-	<div class='col-md-4'><a href='/macropedia/lenda-tawmerik'>Lenda Tawmerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/librarian-society'>Librarian Society</a></div>
-</div>
-
-
 ## Related Articles
 
 1. [Imperium Edition Index](/macropedia/imperium-edition-index)

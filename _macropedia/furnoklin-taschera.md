@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/fully-integrated-corporation'>Fully Integrated Corporation</a></div>
-	<div class='col-md-4'><a href='/macropedia/furnoklin-taschera'>Furnoklin Taschera</a></div>
-	<div class='col-md-4'><a href='/macropedia/gahani-bari-monastery'>Gahani Bari Monastery</a></div>
-</div>
-
-
 **Furnoklin Taschera** was one of the last pre-Imperium justices of the Terran Courts. Scholars rank him among both the most controversial and most corrupt justices of his day, although much of this is likely Imperial bias. Taschera belonged to a line of lawyer-justices, and briefly served as a commerce attorney. He was first elected to the Terran Assembly, where he served a six-year term. He was then appointed as a justice, a post he held for nearly 24 years.
 
 The first two-thirds of his tenure passed without incident. As the Emperor consolidated power, however, Taschera found himself more frequently standing in the way. One incident where Taschera acted against the Emperor was his ruling to release [Benita Perez](/macropedia/benita-perez) during a rare recess decision.

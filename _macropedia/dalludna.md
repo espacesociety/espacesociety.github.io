@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/dabrian-dynasty'>Dabrian Dynasty</a></div>
-	<div class='col-md-4'><a href='/macropedia/dalludna'>Dalludna</a></div>
-	<div class='col-md-4'><a href='/macropedia/dao-jihn-corp'>Dao Jihn Corp</a></div>
-</div>
-
-
 **Dalludna** was a novel drug that was developed during the latter Imperium. As a genotherapeutic drug, Dalludna presented an unexpected threat to entire populations. Chief signs of a Dally, that is a Dalludna addict, is hyper photosensitivity. This sensitivity causes Dallys to remain indoors during daylight, and wear heavy shade glasses during the night.
 
 Dalludna threatened populations because it altered the genome of the addict. Scientists synthesized a new class of drugs, the Lunda class, to help reduce failure of gene therapy of hazardous brain gene therapy. As scientists began to use selective gene therapy to treat brain-related problems, they found the immune system would reject the brain with all the classic problems incurred by traditional organ rejection. Naturally, when associated with the brain, death resulted.

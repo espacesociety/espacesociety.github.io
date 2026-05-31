@@ -9,12 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperium-edition-index'>Imperium Edition Index</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-edition-printed'>Imperium Edition Has Been Published</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-edition-printed-teaser'>Imperium Edition Printed-Teaser</a></div>
-</div>
-
 
 <table>
 <tr>

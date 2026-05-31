@@ -10,15 +10,6 @@ categories: ["chang singh authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/lenda-tawmerik'>Lenda Tawmerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/librarian-society'>Librarian Society</a></div>
-	<div class='col-md-4'><a href='/macropedia/liu-no-ri-masters'>Liu-No-Ri Masters</a></div>
-</div>
-
-
-
-
 ## Overview
 
 The Librarian Society has long been an important venue of scholarly investigation and discourse.  Most professional scholars are members, and it is considered an honor and a signal that one has reached that level when the Peer Committee elects one as a new member.  The Society has long had close attachments to many libraries, archives, universities and other places of learning, and despite the dangers and intrigues of the Late Imperium, has managed to survive.

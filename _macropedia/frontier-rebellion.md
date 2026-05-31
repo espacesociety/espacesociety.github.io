@@ -10,13 +10,6 @@ categories: ["isaac taub authored", "imperium edition"]
 edited_at: 2025-01-08T11:03:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/fractal-shielding'>Fractal Shielding</a></div>
-	<div class='col-md-4'><a href='/macropedia/frontier-rebellion'>Frontier Rebellion</a></div>
-	<div class='col-md-4'><a href='/macropedia/frontier-scout-fleet'>Frontier Scout Fleet</a></div>
-</div>
-
-
 The **Frontier Rebellion** was the watershed moment for the Imperium. Throughout the early Imperium, the still-independent Terran systems were an able rival to dominance over all Terran space. The rebellion of a minor Imperial system sparked a general war and resulted in total victory for the Imperium.
 
 Within the [Fau](/star-systems/fau-system) star system, a binary system, there were two settlement groups. The imperial settlements orbited the secondary star, Fau Kerkan. This system was known for its three small but very habitable planets. However, the system had a lack of key industrial materials and relied on its neighbor system. One major planet orbited Fau Twid, the primary star of the binary system. Except for the lack of hospitability of its environment, the one planet here might well become a major Terran world.

@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored", "transportation equipme
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/pan-terran-defense-treaty-council'>Pan Terran Defense Treaty Council</a></div>
-	<div class='col-md-4'><a href='/macropedia/parthas-class-vessels'>Parthas Class Vessels</a></div>
-	<div class='col-md-4'><a href='/macropedia/peace-and-order-laws'>Peace And Order Laws</a></div>
-</div>
-
-
 Called the workhorses of the Imperium, the Parthas Class interstellar craft was first constructed to honor the wife of Duke [Gawdain Tawmerik](/macropedia/gawdain-tawmerik), a member of a junior branch of the Imperial family and a famed industrialist.  The first Parthas Class vessels were built by the [Hegemonic Economic Trade Group](/macropedia/hegemonic-economic-trade-group) in an attempt to compete against the [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu), and underwritten by the Duke.  The Tawmeriks had little desire for this sort of competition, and via legislation forced [HETG](/macropedia/hegemonic-economic-trade-group) to sell the Parthas Class vessels, their designs and shipyard facilities to [CARC](/macropedia/celtainu) for only a fraction of the investment, leading to a serious rift between the ruling Tawmeriks and the junior members of the family.
 
 [CARC](/macropedia/celtainu) engineers made hundreds of variations on the basic design of the two mile long, hammer-head shaped craft.  The Parthas-Bs, for instance, were luxury liners, with the vast cargo holds converted into swimming pools, casinos and parks.  Another famous example was the Parthas-E subclass, which was a troop carrier, capable of transporting tens of thousands of soldiers.

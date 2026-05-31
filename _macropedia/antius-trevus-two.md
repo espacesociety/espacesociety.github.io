@@ -9,8 +9,3 @@ footer: true
 group: Macropedia
 categories: []
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/antius-trevus-one'>Antius Trevus One</a></div>
-	<div class='col-md-4'><a href='/macropedia/antius-trevus-two'>Antius Trevus Two</a></div>
-	<div class='col-md-4'><a href='/macropedia/arturo-san-degas'>Arturo San Degas</a></div>
-</div>

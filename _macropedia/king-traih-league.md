@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/king-traih'>King Traih</a></div>
-	<div class='col-md-4'><a href='/macropedia/king-traih-league'>King Traih League</a></div>
-	<div class='col-md-4'><a href='/macropedia/klister-university'>Klister University</a></div>
-</div>
-
-
 While the Imperium dominated the large majority of humanity, it was not the only power at the time.  Most of these "sovereign" states were in one way or another tributaries of the Imperium, the King Traih League managed to
 maintain its independence, though sometimes at some cost.
 

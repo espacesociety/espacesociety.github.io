@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/hans-richter-kuber'>Hans Richter Kuber</a></div>
-	<div class='col-md-4'><a href='/macropedia/hegemonic-economic-trade-group'>Hegemonic Economic Trade Group</a></div>
-	<div class='col-md-4'><a href='/macropedia/heljyks'>Heljyks</a></div>
-</div>
-
-
 The **Hegemonic Economic Trade Group** was formed during the early renewal of ties between once-isolated systems. It proved to be a major force in reforming Terran economics during the pre-Republican and Republican period. This trade group remained a potential force throughout the Imperium, but never reached a position of dominance.
 
 While most of Terran society was separated during the [Terran Decline](/chronology/first-decline), a few systems were able to escape total isolation. One group of these systems belonged to Souldogle Fic. As a [Fully Integrated Corporation](/macropedia/fully-integrated-corporation), Souldogle's objective was to provide an autonomous, religious environment for its employees. Throughout the [Expanse](/chonology/first-expance), Souldogle competed with other companies to maintain its integrated control. When the Terran Decline began, Souldogle systems were among those few systems that escaped isolation&ndash;except for one.

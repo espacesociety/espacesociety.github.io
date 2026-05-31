@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored", "social sciences"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/committee-of-ten-thousand-flowers'>Committee Of Ten Thousand Flowers</a></div>
-	<div class='col-md-4'><a href='/macropedia/confederation-party'>Confederation Party</a></div>
-	<div class='col-md-4'><a href='/macropedia/conference-of-religion-and-science'>Conference Of Religion And Science</a></div>
-</div>
-
-
 The **Confederation Party** was a key political movement during the period of the [Terran Republic](/macropedia/terran-republic). As its name suggests, the Party sought to minimize centralized power within the Republic.
 
 The Confederation Party was originally formed by unity-minded individuals such as Xel Votroaman. Before the Republic began, these men thought that by forming a Confederation the craving for unity would be satiated, but individual systems would remain free from outside intervention. However, the historic trend has always been to consolidate power in the hands of those most willing to exercise it. Thus, the Confederation Party was essentially doomed from the start.

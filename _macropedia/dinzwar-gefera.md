@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2025-01-08T10:40:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/denuded-earth-theory'>Denuded Earth Theory</a></div>
-	<div class='col-md-4'><a href='/macropedia/dinzwar-gefera'>Dinzwar Gefera</a></div>
-	<div class='col-md-4'><a href='/macropedia/dio-en-mashino'>Dio En Mashino</a></div>
-</div>
-
-
 Toward the final dynasty of the Imperium, the **Dinzwar** was a group of independent [Anthorph](/macropedia/anthorph)s who found themselves increasingly under-employed due to improved automation on their home worlds and their lack of advanced skills for the more prosperous colonies. What they had was group unity and strength. With a few business-minded leaders, they formed the **Dinzwar Gefera Security Firm,** commonly called the Dinzwar Gefera or DGSF.
 
 Dinzwar Gefera's primary employment base was to provide security for elite families, who were better known for their wealth but lack of power within the Imperial Government. Initially, DGSF was hired to protect valuable trans-space shipments and other key non-Imperial resources. This included working as on-ship escorts on non-Imperial vessels. Within a generation virtually every elite family was escorted by a DGSF anthorph.

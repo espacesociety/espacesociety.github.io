@@ -10,15 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2025-01-08T10:54:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/enhanced-soldier-systems'>Enhanced Soldier Systems</a></div>
-	<div class='col-md-4'><a href='/macropedia/entering-first-decline'>Entering The Terran Decline</a></div>
-	<div class='col-md-4'><a href='/macropedia/esperopteris-koinsii'>Esperopteris Koinsii</a></div>
-</div>
-
-
-
-
 The **Terran Decline** involved several critical events that alone would not have caused Terran Society to rupture the way it did. 
 When chronicling turbulent times, the usual scholar will choose one or two causes and state unequivocally that *this* is why society collapsed. However, the exemplary scholar ignores this elementary approach and weaves various threads into a tapestry showing how these combinations of factors conspired to undermine the very fabric of society. The sorrow of such analysis comes in knowing that these factors seem repetitive with events as they presently unfold.
 

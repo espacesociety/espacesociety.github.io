@@ -9,14 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperium-equipment-index'>Imperium Equipment Index</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-macropedia-timeline'>Imperium Macropedia Timeline</a></div>
-	<div class='col-md-4'><a href='/macropedia/imprinted-personality'>Imprinted Personality</a></div>
-</div>
-
-
-
 
 The exact dates of some events are unknown due to the multiple calendar systems in use for much of the Imperium Era. Primarily, this is to help us illustrate things on the Macropedia.
 

@@ -10,15 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/anthorph-free-state'>Anthorph Free State</a></div>
-	<div class='col-md-4'><a href='/macropedia/antius-trevus-one'>Antius Trevus One</a></div>
-	<div class='col-md-4'><a href='/macropedia/antius-trevus-two'>Antius Trevus Two</a></div>
-</div>
-
-
-
-
 The reign of **Antius "the Half-Wit" Trevus I** is remembered by society as one of the most terrifying and despotic of the [Dabrian Dynasty](/macropedia/dabrian-dynasty). This scholar will not seek to glorify him, only to remind the reader that in spite of his cruelty he was one of those emperors known for creating a series of [grand reforms](/macropedia/grand-reforms) that nearly saved the Imperium (because of his cruelty).
 
 As one of [Emil Dabrian](/macropedia/emil-dabrian)'s children, Antius was forced to secure his position as Emperor. Emil believed that only a ruthless man should occupy the throne. Antius more than satisfied this requirement. As the legend goes, he had his sister's family enrolled in terrible cosmic radiation experiments; and he had his brother die while quitting a potently addictive drug "cold turkey."

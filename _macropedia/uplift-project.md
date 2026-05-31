@@ -10,12 +10,6 @@ categories: ["imperium edition", "chang singh authored", "imperium equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/untara-drive-control'>Untara Drive Control</a></div>
-	<div class='col-md-4'><a href='/macropedia/uplift-project'>Uplift Project</a></div>
-	<div class='col-md-4'><a href='/macropedia/uvane-merith-province'>Uvane Merith Province</a></div>
-</div>
-
 %3c%3c|[Macropedia/Imperium Equipment Index](/macropedia/imperium-equipment-index)|>>
 
 The Uplift Project was the first major infrastructure of the Imperium.  Initiated by [Temba II](/macropedia/temba-two), the project saw many of the worlds in the Imperium receive space elevators, orbital space ports and orbital construction and maintenance facilities.  The costs of the project were extraordinary, and only [Temba II](/macropedia/temba-two)'s personal prestige kept the [Imperial Congress](/macropedia/imperial-congress) from openly revolting against the project.

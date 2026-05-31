@@ -10,13 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "surveillance equip
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/krezil-stock-market-crash'>The Krezil Stock Market Crash</a></div>
-	<div class='col-md-4'><a href='/macropedia/krugal-intrasystem-array'>Krugal Intrasystem Array</a></div>
-	<div class='col-md-4'><a href='/macropedia/kuberian-movement'>Kuberian Movement</a></div>
-</div>
-
-
 ## Overview
 
 One of the most common space-based sensory systems.  Initially a manpower-intensive network requiring hundreds of individuals in various relay stations situated in various orbital zones of a stellar system, it is now so advanced that unmanned arrays can be installed in uninhabited systems by drones.

@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/zenbrudi'>Zenbrudi</a></div>
-	<div class='col-md-4'><a href='/macropedia/zenbrudi-war'>Zenbrudi War</a></div>
-	<div class='col-md-4'><a href='/macropedia/zophian-sisterhood'>Zophian Sisterhood</a></div>
-</div>
-
-
 The **Zenbrudi War** is accurately described as the Great War for Humanity. [Anthroph](/macropedia/anthorph) experiments led to the [Zenbrudi](/macropedia/zenbrudi), an artificial race that is commonly associated with the boogie men.
 
 Fortunately for humanity as a whole, the Zenbrudi experiments were not held near major human enclaves. Instead, they were developed in far flung systems with limited access. Many of these systems were home only to a space station orbiting a red dwarf star. This led some to refer to the Zenbrudi as Reddies.

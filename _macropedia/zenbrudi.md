@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/zelther-rathian-group'>Zelther Rathian Group</a></div>
-	<div class='col-md-4'><a href='/macropedia/zenbrudi'>Zenbrudi</a></div>
-	<div class='col-md-4'><a href='/macropedia/zenbrudi-war'>Zenbrudi War</a></div>
-</div>
-
-
 Among the greatest horrors of the Latter Day Imperium, the Zenbrudi nightmares still haunt the memory of those who survived them. On many worlds, the Zenbrudi are still used to scare little children. The Zenbrudi were also extensively cited by [Kuberian](/macropedia/kuberian-movement) racists to say that any modification to the so-called purity of the human genome was a work of evil.
 
 Unlike most [Genetically Enhanced Peoples](/macropedia/genetically-enhanced-peoples), the Zenbrudi were created for a specific purpose other than their own survival. Even more so, they were created as genetically bound slaves to their creator [Woth](/macropedia/woth). While a genuine horror to others, I cannot help but think that their own life must have been somewhat horrific as well. From analysis of the ruins of [Woth](/macropedia/woth)'s laboratories and the remains of killed Zenbrudi, we have learned much of the nature of their horror.

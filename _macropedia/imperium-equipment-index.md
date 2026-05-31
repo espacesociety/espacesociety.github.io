@@ -9,8 +9,3 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div><a href='/macropedia/imperium-equipment'>Imperium Equipment</a></div>
-	<div><a href='/macropedia/imperium-equipment-index'>Imperium Equipment Index</a></div>
-	<div><a href='/macropedia/imperium-macropedia-timeline'>Imperium Macropedia Timeline</a></div>
-</div>

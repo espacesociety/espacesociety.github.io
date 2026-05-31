@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/neo-tawmeriks'>Neo Tawmeriks</a></div>
-	<div class='col-md-4'><a href='/macropedia/nevian-schmizt'>Nevian Schmizt</a></div>
-	<div class='col-md-4'><a href='/macropedia/new-diaspora'>New Diaspora</a></div>
-</div>
-
-
 Nevian Schmizt was a prominent Lemardian member of the Sevyet. He first rose to the attention of the Empire when elected to the Sevyet from a small mining colony. However, his amazing debate skills soon put him in a prominent position in that body. His keen wit, charisma, and willingness to confront the Creator's Tests galled the religious fanatics who chaffed under the sometimes harsh rule of [Emil Dabrian](/macropedia/emil-dabrian).
 
 The tragedy of his career is bound up in the tragedy of the [Enhanced Autonomous Research Laboratory](/macropedia/enhanced-autonomous-research-laboratory) program. Herr Schmizt was one of the original proponents of the program. In its initial form, the program would create a series of small, sturdy probes. These probes would only map the unknown galaxy, searching for inhabitable planets and other resources. Recording their results, they would report back to the empire every few years.

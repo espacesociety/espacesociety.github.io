@@ -10,14 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "combat equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/nazir-al-shamuth'>Nazir Al Shamuth</a></div>
-	<div class='col-md-4'>Negadisruptor</div>
-	<div class='col-md-4'><a href='/macropedia/neo-tawmeriks'>Neo Tawmeriks</a></div>
-</div>
-
-
-
 ## General Theory and History
 
 Negadisruptors work by reversing the electrical charge via a phased magnetic beam.  Essentially, this causes the atoms caught in the beam to tear themselves to pieces.  Frightful in theory, in practice the weapons are not known to be the most practical, with large energy requirements which even intense miniaturization has not eliminated.

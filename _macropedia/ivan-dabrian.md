@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imudring'>Imudring</a></div>
-	<div class='col-md-4'><a href='/macropedia/ivan-dabrian'>Ivan Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/janoos-welkred'>Janoos Welkred</a></div>
-</div>
-
-
 Ivan Dabrian was one of the greatest Dabrian Emperors, he is often cited as second only to Qanna Dabrian as the most successful of their line. Coming to the throne as a young man soon after the defeat of the [Heljyks](/macropedia/heljyks) Ivan shocked most of the court with his political and diplomatic savvy.  He tightened and consolidated the rule of the throne. Perhaps most significantly, he forged ties with the [King Traih League](/macropedia/king-traih-league) that helped avert an open war in later episodes of Imperial instability. 
 
 Ascending to the throne, Ivan's first task was to protect ship traffic from the constant [Heljyk](/macropedia/heljyks) piracy. He did so with the deft re-deployments of the [Frontier Scout Fleet](/macropedia/frontier-scout-fleet) and the [Cathian Navy](/macropedia/cathian-navy). He had a special cruiser built for himself and he often visited trouble spots himself, leading fleets and expeditions with skill and leadership rarely seen. Incidents of piracy plummeted and stability returned to trade and travel in the Imperium.

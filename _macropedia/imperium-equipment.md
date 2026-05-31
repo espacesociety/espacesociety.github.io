@@ -9,12 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperium-edition-to-do'>Imperium Edition To Do</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-equipment'>Imperium Equipment</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-equipment-index'>Imperium Equipment Index</a></div>
-</div>
-
 
 The ***Macropedia Terradoma, Imperium Equipment Supplement*** was authored at roughly the same time as the [Imperium Edition](/macropedia/imperium-edition), and focused on various items scholars thought best exemplified the technological prowess of the Imperium throughout its history.
 

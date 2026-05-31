@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho mihn tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/retri-gahani'>Retri Gahani</a></div>
-	<div class='col-md-4'><a href='/macropedia/rights-of-the-imperial-citizen'>Rights Of The Imperial Citizen</a></div>
-	<div class='col-md-4'><a href='/macropedia/riojier-commonwealth'>Riojier Commonwealth</a></div>
-</div>
-
-
 While providing a guideline for the interaction of the Imperium government and its citizens, the first attempt at codifying that relationship did little more than provide a cornerstone upon which later rights were added. The general progress of Imperial political and social life led to increasingly more rights being ascribed to its citizens. However, this first attempt had several severe limitations that were later adjusted in court or by popular assent.
 
 ### Notable Limitations:

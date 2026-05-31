@@ -10,13 +10,6 @@ categories: ["cho minh tel ran authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/icarus-flyers'>Icarus Flyers</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-congress'>The Imperial Congress</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-core-worlds'>Imperial Core Worlds</a></div>
-</div>
-
-
 The history of the Imperial Congress truly begins with the legislature of the [Terran Republic](/macropedia/terran-republic). After the failure of the Republic, [Reth Tawmerik I](/macropedia/tawmerik-dynasty) dissolved the legislature. However, this led to significant strain and stress among the nobility of the nascent empire. As subsequent emperors discovered during the [Frontier Rebellion](/macropedia/frontier-rebellion), such strain could not be borne within a stable government. [ Reth Tawmerik II](/macropedia/tawmerik-dynasty) founded the Imperial Congress at the end of the [Frontier Rebellion](/macropedia/frontier-rebellion). Sources dispute the exact timing and nature of the move. Most official Imperial documents portray the Emperor as benevolently granting the Congress existence out of respect for a well-fought war. Other documents indicate that the Emperor was forced to concede the congress or face a splintering empire. Documents I uncovered during my stay in the [King Traih League](/macropedia/king-traih-league) indicate that the second version may be closer to the truth, with the [Frontier Rebellion](/macropedia/frontier-rebellion) merely a face slapped on internal bickering among the noble families of the Imperium.
 
 Whatever the reason, the emperor chartered the Congress at or about the end of the [Frontier Rebellion](/macropedia/frontier-rebellion). The Congress was constructed as a tricameral body. Primacy was given to the House of Patricians; representatives from the most powerful aristocratic families served here. Under the Patricians, the two lower houses served lesser roles. The Senot was composed of elected representatives from various academic and cultural communities. The Patricians determined who and what bodies obtained or lost seats in the Senot. Slightly more free, the Sevyet held members from many worlds, communities, and organizations. Unlike the Senot, the Sevyet had open and precise rules defining who and what were afforded representation. These rules were set by the Sevyet itself subject to veto by the Emperor and the Patricians.

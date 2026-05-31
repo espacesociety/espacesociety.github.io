@@ -10,13 +10,6 @@ categories: ["imperium equipment", "isaac taub authored", "surveillance equipmen
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-auto-scout'>Telefreiber Auto Scout</a></div>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-observers'>Telefreiber Observers</a></div>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-warrior-ants'>Telefreiber Warrior Ants</a></div>
-</div>
-
-
 ## Overview
 
 The Telefreiber, Ltd. developed its line of small-surveillance devices independent of open Imperial support, and has apparently found a large market as a result. The **Observers** was the first product mass produced by Telefreiber. The Observer relies on "swarm-bot" technology to provide complete coverage of a target.

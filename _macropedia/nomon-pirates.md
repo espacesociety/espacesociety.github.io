@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/nindus-azrahn-felard'>Nindus Azrahn Felard</a></div>
-	<div class='col-md-4'><a href='/macropedia/nomon-pirates'>Nomon Pirates</a></div>
-	<div class='col-md-4'><a href='/macropedia/normalized-anthorph'>Normalized Anthorph</a></div>
-</div>
-
-
 Probably the most infamous privateers of the latter period of the Imperium.  Their exploits are legendary (and probably some are outright mythical).  Some of the leaders of the Nomon Pirates have become figures of folklore, like Three-Eyed Phillans who managed to hijack two Imperium destroyers, or Leoth Nimrik, who nearly succeeded in kidnapping a princess, and ended his days in a torture chamber for his trouble.
 
 The origins of the Nomon are shrouded in legend, and it is difficult to verify any of it.  The most popular theory states that it was one Gustav Renche, a [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) operative who went "native" and took over a small pirate outfit that he was supposed to be spying on.  Renche has become a figure of folklore, and the fact that he may have been a [BID](/macropedia/bafiktuy-intelligence-directive) agent makes learning anything about him virtually impossible.

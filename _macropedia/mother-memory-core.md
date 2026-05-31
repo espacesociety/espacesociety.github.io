@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/morsh-furnoklin'>Morsh Furnoklin</a></div>
-	<div class='col-md-4'><a href='/macropedia/mother-memory-core'>Mother'S Memory Core</a></div>
-	<div class='col-md-4'><a href='/macropedia/muridian-avengers'>Muridian Avengers</a></div>
-</div>
-
-
 One of the greatest achievements of any of the [Anthorph](/macropedia/anthorph) societies, and during the heyday of the Imperium, the site of great interest from computer experts, archaeologists, anthropologists, geneticists, religious figures and (not a few) lunatics.
 
 Mother's Memory Core was part of a large orbital facility around the [Gruyonh Doyu](/macropedia/gruyonh-doyu)'s home world.  Though no records survive, it seems that the original station was built before the Decline, but the famously industrious [Gruyonh Doyu](/macropedia/gruyonh-doyu) built on to it, making it into one of the greatest genetics labs and data storage center ever built by humanity.

@@ -10,15 +10,6 @@ categories: ["chang singh authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/yisma-kiau-uprising'>Yisma Kiau Uprising</a></div>
-	<div class='col-md-4'><a href='/macropedia/yousamin-faction'>Yousamin Faction</a></div>
-	<div class='col-md-4'><a href='/macropedia/zelther-rathian-group'>Zelther Rathian Group</a></div>
-</div>
-
-
-
-
 ## Overview
 Political faction in the Late Imperium, that eventually evolved into a rival anti-government after the collapse of central authority.
 

@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2025-01-08T11:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/federov-assault-rifle'>Federov Assault Rifle</a></div>
-	<div class='col-md-4'><a href='/macropedia/femaron-felard'>Femaron Felard</a></div>
-	<div class='col-md-4'><a href='/macropedia/firebird-class-freighter'>Firebird Class Freighter</a></div>
-</div>
-
-
 Also known as the Bloody Pretender.
 
 Femaron Felard was born to a family of [Normalized Anthorph](/macropedia/normalized-anthorph)s, and from early childhood was raised with a deep hatred of [Anthorph](/macropedia/anthorph)s.  In the years after the death of [Emperor Jubal IV](/macropedia/jubal-four) and the ascension of [Durin Bonish](/macropedia/durin-bonish) as the first Premiere during the [Imperial Interregnum](/macropedia/imperial-interregnum), Femarons family had attempted a number of unsuccessful uprisings against the Imperium, and were finally forced to flee beyond the Imperium.

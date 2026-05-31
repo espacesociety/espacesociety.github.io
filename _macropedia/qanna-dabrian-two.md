@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/qanna-dabrian'>Qanna Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/qanna-dabrian-two'>Qanna Dabrian Two</a></div>
-	<div class='col-md-4'><a href='/macropedia/qin-lop-shu'>Qin Lop Shu</a></div>
-</div>
-
-
 Qanna Dabrian II was born Nilana Kul-Dabrian, a member of the Imperial family, and a first cousin of [Ivan Dabrian](/macropedia/ivan-dabrian), but not an obvious heir to the throne.  She was well-educated, but not known as a remarkable student.  She certainly had little training in governance, and yet events conspired to thrust her on to the throne at the tender age of 19 standard years.
 
 [Ivan Dabrian](/macropedia/ivan-dabrian)'s death without an heir created the first major succession crisis since the Tawmerik line had failed.  Though there were several close cousins seeking the throne, no resolution could be found.  The [Imperial Congress](/macropedia/imperial-congress)'s role was largely undefined at this time, and thus the matter was fought over furiously.  Finally the various factions came together, and through an arduous three months of negotiations chose young Lady Nilana.  How she even came to be a candidate is open to debate, though there is evidence that her father, Duke Zoral Kul actually emptied his coffers and mortgaged a valuable titanium mine to buy votes.

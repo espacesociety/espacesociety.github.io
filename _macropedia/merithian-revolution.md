@@ -10,15 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/magnetic-fleas'>Magnetic Fleas</a></div>
-	<div class='col-md-4'><a href='/macropedia/merithian-revolution'>Merithian Revolution</a></div>
-	<div class='col-md-4'><a href='/macropedia/messen-fremezulejo'>Messen Fremezulejo</a></div>
-</div>
-
-
-
-
 ## Introduction
 
 Of all the attempts to overcome the authority of the High Imperium, the Merithian Revolution came closest, and ended the most badly.  A brief article cannot help but make this watershed event seem but a small episode in an age of prosperity, and yet one must never forget the ways in which idealism can blind people, and how harsh authority can be in protecting itself.

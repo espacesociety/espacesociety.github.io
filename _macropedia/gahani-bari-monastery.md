@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/furnoklin-taschera'>Furnoklin Taschera</a></div>
-	<div class='col-md-4'><a href='/macropedia/gahani-bari-monastery'>Gahani Bari Monastery</a></div>
-	<div class='col-md-4'><a href='/macropedia/gahanian-seers'>Gahanian Seers</a></div>
-</div>
-
-
 The **Gahani Bari Monastery** was the most sacred holy place for the [Gahanian Seers](/macropedia/gahanian-seers). It was at the Monastery that Gahani Meyslana Frehewit Bari allegedly first had his "unlightenment." The Seers believed that too many other faiths sought some higher power to guide them, whereas the Seers thought that by seeking to avoid such a guide, the guide would in turn seek the seer. At least, this is what those outside the faith believed.
 
 The Monastery itself was established in an old land-attack fortress built during the Decline. Its world had lost significant technology, so quaint fortresses of this nature were effective in controlling key travel routes. The Monastery was located on two hilltops. The Lower Monastery was situated on a hill that controlled a portage point from a major lake to a very navigable river. The lake and river combined served to provide a major water route that supplied several major cities. The portage route contained a railway connecting the two. The fortress was used to ensure commerce was properly taxed. The fortress was called Fortress Bari after the then ruler of the small nation.

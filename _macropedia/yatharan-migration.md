@@ -10,14 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/xkan-nimu-hal'>X'Kan Nimu Hal</a></div>
-	<div class='col-md-4'><a href='/macropedia/yatharan-migration'>Yatharan Migration</a></div>
-	<div class='col-md-4'><a href='/macropedia/yauwza-magruder'>Yauwza Magruder</a></div>
-</div>
-
-
-
 ## Overview
 
 A major migration of [Anthorph](/macropedia/anthorph)s from the horrors of the [Hundred Bloody Days](/macropedia/hundred-bloody-days), which saw the dying Imperium robbed of some of its most productive citizens.  Named after its leader, [Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara), an Anthorph geneticist who became, through necessity and determination, a leader and savior of his people.

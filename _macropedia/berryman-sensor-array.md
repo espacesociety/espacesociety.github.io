@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium equipment", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/benita-perez'>Benita Perez</a></div>
-	<div class='col-md-4'><a href='/macropedia/berryman-sensor-array'>Berryman Sensor Array</a></div>
-	<div class='col-md-4'><a href='/macropedia/bitanium-fibre-exploration-corporation'>Bitanium Fibre Exploration Corporation</a></div>
-</div>
-
-
 ## Overview
 
 The **Berryman Sensor Array** was a development late in the Imperium that showed promise of true early-warning space scanning. Prior to the development of this sensor suite, it was considered scientifically impossible to detect inbound spacecraft at superluminal speeds.

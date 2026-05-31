@@ -10,12 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/'></a></div>
-	<div class='col-md-4'><a href='/macropedia/academy-of-the-imperial-fleet'>Academy Of The Imperial Fleet</a></div>
-	<div class='col-md-4'><a href='/macropedia/akrath-multi-sensor-array'>Akrath Multi-Sensor Array</a></div>
-</div>
-
 Throughout much of its history, the Imperium's armed forces were a house divided. While ostensibly unified under the Ministry of Defense, the various branches of the military tended to overlap in function, and often were maintained simply as political favors to various paper generals and admirals.
 
 [Ivan Dabrian](/macropedia/ivan-dabrian), that most dynamic of the later Emperors, saw this not only as a long-standing historical problem, but as an opportunity for reforming the armed forces. He fostered close alliances with key members of the [Imperial Congress](/macropedia/imperial-congress) and military leaders, and through them drafted a plan to properly unite the far-flung branches of the Imperium's defensive and offensive forces under a single General Staff.

@@ -9,11 +9,6 @@ footer: true
 group: Macropedia
 categories: []
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/black-hand'>Black Hand</a></div>
-	<div class='col-md-4'><a href='/macropedia/brief-history-of-the-imperium'>Brief History Of The Imperium</a></div>
-	<div class='col-md-4'><a href='/macropedia/canticle-of-hope'>Canticle Of Hope</a></div>
-</div>
 
 **A Brief History of the Imperium**
 by Jathat Muzreb

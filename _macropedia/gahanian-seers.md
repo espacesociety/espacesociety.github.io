@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/gahani-bari-monastery'>Gahani Bari Monastery</a></div>
-	<div class='col-md-4'><a href='/macropedia/gahanian-seers'>Gahanian Seers</a></div>
-	<div class='col-md-4'><a href='/macropedia/galactic-library-of-language-and-culture'>Galactic Library Of Language And Culture</a></div>
-</div>
-
-
 Few religious groups have been speculated about as much as the Gahanian Seers, and even fewer managed to retain an aura of secrecy and mystery.  It isn't even known for certain if they were a religious cult in any proper sense of the word.  Their writings mentioned no gods, devils, spirits, and seemed to be more philosophical than in any way theological.  They were easily identifiable wherever they travelled by the tonsuring of their hair and a simple black habit with a sash; white for the lowest rank, various shades of blue for the higher rank, and red for the highest ranks.  The High Seers, once promoted, were never seen in public, though legend would have it that they dressed in a white habit.
 
 They were fully established in the High Imperium, settling in a series of monasteries simply called Gahanian 1, Gahanian 2 and so on.  Their monasteries were always on marginally habitable worlds and always in high mountains.  From here they would study the portents, or as they called it, "Reading the Immutable Streams of Time".  It is generally agreed upon by most historians and scholars that they partook liberally of [Esperopteris Koinsii](/macropedia/esperopteris-koinsii), and this is the likely source of their alleged psychic abilities.

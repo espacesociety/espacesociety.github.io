@@ -10,13 +10,6 @@ categories: ["cho minh tel ran authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/klister-university'>Klister University</a></div>
-	<div class='col-md-4'><a href='/macropedia/krezil-stock-market-crash'>The Krezil Stock Market Crash</a></div>
-	<div class='col-md-4'><a href='/macropedia/krugal-intrasystem-array'>Krugal Intrasystem Array</a></div>
-</div>
-
-
 During the [Terran Decline](/chronology/first-decline) Krezil became the chief commercial city in the [Fasantauri System](/macropedia/fasantauri-system). This city's import should be noted as it affected the conditions of the Early Imperium. Particularly in regards to its corporate-familial structure. At some point in history which is hard to pinpoint, the social structure of a corporation had become something akin to that of a clan. Speculations for the motivations of such an odd change range from a shrinking labor pool, to increasing corporate control over employee private lives. Little archaeological evidence worth noting has been recovered from the Terran Decline, and even less from before. This scholar, unlike some others, will not speculate into the details of such a shrouded period.
 
 Nevertheless, it is apparent that at some point, not too long before [Hypertravel](/natural-sciences/brane-hopping) became possible again, the Stock Market in Krezil experienced something of a crash. As one might imagine, stocks in that market were not so much shares in the individual corporations as they were shares in the particular ventures the corporation might spawn. As is so often the case in rampantly capitalist systems, groups formed to manipulate the system to their advantage. In this case, the group was the Bafiktuy Executive Decisions Committee. As its later offspring the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) would later do for the Empire, so did the Committee do for the Bafiktuy Family-Coporation.

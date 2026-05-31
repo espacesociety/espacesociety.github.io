@@ -10,15 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2025-01-08T10:52:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/engle-pogroms'>Engle Pogroms</a></div>
-	<div class='col-md-4'><a href='/macropedia/enhanced-autonomous-research-laboratory'>Enhanced Autonomous Research Laboratory (E.A.R.L.)</a></div>
-	<div class='col-md-4'><a href='/macropedia/enhanced-soldier-systems'>Enhanced Soldier Systems</a></div>
-</div>
-
-
-
-
 Of all the spectacular failures of the Imperium's veritable army of researchers, the most spectacular was the EARL series of automated research spacecraft.  Though there had been previous generations of unmanned probes right back to the dawn of humanity's steps into space, the EARL's were planned as a next generation craft, capable of decades, and even centuries of exploration, with vast arrays of onboard robots from nanobots to huge repair bots.  The [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu) was given the contract to design and manufacture the EARL vessels.
 
 The whole project was plagued by spiraling cost overruns, difficulties with cutting-edge technology and constant interference by Imperium officials.  The first EARL prototype was substantially overbudget and years late, but performed reasonably well.  Feeling some embarrassment but still hoping for a useful product, the Imperium ordered a dozen of the vessels, and [CARC](/macropedia/celtainu) eager to get rid of the project, subcontracted it out to the [Zelther Rathian Group](/macropedia/zelther-rathian-group).  This child corporation of [CARC](/macropedia/celtainu), run by the now-infamous physicist and engineer [Welgan Tyrox](/macropedia/welgan-tyrox), began manufacturing this fleet of AI-controlled, unmanned exploration vessels.  Despite a working prototype, manufacturing produced more delays, more cost overruns and finally the Imperium, now deeply embarrassed, cancelled the project with just five EARLs built.

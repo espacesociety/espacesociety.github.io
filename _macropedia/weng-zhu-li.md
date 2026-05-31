@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/welkred-communications'>Welkred Communications</a></div>
-	<div class='col-md-4'><a href='/macropedia/weng-zhu-li'>Weng Zhu Li</a></div>
-	<div class='col-md-4'><a href='/macropedia/witi-emplaser-incident'>Witi Emplaser Incident</a></div>
-</div>
-
-
 Weng Zhu Li was a famous Helsmunt Institute physicist during the reign of [Temba I](/macropedia/tawmerik-dynasty). His fame sprouts from his use of proper research technique and  dedication worthy of great respect.  As interstellar travel was becoming more common, the calculations and measurement sensitivities for accurate hops were becoming increasingly strained.  While hop pollution could be adjusted for, it became more difficult to account for shifts in the local "soup" due to ships making hops  or gaining space while your ship might still be in the soup.  As more aristocratic families were traveling regularly to special functions around the Imperium, mishaps became more likely. After a string of closely-spaced incidents related to several festivals, Weng was assigned the task of forming the research group to tackle the problem.
 
 Research into hyperspace had almost ceased. In light of the [Dio En Mashino](/macropedia/dio-en-mashino) technology that was available, it was seen as computer's work, not suitable to good research. Weng approached this Test with a large contingent of research assistants to pour over all the records of hyperspace science that were available at the Institute. He found many of his answers in the files of [Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor). Expanding and extrapolating from Suwor's work, he was able to postulate the necessary physics for the construction of [Gravito Magnetic Sensor Sheaths](/macropedia/gravito-magnetic-sensor-sheaths).

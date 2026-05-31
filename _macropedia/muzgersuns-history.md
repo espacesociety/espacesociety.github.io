@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/muridian-avengers'>Muridian Avengers</a></div>
-	<div class='col-md-4'><a href='/macropedia/muzgersuns-history'>Muzgersun'S Human History</a></div>
-	<div class='col-md-4'><a href='/macropedia/muzigle-fiasco'>The Muzigle Fiasco</a></div>
-</div>
-
-
 During the High Imperium, as the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) failed, it became quite the rage to study human history and archaeology. Unfortunately, it was also a time of patronage, and archaeological and historical research was often sponsored by a patrician family with certain political aims or goals in mind. Particularly popular was the writing of "grand histoires", often with a coauthor of the patronizing family. Much misinformation was generated, or perhaps it wasn't we just don't know. However, we do know that later scholarship, particularly archaeology on Earth and on Fasantauri, has discredited many of the works of this time period.
 
 Chief, most famous, and most infamous among these works is *Human History* by R. B. Muzgersun. A sycophant of unparalleled talent, Muzgersun managed to get his history accepted as a standard primary educational work on many of the Imperial worlds. His often fictional accounts have become embedded in the popular conception of human history, often overwhelming the true obscurity of the past. In particular, his ridiculously detailed stories of figures like [Kazam-Re](/macropedia/kazam-re), L. R. Helsmunt and the [Helsmunt Institute](/macropedia/helsmunt-institute), Phurnando Letalles and Hugau-bmilanoj Stepivan Shersite d'Mibashura, and groups like the [Imudring](/macropedia/imudring) still color much scholarly work today.

@@ -10,15 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/conspiracy-of-ages'>Conspiracy Of Ages</a></div>
-	<div class='col-md-4'><a href='/macropedia/corrigan-system'>Corrigan System</a></div>
-	<div class='col-md-4'><a href='/macropedia/counsel-of-concerned-scientists'>Counsel Of Concerned Scientists</a></div>
-</div>
-
-
-
-
 For a more detailed summary of the pre-Imperium history of the Corrigan system, see [Corrigan System](/star-systems/epsilon-eridani).
 
 ## History

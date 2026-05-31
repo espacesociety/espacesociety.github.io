@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/nevian-schmizt'>Nevian Schmizt</a></div>
-	<div class='col-md-4'><a href='/macropedia/new-diaspora'>New Diaspora</a></div>
-	<div class='col-md-4'><a href='/macropedia/nguyonhi-assault-suits'>Nguyonhi Assault Suits</a></div>
-</div>
-
-
 The [Hundred Bloody Days](/macropedia/hundred-bloody-days) was a violent, explosive period of blood and destruction which finally cut the tenuous links that bound the once-mighty Imperium together.  Worlds either declared independence, or claimed some allegiance to the defunct central authority, but did as they chose.  Since then, times have become hard on many worlds.  Terrorists, religious zealots, purges, famines, economic dislocation and a genuine belief that humanity is on a downward slide has led to a desire by many to flee the Imperium and find a new life elsewhere.
 
 The New Diaspora has no leaders, no organization.  Some migrations are not even seen as part of the New Diaspora.  Nevertheless, it cannot be ignored that uncounted numbers of people, old and young, rich and poor alike, are leaving the Imperium, heading beyond the old Frontier and even beyond the few neighboring independent territories.  It is an exodus of the kind never seen before.

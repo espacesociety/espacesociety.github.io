@@ -9,12 +9,6 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/terran-republic'>Terran Republic</a></div>
-	<div class='col-md-4'><a href='/macropedia/terran-republic-timeline'>Terran Republic Timeline</a></div>
-	<div class='col-md-4'><a href='/macropedia/tholoman-kresel-muthron'>Tholoman Kresel Muthron</a></div>
-</div>
-
 
 This is from an email I sent out in April to the main list giving a rough timeline of the formation and fall of the [Terran Republic](/macropedia/terran-republic).
 

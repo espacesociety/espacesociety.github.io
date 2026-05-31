@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/imperial-court-of-cassation'>Imperial Court Of Cassation</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-interregnum'>Imperial Interregnum</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperium-edition'>Macropedia Imperium</a></div>
-</div>
-
-
 As an old patriot, the period of the **Imperial Interregnum** has been a difficult period to research and write about objectively. However, I have never let personal opinion block my professional neutrality. What is clear in these last days is that those who allowed this phase of our history to occur should have been tried for treason.
 
 The Interregnum was actually nothing of the sort. Interregnum implies a period between the rule of two monarchs or emperors. However, with Durin Bonish's "reforms," the return of Imperial reign was all but impossible. He saw to it that the central authority Terrans needed was lost. This phase in our history was marked with instability, individual self-centeredness, and general lack of concern for future generations.

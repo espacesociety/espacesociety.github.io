@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/nguyonhi-assault-suits-talk'>Nguyonhi Assault Suits Talk</a></div>
-	<div class='col-md-4'><a href='/macropedia/nindus-azrahn-felard'>Nindus Azrahn Felard</a></div>
-	<div class='col-md-4'><a href='/macropedia/nomon-pirates'>Nomon Pirates</a></div>
-</div>
-
-
 Clan Felard was a relatively obscure family from the Belshane System. There is some debate over when the family established its presence there. Many rivals claim that Clan Felard derives its lineage from the days when Belshane was a penal mining system. The Clan itself bristles at those claims, instead stating that they were one of the slowboats that arrived later. Genetic research indicated that both stories are probably true. That is, while there is firm support for the matriarch of Clan Felard arrived via slowboat, there is also genetic records of a former convict that appears to have established a relationship. This naturally plays into the rival families who like to think of them as the Bastard Clan of Felard.
 
 Regardless of their dubious background, the Clan itself would have remained obscure were it not for Nindus Azrahn Felard. His branch of Clan Felard distinguished itself during the [Novya Siberia Belshane War](/macropedia/novya-siberia-belshane-war) by winning one of the few victories earned by the Belshan. Nindus himself arrived much later, when even that branch had seemed to have reached the end of its bearing fruit.

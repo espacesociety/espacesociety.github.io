@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/corrigan-system'>Corrigan System</a></div>
-	<div class='col-md-4'><a href='/macropedia/counsel-of-concerned-scientists'>Counsel Of Concerned Scientists</a></div>
-	<div class='col-md-4'><a href='/macropedia/dabrian-dynasty'>Dabrian Dynasty</a></div>
-</div>
-
-
 A key group of scientists, gathered together by the great [Kemen Febrer Suwor](/macropedia/kemen-febrer-suwor), with the express purpose of attempting to find a solution to hop pollution, which he had previously demonstrated to have been the cause of the [Decline](/chronology/first-decline).
 
 Though the various histories suggest that there had been numerous similar groups started with that same purpose, the Counsel of Concerned Scientists was unique in that not only did it have Dr. Suwor, but also such luminal physicists as Alsa Began (renowned for her own work on hop pollution) and Isard Qalane, a brilliant cosmologist who did much to recover and expand upon branespace theory.

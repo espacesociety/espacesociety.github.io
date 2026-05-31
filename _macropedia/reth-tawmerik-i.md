@@ -10,15 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/reformed-bank-of-the-empire'>Reformed Bank Of The Empire</a></div>
-	<div class='col-md-4'><a href='/macropedia/reth-tawmerik-i'>Reth Tawmerik I</a></div>
-	<div class='col-md-4'><a href='/macropedia/retri-gahani'>Retri Gahani</a></div>
-</div>
-
-
-
-
 ## Early Years
 Reth Tawmerik was born into great privilege, the scion of an ancient and wealthy house.  Raised from the earliest age to lead his family and their chief holding and homeworld; Goetel's World in the [Fasantauri System](/star-systems/alpha-centauri) and as much as could be accumulated in the Core Worlds as humanity again took to the stars after the key discoveries by the [Cel-Tainu Astrophysical Research Corporation](/macropedia/celtainu).
 

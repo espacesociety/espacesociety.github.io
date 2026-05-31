@@ -9,8 +9,3 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/hjans-kreb-lakol'>Hjans Kreb Lakol</a></div>
-	<div class='col-md-4'><a href='/macropedia/home-page'>Home Page</a></div>
-	<div class='col-md-4'><a href='/macropedia/hundred-bloody-days'>The Hundred Bloody Days</a></div>
-</div>

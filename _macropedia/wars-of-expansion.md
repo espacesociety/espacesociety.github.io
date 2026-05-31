@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/voushniya'>Voushniya</a></div>
-	<div class='col-md-4'><a href='/macropedia/wars-of-expansion'>Wars Of Expansion</a></div>
-	<div class='col-md-4'><a href='/macropedia/waudbect-society'>Waudbect Society</a></div>
-</div>
-
-
 The **Wars of Expansion** were begun by the [Heljyks](/macropedia/heljyks) in a misguided attempt to conceal its core systems from the Imperium. The Heljyks core comprised three systems, of which two were near to the [Periphery](/macropedia/periphery).
 
 Although the Heljyks had an ambassador in the Imperial Court, and had agents in virtually every system, it did not comprehend the power of the Imperial Navy. This caused them to underestimate the effectiveness of the fleet. The [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) (BID) had infiltrated the Heljyk agency operating in the Imperium, and ensured a steady supply of misinformation flowed throughout the remaining days of the Heljyks.

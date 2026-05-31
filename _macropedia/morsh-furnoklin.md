@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/mnovellii-collective'>Mnovellii Collective</a></div>
-	<div class='col-md-4'><a href='/macropedia/morsh-furnoklin'>Morsh Furnoklin</a></div>
-	<div class='col-md-4'><a href='/macropedia/mother-memory-core'>Mother'S Memory Core</a></div>
-</div>
-
-
 Chief advisor and agent to the [Tawmerik Family](/macropedia/tawmerik-dynasty) during the Proto-Imperial period.
 
 Furnoklin's family was minor aristocracy in the [Fasantauri System](/star-systems/alpha-centauri), but had historically not been closely aligned with the Tawmeriks until Furnoklin's uncle, Eresh Furnoklin, entered the service of Gaian Tawmerik, the grandfather of the first Emperor.  From then on the fate of the two families was to be bound together until the foundation of the Imperium.

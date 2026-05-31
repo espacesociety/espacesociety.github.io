@@ -9,11 +9,5 @@ group: Macropedia
 categories: ["phantom original edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/original-edition'>Original Edition</a></div>
-	<div class='col-md-4'><a href='/macropedia/original-edition-phantom-entries-list'>Original Edition Phantom Entries List</a></div>
-	<div class='col-md-4'><a href='/macropedia/pan-terran-defense-treaty-council'>Pan Terran Defense Treaty Council</a></div>
-</div>
-
 
 These are all the entries that indicate that they are still categorized as phantoms.

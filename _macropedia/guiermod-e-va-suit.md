@@ -10,14 +10,6 @@ categories: ["imperium equipment", "isaac taub authored", "survival equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/gruyonh-doyu'>Gruyonh Doyu</a></div>
-	<div class='col-md-4'><a href='/macropedia/guiermod-e-va-suit'>Guiermod E Va Suit</a></div>
-	<div class='col-md-4'><a href='/macropedia/hagurin-character-set'>Hagurin Character Set</a></div>
-</div>
-
-
-
 The **Guiermod Extra-Vehicular Activity Suit** is the paramount piece of non-atmospheric survival equipment available.
 
 ## History

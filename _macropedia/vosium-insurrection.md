@@ -9,8 +9,3 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/voshium-insurrection'>Voshium Insurrection</a></div>
-	<div class='col-md-4'><a href='/macropedia/vosium-insurrection'>Vosium Insurrection</a></div>
-	<div class='col-md-4'><a href='/macropedia/voushniya'>Voushniya</a></div>
-</div>

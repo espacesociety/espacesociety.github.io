@@ -9,8 +9,3 @@ group: Macropedia
 categories: []
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/pulse-cannon'>Pulse Cannon</a></div>
-	<div class='col-md-4'><a href='/macropedia/purivi-donar-system'>Purivi Donar System</a></div>
-	<div class='col-md-4'><a href='/macropedia/qadan-rom'>Qadan Rom</a></div>
-</div>

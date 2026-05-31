@@ -10,13 +10,6 @@ categories: ["imperium equipment", "boris helfstein authored", "miscellaneous eq
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/phantom-entries-list'>Phantom Entries List</a></div>
-	<div class='col-md-4'><a href='/macropedia/poly-control-slave-system'>Poly-Control Slave System</a></div>
-	<div class='col-md-4'><a href='/macropedia/popelof-project'>Popelof Project</a></div>
-</div>
-
-
 ## Poly-Control Slave System
 
 During the Early Imperium P Css were the dominant form of advanced military hardware control.

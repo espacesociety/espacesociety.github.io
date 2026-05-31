@@ -10,15 +10,6 @@ categories: ["imperium equipment edition", "issac taub authored", "medical techn
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/s-es-tre-l'>S Es Tre L</a></div>
-	<div class='col-md-4'><a href='/macropedia/s-me-e'>Sibrnetik Matrix Ether-Enabled</a></div>
-	<div class='col-md-4'><a href='/macropedia/sabanian-empire'>Sabanian Empire</a></div>
-</div>
-
-
-
-
 ## Overview
 The **Sibrnetik Matrix Ether-Enabled**, commonly referred to as SMEE, is a sub-cranial computer implant developed during the Expanse by Symbiosis, Ltd. The implant was developed as a means of incorporating an individual's computer and telecommunications in one unit, and have that unit be always at the ready. While technically illegal in the Imperium, access to SMEE hardware is possible among upperclass citizens and those in key positions of government.
 

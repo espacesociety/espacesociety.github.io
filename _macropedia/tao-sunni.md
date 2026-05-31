@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/stellar-treaty'>Stellar Treaty</a></div>
-	<div class='col-md-4'><a href='/macropedia/tao-sunni'>Tao Sunni</a></div>
-	<div class='col-md-4'><a href='/macropedia/tawmerik-dynasty'>Tawmerik Dynasty</a></div>
-</div>
-
-
 The Tao Sunni religion is an unusual "pidgin" religion formed sometime in the distant past on Terra itself. While like most "spiritual" religions, the Tao Sunni have little in the way of rational thought to offer, they do offer their followers an odd mix of peace and internal struggle. What little solid evidence can be had of the sects origins indicate that two Terran religions "Dhaoism" and "Islam" were in contact with each other from ancient times. Nothing indicates their union or particular compatibility until almost the advent of the Tao Sunni sect. While not firm evidence, stories from within the modern group indicate that followers of the two religions met in a land foreign to both, and somehow managed to merge their philosophies into one reasonably coherent whole.
 
 At the beginning of the ADEM era, the Tao Sunni had only two remaining colonies, one of which (Iadia) was dying as the after-effects of an unusual astronomical phenomenon often misinterpreted as an alien attack. However, the religion became quite fashionable among the educated for some time during the early years of the Imperium.

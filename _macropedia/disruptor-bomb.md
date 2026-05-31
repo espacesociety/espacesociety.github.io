@@ -9,12 +9,6 @@ group: Macropedia
 categories: ["imperium equipment", "boris helfstein authored", "combat equipment"]
 edited_at: 2025-01-08T10:42:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/dio-en-mashino'>Dio En Mashino</a></div>
-	<div class='col-md-4'><a href='/macropedia/disruptor-bomb'>Disruptor Bomb</a></div>
-	<div class='col-md-4'><a href='/macropedia/dkaden-works-m-eseries'>Dkaden Works M Eseries</a></div>
-</div>
-
 
 %3c%3c|[Macropedia/Imperium Equipment Index](/macropedia/imperium-equipment-index)|>>
 

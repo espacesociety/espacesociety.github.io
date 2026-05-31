@@ -10,15 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/anthorph'>Anthorph</a></div>
-	<div class='col-md-4'><a href='/macropedia/anthorph-free-state'>Anthorph Free State</a></div>
-	<div class='col-md-4'><a href='/macropedia/antius-trevus-one'>Antius Trevus One</a></div>
-</div>
-
-
-
-
 ## Origins
 
 The Anthoroph Free State is an unusual entity formed by refugees of the [Hundred Bloody Days](/macropedia/hundred-bloody-days). Although its exact nature and condition is difficult to imagine, [Kaldar Esra Yathara](/macropedia/kaldar-esra-yathara), a geneticist of [genetically enhanced descent](/macropedia/genetically-enhanced-peoples) began preparing for a quick exodus several years ago as racism gripped the Imperium during the [Interregnum](/macropedia/imperial-interregnum). At the time, he took much criticism as a reactionary and extremist. His preparations have been estimated to have saved up to half a million people from the worst of the [Bloody Pretender's](/macropedia/femaron-felard) depredations.

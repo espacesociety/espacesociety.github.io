@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/macabite-liferaft'>Macabite Liferaft</a></div>
-	<div class='col-md-4'><a href='/macropedia/macrodonic-collapse'>Macrodonic Collapse</a></div>
-	<div class='col-md-4'><a href='/macropedia/macropedia'>Macropedia Terradoma</a></div>
-</div>
-
-
 According to [Imperial Core Worlds](/macropedia/imperial-core-worlds)' legend, the final event that led to the [First Decline](/chronology/first-decline).  According to the most popular versions, Macrodyn Techtronics was a corporate entity contracted by the old Oligarchs to maintain the hop routes through the Soup.  This was accomplished by a group of complex AI systems.  Macrodyn eventually, like so many aspects of pre-Decline civilizations, became a closed society.  Tales differ on the exact place of A Is in this society, with some stating quite clearly that the A Is were tools, while others repeating whispers of a machine cult, ruled by the A Is themselves!
 
 Whatever the case, all stories agree that at some point Macrodyn began hiding growing problems with hop pollution by erasing and forging records.  Whether this was Macrodyn officials or, as one form of the story goes, the A Is themselves, achieving full consciousness, deciding that humanity should not travel among the stars, there was ultimately a substantial data storm.  The Macrodyn A Is, along with many other specialized A Is, were taken down.  The combination of a lack of accurate maps and the hop pollution made Soup travel from that point onward almost impossible, and the [First Decline](/chronology/first-decline) became irreversible.

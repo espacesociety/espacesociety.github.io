@@ -10,14 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/zenbrudi-war'>Zenbrudi War</a></div>
-	<div class='col-md-4'><a href='/macropedia/zophian-sisterhood'>Zophian Sisterhood</a></div>
-	<div class='col-md-4'><a href='/macropedia/zorastrian-reformed-cabal'>Zorastrian Reformed Cabal</a></div>
-</div>
-
-
-
 ## Overview
 
 Female religious order, one of the last surviving groups to adhere to the [Tao Sunni](/macropedia/tao-sunni) faith, renowned for their good works and their continuous battle for social justice.  With convents on almost every world, they are the most widespread religious group in the Imperium.  Despite some periods of persecution, they have long been tolerated by various rulers and factions due to their insistence upon political neutrality.

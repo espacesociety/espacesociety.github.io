@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/qanna-dabrian-two'>Qanna Dabrian Two</a></div>
-	<div class='col-md-4'><a href='/macropedia/qin-lop-shu'>Qin Lop Shu</a></div>
-	<div class='col-md-4'><a href='/macropedia/quijrad-lkrada-wars'>Quijrad Lkrada Wars</a></div>
-</div>
-
-
 ## 'The Skeptic's Path' or 'The Way of Doubting'
 
 Qin Lop Shu is the philosophy followed by most scholars in the Latter Imperium, and it is as well the most prominent philosophy practiced among the descendants of the [Genetically Enhanced Peoples](/macropedia/genetically-enhanced-peoples). While many ascribe Qin Lop Shu the title of religion, it lacks many features of religions and has some that are not found often, if at all, in religion.

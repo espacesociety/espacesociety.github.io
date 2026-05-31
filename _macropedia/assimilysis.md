@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/ascension-cults'>Ascension Cults</a></div>
-	<div class='col-md-4'><a href='/macropedia/assimilysis'>Assimilysis</a></div>
-	<div class='col-md-4'><a href='/macropedia/baelian-fiasco'>Baelian Fiasco</a></div>
-</div>
-
-
 A horrifying technique developed by the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) during the [Terran Republic](/macropedia/terran-republic) as a method of mind control.  For some time, its existence was unknown, or at least disbelieved.  [Charl Bovit](/macropedia/charl-bovit), that most insidious of BID directors, was, it was discovered long after, the person behind the development, and though many ill deeds can be linked to him, this one is surely the worst.
 
 The precise nature of the Assimilysis technique is unknown, all detailed documents forbidden to all save those who have a special Imperial dispensation.  Nevertheless, it is surmised that the technique involved some sort of tailored virus that could essentially rewrite genes in the brain dealing with ego and self-awareness.  By changing the genetic and neural structure of these areas of the brain, a person could conceivably become a mental slave, incapable of disobeying orders.

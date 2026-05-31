@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored", "transportation eq
 edited_at: 2025-01-08T10:44:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/dkaden-works-m-eseries'>Dkaden Works M Eseries</a></div>
-	<div class='col-md-4'><a href='/macropedia/dreohedge-gevar'>Dreohedge Gevar</a></div>
-	<div class='col-md-4'><a href='/macropedia/durin-bonish'>Durin Bonish</a></div>
-</div>
-
-
 The *Dreohedge Gevar* was a special research vessel used by [Klister University](/macropedia/klister-university) to solve many of the Creator's tests regarding [jump drives](/natural-sciences/brane-hopping) and other technology. Originally commissioned during the reign of Lendth Tawmerik, the *Dreohedge Gevar* quickly evolved a profusion of both [brane-hopping](/natural-sciences/brane-hopping) and slower-than-light modifications. It is the only vessel ever to have clearly recorded a recovery from a hop error. 
 
 As incidents and experiments began to collect in the history of the vessel, it developed quite a reputation as a sturdy and "lucky" ship. A heavily modified [Parthas Class Vessel](/macropedia/parthas-class-vessels), it had several redundant command, computation, and control centers to handle the extra drives and modifications sensibly. When the ship actually managed to recover from a bad hop, its reputation took on legendary proportions.

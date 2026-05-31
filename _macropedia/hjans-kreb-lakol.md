@@ -10,15 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/helsmunt-institute'>Helsmunt Institute</a></div>
-	<div class='col-md-4'><a href='/macropedia/hjans-kreb-lakol'>Hjans Kreb Lakol</a></div>
-	<div class='col-md-4'><a href='/macropedia/home-page'>Home Page</a></div>
-</div>
-
-
-
-
 ## The Man
 
 Hjanssy, as his close friends called him, remarked that he was very much two different men. Professionally, he was always behind a thick shell. How he presented himself to the public was not how he presented himself to close friends. He is regarded by many scholars to have been one of the most stubborn, high-spirited rulers in Terran history. Although, it should be noted that his egalitarian reforms pointed to the inner-Hjannsy. To his friends, he was always jovial and mild-mannered. The middle son of a widow (herself the supposed last of a line of the old Oligarchs), he always watched and waited, but never seemed to be noticed. As Premier, it is noted that many of his greater accomplishments were likewise rarely noticed until much later.

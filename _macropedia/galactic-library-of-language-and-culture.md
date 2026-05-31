@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/gahanian-seers'>Gahanian Seers</a></div>
-	<div class='col-md-4'><a href='/macropedia/galactic-library-of-language-and-culture'>Galactic Library Of Language And Culture</a></div>
-	<div class='col-md-4'><a href='/macropedia/gawdain-tawmerik'>Gawdain Tawmerik</a></div>
-</div>
-
-
 The largest library in the Imperium, founded by [Temba II](/macropedia/temba-two), and the repository of much of humanity's knowledge, from the [pre-Expanse](/chronology/first-expanse) period up until the present.  Considered one of the great gifts from the Emperors to their citizens, it is indispensable to anyone exploring the knowledge, history and wisdom of humanity.
 
 The Library is divided into three sections:

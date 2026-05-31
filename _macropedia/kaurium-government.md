@@ -10,13 +10,6 @@ categories: ["cho minh tel ran authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/kanth-tawmerik'>Kanth Tawmerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/kaurium-government'>The Kaurium Government</a></div>
-	<div class='col-md-4'><a href='/macropedia/kazam-re'>Kazam-Re</a></div>
-</div>
-
-
 The Kaurium System sports four suns. It also lent its name to an ineffective style of government. 
 
 The original Kaurium Government was a bizarre assortment of houses and individual executives with a startling lack of centrality. By one scholar's count, the original Kaurium Government had not less than 32 distinct legally valid methods of making a legislative decision. My research revealed no scholarly count of the number of valid methods for making an executive decision. By some process lost in the fog of time, the Kaurium Government acquired an exceedingly high number of rules of order. This process seemed to be ongoing and  featured layer upon layer of exceptions to other rules. For example: "Minister X may overrule the combined committees Y and Z in matters concerning A" however you shouldn't forget that "regardless of the issue, Minister X may be overridden by committees Y and Z, when approved by Minister W."

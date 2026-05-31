@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/quijrad-lkrada-wars'>Quijrad Lkrada Wars</a></div>
-	<div class='col-md-4'><a href='/macropedia/quixotic-maelstrom'>Quixotic Maelstrom</a></div>
-	<div class='col-md-4'><a href='/macropedia/r-ss-list'>R Ss List</a></div>
-</div>
-
-
 As route pollution dissipated, various research expeditions were sent out hoping to re-chart key routes and find new ones. The **{$Name}** was one of the earlier vessels. Many modern historians try to paint these expeditions as benevolent and peaceful. However, modern, scientific research exposes that many of these expeditions were sent as raiding parties. Even the most amateur historian would note that the entire Quixotic line of vessels were designed from the keel up as military craft with large cargo bays. The design had elaborate redundant systems to ensure that the weapons remained active, even as ship atmosphere was vented.
 
 The **{$Name}** is among the more ignoble of its class. Most historians briefly discuss how research resumed and routes were plotted and how this ship made a major discovery. To be certain, the mystery of the [Iadian Massacre](/macropedia/iadian-massacre) is one that makes for wonderful horror cinema. However, there never has been nor never shall be alien life. Extensive exploration has explored thousands of systems and not found any scientious life.

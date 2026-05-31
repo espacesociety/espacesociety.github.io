@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["multicat test", "imperium edition", "cho minh tel ran authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/bafiktuy-intelligence-directive'>Bafiktuy Intelligence Directive</a></div>
-	<div class='col-md-4'><a href='/macropedia/balanar-three'>Balanar Three</a></div>
-	<div class='col-md-4'><a href='/macropedia/bang-hai-nok-incident'>Bang Hai Nok Incident</a></div>
-</div>
-
-
 Balanar Dabrian III was a poor emperor who did little to prevent the Imperium's slide toward the Interregnum, and may have accelerated that slide.
 
 ## Thrust Into Power

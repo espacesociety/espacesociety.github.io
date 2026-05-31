@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/ghen-changh-liu'>Ghen Changh Liu</a></div>
-	<div class='col-md-4'><a href='/macropedia/gieliaden-sohia'>Gieliaden Sohia</a></div>
-	<div class='col-md-4'><a href='/macropedia/grand-reforms'>The Grand Reforms</a></div>
-</div>
-
-
 **Gieliaden Sohia** was one of the last trans-system ships of the [Terran Expanse](/chronology/first-expanse), and certainly the last one to reach its final destination.
 
 According to available records, the Gieliaden Sohia departed from the Acentam system during the waning years of the Terran Expanse, heading to the Waudbect system. In other times, it would have been a routine mission, but with the mounting problems with Soup travel, such trips were rarer and riskier. During those dimming days, people sought to return to their native systems. Trans-system ships were having a more difficult time travelling. The Gieliaden Sohia was but one such ship filled with returnees.

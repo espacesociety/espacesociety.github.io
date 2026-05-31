@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/ivan-dabrian'>Ivan Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/janoos-welkred'>Janoos Welkred</a></div>
-	<div class='col-md-4'><a href='/macropedia/jiao-banner-sphere'>The Jiao-Banner Sphere</a></div>
-</div>
-
-
 Self-styled journalist, publisher, novelist, archaeologist, soldier, politician and philosopher, who through his novels, short stories, essays and editorials played a key part in the formation of the [Terran Republic](/macropedia/terran-republic).
 
 Janoos Welkred was born on [Gazar](/star-systems/gazar), an important world in the growing collection of systems joining together after the return to FTL travel.  His father was a minor official in the [Gazar](/star-systems/gazar) government, and young Janoos received an excellent education.  Upon entering university, he studied law, but showed a greater interest in journalism.  He worked for a number of media outlets during this period, gaining his early fame for revealing the intentions of the [Gazar](/star-systems/gazar) government to invade a neighboring star system, leading to a major political upheaval.

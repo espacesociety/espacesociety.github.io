@@ -10,14 +10,6 @@ categories: ["imperium equipment", "boris helfstein authored", "medical equipmen
 edited_at: 2025-01-08T10:53:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/enhanced-autonomous-research-laboratory'>Enhanced Autonomous Research Laboratory (E.A.R.L.)</a></div>
-	<div class='col-md-4'><a href='/macropedia/enhanced-soldier-systems'>Enhanced Soldier Systems</a></div>
-	<div class='col-md-4'><a href='/macropedia/entering-first-decline'>Entering The Terran Decline</a></div>
-</div>
-
-
-
 ## Enhanced Soldier Systems
 
 Back in the days of the [Terran Republic](/macropedia/terran-republic) and [Early Imperium](/macropedia/imperium-macropedia-timeline) plenty of people with "pure" Terran ancestry had deep-seated fears of genetic enhancement. Confronted by the obvious physical superiority of some [Anthorph](/macropedia/anthorph) breeds, they were psychologically impelled to take compensatory risks.

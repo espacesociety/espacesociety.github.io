@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/jupiter-rocket'>Jupiter Rocket</a></div>
-	<div class='col-md-4'><a href='/macropedia/kabal-nebrotensia'>Kabal Nebrotensia</a></div>
-	<div class='col-md-4'><a href='/macropedia/kaldar-esra-yathara'>Kaldar Esra Yathara</a></div>
-</div>
-
-
 In a time of desperation, the Emperor Falther Tawmerik formed a group of Tawmerik-loyal zealots into a quasi-legal killing force to restore wealth and power to the Imperial Throne. Somewhere between privateers and assassins, the Kabal was a feared force that helped push the Imperium to one of its bloodiest "secret wars," the [Endyphad Konjrez](/macropedia/endyphad-konjrez). During the reign of [Temba II](/macropedia/temba-two) open fighting between Imperial citizens and groups became almost unheard of. The Kabal ended that time of relative peace with a murderous campaign of thievery, extortion, and kidnapping.
 
 While not single-handedly responsible for the times of subtle terror that followed the [Endyphad Konjrez](/macropedia/endyphad-konjrez), the behavior of the Kabal was definitely the primary contributing factor to the development of the "Security Firm" era, which figured so prominently in the High Imperium. Perhaps more tragically, the operation was of limited value to the Tawmerik family. Despite all the maneuvering and carnage, the Tawmeriks only managed to hang on for one more generation to power.

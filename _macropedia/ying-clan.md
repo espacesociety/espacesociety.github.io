@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/yauwza-magruder'>Yauwza Magruder</a></div>
-	<div class='col-md-4'><a href='/macropedia/ying-clan'>Ying Clan</a></div>
-	<div class='col-md-4'><a href='/macropedia/ying-sho-dahn-drive-works'>Ying Sho Dahn Drive Works</a></div>
-</div>
-
-
 The Ying Clan emerged from the Decline as the ruling class of a small agrarian world, [Providence](/star-systems/providence). Their clan history claimed that they were a religious sect persecuted heavily in their homeland, but supported by missionaries from another part of Terra. While it is not perfectly clear, and much detail has been lost, it appears that they originated somewhere on the Eastern part of the Terran Continent Asia. In any case, the original colonists came upon a paradisaical world and named it Providence, believing it to be a blessing from the Creator.
 
 Archaeological study has revealed that their history is rife with twists, turns, and outright reversals of their belief system. A study in 89 ADEM revealed at least 7 distinct belief systems practiced by the Ying as the "true" religion. Researchers were discouraged from looking further into their history as increasing evidence of bloody conflict began to surface. The prominent systems of that time took a very dispassionate view of things, and reacting violently to another's faith would be frowned upon. (Reacting violently to those who ignore your teachings or commit sins seemed _de rigueur_, though.)

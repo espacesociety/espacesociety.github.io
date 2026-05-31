@@ -10,15 +10,6 @@ group: Macropedia
 categories: ["chang singh authored", "imperium edition"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/charl-bovit'>Charl Bovit</a></div>
-	<div class='col-md-4'><a href='/macropedia/chogia-faith'>Chogia Faith</a></div>
-	<div class='col-md-4'><a href='/macropedia/chovim-family'>Chovim Family</a></div>
-</div>
-
-
-
-
 ## Overview
 The Chogia Faith is the religion of the merchant [Imudring](/macropedia/imudring), whose origins, though clouded by long stretches of time, seem to be some time in the late [Expanse](/chronology/first-expanse) period.  While there are some other adherents, the Imudring rarely recognize anyone not of their own ethnological group.
 

@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/twist-of-fate'>Twist Of Fate</a></div>
-	<div class='col-md-4'><a href='/macropedia/umarian-guard'>Umarian Guard</a></div>
-	<div class='col-md-4'><a href='/macropedia/unlek-syndrome'>Unlek Syndrome</a></div>
-</div>
-
-
 The Umarian Guard was first formed during the reign of Empress [Lenda Tawmerik](/macropedia/lenda-tawmerik), as a private security and intelligence force attached directly to the Imperial office.  In part this was a response to the Empress's opinion that the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) had gained too much of a monopoly on intelligence, and that the [Imperial Congress](/macropedia/imperial-congress) had gained too much influence over the Imperium's armed forces.
 
 The Umarian Guard was, for many years, chosen from among the elite members of various intelligence and armed forces services throughout the Imperium.  [BID](/macropedia/bafiktuy-intelligence-directive) agents were explicitly forbidden from entry, to prevent the organization from subsuming the Guard into its own intelligence network.

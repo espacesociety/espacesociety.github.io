@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/rouphi-academy'>Rouphi Academy</a></div>
-	<div class='col-md-4'><a href='/macropedia/route-mapping-commission'>Route Mapping Commission</a></div>
-	<div class='col-md-4'><a href='/macropedia/s-es-tre-l'>S Es Tre L</a></div>
-</div>
-
-
 Historically, the greatest myopia of Humanity has been managing its space travel&ndash;most specifically travel through the Soup. The lesson of the Decline should have been that inefficient management of Soup travel leads inevitably to isolation. However, that lesson was conveniently forgotten during the peak of the Imperium. We are now left with that legacy as systems have again disappeared.
 
 The **Route Mapping Commission** was established after the Society for Soup Sailing proved an ineffective volunteer organization. That Society's goal was to maintain records of shipping between systems. By analyzing the trip computers of Soup-capable vessels, they hoped to detect when local Hop pollution began to constrict the shipping lane. Ideally, the Society would then recommend alternate routes and give that lane a chance to recover.

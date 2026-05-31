@@ -10,13 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "survival equipment
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/raoul-tammerik'>Raoul Tammerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/raptor-combat-suit'>Raptor Combat Suit</a></div>
-	<div class='col-md-4'><a href='/macropedia/reformed-bank-of-the-empire'>Reformed Bank Of The Empire</a></div>
-</div>
-
-
 ## Overview
 
 Popular combat EVA suit, employed by security firms, mercenaries and even by merchants who do business in dangerous systems.

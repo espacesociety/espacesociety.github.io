@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/berryman-sensor-array'>Berryman Sensor Array</a></div>
-	<div class='col-md-4'><a href='/macropedia/bitanium-fibre-exploration-corporation'>Bitanium Fibre Exploration Corporation</a></div>
-	<div class='col-md-4'><a href='/macropedia/black-hand'>Black Hand</a></div>
-</div>
-
-
 A late [Decline](/chronology/first-decline) mineral exploration company, founded on [Novya Siberia](/star-systems/novya-siberia) about sixty standard years before hop space travel again became possible, largely to access the resources of that system.
 
 With the return to FTL travel, BFEC became one of the first companies in human space to utilize hop space commercially, not only creating the first exploratory fleet since the [First Expanse](/chronology/first-expanse), but also opening branch offices on a number of systems.

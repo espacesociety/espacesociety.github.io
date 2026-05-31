@@ -10,15 +10,6 @@ categories: ["imperium edition", "isaac taub authored", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/terradom'>Terradom</a></div>
-	<div class='col-md-4'><a href='/macropedia/terran-republic'>Terran Republic</a></div>
-	<div class='col-md-4'><a href='/macropedia/terran-republic-timeline'>Terran Republic Timeline</a></div>
-</div>
-
-
-
-
 Capital: [Corrigan](/macropedia/corrigan-system)
 
 See [Terran Republic Timeline](/macropedia/terran-republic-timeline)

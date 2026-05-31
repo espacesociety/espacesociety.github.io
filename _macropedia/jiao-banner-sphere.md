@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/janoos-welkred'>Janoos Welkred</a></div>
-	<div class='col-md-4'><a href='/macropedia/jiao-banner-sphere'>The Jiao-Banner Sphere</a></div>
-	<div class='col-md-4'><a href='/macropedia/jubal-four'>Jubal I V</a></div>
-</div>
-
-
 During the [Terran Decline](/chronology/first-decline) most of the star systems where humans had come to dwell were separated and out of contact with each other. Unable to travel to the stars, and with worlds to tame, and Test from the Creator to pass, most people forgot the knowledge of the stars. Then, after a disputed length of time not more than 5,000 standard years and certainly not less than 500, some worlds and people began to take the first tentative steps back to the stars.
 
 Once the mythologies and fragmented histories of the worlds were compared, finding Terra became something of an archaeological moral imperative. But after all this time, what would it look like? Which legends of Terra were true? In some cases, childish disputes over the "natural" state of mankind arose. It was well-known that life forms had been transplanted to and from earth, so even that didn't help much. 

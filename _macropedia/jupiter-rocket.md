@@ -9,12 +9,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored", "transportation equipment", "imperium equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/jubal-two'>Jubal I I </a></div>
-	<div class='col-md-4'><a href='/macropedia/jupiter-rocket'>Jupiter Rocket</a></div>
-	<div class='col-md-4'><a href='/macropedia/kabal-nebrotensia'>Kabal Nebrotensia</a></div>
-</div>
-
 
 %3c%3c|[Macropedia/Imperium Edition Index](/macropedia/imperium-edition-index)|>>
 %3c%3c|[Macropedia/Imperium Equipment Index](/macropedia/imperium-equipment-index)|>>

@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/perez-family'>Perez Family</a></div>
-	<div class='col-md-4'><a href='/macropedia/periphery'>Periphery</a></div>
-	<div class='col-md-4'><a href='/macropedia/perkentov-covenent'>Perkentov Covenent</a></div>
-</div>
-
-
 The **Periphery** is a bit of a misnomer. As most recall from elementary astronavagonics, the physical location of systems within the Imperium bear little resemblance to their astronavagonic location. Two systems may be separated by thousands of light years yet be only a few weeks travel time in the Soup. However, most try to conceptualize the Imperium as a series of fixed-distance systems. This is typically done by drawing systems in a sphere where each is located roughly based on its travel distance.
 
 The Periphery, therefore, are those systems that either have travel times in such excess that they are difficult to reach, or those systems that are only easily accessible by systems that are themselves rather difficult to reach from the [Imperium Core Worlds](/macropedia/imperial-core-worlds). The exact number of systems is still open to debate as the assumption is many of these systems have been intentionally concealed from the Imperium. However, numbers from twenty to fifty are the commonly accepted range.

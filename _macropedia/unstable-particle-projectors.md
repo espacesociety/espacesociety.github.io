@@ -9,12 +9,6 @@ group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored", "imperium equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/unlek-syndrome'>Unlek Syndrome</a></div>
-	<div class='col-md-4'><a href='/macropedia/unstable-particle-projectors'>Unstable Particle Projectors</a></div>
-	<div class='col-md-4'><a href='/macropedia/untara-drive-control'>Untara Drive Control</a></div>
-</div>
-
 
 When the [Frontier Rebellion](/macropedia/frontier-rebellion) began, the [Alaerian Cult](/macropedia/alaerian-cult) controlled many ships, but mostly they were civilian vessels, lightly armed. They did control the [Kaurium System](/star-systems/kaurium-system) and its excess of [Jupiter Rocket](/macropedia/jupiter-rocket)s. Trade and production were disrupted throughout the systems they controlled, making weapons development nigh impossible.
 

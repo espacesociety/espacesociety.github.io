@@ -10,15 +10,6 @@ categories: ["imperium edition", "isaac taub authored", "religion"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/zophian-sisterhood'>Zophian Sisterhood</a></div>
-	<div class='col-md-4'><a href='/macropedia/zorastrian-reformed-cabal'>Zorastrian Reformed Cabal</a></div>
-	<div class='col-md-4'><a href='/'></a></div>
-</div>
-
-
-
-
 The **Zorastrian Reformed Cabal**, known as the Zurks, claim their faith reaches back to the beginning of humankind. Of course, most cults make such claims. However, they have holy writings that at least establish that their faith pre-dates space travel. Scholars typically refuse to consider history that ancient&ndash;so the Zurks being able to establish themselves that far is a considerable feat indeed.
 
 The [Fau System](/star-systems/fau-system) is home to the Zurk faith. Although they claim ancient ties, their faith is uniquely centered on Fau Twid, one of the main planets of that system. They believed in two beings, one of great good and the other of great evil. Their faith revolved around seeking to be good by avoiding social relations with non-Zurks. Their faith had many converts, but strict laws required that only convert's grand-children could marry a Zurk&ndash;and then only the women.

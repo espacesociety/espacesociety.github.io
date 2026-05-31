@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/novya-siberia-belshane-war'>Novya Siberia Belshane War</a></div>
-	<div class='col-md-4'><a href='/macropedia/odni-planyeti'>Odni Planyeti</a></div>
-	<div class='col-md-4'><a href='/macropedia/oneric-devices'>Oneric Devices</a></div>
-</div>
-
-
 When the [Frontier Scout Fleet](/macropedia/frontier-scout-fleet) first entered the system of Odni Planyeti, they found an abandoned colony and a frightening lesson for us all. They also found an entrancing archaeological mystery. As one might expect from its location out in the far frontiers of the empire, Odni Planyeti was first colonized late in the Colonial Exodus period. Its name derives from the dominant language of the colonists (apparently from a Terran nation called Ruccia) and means "One Planet." This is not surprising when one considers that the `G4 star is orbited by one planet of any size, and one asteroid.
 
 Those original colonists must have considered themselves lucky. They found a grand world with a lush carpet of life. The planet was large, but significantly less dense than Terra, so its gravity remained comfortable. Unfortunately, the colonists would soon discover that this was because Odni's crust was amazingly poor in heavier metals like copper, iron, and others. While the native life had evolved under these conditions, Terran crops fared poorly. Terran animals, including the colonists, fared even worse. Thus, the colonists faced a great Test. 

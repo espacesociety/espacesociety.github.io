@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/tao-sunni'>Tao Sunni</a></div>
-	<div class='col-md-4'><a href='/macropedia/tawmerik-dynasty'>Tawmerik Dynasty</a></div>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-auto-scout'>Telefreiber Auto Scout</a></div>
-</div>
-
-
 ### Tawmerik Emperors:
 * [Reth I](/macropedia/reth-tawmerik-i)
 * Reth II

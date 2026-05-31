@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2025-01-08T10:58:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/f-ad-ap'>Fully Autonomous Data Acquisition Personalities </a></div>
-	<div class='col-md-4'><a href='/macropedia/fasantauri-system'>Fasantauri System</a></div>
-	<div class='col-md-4'><a href='/macropedia/federov-assault-rifle'>Federov Assault Rifle</a></div>
-</div>
-
-
 See also: [Alpha Centauri](/star-systems/alpha-centauri)
 
 

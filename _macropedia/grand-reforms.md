@@ -10,14 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/gieliaden-sohia'>Gieliaden Sohia</a></div>
-	<div class='col-md-4'><a href='/macropedia/grand-reforms'>The Grand Reforms</a></div>
-	<div class='col-md-4'><a href='/macropedia/gravito-magnetic-sensor-sheaths'>Gravito Magnetic Sensor Sheaths</a></div>
-</div>
-
-
 Starting with the Empress [Qanna Dabrian II](/macropedia/qanna-dabrian-two), the Imperium suffered a series of unfortunate rulers. Among other problems, the galactic economy was thrown into turmoil and feuding among other powerful families became a terror on many worlds. The populist revolts on several worlds, executions of royal family members and the resulting quandary with the [King Traih League](/macropedia/king-traih-league) highlighted the problems to the point where even the aristocratic families couldn't deny them. In the end, The Grand Reforms swept the Imperial government. The Reforms are commonly viewed as the end of the  High Imperium.
 
 The chief objective of the Grand Reforms was to insulate the Imperial household resources from the Imperial Governmental resources. Coincidentally, the reforms also introduced significant restraints on the other elite families of the Imperium. While still technically the purview of the relevant throneholders (galactic and planetary), many issues and activities came to require approval by either the [Imperial Congress](/macropedia/imperial-congress) or by the relevant local legislative bodies.

@@ -9,12 +9,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/trilis-incident'>Trilis Incident</a></div>
-	<div class='col-md-4'><a href='/macropedia/twist-of-fate'>Twist Of Fate</a></div>
-	<div class='col-md-4'><a href='/macropedia/umarian-guard'>Umarian Guard</a></div>
-</div>
-
 
 Popular history names the Twist of Fate the first vessel to return to Branespace travel after the long centuries of the [Decline](/chronology/first-decline).  Indeed the first flight of the Twist of Fate is a major watermark, the culmination of decades of work, and the first concrete step back into interstellar travel for the vast majority of humanity.
 

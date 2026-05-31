@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/assimilysis'>Assimilysis</a></div>
-	<div class='col-md-4'><a href='/macropedia/baelian-fiasco'>Baelian Fiasco</a></div>
-	<div class='col-md-4'><a href='/macropedia/bafiktuy-intelligence-directive'>Bafiktuy Intelligence Directive</a></div>
-</div>
-
-
 The **Baelian Fiasco** was the most overt action taken by the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) (BID). Historically, it was a major embarrassment for the Imperium, which does not embarrass easily—as history has shown.
 
 Ocheledge was a planet with a significant mining operation in the [Bael System](/star-systems/bael-system). It was a quality source of many industrial metals as well as an odd abundance of precious metals. It was named for the Baelian family—one of the Oligarch families from the pre-Imperial era. The Baelian family still owned the mine, as they did the rest of the system, and this provided them with an unusual amount of wealth—even when the [Index Imperium](/macropedia/reformed-bank-of-the-empire) was the dominant way of determining wealth. Although, it is worth mentioning that the Baelian family technically owned all its system's citizens.

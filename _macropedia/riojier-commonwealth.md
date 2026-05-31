@@ -10,15 +10,6 @@ categories: ["chang singh authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/rights-of-the-imperial-citizen'>Rights Of The Imperial Citizen</a></div>
-	<div class='col-md-4'><a href='/macropedia/riojier-commonwealth'>Riojier Commonwealth</a></div>
-	<div class='col-md-4'><a href='/macropedia/riojier-system'>Riojier System</a></div>
-</div>
-
-
-
-
 ## Description
 
 The Riojier Commonwealth is one of the few states that has managed to remain independent even during the height of High Imperium expansion.  It is centered on the [Riojier System](/star-systems/riojier-system), and though hard data on all its holdings is difficult to come by, it is made up of at least thirty habitable worlds and probably three or four times that many research, resource extraction and industrial systems.

@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/migar-comm'>Migar Comm</a></div>
-	<div class='col-md-4'><a href='/macropedia/ministry-of-cultural-development'>Ministry Of Cultural Development</a></div>
-	<div class='col-md-4'><a href='/macropedia/mnovellii-collective'>Mnovellii Collective</a></div>
-</div>
-
-
 Imperium government ministry, founded out of the merger of a number of departments by [Temba II](/macropedia/temba-two) as part of his sweeping plans to produce a galactic culture.  Given a vast budget, its purpose was to finance and manage various cultural projects such as theaters, symphonies, museums and fairs.
 
 Within a few generations the Ministry had become a place for Emperors and politicians to stick patronage appointees.  Its large budget often ended up either being spent on ill-conceived projects or outright misappropriated by directors.

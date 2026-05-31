@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/wecing-doozium'>Wecing Doozium</a></div>
-	<div class='col-md-4'><a href='/macropedia/welgan-tyrox'>Welgan Tyrox</a></div>
-	<div class='col-md-4'><a href='/macropedia/welkred-communications'>Welkred Communications</a></div>
-</div>
-
-
 Welgan Tyrox ranks among the top scientists ever produced by the Imperium. His crowning achievement was the development of small-scale artificial intelligence (AI) that maintained psychological stability. However, Tyrox was also a master self-promoter.
 
 ## Tyro Levels and Shipborne AI

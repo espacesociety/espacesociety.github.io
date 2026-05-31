@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/gawdain-tawmerik'>Gawdain Tawmerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/genetically-enhanced-peoples'>Genetically Enhanced Peoples</a></div>
-	<div class='col-md-4'><a href='/macropedia/gesceamian-choent'>Gesceamian Choent</a></div>
-</div>
-
-
 Generally, the term "Genetically Enhanced Peoples" refers specifically to [Anthorph](/macropedia/anthorph)s and other closely related peoples in populated space.  The [Anthorph](/macropedia/anthorph)s are a genetically diverse people bound by some similarities in culture, custom and faith.
 
 There have been other populations of genetically enhanced peoples that are generally not classified as being [Anthorph](/macropedia/anthorph)s.  Many of these are descendants of pre-Anthorph experiments, particularly during the [First Expanse](/chronology/first-expanse).  There are records of many such experiments from this earliest period of space travel.  So-called Belters that lived in the rocky asteroid belt of the Terran system were said to have had alterations done to make living for extended periods in zero-g environments easier.  The descendants of these Belters still live today, most not having stood on a planetary surface in millennia.

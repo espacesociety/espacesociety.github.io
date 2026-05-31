@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/ministry-of-cultural-development'>Ministry Of Cultural Development</a></div>
-	<div class='col-md-4'><a href='/macropedia/mnovellii-collective'>Mnovellii Collective</a></div>
-	<div class='col-md-4'><a href='/macropedia/morsh-furnoklin'>Morsh Furnoklin</a></div>
-</div>
-
-
 The **Mnovellii Collective** remains one of the most perplexing groups ever to be remembered by history. Calling themselves the Collective, this group of anarchists united for a common goal of ripping the seam of Imperial society and returning to the period before the [Pan Terran Defense Treaty Council](/macropedia/pan-terran-defense-treaty-council).
 
 The Collective evaded authorities for years because of their amorphic organization. They also evaded because there were many who either envied the Tawmerik's power or sought a return to the [Terran Republic](/macropedia/terran-republic). The Collectivists did not care for either, but enjoyed the covert protection by several Oligarch families. Even the families who helped did not know which other within the Oligarch were helping. The [Directive](/macropedia/bafiktuy-intelligence-directive) had a difficult time infiltrating the organization. Once one cell was infiltrated, the Collective seemed to simply sever ties with that cell. This has led many to contend that the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) was either infiltrated by members of the Collective, or that the Directive sponsored the Collective.

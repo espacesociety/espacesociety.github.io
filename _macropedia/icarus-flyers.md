@@ -10,13 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "luxury equipment",
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/iadian-massacre'>Iadian Massacre</a></div>
-	<div class='col-md-4'><a href='/macropedia/icarus-flyers'>Icarus Flyers</a></div>
-	<div class='col-md-4'><a href='/macropedia/imperial-congress'>The Imperial Congress</a></div>
-</div>
-
-
 ## Overview
 
 Popular recreational craft, the Icarus Flyer is a body suit with micro-carbon filament wings and a small but powerful electric engine capable of up to two hours of sustained flight on planets of average gravity and atmospheric density.

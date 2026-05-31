@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/weng-zhu-li'>Weng Zhu Li</a></div>
-	<div class='col-md-4'><a href='/macropedia/witi-emplaser-incident'>Witi Emplaser Incident</a></div>
-	<div class='col-md-4'><a href='/macropedia/woth'>Woth Of Voushniya</a></div>
-</div>
-
-
 The Witi Emplaser incident is recorded in the archives of the [Fasantauri System](/macropedia/fasantauri-system) and within the confines of that system was an important watershed in the development of the organizations that would eventually help found the [Terran Republic](/macropedia/terran-republic) and the Imperium itself.
 
 In the [Fasantauri System](/macropedia/fasantauri-system), Witi is the small moon orbiting [Glacia](/star-systems/alpha-centauri). Approximately 450 years BDEM, Witi held no colony, but did host a system of drive lasers for [Imudring](/macropedia/imudring) solar-sail vessels in the system. Additionally, since the sails were losing popularity, many of the lasers had been coopted into an attempt to create artificial wormholes. [Glacia](/star-systems/alpha-centauri) experienced something of a revolt. Records appear to have been  purged after the revolt was suppressed. However, it does appear that the Glacians did not feel they were properly represented by the managers of the [Fully Integrated Corporation](/macropedia/fully-integrated-corporation)s.

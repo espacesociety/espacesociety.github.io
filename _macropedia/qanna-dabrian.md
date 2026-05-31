@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/qadan-rom'>Qadan Rom</a></div>
-	<div class='col-md-4'><a href='/macropedia/qanna-dabrian'>Qanna Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/qanna-dabrian-two'>Qanna Dabrian Two</a></div>
-</div>
-
-
 Qanna Dabrian's humble start would give no clue to her later power, nor the Dynasty she would found. She was born to a lesser house in the Dabrian clan. She did notably poorly in her education and was not considered particularly beautiful. She did, however, have a knack for knowing how power flowed.
 
 The Dabrian family was preparing to make an important bid for power. They had been maneuvering for decades and the persistently unambitious Tawmerik emperors were doing little to stop them. So it came to pass that the Dabrian elders and the Tawmerik power brokers decided to see if they could forge a match among their youngsters.

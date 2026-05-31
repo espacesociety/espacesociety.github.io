@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/merithian-revolution'>Merithian Revolution</a></div>
-	<div class='col-md-4'><a href='/macropedia/messen-fremezulejo'>Messen Fremezulejo</a></div>
-	<div class='col-md-4'><a href='/macropedia/migar-comm'>Migar Comm</a></div>
-</div>
-
-
 **Messen Fremezulejo** remains one of the more colorful historical figures during the period of the Proto-Empire. He was born Voshium-Rientful Messeno Adontful in one of the smaller systems (Voshium) that, on the day of his birth, was reunited to the Terradoma. When he was in his early twenties, he traveled to what are now known as the [Imperial Core Worlds](/macropedia/imperial-core-worlds) to negotiate the release of several priests being held hostage by the [Terran Republic](/macropedia/terran-republic). When he returned home, he found his homeworld teetering on the edge of isolationism, if not insurrection from the Republic.
 
 His handful of years within the Core Worlds, he knew the cause was pointless. Now that they had rejoined, their system could not easily leave. He had managed to gain some prominence in local politics, and did what he could to keep the various factions from igniting an insurrection. However, when he saw the system falling over the edge, he opportunistically jumped into a position as a leader of a small army. Soon afterward, the fighting began in earnest and became known as the [Voshium Insurrection](/macropedia/voshium-insurrection).

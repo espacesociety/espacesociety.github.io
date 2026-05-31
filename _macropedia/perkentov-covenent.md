@@ -10,13 +10,6 @@ categories: ["chang singh authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/periphery'>Periphery</a></div>
-	<div class='col-md-4'><a href='/macropedia/perkentov-covenent'>Perkentov Covenent</a></div>
-	<div class='col-md-4'><a href='/macropedia/petras-godane'>Petras Godane (Adm. I Sf)</a></div>
-</div>
-
-
 A major offshoot of the [Kuberian Movement](/macropedia/kuberian-movement) that first branched off shortly after the death of Hans Richter Kuber.  Its founder and first leader was Ysak Perkentov, who believed that enlightenment and peace could only be found through the rejection of material pleasures.  It was hardly a new message, but Perkentov's charisma was enough to win over small groups throughout the Imperium.  Perkentov was also more skillful than most of these post-Kuberian gurus in picking his heir, a former tax assessor named Wizen Croff.  Croff herself had reputedly been a student of Kuber, and it is she that put her stamp on the movement and gave it its final name; the Perkentov Covenent.
 
 The Perkentovs were of little interest to the Imperium at the time.  They tended to keep to themselves, living in cloistered communities and producing enough goods (in the forms of textiles and trinkets) to sustain any needs that they might not be able to provide through agricultural activities.  They were just one of dozens of peculiar cults, and there were certainly more important fish to fry.

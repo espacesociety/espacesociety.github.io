@@ -10,15 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/qin-lop-shu'>Qin Lop Shu</a></div>
-	<div class='col-md-4'><a href='/macropedia/quijrad-lkrada-wars'>Quijrad Lkrada Wars</a></div>
-	<div class='col-md-4'><a href='/macropedia/quixotic-maelstrom'>Quixotic Maelstrom</a></div>
-</div>
-
-
-
-
 ## Origins of the Families
 The Quijrad and Lkrada were two important families in the Imperium who came to prominence after the Tawmeriks had overthrown the Terran Republic.  The Quijrad were an [Anthorph](/macropedia/anthorph) clan that had made great fortunes in interstellar piracy, and were able to fend off most attempts to end their illicit business with large bribes.  The Lkrada were a merchant family who claimed, via the complex (and highly questionable) genealogies of [R. B. Muzgersun's Human Histories](/macropedia/muzgersuns-history) to be descended from pre-Decline potentates.  In reality, they were likely pirates themselves, though with an eye for the developing Imperium aristocracy.
 

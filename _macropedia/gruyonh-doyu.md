@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/gravito-magnetic-sensor-sheaths'>Gravito Magnetic Sensor Sheaths</a></div>
-	<div class='col-md-4'><a href='/macropedia/gruyonh-doyu'>Gruyonh Doyu</a></div>
-	<div class='col-md-4'><a href='/macropedia/guiermod-e-va-suit'>Guiermod E Va Suit</a></div>
-</div>
-
-
 The Gruyonh Doyu are a fine example of how genetic engineering can be used to pass the Tests the Creator leaves for us. According to their own records, when the ancestors of the Gruyonh Doyu first came to their home system, they found it a great challenge indeed. Only one planet was remotely habitable, their sun was small and white, shedding much bright and dangerous radiation. The world was large, almost 3.2 standard Gees at the surface. It was, teeming with life, but the surface was almost uninhabitable by men. Large, volcanic ranges constantly spewed normally toxic gasses into the atmosphere, and the thick atmosphere made the surface unbearably hot for earth life. 
 
 Those initial brave colonists found themselves in a dilemma. They did not have sufficient fuel or resources to return. Surveys revealed that their system didn't have enough asteroid resources to support a growing colony, so the planet was their only choice, but how? And how could they compete with the native life? The answer was to change themselves. They combined much of their resources into one great station, which the modern Gruyonh Doyu still refer to as "mother" in their tongue. In that station, they started a program that is reported to have lasted 4 generations. Each generation, they incorporated more modifications from the native and terrestrial life, and each generation, they spun the station faster to simulate higher gravity. The fifth generation came to walk unprotected on the planet's surface. 

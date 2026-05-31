@@ -10,13 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "combat equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/macropedia'>Macropedia Terradoma</a></div>
-	<div class='col-md-4'><a href='/macropedia/magnetic-fleas'>Magnetic Fleas</a></div>
-	<div class='col-md-4'><a href='/macropedia/merithian-revolution'>Merithian Revolution</a></div>
-</div>
-
-
 ## Overview
 
 Probably the most revolutionary development in infantry weapon technology in the during the Imperium era.  Magnetic fleas have the advantages of conventional ballistic technology; targetable and capable of self-acceleration.

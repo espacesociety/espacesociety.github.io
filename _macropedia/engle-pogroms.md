@@ -10,15 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2025-01-08T10:51:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/endyphad-konjrez'>Endyphad Konjrez</a></div>
-	<div class='col-md-4'><a href='/macropedia/engle-pogroms'>Engle Pogroms</a></div>
-	<div class='col-md-4'><a href='/macropedia/enhanced-autonomous-research-laboratory'>Enhanced Autonomous Research Laboratory (E.A.R.L.)</a></div>
-</div>
-
-
-
-
 ## Introduction
 One of the most infamous events in a period of upheaval after the failure of the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty).  It saw leading Tawmerik-era bureaucrats intellectuals imprisoned, and in some notorious cases, murdered.
 

@@ -10,13 +10,6 @@ categories: ["imperium equipment", "boris helfstein authored", "data and communi
 edited_at: 2025-01-08T10:56:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/esperopteris-koinsii'>Esperopteris Koinsii</a></div>
-	<div class='col-md-4'><a href='/macropedia/ether'>Ether</a></div>
-	<div class='col-md-4'><a href='/macropedia/f-ad-ap'>Fully Autonomous Data Acquisition Personalities </a></div>
-</div>
-
-
 ## Overview
 
 An Ether is an electromagnetic communications network. Generally connecting several computers, monitors, and a variety of other hardware.

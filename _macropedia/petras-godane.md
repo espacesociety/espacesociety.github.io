@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/perkentov-covenent'>Perkentov Covenent</a></div>
-	<div class='col-md-4'><a href='/macropedia/petras-godane'>Petras Godane (Adm. I Sf)</a></div>
-	<div class='col-md-4'><a href='/macropedia/phantom-entries-list'>Phantom Entries List</a></div>
-</div>
-
-
 Petras Godane is still a controversial figure from the era of the High Imperium. Raised as an aristocrat in [Fasantauri System](/macropedia/fasantauri-system), he was noted for his abilities as a leader early in life. Much to his family's annoyance, Petras entered the Imperial Star Fleet. It is often presumed, though little data confirms, that he did this as a tack to gain personal fame for later political power.
 
 Once in the Fleet, Godane's tactical skills were immediately evident, and he shortly was promoted up to the rank of Captain. He was master of the Comet class interceptor *Kazama* when the Uvane Merith province broke out in violent revolt. While Godane's performance as officer was outstanding, the ground forces were having little luck in maintaining order in the systems. When rebels started taking control of the boost lasers, the Fleet was forced into retreat. In the requisite pogrom following the embarrassment, Godane somehow wormed his way to the rank of Admiral.

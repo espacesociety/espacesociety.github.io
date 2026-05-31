@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/antius-trevus-two'>Antius Trevus Two</a></div>
-	<div class='col-md-4'><a href='/macropedia/arturo-san-degas'>Arturo San Degas</a></div>
-	<div class='col-md-4'><a href='/macropedia/ascension-cults'>Ascension Cults</a></div>
-</div>
-
-
 Scholars herald **Arturo San Degas** as the greatest [King Traih League](/macropedia/king-traih-league) monarch for he mastered the art of Imperium diplomacy and left behind a legacy that allowed subsequent monarchs to follow in his example. He also established an effective Constitutional monarchy with the League Accordant near the end of his reign. Posthumously he was re-titled King Traih I.
 
 Being an effective monarch, Arturo realized that his was a rare government. Previous monarchs had varying levels of efficiency and corruption. He was the son of King San Degas IV of Arturon. As the youngest of seven sons, Arturo's father never expected him to be king, so he allowed his son educational opportunities not afforded his elder brothers. Thus, his son received dual PhDs in Political Science and Law. Seen as the blueprint for his reign, his dissertations detailed the effect of inter-sovereign law in the League and the importance of a stable government that functions outside an autocrat.

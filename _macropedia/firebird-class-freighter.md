@@ -10,13 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "transportation equ
 edited_at: 2025-01-08T11:01:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/femaron-felard'>Femaron Felard</a></div>
-	<div class='col-md-4'><a href='/macropedia/firebird-class-freighter'>Firebird Class Freighter</a></div>
-	<div class='col-md-4'><a href='/macropedia/fractal-shielding'>Fractal Shielding</a></div>
-</div>
-
-
 ## Overview
 
 One of the earliest Soup-capable freighters built, first developed prior to the formation of the [Terran Republic](/macropedia/terran-republic) by a consortium of [Imperial Core Worlds](/macropedia/imperial-core-worlds) companies and government agencies called the **Grup der Firebird**.

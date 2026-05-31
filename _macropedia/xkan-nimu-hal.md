@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/xervius-lundrel'>Xervius Lundrel</a></div>
-	<div class='col-md-4'><a href='/macropedia/xkan-nimu-hal'>X'Kan Nimu Hal</a></div>
-	<div class='col-md-4'><a href='/macropedia/yatharan-migration'>Yatharan Migration</a></div>
-</div>
-
-
 Most infamous of the criminal syndicates, born during the disastrous reign of [Balanar III](/macropedia/balanar-three), founded by elements of [Gruyonh Doyu](/macropedia/gruyonh-doyu) groups that had "gone sour", in the nomenclature of the security firms of the day.  The X'kan Nimu Hal specialized in smuggling and assassination, though they were not above lowlier crimes like kidnapping and blackmail.
 
 The precise organization of the X'kan Nimu Hal is still something of a mystery.  Neither the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) nor the security firms seemed to have much luck penetrating it, but it was believed by some that a great family was, in fact, behind the organization.  This seems a rather typical sort of conspiracy theory that grew out of a period that was seeing the Imperium rapidly fail, and the recently discovered reports by a few agents that did manage to penetrate the X'kan Nimu Hal indicate that they were just very good at what they did, and quickly gained enough money to buy, threaten or kill the necessary officials.

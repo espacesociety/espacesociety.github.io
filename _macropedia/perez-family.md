@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/peace-and-order-laws'>Peace And Order Laws</a></div>
-	<div class='col-md-4'><a href='/macropedia/perez-family'>Perez Family</a></div>
-	<div class='col-md-4'><a href='/macropedia/periphery'>Periphery</a></div>
-</div>
-
-
 It may seem strange now, but before and during the foundation of the empire the lines between family and corporation were much more blurred. While initially unrelated, restricted marriages over the course of the [First Decline](/chronology/first-decline) eventually made members related by blood. The Perez Family was one such family. Traditional Family history records that the "family" started as a corporation whose goal was to profit from forming colonies from Earth. My research deep into family archives uncovered that the corporation was specifically formed to generate an "Hispanic Colonization Movement." While it is not entirely clear what "Hispanic" means, it appears to refer to some Terran cultural group or groups, possibly a political region.
 
 The Perez Family was a dominant economic and political force in the [Fasantauri System](/macropedia/fasantauri-system) for much of the [First Decline](/chronology/first-decline). They continued to be so during the formation of the [Terran Republic](/macropedia/terran-republic). When FTL travel returned to the galaxy, the Perez family patriarchs made a point of reaching out and expanding the family's interests. This campaign spawned several politicians and other figures of note including [Janoos Welkred](/macropedia/janoos-welkred) and [Benita Perez](/macropedia/benita-perez). Unlike many other important families of the period they quickly formed close business and shipping ties with the [Imudring](/macropedia/imudring).

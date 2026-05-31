@@ -10,15 +10,6 @@ categories: ["chang singh authored", "imperium edition"]
 edited_at: 2025-01-08T10:50:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/emil-dabrian'>Emil Dabrian</a></div>
-	<div class='col-md-4'><a href='/macropedia/endyphad-konjrez'>Endyphad Konjrez</a></div>
-	<div class='col-md-4'><a href='/macropedia/engle-pogroms'>Engle Pogroms</a></div>
-</div>
-
-
-
-
 ## Introduction
 Undeclared war between Emperor Falther [Tawmerik](/macropedia/tawmerik-dynasty) and the [Imperial Congress](/macropedia/imperial-congress) during a period of economic and financial dislocation after the failure of the Imperial Index currency.
 

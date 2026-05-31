@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/telefreiber-warrior-ants'>Telefreiber Warrior Ants</a></div>
-	<div class='col-md-4'><a href='/macropedia/temba-two'>Temba Two</a></div>
-	<div class='col-md-4'><a href='/macropedia/terradom'>Terradom</a></div>
-</div>
-
-
 Temba II is often seen as the first emperor of the High Imperium. His reign is marked by large shifts in the Imperial Hierarchy. First among them was the divestment of Tawmerik family personnel and resource in many Imperial enterprises, shifting them into a questionable "Imperial Seal" form of ownership that shuttled profits into Tawmerik hands while placing the risk on the Imperium and its citizens. Second among his great changes was a great emplacement within the Imperium of members of other aristocratic families. While members of the Genetically Enhanced races were still not prominent, it finally became common enough to see them involved so as not to stir great commotion when encountered.
 
 Even more than his political agenda, Temba II had a cultural agenda. His pronounced belief was that there was a need to create a "galactic culture" to integrate all the human worlds into the Imperium. While entities like the [King Traih League](/macropedia/king-traih-league) balked at the implications, it certainly helped boost galactic trade. Temba founded the [Galactic Library Of Language And Culture](/macropedia/galactic-library-of-language-and-culture) and started [Ministry Of Cultural Development](/macropedia/ministry-of-cultural-development) to build arenas, theatres, and stadiums on many worlds.

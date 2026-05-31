@@ -10,13 +10,6 @@ categories: ["imperium equipment", "kvecton sharp authored", "transportation equ
 edited_at: 2025-01-08T10:43:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/disruptor-bomb'>Disruptor Bomb</a></div>
-	<div class='col-md-4'><a href='/macropedia/dkaden-works-m-eseries'>Dkaden Works M Eseries</a></div>
-	<div class='col-md-4'><a href='/macropedia/dreohedge-gevar'>Dreohedge Gevar</a></div>
-</div>
-
-
 ## Overview
 
 Series of multi-environment vehicles built by the  [Anthorph](/macropedia/anthorph) manufacturing conglomerate; D'kaden Works.

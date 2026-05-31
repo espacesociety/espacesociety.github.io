@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/mother-memory-core'>Mother'S Memory Core</a></div>
-	<div class='col-md-4'><a href='/macropedia/muridian-avengers'>Muridian Avengers</a></div>
-	<div class='col-md-4'><a href='/macropedia/muzgersuns-history'>Muzgersun'S Human History</a></div>
-</div>
-
-
 Despite what they have become, in the beginning the Muridian Avengers were, in fact, a rather docile branch of the [Kuberian Movement](/macropedia/kuberian-movement).  The notion of "vengeance" espoused by the early Muridians was little more than an idea of the individual cleansing his or herself of any spiritual blemishes.  It was an unremarkable movement, hardly worth a footnote, save that as the [Imperial Interregnum](/macropedia/imperial-interregnum) began, it oddly began to evolve into something quite different.
 
 A jihadic set of beliefs, possibly from some other, more unrestrained part of the [Kuberian Movement](/macropedia/kuberian-movement), entered the Muridian Avengers.  Now cleansing of the self could only be achieved by cleansing others, forcing them to see the error of their materialistic ways by acts of sabotage.  Soon sabotage itself evolved into acts of terrorism.  A new generation of Muridian leaders created a new battle cry "Through the blood of the sinful shall the innocent prevail!"

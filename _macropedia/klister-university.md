@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/king-traih-league'>King Traih League</a></div>
-	<div class='col-md-4'><a href='/macropedia/klister-university'>Klister University</a></div>
-	<div class='col-md-4'><a href='/macropedia/krezil-stock-market-crash'>The Krezil Stock Market Crash</a></div>
-</div>
-
-
 **Klister University** was once one of the most renowned centers of learning in the Imperium, with some of the best genetics laboratories in human space.  Located on the [Anthorph](/macropedia/anthorph) world, [Ju-majo](/star-systems/ju-majo), it was founded during the [Terran Republic](/macropedia/terran-republic).  With its specialization in various [Anthorph](/macropedia/anthorph) forms, it quickly became an important institution.
 
 Its great library was legendary for the vast amount of data on various life forms, Terran-native and extra-Terran.  Doctors, biologists, pharmaceutical chemists and the like soon swelled the ranks.  A great library filled with generations of research was compiled, surely one of the greatest natural science collections in the history of humanity.

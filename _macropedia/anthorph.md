@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/anotek-isotope-filtration'>Anotek Isotope Filtration</a></div>
-	<div class='col-md-4'><a href='/macropedia/anthorph'>Anthorph</a></div>
-	<div class='col-md-4'><a href='/macropedia/anthorph-free-state'>Anthorph Free State</a></div>
-</div>
-
-
 A derogatory slang term common throughout the core worlds especially during earlier periods. It is sloppily used to refer to beings which are capable of intelligent speech, but not baseline human. Generally there are two categories of such beings: Modified humans or creatures that are wholly or partially engineered animals. 
 
 Before the coming of the Imperium restored order to the worlds of men, the people of many worlds were greatly tested by the Creator. Forced to adapt to their new worlds, they resorted to intense genetic monitoring and improvement of their descendants. On some worlds, it was also necessary to modify some of the fauna to make it more useful and helpful to the human inhabitants. Thus these early courageous colonists brought honor to their families by passing the Creator's Test.

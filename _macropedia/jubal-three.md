@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/jubal-four'>Jubal I V</a></div>
-	<div class='col-md-4'><a href='/macropedia/jubal-three'>Jubal Three</a></div>
-	<div class='col-md-4'><a href='/macropedia/jubal-two'>Jubal I I </a></div>
-</div>
-
-
 Jubal Dabrian III came to the throne early in his life. Barely legally eligible to serve his uncle, [Balanar III](/macropedia/balanar-three), made him regent to rule in his place. As Balanar had been rather forced from the throne this put young Jubal in a rather precarious political position. However, as disadvantageous as his youth was feared to be, his youthful adaptability proved most useful to him.
 
 During his regency, Jubal spent a lot of time subtly downplaying the power of the throne. Rather than fight the legislations of the [Grand Reforms](/macropedia/grand-reforms), he adapted to work well within them. This had, for the Imperial family, the benefit of making his detractors seem overzealous. As they spent more energy on dividing and weakening the power of the Imperial Seat, they appeared increasingly foolish and thus the effort lost political momentum.

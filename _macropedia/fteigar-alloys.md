@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2025-01-08T11:05:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/frontier-scout-fleet'>Frontier Scout Fleet</a></div>
-	<div class='col-md-4'><a href='/macropedia/fteigar-alloys'>Fteigar Alloys</a></div>
-	<div class='col-md-4'><a href='/macropedia/fully-integrated-corporation'>Fully Integrated Corporation</a></div>
-</div>
-
-
 Although apocryphal stories within the field of material science attribute the 'Fteigar' title of these alloys to a mythical Dr. Fteiger, the name is actually a pronunciation of the acronym FTAGR. FTAGR stands for 'Fourier Tempered Annealing, Growth and Repositioning.' Although a detailed review of the procedure is beyond the scope of this article, a brief explanation is warranted.
 
 The Fteigar process is a process through which holographic interference patterns are used to manipulate laser light. That light is then used to manipulate the atoms of the materials being used to create the object. Since the holopatterns are artificially created, this can and often does give the designing engineer the ability to control the deposition and bonding of individual atoms and layers of atoms onto the surface of the target object. Initially used only to coat objects with alloys, the process was eventually improved to the point where it could create first micro-devices, then nano-devices, and finally large devices. 

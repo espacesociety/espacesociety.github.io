@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/sample-edition'>Sample Edition</a></div>
-	<div class='col-md-4'><a href='/macropedia/sedren-tawmerik'>Sedren Tawmerik</a></div>
-	<div class='col-md-4'><a href='/macropedia/serema-dabrian'>Serema Dabrian</a></div>
-</div>
-
-
 Sedren was the third Tawmerik to rule the Imperium, and it was during his reign that the notion of the return of the Republic was finally extinguished.  He was born a few months after Reth Tawmerik seized power, and was thus the first Emperor to spend his entire life in court.  From infancy he was raised as the ruler of humanity, given an education befitting a person who was to become the most powerful human being in known space.
 
 Sedren came to the throne at a sad and dangerous time.  His father Cezan had been assassinated just a few short months before by the anarchist [Mnovellii Collective](/macropedia/mnovellii-collective).  Reth II had quickly sunk into despair, and died shortly thereafter.  The young Emperor now found himself at the helm of an Empire still plagued by many republican elements who had seen the assassination of Cezan Tawmerik as a call to arms.

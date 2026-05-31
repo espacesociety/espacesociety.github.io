@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored", "combat equipment"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/odni-planyeti'>Odni Planyeti</a></div>
-	<div class='col-md-4'><a href='/macropedia/oneric-devices'>Oneric Devices</a></div>
-	<div class='col-md-4'><a href='/macropedia/oneric-devices-talk'>Oneric Devices Talk</a></div>
-</div>
-
-
 Fearsome weapons first developed by the [Liu-No-Ri Masters](/macropedia/liu-no-ri-masters), an offshoot of the [Dinzwar Gefera](/macropedia/dinzwar-gefera).  The essential principle was a
 psychic as well as physical attack, thus weakening a defender's mind as well
 as their body.  The [Liu-No-Ri](/macropedia/liu-no-ri-masters) used them to terrifying

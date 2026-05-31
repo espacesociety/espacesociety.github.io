@@ -10,13 +10,6 @@ categories: ["imperium equipment", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/r-ss-list'>R Ss List</a></div>
-	<div class='col-md-4'><a href='/macropedia/rainbow-maker'>Rainbow Maker</a></div>
-	<div class='col-md-4'><a href='/macropedia/ranks-and-titles-of-the-empire'>Ranks And Titles Of The Empire</a></div>
-</div>
-
-
 ## Overview
 
 "Shaking his **Rainbow maker**" became a catchphrase of the late Imperium. The rainbow maker class of personal weapons was a late development in the use of x-ray based laser technology. The nomenclature "rainbow maker" refers to how the weapon's beam reacts with [Anotek Isotope Filtration](/macropedia/anotek-isotope-filtration) equipped combatants. This seems implausible except that the Filtration was originally meant to protect against radiation. While nicknamed the "Rainbow Maker," these weapons are commonly called personal-class x-ray lasers.

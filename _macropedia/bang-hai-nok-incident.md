@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "cho minh tel ran authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/balanar-three'>Balanar Three</a></div>
-	<div class='col-md-4'><a href='/macropedia/bang-hai-nok-incident'>Bang Hai Nok Incident</a></div>
-	<div class='col-md-4'><a href='/macropedia/benita-perez'>Benita Perez</a></div>
-</div>
-
-
 During the [Frontier Rebellion](/macropedia/frontier-rebellion), racist Alearian Cultist forces descended upon the peaceful world of Nguyonh. The Nguyonhi people were righteously proud of the adaptations their ancestors had adopted to survive their otherwise inhospitable world, but the Cultists could not tolerate the existence of such an influential and wealthy *Anthorph* people. 
 
 Nguyonh was a dry, heavy, and hot world. Its people were highly modified from the human norm, and a separate subspecies had been created in the Nguyonh system's two asteroid belts. Nguyonh's polar monopole fountains provided an endless stream of wealth to its people. 

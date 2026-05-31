@@ -10,13 +10,6 @@ categories: ["imperium equipment", "boris helfstein authored", "transportation e
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/xenohistorical-artifacts'>Xenohistorical Artifacts</a></div>
-	<div class='col-md-4'><a href='/macropedia/xenophobe-picket'>Xenophobe Picket</a></div>
-	<div class='col-md-4'><a href='/macropedia/xervius-lundrel'>Xervius Lundrel</a></div>
-</div>
-
-
 ## Xenophobe Picket
 
 Xenophobe Pickets are small spacecraft, usually operating with a crew of less than 10, although they can pack in up to 50 marines for boarding purposes. Generally, X Ps only pack a few nuke missiles for armament. This is a holdover from the [Zenbrudi War](/macropedia/zenbrudi-war), which was the heyday for this particular type of craft. The XP was a clean systems' best line of defense against [Zenbrudi](/macropedia/zenbrudi) infection.

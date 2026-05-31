@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/tholoman-kresel-muthron'>Tholoman Kresel Muthron</a></div>
-	<div class='col-md-4'><a href='/macropedia/tithian-foundation'>Tithian Foundation</a></div>
-	<div class='col-md-4'><a href='/macropedia/trilis-incident'>Trilis Incident</a></div>
-</div>
-
-
 The Tithian Foundation is the name of three related but distinct organizations that spanned the entire Imperium period.
 
 ## The Early Tithian Foundation

@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/waudbect-society'>Waudbect Society</a></div>
-	<div class='col-md-4'><a href='/macropedia/wecing-doozium'>Wecing Doozium</a></div>
-	<div class='col-md-4'><a href='/macropedia/welgan-tyrox'>Welgan Tyrox</a></div>
-</div>
-
-
 [Imudring](/macropedia/imudring) trader who came closest of any member of that society to ever uniting those independent and widely distributed people.
 
 Imudring records are difficult (if not outright impossible) to obtain, but we know that Doozium was born during the last years of the reign of [Kanth Tawmerik](/macropedia/kanth-tawmerik).  He moved quickly up the ranks, achieving every Imudring trader's dream of his own ship after only ten years.  He amassed a rather huge fortune when he became the first merchant to begin shipping [Fteigar Alloys](/macropedia/fteigar-alloys).  With these riches he bought several more ships, and soon had become a major player in not only Imudring, but Imperium economics and politics as well.

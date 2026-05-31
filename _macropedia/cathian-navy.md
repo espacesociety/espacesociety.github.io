@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/canticle-of-hope'>Canticle Of Hope</a></div>
-	<div class='col-md-4'><a href='/macropedia/cathian-navy'>Cathian Navy</a></div>
-	<div class='col-md-4'><a href='/macropedia/celtainu'>Cel-Tainu Astrophysical Research Corporation</a></div>
-</div>
-
-
 The Cathian Navy had its roots in the early Imperium era, beginning as a defense force for the then-independent [Deltai-Cathian League](/macropedia/deltai-cathian-league).  In the tumultuous years of the early Imperium it quickly outgrew its role as a police force for Deltai-Cathian merchant vessels, becoming a semi-independent government all its own, with its own martial forms of governance, its own monetary system and private planetary holdings.  Its subservience to the [Deltai-Cathian League](/macropedia/deltai-cathian-league) came to be little more than a theoretical, and eventually ceremonial matter, and the Navy pursued its own interests.
 
 The Cathian Navy was also notable as one of the first human-norm groups to tap the vast potential of the [Anthorphs](/macropedia/anthorph).  After the [Bang Hai Nok Incident](/macropedia/bang-hai-nok-incident), the Navy opened its doors to Anthorph recruits, accommodating their unique physical and socio-religious needs.

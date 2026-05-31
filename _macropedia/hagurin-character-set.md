@@ -10,13 +10,6 @@ categories: ["cho minh tel ran authored", "imperium edition"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/guiermod-e-va-suit'>Guiermod E Va Suit</a></div>
-	<div class='col-md-4'><a href='/macropedia/hagurin-character-set'>Hagurin Character Set</a></div>
-	<div class='col-md-4'><a href='/macropedia/hans-richter-kuber'>Hans Richter Kuber</a></div>
-</div>
-
-
 As the standard for Imperial Documentation, the history of the Hagurin Characters deserves mention in this volume. While the number of original languages taken by the colonists from Terra is a matter for debate among scholars (estimates range from as few as 3 and as many as 100), the number of (distinct) languages in the Imperium is commonly noted at over 500. 
 
 Early in the Imperium's development, in fact even during the formation of the [Terran Republic](/macropedia/terran-republic), scholars and politicians like [Benita Perez](/macropedia/benita-perez) and [Janoos Welkred](/macropedia/janoos-welkred) were desperately searching for a reliable universal translation mechanism. This Test was finally passed by the scholar and mathematician Yamata Hagurai. Hagurai formulated a system of characters to represent all the concepts, themes, and grammatic logic in the languages he knew. Additionally, he embedded a subset of phonetic characters to be combined for the specific pronunciation of names and unique cultural concepts. Perhaps most inspired, he designed the characters to be easily read by machine. Hagurai's original set has only been modified slightly since then to include 4 new phonetic characters and almost 400 conceptual ones. 

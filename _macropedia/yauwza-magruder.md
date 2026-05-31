@@ -10,14 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/yatharan-migration'>Yatharan Migration</a></div>
-	<div class='col-md-4'><a href='/macropedia/yauwza-magruder'>Yauwza Magruder</a></div>
-	<div class='col-md-4'><a href='/macropedia/ying-clan'>Ying Clan</a></div>
-</div>
-
-
-
 ## The Birth
 As a scholar gifted in the exploration of history, I find it difficult to speak of a luminary in our day. However, the great "bothan" proverb says: "Great generals must keep a journal of their exploits for when they have gone one before us it will be the only thing to defend themselves from the backbiting of historians." (I have always thought it odd how a proverb could be so specific.)
 

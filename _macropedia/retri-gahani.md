@@ -10,13 +10,6 @@ categories: ["imperium edition", "cho minh tel ran authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/reth-tawmerik-i'>Reth Tawmerik I</a></div>
-	<div class='col-md-4'><a href='/macropedia/retri-gahani'>Retri Gahani</a></div>
-	<div class='col-md-4'><a href='/macropedia/rights-of-the-imperial-citizen'>Rights Of The Imperial Citizen</a></div>
-</div>
-
-
 Generally seen as an offshoot of the [Ascension Cults](/macropedia/ascension-cults), the Retri Gahani may have more import than the other religious movements of the Latter-Day Imperium. They are certainly making a large dent in the populations of many worlds, and, if you believe their preachings, they are expanding humanity's reach in the stars. As such, they are bridging the political gap between the [Ascension Cults](/macropedia/ascension-cults) and the [New Diaspora](/macropedia/new-diaspora).
 
 After the [Bloody Pretender's](/macropedia/femaron-felard) demise, the Imperium found itself in something of a wreck. Fighting erupts regularly on many worlds, and relations between the genetically enhanced and normal humans are quite strained. Into this mess appeared the first Retri Gahani. The typical Retri Gahani is a pre-adolescent normal or close to it child. The child claims to be the reincarnated soul of the [Gahanian Seers](/macropedia/gahanian-seers), sent to lead a group of people to a new world and a new life. It also claims that a new Dark Age is upon us, and that the only salvation from the coming strife is to follow them to a new world.

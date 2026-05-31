@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/genetically-enhanced-peoples'>Genetically Enhanced Peoples</a></div>
-	<div class='col-md-4'><a href='/macropedia/gesceamian-choent'>Gesceamian Choent</a></div>
-	<div class='col-md-4'><a href='/macropedia/ghen-changh-liu'>Ghen Changh Liu</a></div>
-</div>
-
-
 Though modeled on the [anthorph](/macropedia/anthorph) [Dinzwar Gefera](/macropedia/dinzwar-gefera), the Gesceamian Choent was a non-Anthorph security firm founded during the High Imperium.  During the [Imperial Interregnum](/macropedia/imperial-interregnum) it became a major political and military force, far exceeding the original notions of a security firm.  It was greatly strengthened when the [Bafiktuy Intelligence Directive](/macropedia/bafiktuy-intelligence-directive) was abandoned by Premiere [Durin Bonish](/macropedia/durin-bonish), and a number of BID operatives and functionaries joined the Gesceamian Choent.
 
 With this kind of expertise, and owing to the fact that anti-Anthorph bigotry was on the rise, the Gesceamian Choent's ascendancy was ensured.  It became the security force of choice for the noble families seeking to ensure their own power bases as the Imperium fragmented.  The Gesceamian Choent was able to offer the very finest in diplomatic, corporate and espionage services, not to mention military expertise for more troublesome spots where legal methods would not serve.  The Gesceamian Choent allowed the noble families to retain plausible deniability even as they entered into armed conflicts with each other and with the Imperium.  It must be noted that the Gesceamian Choent was not the only firm doing this, just the largest and most successful.

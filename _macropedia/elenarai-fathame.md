@@ -10,13 +10,6 @@ categories: ["imperium edition", "isaac taub authored"]
 edited_at: 2025-01-08T10:47:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/ekreiter-plague'>Ekreiter Plague</a></div>
-	<div class='col-md-4'><a href='/macropedia/elenarai-fathame'>Elenarai Fathame</a></div>
-	<div class='col-md-4'><a href='/macropedia/elkar-lemard'>Elkar Lemard</a></div>
-</div>
-
-
 The [Zophian Sisterhood](/macropedia/zophian-sisterhood) stood for peace and order, even in times of chaos. What is tragic is that the [Tawmerik Dynasty](/macropedia/tawmerik-dynasty) had a key role in its establishment. As that Dynasty was replaced by the less worthy [Dabrian Dynasty](/macropedia/dabrian-dynasty), the Sisterhood became the source of quiet resistance and an adherence to some of the more positive traits of the Tawmeriks.
 
 **Elenarai Fathame** was born to great privilege. There are those who contend that she herself was born in the line of Tawmerik succession. However, few at the time would so speculate for fear of what the Government might do to her. When analyzed in that light, it explains why the Most Honored Sister had a rebellious streak against the Imperium, and the font of her strength.

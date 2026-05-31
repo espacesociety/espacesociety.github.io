@@ -10,11 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "chang singh authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/akrath-multi-sensor-array'>Akrath Multi-Sensor Array</a></div>
-	<div class='col-md-4'><a href='/macropedia/alaerian-cult'>Alaerian Cult</a></div>
-	<div class='col-md-4'><a href='/macropedia/alistair-cormwite'>Alistair Cormwite</a></div>
-</div>
 The infamous Alaerian Cult, which was to have such an influence on the early years of the Imperium, began inauspiciously as a local religious cult on a minor frontier world. It was named after its founder, a mysterious man named Alaer, whose origins were completely unknown, though later scholars have gathered some circumstantial evidence that he was quite likely from Earth.
 
 The cult's basic doctrine was apocalyptic. Alaer taught that the Great Satan would come embodied as a ruler from a powerful family, who would unite humanity, and then use the masses to attack the faithful. Alaer claimed to be the Twentieth Incarnation of Yahweh, and thus the sworn enemy of the Great Satan. Alaer's cult might have amounted to nothing at all, save that a local magistrate who is said to have had a daughter fall in with Alaer's people, made capturing the self-proclaimed holy man his personal crusade. Alaer was finally captured, but as he was being interrogated, he managed to ingest poison. His last words were "Ten million suns will be turned to ashes by my might."

@@ -10,13 +10,6 @@ group: Macropedia
 categories: ["imperium edition", "isaac taub authored"]
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/alaerian-cult'>Alaerian Cult</a></div>
-	<div class='col-md-4'><a href='/macropedia/alistair-cormwite'>Alistair Cormwite</a></div>
-	<div class='col-md-4'><a href='/macropedia/anotek-isotope-filtration'>Anotek Isotope Filtration</a></div>
-</div>
-
-
 Full name: Krezil-Bafiktuanoj Alistair Cormwite d'Regzit
 
 Alistair Cormwite was known as the godfather of the Imperium. He was born into obscurity and as a youth worked as a day laborer on a minor world within the sphere of the [Imperial Core Worlds](/macropedia/imperial-core-worlds). As an impoverished lad he taught himself to read and then learned mathematics and accounting. He began a brief criminal life as a loan shark.

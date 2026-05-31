@@ -10,13 +10,6 @@ categories: ["imperium edition", "chang singh authored"]
 edited_at: 2026-05-31T10:00:00+00:00
 ---
 
-<div class='row'>
-	<div class='col-md-4'><a href='/macropedia/witi-emplaser-incident'>Witi Emplaser Incident</a></div>
-	<div class='col-md-4'><a href='/macropedia/woth'>Woth Of Voushniya</a></div>
-	<div class='col-md-4'><a href='/macropedia/xenohistorical-artifacts'>Xenohistorical Artifacts</a></div>
-</div>
-
-
 Also known as the Black Hand.  Probably the most talented and infamous geneticist in Imperium history, responsible for a vast library of knowledge on lifeform alteration, as well as a horrific catalogue of experiments on human subjects.
 
 Woth was born on [Voushniya](/macropedia/voushniya) at the height of that world's mass genetics experiments.  From an early age, she proved to be a scientific and mathematical prodigy, but also showed a dark side.  Surviving records from her childhood indicate mental illness, including monomania and borderline sociopathic tendencies.  Due to her singular genius, much effort was put into drug and genetic treatments which seemed to cure her.
