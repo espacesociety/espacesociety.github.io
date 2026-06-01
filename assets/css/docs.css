@@ -139,7 +139,7 @@ img { max-width: 100%; }
 @media screen {
   body {
     display: flex;
-    font-size: clamp(20px, 2vw, 24px);
+    font-size: clamp(17px, 1rem + 0.5vw, 21px);
     flex-direction: column;
   }
 }
