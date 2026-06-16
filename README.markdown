@@ -1,41 +1,69 @@
-## What is Octopress?
+# E-Space Society — The Macropedia
 
-Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
+This repository holds the source for **[espacesociety.org](https://espacesociety.org)**, the
+archive of the **Macropedia**: a fictitious, mock-encyclopedia of a far-future
+human society and the collapse of its Imperium.
 
-1. **Octopress sports a clean responsive theme** written in semantic HTML5, focused on readability and friendliness toward mobile devices.
-2. **Code blogging is easy and beautiful.** Embed code (with [Solarized](http://ethanschoonover.com/solarized) styling) in your posts from gists, jsFiddle or from your filesystem.
-3. **Third party integration is simple** with built-in support for Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.
-4. **It's easy to use.** A collection of rake tasks simplifies development and makes deploying a cinch.
-5. **Ships with great plug-ins** some original and others from the Jekyll community &mdash; tested and improved.
+The Everyspace Society began as a group of authors who met online and wanted to
+build a science-fiction milieu broad enough to span most of the genre's trends
+across time and space. Finding that the [Fudge RPG](http://www.fudgerpg.com/)
+lacked a science-fiction setting, they wrote one. The result is the Macropedia,
+written in the voice of Scholars at the fall of the Imperium attempting to
+summarize their society and the causes of its decline.
 
-**Note**: Octopress requires a minimum Ruby version of `1.9.3-p0`.
+The site is a [Jekyll](https://jekyllrb.com/) build of that wiki, migrated from
+its original PmWiki and Octopress incarnations and now published through GitHub
+Pages.
 
-## Documentation
+## Authors
 
-Check out [Octopress.org](http://octopress.org/docs) for guides and documentation.
-It should all apply to our current stable version (found in the `master`
-branch). If this is not the case, [please submit a
-fix to our docs repo](https://github.com/octopress/docs).
+The Macropedia was created by three authors, who hold its copyright jointly:
+
+- **Aaron Clausen**
+- **John Ughrin**
+- **Ben Wilson**
+
+Mateusz Czaplinski and others have contributed editorial and worldbuilding work
+over the years.
+
+## Copyright
+
+The Macropedia is **© Aaron Clausen, John Ughrin, and Ben Wilson**.
+
+Copyright is held **jointly and non-exclusively** by the three authors. Each
+author retains a non-exclusive copyright in the collective work and is free to
+use, reproduce, adapt, and license their own contributions and the shared
+material independently of the others, without any one author's consent being
+required and without granting any author exclusive rights over the whole.
+
+Some material carries additional or different terms:
+
+- Pages adapted from [Orion's Arm](http://www.orionsarm.com) are licensed under
+  Creative Commons
+  [Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/2.0/),
+  unless otherwise noted.
+- Pages authored by Ben Wilson are additionally available under Creative Commons
+  [Attribution-NonCommercial-NoDerivs](http://creativecommons.org/licenses/by-nc-nd/2.0/).
+
+See [main/copyrights.md](main/copyrights.md) for the canonical statement.
+
+## Building locally
+
+The site requires Ruby and [Bundler](https://bundler.io/).
+
+```sh
+bundle install        # install Jekyll and plugins
+bundle exec jekyll serve   # build and serve at http://localhost:4000
+```
+
+Content lives in collection and section directories at the repository root —
+most notably `_macropedia/` (the encyclopedia itself), alongside `chronology/`,
+`star-systems/`, `technology/`, and the other thematic sections. Layouts are in
+`_layouts/`, shared partials in `_includes/`, and site configuration in
+`_config.yml`.
 
 ## Contributing
 
-[![Build Status](https://travis-ci.org/imathis/octopress.png?branch=master)](https://travis-ci.org/imathis/octopress)
-
-We love to see people contributing to Octopress, whether it's a bug report, feature suggestion or a pull request. At the moment, we try to keep the core slick and lean, focusing on basic blogging needs, so some of your suggestions might not find their way into Octopress. For those ideas, we started a [list of 3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plugins), where you can link your own Octopress plug-in repositories. For the future, we're thinking about ways to easier add them into our main releases.
-
-
-## License
-(The MIT License)
-
-Copyright © 2009-2013 Brandon Mathis
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-#### If you want to be awesome.
-- Proudly display the 'Powered by Octopress' credit in the footer.
-- Add your site to the Wiki so we can watch the community grow.
+The setting has been largely dormant since 2010, but new authors are welcome.
+See [main/notes-for-contributers.md](main/notes-for-contributers.md) and
+[main/get-engaged.md](main/get-engaged.md) for how to get involved.
